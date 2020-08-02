@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"lastupdate": "2020-08-01T00:00:00Z",
+"lastupdate": "2020-08-02T00:00:00Z",
 "features": [
 	{"geometry":{"coordinates":[11.337024,48.209376],"type":"Point"},"properties":{"name":"Kleiner Wertstoffhof","osm_id":"52639214","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.323478,48.207922],"type":"Point"},"properties":{"name":"Kleiner Wertstoffhof","osm_id":"52639450","tag":{"amenity":"recycling","recycling:cardboard":"yes","recycling:glass":"yes","recycling:glass_bottles":"no","recycling:magazines":"yes","recycling:plastic":"no","recycling_type":"centre"}},"type":"Feature"},
@@ -36,7 +36,7 @@
 	{"geometry":{"coordinates":[11.284157,48.189633],"type":"Point"},"properties":{"name":"Gro\u00c3\u009fer Wertstoffhof Emmering","osm_id":"682264301","tag":{"addr:city":"Emmering","addr:country":"DE","addr:housenumber":"36","addr:postcode":"82275","addr:street":"Dachauer Stra\u00dfe","amenity":"recycling","opening_hours":"Tu,We 15:00-18:00;Th,Sa 08:00-12:00","recycling:aluminium":"yes","recycling:batteries":"yes","recycling_type":"centre","website":"https://www.awb-ffb.de/"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.331711,48.203795],"type":"Point"},"properties":{"osm_id":"750470639","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.264935,48.220282],"type":"Point"},"properties":{"name":"Kleiner Wertstoffhof","osm_id":"950009102","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.262962,48.179541],"type":"Point"},"properties":{"name":"Kleiner Wertstoff","osm_id":"950875833","ref":"Kleiner Wertstoffhof","tag":{"amenity":"recycling","location":"overground","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.262962,48.179541],"type":"Point"},"properties":{"osm_id":"950875833","ref":"Kleiner Wertstoffhof","tag":{"amenity":"recycling","location":"overground","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.299261,48.213379],"type":"Point"},"properties":{"osm_id":"1056977821","tag":{"amenity":"recycling","recycling:batteries":"no","recycling:books":"no","recycling:cartons":"yes","recycling:clothes":"no","recycling:electrical_appliances":"no","recycling:glass":"no","recycling:glass_bottles":"yes","recycling:green_waste":"no","recycling:paper":"yes","recycling:paper_packaging":"yes","recycling:plastic":"no","recycling:plastic_bottles":"no","recycling:plastic_packaging":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.316197,48.209095],"type":"Point"},"properties":{"osm_id":"1365829143","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.333664,48.198427],"type":"Point"},"properties":{"barrier":"gate","osm_id":"1517044985"},"type":"Feature"},
@@ -84,6 +84,7 @@
 	{"geometry":{"coordinates":[11.333415,48.198107],"type":"Point"},"properties":{"barrier":"gate","osm_id":"7705791302"},"type":"Feature"},
 	{"geometry":{"coordinates":[11.260157,48.180483],"type":"Point"},"properties":{"osm_id":"7732204769","tag":{"amenity":"recycling","operator":"Deutsches Rotes Kreuz","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.260066,48.180666],"type":"Point"},"properties":{"osm_id":"7732204770","tag":{"amenity":"recycling","operator":"Deutsches Rotes Kreuz","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.259436,48.181693],"type":"Point"},"properties":{"osm_id":"7732204771","tag":{"amenity":"recycling","operator":"Deutsches Rotes Kreuz","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[11.259436,48.181693],"type":"Point"},"properties":{"osm_id":"7732204771","tag":{"amenity":"recycling","operator":"Deutsches Rotes Kreuz","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.263056,48.17959],"type":"Point"},"properties":{"osm_id":"7775779217","tag":{"amenity":"recycling","location":"overground","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

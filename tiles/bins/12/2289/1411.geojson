@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"lastupdate": "2020-08-01T00:00:00Z",
+"lastupdate": "2020-08-02T00:00:00Z",
 "features": [
 	{"geometry":{"coordinates":[21.219874,48.701284],"type":"Point"},"properties":{"osm_id":"1380913040","tag":{"amenity":"recycling","recycling:scrap_metal":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[21.226787,48.721383],"type":"Point"},"properties":{"name":"Zbern\u00c3\u00bd dvor","osm_id":"1383028790","tag":{"amenity":"recycling","operator":"KOSIT a.s.","recycling:clothes":"yes","recycling:electrical_items":"yes","recycling:green_waste":"yes","recycling:hardcore":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:tyres":"yes","recycling_type":"centre","website":"https://www.kosit.sk/"}},"type":"Feature"},
@@ -480,7 +480,7 @@
 	{"geometry":{"coordinates":[21.253864,48.727632],"type":"Point"},"properties":{"osm_id":"5554671198","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[21.254693,48.727246],"type":"Point"},"properties":{"osm_id":"5554671210","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[21.255512,48.727433],"type":"Point"},"properties":{"osm_id":"5554671217","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[21.255527,48.727223],"type":"Point"},"properties":{"osm_id":"5554671218","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[21.255338,48.727165],"type":"Point"},"properties":{"osm_id":"5554671218","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[21.252054,48.726607],"type":"Point"},"properties":{"osm_id":"5554671298","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[21.253319,48.717369],"type":"Point"},"properties":{"osm_id":"5554920553","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[21.253722,48.716963],"type":"Point"},"properties":{"osm_id":"5554920554","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -636,7 +636,7 @@
 	{"geometry":{"coordinates":[21.256911,48.727575],"type":"Point"},"properties":{"osm_id":"5584219945","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[21.256194,48.726981],"type":"Point"},"properties":{"osm_id":"5584219946","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[21.256194,48.726851],"type":"Point"},"properties":{"osm_id":"5584219948","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[21.255761,48.726743],"type":"Point"},"properties":{"osm_id":"5584219949","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[21.255642,48.72667],"type":"Point"},"properties":{"osm_id":"5584219949","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[21.260164,48.717191],"type":"Point"},"properties":{"osm_id":"5584223184","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[21.254966,48.716472],"type":"Point"},"properties":{"osm_id":"5584426977","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[21.253489,48.716565],"type":"Point"},"properties":{"osm_id":"5584426987","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -1147,6 +1147,10 @@
 	{"geometry":{"coordinates":[21.257152,48.726152],"type":"Point"},"properties":{"osm_id":"7570208790","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[21.259926,48.722679],"type":"Point"},"properties":{"osm_id":"7638225548","tag":{"amenity":"waste_basket","material":"metal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[21.2418,48.725982],"type":"Point"},"properties":{"name":"Ekocharita","osm_id":"7747649592","tag":{"amenity":"recycling","description":"Kontajner ur\u010den\u00fd na zber darovan\u00e9ho textilu, \u0161atstva, obuvi a hra\u010diek.","email":"ekocharitavychod@gmail.com","opening_hours":"24/7","operator":"\u013dudia k \u013eu\u010fom n.o.","recycling:clothes":"yes","recycling:shoes":"yes","recycling:waste":"no","recycling_type":"container","website":"http://ekocharita.sk/","wheelchair":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[21.24816,48.728929],"type":"Point"},"properties":{"name":"Ekocharita","osm_id":"7747649593","tag":{"amenity":"recycling","description":"Kontajner ur\u010den\u00fd na zber darovan\u00e9ho textilu, \u0161atstva, obuvi a hra\u010diek.","email":"ekocharitavychod@gmail.com","opening_hours":"24/7","operator":"\u013dudia k \u013eu\u010fom n.o.","recycling:clothes":"yes","recycling:shoes":"yes","recycling:waste":"no","recycling_type":"container","website":"http://ekocharita.sk/","wheelchair":"yes"}},"type":"Feature"}
+	{"geometry":{"coordinates":[21.24816,48.728929],"type":"Point"},"properties":{"name":"Ekocharita","osm_id":"7747649593","tag":{"amenity":"recycling","description":"Kontajner ur\u010den\u00fd na zber darovan\u00e9ho textilu, \u0161atstva, obuvi a hra\u010diek.","email":"ekocharitavychod@gmail.com","opening_hours":"24/7","operator":"\u013dudia k \u013eu\u010fom n.o.","recycling:clothes":"yes","recycling:shoes":"yes","recycling:waste":"no","recycling_type":"container","website":"http://ekocharita.sk/","wheelchair":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[21.256903,48.727032],"type":"Point"},"properties":{"osm_id":"7775502984","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[21.255963,48.732264],"type":"Point"},"properties":{"osm_id":"7775895843","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[21.255303,48.731296],"type":"Point"},"properties":{"osm_id":"7775895845","tag":{"amenity":"recycling","opening_hours":"24/7","operator":"Ekocharita","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[21.255319,48.731372],"type":"Point"},"properties":{"osm_id":"7775895846","tag":{"amenity":"recycling","operator":"KOSIT, a.s.","recycling_type":"container"}},"type":"Feature"}
 ]
 }

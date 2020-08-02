@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"lastupdate": "2020-08-01T00:00:00Z",
+"lastupdate": "2020-08-02T00:00:00Z",
 "features": [
 	{"geometry":{"coordinates":[5.970169,44.061962],"type":"Point"},"properties":{"osm_id":"2150473809","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.900258,44.067819],"type":"Point"},"properties":{"name":"Tri S\u00c3\u00a9lectif","osm_id":"3143387248","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:cans":"yes","recycling:cartons":"yes","recycling:clothes":"no","recycling:glass":"yes","recycling:magazines":"yes","recycling:paper":"no","recycling:plastic":"yes"}},"type":"Feature"},
@@ -8,6 +8,9 @@
 	{"geometry":{"coordinates":[5.938826,44.025744],"type":"Point"},"properties":{"name":"Point de recyclage du Stade","osm_id":"4155129981","tag":{"addr:city":"Peyruis","addr:postcode":"04310","addr:street":"Avenue du Stade","amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.974288,44.065933],"type":"Point"},"properties":{"osm_id":"4183372940","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.93461,44.024624],"type":"Point"},"properties":{"osm_id":"5347480698","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.943815,44.032186],"type":"Point"},"properties":{"osm_id":"5347542894","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[5.943815,44.032186],"type":"Point"},"properties":{"osm_id":"5347542894","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.961369,44.036663],"type":"Point"},"properties":{"osm_id":"7776075076","tag":{"amenity":"recycling","location":"overground","recycling:newspaper":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.961356,44.036683],"type":"Point"},"properties":{"osm_id":"7776075077","tag":{"amenity":"recycling","location":"overground","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.961344,44.0367],"type":"Point"},"properties":{"osm_id":"7776075078","tag":{"amenity":"recycling","location":"overground","recycling:plastic_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"lastupdate": "2020-08-01T00:00:00Z",
+"lastupdate": "2020-08-02T00:00:00Z",
 "features": [
 	{"geometry":{"coordinates":[19.026774,47.45716],"type":"Point"},"properties":{"osm_id":"218147885","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.011664,47.403698],"type":"Point"},"properties":{"osm_id":"729790995","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
@@ -151,6 +151,9 @@
 	{"geometry":{"coordinates":[19.040796,47.428628],"type":"Point"},"properties":{"osm_id":"7474302446","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.04071,47.429085],"type":"Point"},"properties":{"osm_id":"7474302447","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.03955,47.440869],"type":"Point"},"properties":{"osm_id":"7567114805","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[19.009953,47.446189],"type":"Point"},"properties":{"osm_id":"7743816917","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[19.009953,47.446189],"type":"Point"},"properties":{"osm_id":"7743816917","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.029905,47.415613],"type":"Point"},"properties":{"osm_id":"7776254492","tag":{"amenity":"waste_basket","material":"metal","waste":"dog_excrement"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.032766,47.41433],"type":"Point"},"properties":{"osm_id":"7776254537","tag":{"amenity":"waste_basket","colour":"green","material":"plastic","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.032056,47.412937],"type":"Point"},"properties":{"osm_id":"7776254640","tag":{"amenity":"waste_basket","colour":"gray","material":"metal","waste":"trash"}},"type":"Feature"}
 ]
 }
