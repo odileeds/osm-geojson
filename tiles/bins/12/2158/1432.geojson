@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"lastupdate": "2020-08-02T00:00:00Z",
+"lastupdate": "2020-08-03T00:00:00Z",
 "features": [
 	{"geometry":{"coordinates":[9.732244,47.474466],"type":"Point"},"properties":{"osm_id":"618751758","tag":{"amenity":"recycling","location":"overground","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.724274,47.479234],"type":"Point"},"properties":{"osm_id":"623717327","tag":{"amenity":"recycling","recycling:batteries":"no","recycling:cans":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:scrap_metal":"no","recycling_type":"container"}},"type":"Feature"},
@@ -45,7 +45,7 @@
 	{"geometry":{"coordinates":[9.748648,47.473151],"type":"Point"},"properties":{"osm_id":"3846633905","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.732776,47.499448],"type":"Point"},"properties":{"osm_id":"3893992088","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.722665,47.487423],"type":"Point"},"properties":{"osm_id":"4114716630","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.715346,47.494696],"type":"Point"},"properties":{"osm_id":"4275558107","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.715346,47.494696],"type":"Point"},"properties":{"osm_id":"4275558107","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"no","recycling:glass_bottles":"yes","recycling:plastic":"no","recycling:plastic_bottles":"no","recycling:plastic_packaging":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.749729,47.507551],"type":"Point"},"properties":{"osm_id":"4377968590","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.741955,47.498398],"type":"Point"},"properties":{"osm_id":"4512151078","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.732313,47.503101],"type":"Point"},"properties":{"osm_id":"4678312060","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -89,6 +89,7 @@
 	{"geometry":{"coordinates":[9.720259,47.491558],"type":"Point"},"properties":{"osm_id":"7444991203","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.727836,47.5043],"type":"Point"},"properties":{"osm_id":"7500695336","tag":{"entrance":"main"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.726039,47.505964],"type":"Point"},"properties":{"name":"Recycling","osm_id":"7566735222","tag":{"access":"yes","addr:city":"Bregenz","addr:country":"AT","addr:housenumber":"47","addr:postcode":"6900","addr:street":"Strandbad Bregenz","amenity":"recycling","fee":"no","opening_hours":"24/7","operator":"Stadt Bregenz","recycling:batteries":"yes","recycling:cans":"yes","recycling:cardboard":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:scrap_metal":"yes","recycling:waste":"yes","recycling_type":"centre","sanitary_dump_station:basin":"yes","wheelchair":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.716993,47.492843],"type":"Point"},"properties":{"osm_id":"7762354983","tag":{"amenity":"recycling","recycling:green_waste":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[9.716993,47.492843],"type":"Point"},"properties":{"osm_id":"7762354983","tag":{"amenity":"recycling","recycling:green_waste":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.716335,47.493303],"type":"Point"},"properties":{"osm_id":"7777635452","tag":{"amenity":"recycling","recycling:cans":"no","recycling:clothes":"yes","recycling:glass_bottles":"no","recycling:plastic":"no","recycling:plastic_bottles":"no","recycling:plastic_packaging":"no","recycling_type":"container"}},"type":"Feature"}
 ]
 }
