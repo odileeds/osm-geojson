@@ -1,7 +1,9 @@
 {
 "type": "FeatureCollection",
-"lastupdate": "2020-08-03T00:00:00Z",
+"lastupdate": "2020-08-04T00:00:00Z",
 "features": [
-	{"geometry":{"coordinates":[13.775349,49.970877],"type":"Point"},"properties":{"osm_id":"1987680793","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[13.775349,49.970877],"type":"Point"},"properties":{"osm_id":"1987680793","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.71525,50.000656],"type":"Point"},"properties":{"osm_id":"7781898743","tag":{"amenity":"recycling","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.715076,50.00053],"type":"Point"},"properties":{"osm_id":"7781898744","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

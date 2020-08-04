@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"lastupdate": "2020-08-03T00:00:00Z",
+"lastupdate": "2020-08-04T00:00:00Z",
 "features": [
 	{"geometry":{"coordinates":[8.711511,46.120527],"type":"Point"},"properties":{"osm_id":"499451407","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:scrap_metal":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.784251,46.1227],"type":"Point"},"properties":{"osm_id":"2480671630","tag":{"amenity":"recycling","recycling:aluminium":"yes","recycling:batteries":"yes","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic_bottles":"yes"}},"type":"Feature"},
@@ -8,6 +8,9 @@
 	{"geometry":{"coordinates":[8.76647,46.108295],"type":"Point"},"properties":{"osm_id":"2860925993","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.766513,46.108306],"type":"Point"},"properties":{"osm_id":"2860925994","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.751429,46.076755],"type":"Point"},"properties":{"osm_id":"5505427292","tag":{"addr:street":"121-ASV Biegno_Maccagno","amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.704142,46.113531],"type":"Point"},"properties":{"osm_id":"5978910212","tag":{"amenity":"recycling"}},"type":"Feature"}
+	{"geometry":{"coordinates":[8.704142,46.113531],"type":"Point"},"properties":{"osm_id":"5978910212","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.768407,46.110735],"type":"Point"},"properties":{"osm_id":"7781787196","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.768407,46.110735],"type":"Point"},"properties":{"osm_id":"7781787196","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic_bottles":"yes","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.761854,46.103228],"type":"Point"},"properties":{"osm_id":"7781791037","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

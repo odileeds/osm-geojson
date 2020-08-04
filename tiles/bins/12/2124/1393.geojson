@@ -1,9 +1,9 @@
 {
 "type": "FeatureCollection",
-"lastupdate": "2020-08-03T00:00:00Z",
+"lastupdate": "2020-08-04T00:00:00Z",
 "features": [
 	{"geometry":{"coordinates":[6.68132,49.77043],"type":"Point"},"properties":{"osm_id":"78260102","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 07:00-20:00; Su,PH off","operator":"Zweckverband Abfallwirtschaft Region Trier","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.764476,49.727278],"type":"Point"},"properties":{"osm_id":"241872555","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.764476,49.727278],"type":"Point"},"properties":{"osm_id":"241872555","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.741871,49.766064],"type":"Point"},"properties":{"osm_id":"245394836","tag":{"amenity":"recycling","opening_hours":"Mo-Fr 07:00-20:00; Su,PH off","operator":"Zweckverband Abfallwirtschaft Region Trier","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.680926,49.752752],"type":"Point"},"properties":{"osm_id":"246522902","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 07:00-20:00; Su,PH off","operator":"Zweckverband Abfallwirtschaft Region Trier","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.680688,49.758539],"type":"Point"},"properties":{"osm_id":"247329103","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 07:00-20:00; Su,PH off","operator":"Zweckverband Abfallwirtschaft Region Trier","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -62,6 +62,7 @@
 	{"geometry":{"coordinates":[6.689331,49.746123],"type":"Point"},"properties":{"osm_id":"6416265929","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.681518,49.749947],"type":"Point"},"properties":{"osm_id":"6965779944","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.748689,49.730756],"type":"Point"},"properties":{"osm_id":"7284238344","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.688891,49.752278],"type":"Point"},"properties":{"osm_id":"7680986654","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[6.688891,49.752278],"type":"Point"},"properties":{"osm_id":"7680986654","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.764474,49.727268],"type":"Point"},"properties":{"osm_id":"7780652386","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

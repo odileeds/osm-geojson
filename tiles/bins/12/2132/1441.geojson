@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"lastupdate": "2020-08-03T00:00:00Z",
+"lastupdate": "2020-08-04T00:00:00Z",
 "features": [
 	{"geometry":{"coordinates":[7.45583,46.946647],"type":"Point"},"properties":{"osm_id":"258897036","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.436593,46.950559],"type":"Point"},"properties":{"osm_id":"317396242","tag":{"amenity":"recycling","location":"overground","opening_hours":"Mo-Sa 07:00-20:00","operator":"Stadt Bern","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:small_metal":"yes","recycling_type":"container","wheelchair":"no"}},"type":"Feature"},
@@ -98,7 +98,7 @@
 	{"geometry":{"coordinates":[7.442221,46.948965],"type":"Point"},"properties":{"osm_id":"3450677400","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.442282,46.949062],"type":"Point"},"properties":{"osm_id":"3450695594","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.437555,46.94677],"type":"Point"},"properties":{"osm_id":"3450758493","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.438927,46.950516],"type":"Point"},"properties":{"osm_id":"3471261297","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.438927,46.950516],"type":"Point"},"properties":{"osm_id":"3471261297","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.439683,46.950302],"type":"Point"},"properties":{"osm_id":"3471322293","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.390055,46.939684],"type":"Point"},"properties":{"osm_id":"3587671156","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.442,46.957525],"type":"Point"},"properties":{"osm_id":"3646449893","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -642,6 +642,19 @@
 	{"geometry":{"coordinates":[7.463743,46.930757],"type":"Point"},"properties":{"osm_id":"7572617543","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.418378,46.944608],"type":"Point"},"properties":{"osm_id":"7588711312","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.418356,46.944903],"type":"Point"},"properties":{"osm_id":"7588711330","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.432236,46.948723],"type":"Point"},"properties":{"osm_id":"7597777038","tag":{"amenity":"waste_basket","colour":"silver","material":"metal","operator":"Entsorgung Stadt Bern","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[7.432236,46.948723],"type":"Point"},"properties":{"osm_id":"7597777038","tag":{"amenity":"waste_basket","colour":"silver","material":"metal","operator":"Entsorgung Stadt Bern","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.438826,46.950436],"type":"Point"},"properties":{"osm_id":"7780786037","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.438707,46.95034],"type":"Point"},"properties":{"osm_id":"7780786038","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.438574,46.950242],"type":"Point"},"properties":{"osm_id":"7780786039","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.438474,46.950184],"type":"Point"},"properties":{"osm_id":"7780786040","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.438323,46.950116],"type":"Point"},"properties":{"osm_id":"7780786041","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.438178,46.950071],"type":"Point"},"properties":{"osm_id":"7780786042","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.43805,46.950036],"type":"Point"},"properties":{"osm_id":"7780786043","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.437875,46.950002],"type":"Point"},"properties":{"osm_id":"7780786044","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.437711,46.94997],"type":"Point"},"properties":{"osm_id":"7780786045","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.437727,46.950092],"type":"Point"},"properties":{"osm_id":"7780786046","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.43791,46.950129],"type":"Point"},"properties":{"osm_id":"7780786047","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.438071,46.950155],"type":"Point"},"properties":{"osm_id":"7780786048","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.43879,46.950186],"type":"Point"},"properties":{"osm_id":"7780786055","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
 ]
 }
