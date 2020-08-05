@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"lastupdate": "2020-08-04T00:00:00Z",
+"lastupdate": "2020-08-05T00:00:00Z",
 "features": [
 	{"geometry":{"coordinates":[8.872866,53.072604],"type":"Point"},"properties":{"osm_id":"171366630","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.856862,53.080927],"type":"Point"},"properties":{"osm_id":"242273822","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -80,7 +80,7 @@
 	{"geometry":{"coordinates":[8.78917,53.101421],"type":"Point"},"properties":{"osm_id":"1581099553","ref":"HUSUMER/FLENSBURGERSTRASSE","tag":{"amenity":"waste_basket","ref:tour":"HKB_2","waste_basket:excrement_bags":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.790957,53.102033],"type":"Point"},"properties":{"osm_id":"1581099554","ref":"OSTERFEUERBERG RING/AUGUSTSTRASSE","tag":{"amenity":"waste_basket","ref:tour":"HKB_2","waste_basket:excrement_bags":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.817795,53.083201],"type":"Point"},"properties":{"osm_id":"1601738672","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.868718,53.074736],"type":"Point"},"properties":{"osm_id":"1614531347","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.868718,53.074736],"type":"Point"},"properties":{"osm_id":"1614531347","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.79981,53.06805],"type":"Point"},"properties":{"name":"Hundekot","osm_id":"1630548564","ref":"Hermannstra\u00c3\u009fe / Neustadtscontrescarpe","tag":{"amenity":"waste_basket","waste_basket:excrement_bags":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.846891,53.068346],"type":"Point"},"properties":{"osm_id":"1630548568","ref":"Hamburger Stra\u00c3\u009fe / Weimarer Stra\u00c3\u009fe","tag":{"amenity":"waste_basket","waste_basket:excrement_bags":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.858056,53.068353],"type":"Point"},"properties":{"osm_id":"1630548578","ref":"Bodenwerder Str. / Detmolder Str.","tag":{"amenity":"waste_basket","waste_basket:excrement_bags":"yes"}},"type":"Feature"},
@@ -210,7 +210,7 @@
 	{"geometry":{"coordinates":[8.812316,53.069324],"type":"Point"},"properties":{"osm_id":"2941937620","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.798699,53.107592],"type":"Point"},"properties":{"osm_id":"3056172584","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.854052,53.091311],"type":"Point"},"properties":{"osm_id":"3063163966","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.861594,53.079645],"type":"Point"},"properties":{"osm_id":"3071128366","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.861594,53.079645],"type":"Point"},"properties":{"osm_id":"3071128366","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:small_appliances":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.801402,53.074408],"type":"Point"},"properties":{"osm_id":"3093959542","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.801349,53.074466],"type":"Point"},"properties":{"osm_id":"3093959543","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.796684,53.086607],"type":"Point"},"properties":{"osm_id":"3170079594","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -290,6 +290,7 @@
 	{"geometry":{"coordinates":[8.791584,53.099833],"type":"Point"},"properties":{"osm_id":"7724509183","tag":{"amenity":"waste_basket","material":"metal","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.859299,53.104889],"type":"Point"},"properties":{"osm_id":"7728268976","tag":{"amenity":"recycling","recycling:paper":"yes","recycling:plastic_packaging":"yes","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.789147,53.093761],"type":"Point"},"properties":{"name":"M\u00c3\u00bclleimer","osm_id":"7752006437","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.820486,53.075711],"type":"Point"},"properties":{"osm_id":"7760060042","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[8.820486,53.075711],"type":"Point"},"properties":{"osm_id":"7760060042","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.871914,53.08127],"type":"Point"},"properties":{"osm_id":"7784985811","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

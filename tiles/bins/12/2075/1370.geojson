@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"lastupdate": "2020-08-04T00:00:00Z",
+"lastupdate": "2020-08-05T00:00:00Z",
 "features": [
 	{"geometry":{"coordinates":[2.401105,51.044899],"type":"Point"},"properties":{"osm_id":"2639796658","tag":{"amenity":"recycling","recycling:aluminium":"yes","recycling:batteries":"no","recycling:beverage_cartons":"yes","recycling:cans":"yes","recycling:cardboard":"yes","recycling:clothes":"no","recycling:garden_waste":"no","recycling:glass":"no","recycling:glass_bottles":"no","recycling:green_waste":"no","recycling:paper":"yes","recycling:paper_packaging":"yes","recycling:plastic":"yes","recycling:plastic_bags":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling:scrap_metal":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.402888,51.050766],"type":"Point"},"properties":{"osm_id":"2683222554","tag":{"amenity":"recycling","recycling:glass":"no","recycling_type":"container"}},"type":"Feature"},
@@ -27,7 +27,7 @@
 	{"geometry":{"coordinates":[2.404161,51.041424],"type":"Point"},"properties":{"osm_id":"5703103299","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.40551,51.040824],"type":"Point"},"properties":{"osm_id":"5703103300","tag":{"addr:city":"Dunkerque","addr:housenumber":"55","addr:postcode":"59140","addr:street":"Boulevard Pierre Mend\u00e8s France","amenity":"recycling","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.405481,51.038555],"type":"Point"},"properties":{"osm_id":"5703103301","tag":{"addr:city":"Dunkerque","addr:postcode":"59240","addr:street":"Rue Marguerite Yourcenar","amenity":"recycling","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[2.405676,51.042688],"type":"Point"},"properties":{"osm_id":"5703103302","tag":{"addr:city":"Dunkerque","addr:postcode":"59240","addr:street":"Rue Jules Ferry","amenity":"recycling","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.40576,51.042724],"type":"Point"},"properties":{"osm_id":"5703103302","tag":{"addr:city":"Dunkerque","addr:postcode":"59240","addr:street":"Rue Jules Ferry","amenity":"recycling","recycling:glass":"yes","recycling:glass_bottles":"no","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.405987,51.043784],"type":"Point"},"properties":{"osm_id":"5703103303","tag":{"addr:city":"Dunkerque","addr:housenumber":"41","addr:postcode":"59240","addr:street":"Rue Chanzy","amenity":"recycling","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.409531,51.043555],"type":"Point"},"properties":{"osm_id":"5703103304","tag":{"addr:city":"Dunkerque","addr:housenumber":"27","addr:postcode":"59240","addr:street":"Rue Alsace Lorraine","amenity":"recycling","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.409934,51.044974],"type":"Point"},"properties":{"osm_id":"5703103305","tag":{"addr:city":"Dunkerque","addr:housenumber":"81","addr:postcode":"59240","addr:street":"Rue Elis\u00e9e Willaert","amenity":"recycling","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -86,6 +86,11 @@
 	{"geometry":{"coordinates":[2.38037,51.035241],"type":"Point"},"properties":{"osm_id":"7777402080","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.3809,51.035253],"type":"Point"},"properties":{"osm_id":"7777402081","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.379069,51.035924],"type":"Point"},"properties":{"osm_id":"7777480458","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[2.379043,51.035924],"type":"Point"},"properties":{"osm_id":"7777480459","tag":{"amenity":"recycling","recycling:bags":"no","recycling:cardboard":"yes","recycling:glass":"no","recycling:paper":"yes","recycling:plastic":"yes","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[2.379043,51.035924],"type":"Point"},"properties":{"osm_id":"7777480459","tag":{"amenity":"recycling","recycling:bags":"no","recycling:cardboard":"yes","recycling:glass":"no","recycling:paper":"yes","recycling:plastic":"yes","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.406164,51.041977],"type":"Point"},"properties":{"osm_id":"7784898436","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.405952,51.04161],"type":"Point"},"properties":{"osm_id":"7784898440","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.405268,51.042778],"type":"Point"},"properties":{"osm_id":"7784937693","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.405796,51.04203],"type":"Point"},"properties":{"osm_id":"7784966488","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.406138,51.042916],"type":"Point"},"properties":{"osm_id":"7784968771","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }
