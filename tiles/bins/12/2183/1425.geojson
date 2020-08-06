@@ -1,11 +1,11 @@
 {
 "type": "FeatureCollection",
-"lastupdate": "2020-08-05T00:00:00Z",
+"lastupdate": "2020-08-06T00:00:00Z",
 "features": [
 	{"geometry":{"coordinates":[11.952582,47.889225],"type":"Point"},"properties":{"osm_id":"366498820","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.937655,47.875829],"type":"Point"},"properties":{"osm_id":"448821484","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.911902,47.880702],"type":"Point"},"properties":{"osm_id":"570753600","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.917725,47.880797],"type":"Point"},"properties":{"osm_id":"616204568","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.917725,47.880797],"type":"Point"},"properties":{"osm_id":"616204568","tag":{"amenity":"recycling","opening_hours":"Mo-Fr 07:00-20:00; PH closed","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:shoes":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.929309,47.882793],"type":"Point"},"properties":{"name":"Gemeindlicher Bauhof","osm_id":"616241842","tag":{"amenity":"recycling","description":"Wertstoffsammelstelle","recycling_type":"container","website":"https://www.bruckmuehl.de/index.php?id=0,42"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.918471,47.879849],"type":"Point"},"properties":{"osm_id":"616638500","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.938209,47.877541],"type":"Point"},"properties":{"osm_id":"905684622","tag":{"amenity":"recycling","location":"overground","recycling:beverage_cartons":"yes","recycling:cans":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -18,7 +18,7 @@
 	{"geometry":{"coordinates":[11.866109,47.891699],"type":"Point"},"properties":{"name":"Wertstoffhof","osm_id":"5776550436","tag":{"addr:city":"Feldkirchen-Westerham","addr:housenumber":"39","addr:postcode":"83620","addr:street":"Breitensteinstra\u00dfe","amenity":"recycling","opening_hours":"Tu,Th 14:00-18:00; Sa 09:00-14:00","operator":"Gemeinde Feldkirchen-Westerham","operator:type":"community","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.91061,47.880783],"type":"Point"},"properties":{"osm_id":"6551352093","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.913797,47.878543],"type":"Point"},"properties":{"osm_id":"6551405179","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.915786,47.881119],"type":"Point"},"properties":{"osm_id":"6551524922","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.915805,47.881127],"type":"Point"},"properties":{"osm_id":"6551524922","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.91983,47.877921],"type":"Point"},"properties":{"osm_id":"6553766315","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.912218,47.881354],"type":"Point"},"properties":{"osm_id":"6561730227","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.942278,47.890054],"type":"Point"},"properties":{"osm_id":"6753056434","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
