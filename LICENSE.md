@@ -1,4 +1,4 @@
-The data within these sub-directories come from OpenStreetMap. OpenStreetMap® is open data, licensed under the Open Data Commons Open Database License (ODbL) by the OpenStreetMap Foundation (OSMF).
+The data within the `areas` and `tiles` sub-directories come from OpenStreetMap. OpenStreetMap® is open data, licensed under the Open Data Commons Open Database License (ODbL) by the OpenStreetMap Foundation (OSMF).
 
 ## ODC Open Database License (ODbL)
 
