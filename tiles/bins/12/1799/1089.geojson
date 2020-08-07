@@ -1,6 +1,5 @@
 {
 "type": "FeatureCollection",
-"lastupdate": "2020-08-06T00:00:00Z",
 "features": [
 	{"geometry":{"coordinates":[-21.856329,64.128282],"type":"Point"},"properties":{"osm_id":"286076599","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-21.869262,64.113551],"type":"Point"},"properties":{"osm_id":"326264844","tag":{"amenity":"recycling","operator":"Sorpa","recycling:magazines":"yes","recycling:newspaper":"yes","recycling:paper_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -328,6 +327,7 @@
 	{"geometry":{"coordinates":[-21.842514,64.108958],"type":"Point"},"properties":{"osm_id":"3869497408","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-21.873184,64.101775],"type":"Point"},"properties":{"osm_id":"4498289321","tag":{"amenity":"recycling","recycling:clothes":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-21.825191,64.097809],"type":"Point"},"properties":{"name":"Sorpa","osm_id":"6413984649","tag":{"addr:city":"Reykjav\u00edk","addr:postcode":"109","addr:street":"Jafnasel","amenity":"recycling","operator":"Sorpa","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"centre","website":"https://www.sorpa.is/"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-21.878444,64.106421],"type":"Point"},"properties":{"osm_id":"7754992789","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-21.878444,64.106421],"type":"Point"},"properties":{"osm_id":"7754992789","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-21.864107,64.126375],"type":"Point"},"properties":{"osm_id":"7791782490","tag":{"amenity":"recycling","recycling:glass":"no","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

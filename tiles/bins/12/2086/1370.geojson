@@ -1,9 +1,14 @@
 {
 "type": "FeatureCollection",
-"lastupdate": "2020-08-06T00:00:00Z",
 "features": [
 	{"geometry":{"coordinates":[3.39571,51.040614],"type":"Point"},"properties":{"osm_id":"7022078000","tag":{"amenity":"waste_basket","colour":"yellow","material":"metal","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.394297,51.042867],"type":"Point"},"properties":{"osm_id":"7024717488","tag":{"amenity":"waste_basket","colour":"green","material":"metal","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[3.406811,51.047172],"type":"Point"},"properties":{"osm_id":"7031619764","tag":{"amenity":"waste_basket","colour":"red","material":"metal","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[3.406811,51.047172],"type":"Point"},"properties":{"osm_id":"7031619764","tag":{"amenity":"waste_basket","colour":"red","material":"metal","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.387002,51.065773],"type":"Point"},"properties":{"osm_id":"7792071018","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.386809,51.065213],"type":"Point"},"properties":{"osm_id":"7792071019","tag":{"amenity":"recycling","operator":"ivio","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.386799,51.065187],"type":"Point"},"properties":{"osm_id":"7792071020","tag":{"amenity":"recycling","operator":"ivio","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.398959,51.040824],"type":"Point"},"properties":{"osm_id":"7792300701","tag":{"amenity":"recycling","operator":"ivio","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.394568,51.035569],"type":"Point"},"properties":{"osm_id":"7792521142","tag":{"amenity":"recycling","operator":"ivio","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.394627,51.035656],"type":"Point"},"properties":{"osm_id":"7792521143","tag":{"amenity":"recycling","operator":"ivio","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

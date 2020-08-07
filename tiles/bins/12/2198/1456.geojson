@@ -1,6 +1,5 @@
 {
 "type": "FeatureCollection",
-"lastupdate": "2020-08-06T00:00:00Z",
 "features": [
 	{"geometry":{"coordinates":[13.244842,46.0677],"type":"Point"},"properties":{"osm_id":"620401461","tag":{"amenity":"recycling","recycling:aluminium":"yes","recycling:beverage_cartons":"yes","recycling:cans":"yes","recycling:cardboard":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.245684,46.066106],"type":"Point"},"properties":{"osm_id":"620401462","tag":{"amenity":"recycling","location":"overground","recycling:aluminium":"yes","recycling:beverage_cartons":"yes","recycling:cans":"yes","recycling:cardboard":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -357,6 +356,8 @@
 	{"geometry":{"coordinates":[13.237332,46.067365],"type":"Point"},"properties":{"osm_id":"6807981706","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.236427,46.067389],"type":"Point"},"properties":{"osm_id":"6807981710","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.236192,46.050119],"type":"Point"},"properties":{"osm_id":"7616522941","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.236186,46.050197],"type":"Point"},"properties":{"osm_id":"7616522943","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[13.236186,46.050197],"type":"Point"},"properties":{"osm_id":"7616522943","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.211661,46.048892],"type":"Point"},"properties":{"osm_id":"7791568903","tag":{"addr:street":"Via Giovanni di Moravia","amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.211429,46.049015],"type":"Point"},"properties":{"osm_id":"7791568906","tag":{"amenity":"waste_basket","material":"metal"}},"type":"Feature"}
 ]
 }

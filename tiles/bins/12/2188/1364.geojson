@@ -1,6 +1,5 @@
 {
 "type": "FeatureCollection",
-"lastupdate": "2020-08-06T00:00:00Z",
 "features": [
 	{"geometry":{"coordinates":[12.345926,51.368474],"type":"Point"},"properties":{"osm_id":"321574871","tag":{"amenity":"recycling","location":"overground","recycling:clothes":"yes","recycling:glass":"no","recycling:glass_bottles":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.32216,51.381261],"type":"Point"},"properties":{"osm_id":"321688724","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -131,7 +130,7 @@
 	{"geometry":{"coordinates":[12.337234,51.369162],"type":"Point"},"properties":{"name":"Rohstoffhof Schkeuditz, Au\u00c3\u009fenstelle M\u00c3\u00b6ckern","osm_id":"2665692882","tag":{"amenity":"recycling","opening_hours":"Mo,Fr 09:00-14:00; Tu,Th 9:00-18:00","recycling:paper":"yes","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.376064,51.394435],"type":"Point"},"properties":{"osm_id":"2683221968","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.375844,51.353126],"type":"Point"},"properties":{"osm_id":"2704692980","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.315536,51.356715],"type":"Point"},"properties":{"osm_id":"3063934998","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.315536,51.356715],"type":"Point"},"properties":{"osm_id":"3063934998","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.388986,51.396424],"type":"Point"},"properties":{"osm_id":"3089181276","tag":{"amenity":"waste_basket","level":"1"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.389241,51.39582],"type":"Point"},"properties":{"osm_id":"3089367684","tag":{"amenity":"waste_basket","level":"1"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.391293,51.396475],"type":"Point"},"properties":{"osm_id":"3368446971","tag":{"amenity":"waste_basket"}},"type":"Feature"},
