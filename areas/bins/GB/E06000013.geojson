@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "2397808823", "name": "Household Waste Recycling Centre", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -0.4636444, 53.6921277 ] } },
+{ "type": "Feature", "properties": { "osm_id": "2440438969", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -0.6843569, 53.5661757 ] } },
+{ "type": "Feature", "properties": { "osm_id": "2450294218", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -0.6325463, 53.5845653 ] } },
+{ "type": "Feature", "properties": { "osm_id": "4081311851", "other_tags": "\"waste\"=>\"dog_excrement\",\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.4816238, 53.5501328 ] } },
+{ "type": "Feature", "properties": { "osm_id": "4728061352", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.4061568, 53.5748323 ] } },
+{ "type": "Feature", "properties": { "osm_id": "5309430117", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.6504273, 53.5903459 ] } },
+{ "type": "Feature", "properties": { "osm_id": "5313472921", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.5854473, 53.6549154 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6901013819", "other_tags": "\"amenity\"=>\"recycling\",\"recycling_type\"=>\"container\",\"recycling:shoes\"=>\"yes\",\"recycling:clothes\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -0.6341178, 53.5718123 ] } }
+]
+}
