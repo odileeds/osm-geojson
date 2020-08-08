@@ -4,7 +4,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "osm_id": "260753120", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -0.2055589, 51.5018235 ] } },
-{ "type": "Feature", "properties": { "osm_id": "280860049", "other_tags": "\"amenity\"=>\"recycling\",\"location\"=>\"overground\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -0.1588427, 51.4878709 ] } },
+{ "type": "Feature", "properties": { "osm_id": "280860049", "other_tags": "\"amenity\"=>\"recycling\",\"location\"=>\"overground\",\"recycling:cans\"=>\"yes\",\"recycling:clothes\"=>\"yes\",\"recycling:glass_bottles\"=>\"yes\",\"recycling:paper\"=>\"yes\",\"recycling:plastic\"=>\"no\",\"recycling:plastic_packaging\"=>\"yes\",\"recycling:shoes\"=>\"yes\",\"recycling:small_electrical_appliances\"=>\"yes\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -0.1588427, 51.4878709 ] } },
 { "type": "Feature", "properties": { "osm_id": "419776463", "other_tags": "\"amenity\"=>\"recycling\",\"location\"=>\"overground\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -0.2128192, 51.5131967 ] } },
 { "type": "Feature", "properties": { "osm_id": "862464756", "name": "Denyer Street Depot", "other_tags": "\"amenity\"=>\"recycling\",\"operator\"=>\"The Royal Borough of Kensignton and Chelsea\",\"recycling_type\"=>\"centre\"" }, "geometry": { "type": "Point", "coordinates": [ -0.1648266, 51.4937846 ] } },
 { "type": "Feature", "properties": { "osm_id": "1795157363", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -0.1942302, 51.4878414 ] } },
@@ -58,6 +58,6 @@
 { "type": "Feature", "properties": { "osm_id": "6877543105", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.1566417, 51.4926168 ] } },
 { "type": "Feature", "properties": { "osm_id": "7261919595", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.1589181, 51.4976717 ] } },
 { "type": "Feature", "properties": { "osm_id": "7618040070", "other_tags": "\"waste\"=>\"trash\",\"amenity\"=>\"waste_basket\",\"material\"=>\"metal\"" }, "geometry": { "type": "Point", "coordinates": [ -0.1740096, 51.4894141 ] } },
-{ "type": "Feature", "properties": { "osm_id": "7775672386", "other_tags": "\"amenity\"=>\"waste_disposal\"" }, "geometry": { "type": "Point", "coordinates": [ -0.1565706, 51.4923184 ] } }
+{ "type": "Feature", "properties": { "osm_id": "7775672386", "other_tags": "\"amenity\"=>\"recycling\",\"location\"=>\"overground\",\"recycling:paper\"=>\"yes\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -0.1565706, 51.4923184 ] } }
 ]
 }
