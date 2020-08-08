@@ -20,11 +20,27 @@
 		font: inherit;
 		vertical-align: baseline;
 	}
+	/* HTML5 display-role reset for older browsers */
+	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
+	body { line-height: 1em; }
+	ol, ul { list-style: none; }
+	blockquote, q { quotes: none; }
+	blockquote:before, blockquote:after, q:before, q:after { content: ''; content: none; }
+	table { border-collapse: collapse; border-spacing: 0; }
+	/* apply a natural box layout model to all elements */
+	*, *:before, *:after { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+	/* End of reset */
+
 	body { font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 16px; }
 	.main {
 		max-width: 1080px;
 		margin: 1em;
 	}
+	h1 { font-size: 1.3em; font-weight: bold; }
+	p { margin-top: 1em; }
+	table { width: 100%; }
+	table th { text-align: left; font-weight: bold; }
+	table td, table th { border: 1px solid #333333; padding: 0.25em 0.5em; margin-top: 1em; }
 	code,pre { font-family: monospace; color: #555555; background-color: #efefef; }
 	code { padding: 0.125em 0.25em; }
 	</style>
