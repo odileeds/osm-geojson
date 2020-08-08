@@ -44,17 +44,19 @@
 	table td, table th { border: 1px solid #333333; padding: 0.5em; }
 	code,pre { font-family: monospace; color: #555555; background-color: #efefef; }
 	code { padding: 0.125em 0.25em; }
+	.table-holder { max-width: 100%; overflow-x: auto; }
 	</style>
 </head>
 <body>
 
 	<div class="main">
 
-	<h1>Bins recorded on OpenStreetMap by area</h1>
-	<p>This is a table showing the number of public waste baskets (<code>amenity=waste_basket</code>) and recycling containers (<code>amenity=recycling</code>) recorded on <a href="https://www.openstreetmap.org/">OpenStreetMap</a> by area. It currently only includes UK local authority districts. The table is ordered by the total of waste baskets and recycling containers.</p>
+		<h1>Bins recorded on OpenStreetMap by area</h1>
+		<p>This is a table showing the number of public waste baskets (<code>amenity=waste_basket</code>) and recycling containers (<code>amenity=recycling</code>) recorded on <a href="https://www.openstreetmap.org/">OpenStreetMap</a> by area. It currently only includes UK local authority districts. The table is ordered by the total of waste baskets and recycling containers.</p>
 
+		<div class="table-holder">
 {% include_relative stats.txt %}
-
+		</div>
 	</div>
 
 </body>
