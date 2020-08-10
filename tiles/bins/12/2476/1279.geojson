@@ -95,7 +95,7 @@
 	{"geometry":{"coordinates":[37.622047,55.823033],"type":"Point"},"properties":{"osm_id":"6269262473","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[37.641507,55.822864],"type":"Point"},"properties":{"osm_id":"6270910059","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[37.661648,55.792272],"type":"Point"},"properties":{"osm_id":"6328385686","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[37.641175,55.823051],"type":"Point"},"properties":{"osm_id":"6364966653","tag":{"amenity":"recycling","operator":"\u0413\u0423\u041f \u042d\u043a\u043e\u0442\u0435\u0445\u043f\u0440\u043e\u043c","phone":"+7 (499) 238-82-05","recycling:glass":"yes","recycling:plastic":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[37.641175,55.823051],"type":"Point"},"properties":{"osm_id":"6364966653","tag":{"amenity":"recycling","location":"overground","operator":"\u0413\u0423\u041f \u042d\u043a\u043e\u0442\u0435\u0445\u043f\u0440\u043e\u043c","phone":"+7 (499) 238-82-05","recycling:glass":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[37.621949,55.823312],"type":"Point"},"properties":{"osm_id":"6442458401","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[37.622339,55.823166],"type":"Point"},"properties":{"osm_id":"6442458402","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[37.618423,55.82403],"type":"Point"},"properties":{"osm_id":"6451636286","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -212,6 +212,7 @@
 	{"geometry":{"coordinates":[37.67129,55.797795],"type":"Point"},"properties":{"osm_id":"7595251479","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[37.673944,55.79583],"type":"Point"},"properties":{"osm_id":"7595251527","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[37.666666,55.791334],"type":"Point"},"properties":{"osm_id":"7603190518","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[37.677343,55.782461],"type":"Point"},"properties":{"name":"AKB.ru","osm_id":"7725563209","tag":{"amenity":"recycling","recycling:car_batteries":"yes","recycling:car_batteries:description":"\u041f\u0440\u0438 \u0441\u0434\u0430\u0447\u0435 \u0441\u0442\u0430\u0440\u043e\u0433\u043e \u0430\u043a\u043a\u0443\u043c\u0443\u043b\u044f\u0442\u043e\u0440\u0430 \u0434\u0430\u044e\u0442 \u0434\u0435\u043d\u044c\u0433\u0438 \u0438\u043b\u0438 \u0441\u043a\u0438\u0434\u043a\u0443 \u043d\u0430 \u043d\u043e\u0432\u044b\u0439.","website":"https://akb.ru/utility/"}},"type":"Feature"}
+	{"geometry":{"coordinates":[37.677343,55.782461],"type":"Point"},"properties":{"name":"AKB.ru","osm_id":"7725563209","tag":{"amenity":"recycling","recycling:car_batteries":"yes","recycling:car_batteries:description":"\u041f\u0440\u0438 \u0441\u0434\u0430\u0447\u0435 \u0441\u0442\u0430\u0440\u043e\u0433\u043e \u0430\u043a\u043a\u0443\u043c\u0443\u043b\u044f\u0442\u043e\u0440\u0430 \u0434\u0430\u044e\u0442 \u0434\u0435\u043d\u044c\u0433\u0438 \u0438\u043b\u0438 \u0441\u043a\u0438\u0434\u043a\u0443 \u043d\u0430 \u043d\u043e\u0432\u044b\u0439.","website":"https://akb.ru/utility/"}},"type":"Feature"},
+	{"geometry":{"coordinates":[37.661995,55.787629],"type":"Point"},"properties":{"osm_id":"7798145537","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }
