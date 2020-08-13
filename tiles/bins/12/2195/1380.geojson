@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[12.972006,50.482481],"type":"Point"},"properties":{"osm_id":"1599121915","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.972006,50.482481],"type":"Point"},"properties":{"osm_id":"1599121915","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.974544,50.484697],"type":"Point"},"properties":{"osm_id":"1599121923","tag":{"amenity":"recycling","recycling:cans":"no","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.984186,50.479904],"type":"Point"},"properties":{"osm_id":"1644061729","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.976597,50.505735],"type":"Point"},"properties":{"osm_id":"1681539930","tag":{"amenity":"recycling","mapillary":"faUHVUsKnEjdy1jxdP6qzw","recycling_type":"container","survey:date":"2018-09-16"}},"type":"Feature"},
