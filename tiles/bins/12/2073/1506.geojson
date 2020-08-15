@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[2.205514,42.917033],"type":"Point"},"properties":{"osm_id":"306165829","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[2.209043,42.917612],"type":"Point"},"properties":{"osm_id":"500616573","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:engine_oil":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.209043,42.917612],"type":"Point"},"properties":{"osm_id":"500616573","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.217323,42.921758],"type":"Point"},"properties":{"osm_id":"500616604","tag":{"amenity":"recycling","recycling:glass_bottles":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.21979,42.920592],"type":"Point"},"properties":{"osm_id":"500616605","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:paper":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.235519,42.937255],"type":"Point"},"properties":{"osm_id":"599977718","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes"}},"type":"Feature"},
@@ -16,6 +16,11 @@
 	{"geometry":{"coordinates":[2.26862,42.927383],"type":"Point"},"properties":{"osm_id":"5834108476","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.22103,42.933691],"type":"Point"},"properties":{"osm_id":"5867695284","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.202897,42.883862],"type":"Point"},"properties":{"name":"D\u00c3\u00a9chetterie de Quillan","osm_id":"6153970962","tag":{"amenity":"recycling","operator":"Communaut\u00e9 de communes des Pyr\u00e9n\u00e9es Audoises","recycling:aluminium":"yes","recycling:batteries":"yes","recycling:cartons":"yes","recycling:electrical_appliances":"yes","recycling:green_waste":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:scrap_metal":"yes","recycling:wood":"yes","recycling_type":"centre"}},"type":"Feature"},
-	{"geometry":{"coordinates":[2.236732,42.937983],"type":"Point"},"properties":{"osm_id":"7805007242","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[2.236732,42.937983],"type":"Point"},"properties":{"osm_id":"7805007242","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.235606,42.93812],"type":"Point"},"properties":{"osm_id":"7813499679","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.235204,42.93762],"type":"Point"},"properties":{"osm_id":"7813555787","tag":{"amenity":"waste_basket","material":"concrete","waste":"cigarettes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.235573,42.937653],"type":"Point"},"properties":{"osm_id":"7813555788","tag":{"amenity":"waste_basket","material":"concrete"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.235551,42.937616],"type":"Point"},"properties":{"osm_id":"7813555789","tag":{"amenity":"waste_basket","material":"concrete"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.235203,42.938068],"type":"Point"},"properties":{"osm_id":"7813555790","tag":{"amenity":"waste_basket","material":"concrete"}},"type":"Feature"}
 ]
 }
