@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[15.773505,46.710623],"type":"Point"},"properties":{"name":"Wirtschaftshof Mureck","osm_id":"2941136208","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:scrap_metal":"yes","recycling_type":"centre"}},"type":"Feature"},
-	{"geometry":{"coordinates":[15.779221,46.708215],"type":"Point"},"properties":{"osm_id":"4441165392","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[15.779221,46.708215],"type":"Point"},"properties":{"osm_id":"4441165392","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"no","recycling:glass_bottles":"yes","recycling:scrap_metal":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.799254,46.71559],"type":"Point"},"properties":{"osm_id":"7466561970","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }
