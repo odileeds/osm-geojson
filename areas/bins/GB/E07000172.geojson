@@ -4,7 +4,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "osm_id": "206128331", "is_in": "Nottingham,Nottinghamshire,United Kingdom", "other_tags": "\"amenity\"=>\"recycling\",\"is_in:city\"=>\"Nottingham\",\"is_in:county\"=>\"Nottinghamshire\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2151455, 52.9295019 ] } },
-{ "type": "Feature", "properties": { "osm_id": "600199019", "other_tags": "\"amenity\"=>\"recycling\",\"recycling_type\"=>\"container\",\"recycling:glass_bottles\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.269539, 52.9336596 ] } },
+{ "type": "Feature", "properties": { "osm_id": "600199019", "other_tags": "\"amenity\"=>\"recycling\",\"operator\"=>\"Broxtowe Borough Council\",\"recycling:glass_bottles\"=>\"yes\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -1.269539, 52.9336543 ] } },
 { "type": "Feature", "properties": { "osm_id": "638828575", "other_tags": "\"amenity\"=>\"recycling\",\"operator\"=>\"Broxtowe Borough Council\",\"recycling:cans\"=>\"yes\",\"recycling:cardboard\"=>\"yes\",\"recycling:clothes\"=>\"yes\",\"recycling:glass_bottles\"=>\"yes\",\"recycling:paper\"=>\"yes\",\"recycling:plastic_bottles\"=>\"yes\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2493249, 52.9376171 ] } },
 { "type": "Feature", "properties": { "osm_id": "841849043", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2821737, 52.9904145 ] } },
 { "type": "Feature", "properties": { "osm_id": "1094702363", "other_tags": "\"amenity\"=>\"recycling\",\"operator\"=>\"Broxtowe Borough Council\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2297941, 52.9868571 ] } },
@@ -322,6 +322,21 @@
 { "type": "Feature", "properties": { "osm_id": "7804927761", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2485207, 52.934902 ] } },
 { "type": "Feature", "properties": { "osm_id": "7804927771", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2487567, 52.935005 ] } },
 { "type": "Feature", "properties": { "osm_id": "7805096973", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2531542, 52.9463442 ] } },
-{ "type": "Feature", "properties": { "osm_id": "7815957859", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2466492, 52.9287887 ] } }
+{ "type": "Feature", "properties": { "osm_id": "7815957859", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2466492, 52.9287887 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7820720694", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.270722, 52.9344348 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7820720703", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2707716, 52.9340468 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7820720712", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2706516, 52.9339199 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7820720716", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2703646, 52.9341361 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7820720717", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.270199, 52.9343745 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7820720718", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2699167, 52.9341179 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7820720736", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2721563, 52.9336438 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7820720766", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2702928, 52.9347638 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7820720767", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.27014, 52.9346029 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7820720839", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2695713, 52.9352657 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7820720861", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2685226, 52.9356513 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7820720866", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2680975, 52.934986 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7820720872", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2678011, 52.9346239 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7820720884", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2685883, 52.9338358 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7820720932", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2694111, 52.9335715 ] } }
 ]
 }

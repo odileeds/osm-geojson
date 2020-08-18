@@ -1,8 +1,8 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[18.713846,59.766821],"type":"Point"},"properties":{"name":"\u00c3\u0085tervinningsstation","osm_id":"1217150272","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[18.693348,59.763726],"type":"Point"},"properties":{"name":"\u00c3\u0085tervinningsstation","osm_id":"2611641279","tag":{"addr:city":"Norrt\u00e4lje","addr:country":"SE","addr:street":"Knutby torg","amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[18.694056,59.766051],"type":"Point"},"properties":{"name":"\u00c3\u0085tervinningsstation","osm_id":"2611642142","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"}
+	{"geometry":{"coordinates":[18.713846,59.766821],"type":"Point"},"properties":{"osm_id":"1217150272","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:paper":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[18.693348,59.763726],"type":"Point"},"properties":{"osm_id":"2611641279","tag":{"addr:city":"Norrt\u00e4lje","addr:country":"SE","addr:street":"Knutby torg","amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[18.694056,59.766051],"type":"Point"},"properties":{"osm_id":"2611642142","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes"}},"type":"Feature"}
 ]
 }
