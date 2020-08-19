@@ -9,3 +9,9 @@ The [tiles/bins/](tiles/bins/) subdirectory powers the [ODI Leeds OpenStreetMap 
 where `{LAD20CD}` is the ONS Local Authority District code as of May 2020, `{type}` is the type of feature (e.g. `bins`), `{z}` is the zoom level (only 12), and `{x}` & `{y}` are the [tile coordinates](https://wiki.openstreetmap.org/wiki/Slippy_map_tilenames).
 
 The data in this repo are created by code in our [OSM GeoJSON Tile Maker repo](https://github.com/odileeds/osm-geojson-tile-maker).
+
+## Statistics
+
+You can see area breakdowns by type:
+
+  * [Bin statistics](https://odileeds.github.io/osm-geojson/areas/bins/stats)
