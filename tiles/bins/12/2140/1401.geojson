@@ -11,8 +11,8 @@
 	{"geometry":{"coordinates":[8.11556,49.28063],"type":"Point"},"properties":{"osm_id":"4764151101","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.106673,49.298587],"type":"Point"},"properties":{"osm_id":"5250819730","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.127175,49.277135],"type":"Point"},"properties":{"osm_id":"7142815521","tag":{"amenity":"recycling","description":"Wei\u00df, Gr\u00fcn & Braun","operator":"Recyling Glas","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.130746,49.282396],"type":"Point"},"properties":{"osm_id":"7426461006","tag":{"amenity":"recycling","operator":"Glassammelcontainer","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.137659,49.285858],"type":"Point"},"properties":{"osm_id":"7428701933","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.130746,49.282396],"type":"Point"},"properties":{"osm_id":"7426461006","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.137659,49.285858],"type":"Point"},"properties":{"osm_id":"7428701933","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.107876,49.274511],"type":"Point"},"properties":{"osm_id":"7538413707","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.10587,49.282982],"type":"Point"},"properties":{"osm_id":"7580041337","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.114278,49.308062],"type":"Point"},"properties":{"osm_id":"7726166391","tag":{"amenity":"recycling","recycling:bottles":"yes"}},"type":"Feature"}
