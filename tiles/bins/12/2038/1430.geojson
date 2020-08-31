@@ -2,10 +2,11 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[-0.803151,47.629872],"type":"Point"},"properties":{"osm_id":"4729306307","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.833306,47.598583],"type":"Point"},"properties":{"osm_id":"5443225588","tag":{"amenity":"recycling","recycling:all_packaging":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.833306,47.598583],"type":"Point"},"properties":{"osm_id":"5443225588","tag":{"amenity":"recycling","opening_hours":"24/7","recycling:all_packaging":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container","waste":"no"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.838864,47.599986],"type":"Point"},"properties":{"osm_id":"7248114456","tag":{"amenity":"recycling","operator":"SISTO","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.838842,47.599942],"type":"Point"},"properties":{"osm_id":"7248114457","tag":{"amenity":"recycling","operator":"SISTO","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.838855,47.599962],"type":"Point"},"properties":{"osm_id":"7248114458","tag":{"amenity":"recycling","operator":"SISTO","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.838872,47.600006],"type":"Point"},"properties":{"osm_id":"7248114459","tag":{"amenity":"recycling","operator":"SISTO","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-0.838872,47.600006],"type":"Point"},"properties":{"osm_id":"7248114459","tag":{"amenity":"recycling","operator":"SISTO","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.833288,47.598642],"type":"Point"},"properties":{"osm_id":"7858837062","tag":{"amenity":"recycling","opening_hours":"24/7","operator":"Le Relais France","recycling:clothes":"yes","recycling:leather:goods":"yes","recycling:linen":"yes","recycling:shoes":"yes","recycling_type":"container","website":"https://www.lerelais.org/"}},"type":"Feature"}
 ]
 }
