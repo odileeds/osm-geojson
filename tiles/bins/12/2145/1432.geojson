@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[8.539804,47.515156],"type":"Point"},"properties":{"osm_id":"441076404","tag":{"amenity":"recycling","location":"underground","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.539804,47.515156],"type":"Point"},"properties":{"osm_id":"441076404","tag":{"amenity":"recycling","location":"underground","recycling:cans":"yes","recycling:glass":"yes","recycling:plastic":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.561874,47.480055],"type":"Point"},"properties":{"osm_id":"449208574","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:scrap_metal":"yes","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.582759,47.463405],"type":"Point"},"properties":{"name":"Alte Landstrasse","osm_id":"810779688","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:green_waste":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.583406,47.459986],"type":"Point"},"properties":{"name":"Hohrainlistrasse","osm_id":"1790254464","tag":{"amenity":"recycling","recycling:aluminium":"yes","recycling:cans":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
