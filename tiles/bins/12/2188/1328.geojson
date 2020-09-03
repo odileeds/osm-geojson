@@ -1,7 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[12.35215,53.27942],"type":"Point"},"properties":{"osm_id":"2401617742","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.35128,53.286327],"type":"Point"},"properties":{"osm_id":"6447315893","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[12.35215,53.27942],"type":"Point"},"properties":{"osm_id":"2401617742","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 07:00-20:00","operator":"AWU Logistik OPR GmbH","recycling:clothes":"yes","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.35128,53.286327],"type":"Point"},"properties":{"osm_id":"6447315893","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 07:00-20:00","operator":"AWU Logistik OPR GmbH","recycling:clothes":"yes","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.34976,53.290022],"type":"Point"},"properties":{"osm_id":"7868288565","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 07:00-20:00","operator":"AWU Logistik OPR GmbH","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.373095,53.281785],"type":"Point"},"properties":{"osm_id":"7868305036","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 07:00-20:00","operator":"AWU Logistik OPR GmbH","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }
