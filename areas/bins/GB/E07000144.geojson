@@ -26,7 +26,7 @@
 { "type": "Feature", "properties": { "osm_id": "1968080093", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ 1.3409358, 52.6261274 ] } },
 { "type": "Feature", "properties": { "osm_id": "1968080094", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ 1.3404152, 52.626147 ] } },
 { "type": "Feature", "properties": { "osm_id": "2143958881", "other_tags": "\"amenity\"=>\"recycling\",\"recycling:glass\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ 1.1101971, 52.7638318 ] } },
-{ "type": "Feature", "properties": { "osm_id": "2148870402", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ 1.5480183, 52.6412716 ] } },
+{ "type": "Feature", "properties": { "osm_id": "2148870402", "other_tags": "\"amenity\"=>\"recycling\",\"recycling:glass_bottles\"=>\"yes\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ 1.5480451, 52.6412842 ] } },
 { "type": "Feature", "properties": { "osm_id": "2153715623", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ 1.5475569, 52.638651 ] } },
 { "type": "Feature", "properties": { "osm_id": "2161073091", "other_tags": "\"amenity\"=>\"recycling\",\"recycling_type\"=>\"container\",\"recycling:paper\"=>\"yes\",\"recycling:bottles\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ 1.2558735, 52.7913868 ] } },
 { "type": "Feature", "properties": { "osm_id": "2171223860", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ 1.3517469, 52.7264126 ] } },
@@ -131,6 +131,10 @@
 { "type": "Feature", "properties": { "osm_id": "7711259959", "other_tags": "\"amenity\"=>\"recycling\",\"operator\"=>\"Broadland County Council\",\"recycling_type\"=>\"container\",\"recycling:glass_bottles\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ 1.2823501, 52.7001305 ] } },
 { "type": "Feature", "properties": { "osm_id": "7711259960", "other_tags": "\"amenity\"=>\"recycling\",\"operator\"=>\"Salvation Army\",\"recycling_type\"=>\"container\",\"recycling:clothes\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ 1.2823857, 52.7001361 ] } },
 { "type": "Feature", "properties": { "osm_id": "7876744953", "other_tags": "\"amenity\"=>\"recycling\",\"colour\"=>\"Green\",\"operator\"=>\"Broadland district council\",\"recycling:glass_bottles\"=>\"yes\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ 1.2925793, 52.7678608 ] } },
-{ "type": "Feature", "properties": { "osm_id": "7879978747", "other_tags": "\"amenity\"=>\"recycling\",\"operator\"=>\"Broadland District Coucnil\",\"recycling:paper\"=>\"yes\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ 1.2925565, 52.7678703 ] } }
+{ "type": "Feature", "properties": { "osm_id": "7879978747", "other_tags": "\"amenity\"=>\"recycling\",\"operator\"=>\"Broadland District Coucnil\",\"recycling:paper\"=>\"yes\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ 1.2925565, 52.7678703 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7880606016", "other_tags": "\"amenity\"=>\"waste_basket\",\"colour\"=>\"green\",\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ 1.5483595, 52.6411682 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7880606025", "other_tags": "\"amenity\"=>\"waste_basket\",\"colour\"=>\"red\",\"inscription\"=>\"No litter\",\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ 1.5475773, 52.6430659 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7880606026", "other_tags": "\"amenity\"=>\"waste_basket\",\"colour\"=>\"green\",\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ 1.547581, 52.6430817 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7880606048", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ 1.5451234, 52.656797 ] } }
 ]
 }
