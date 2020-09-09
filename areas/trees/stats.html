@@ -1,0 +1,63 @@
+---
+# front matter tells Jekyll to process Liquid
+---
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width" />
+	<title>Trees recorded on Open Street Map by area</title>
+	<style>
+	/* http://meyerweb.com/eric/tools/css/reset/ 
+	v2.0 | 20110126
+	License: none (public domain)
+	*/
+	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+		margin: 0;
+		padding: 0;
+		border: 0;
+		font-size: 100%;
+		font: inherit;
+		vertical-align: baseline;
+	}
+	/* HTML5 display-role reset for older browsers */
+	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
+	body { line-height: 1em; }
+	ol, ul { list-style: none; }
+	blockquote, q { quotes: none; }
+	blockquote:before, blockquote:after, q:before, q:after { content: ''; content: none; }
+	table { border-collapse: collapse; border-spacing: 0; }
+	/* apply a natural box layout model to all elements */
+	*, *:before, *:after { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+	/* End of reset */
+
+	body { font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 16px; }
+	.main {
+		width: 100%;
+		max-width: 1080px;
+		margin: 1em;
+	}
+	h1 { font-size: 1.3em; font-weight: bold; }
+	p { margin-top: 1em; line-height: 1.25em; }
+	table { width: 100%; margin-top: 1em; }
+	table th { text-align: left; font-weight: bold; }
+	table td, table th { border: 1px solid #333333; padding: 0.5em; }
+	code,pre { font-family: monospace; color: #555555; background-color: #efefef; }
+	code { padding: 0.125em 0.25em; }
+	.table-holder { max-width: 100%; overflow-x: auto; }
+	</style>
+</head>
+<body>
+
+	<div class="main">
+
+		<h1>Trees recorded on OpenStreetMap by area</h1>
+		<p>This is a table showing the number of trees (<code>natural=tree</code>) recorded on <a href="https://www.openstreetmap.org/">OpenStreetMap</a> by area. It currently only includes UK local authority districts. The table is ordered by the total trees.</p>
+
+		<div class="table-holder">
+{% include_relative stats.txt %}
+		</div>
+	</div>
+
+</body>
+</html>
