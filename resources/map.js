@@ -752,7 +752,7 @@ ready(function(){
 	ls = document.getElementById('layers');
 	
 	ls.addEventListener('change', function(e){
-		app.updateView({'l':e.currentTarge.value});
+		app.updateView({'l':e.currentTarget.value});
 	});
 	
 
