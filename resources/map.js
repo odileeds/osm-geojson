@@ -708,7 +708,7 @@ ready(function(){
 			}
 			ul += '<tr><td><strong>OSMID:</strong></td><td>'+mark.id+'</td></tr>'
 			ul = '<table class="small">'+ul+'</table>';
-			label = '<h3>'+title+'</h3>'+(str ? '<p>'+str+'</p>':'')+ul+'<p class="tiny">'+mark.lastupdate+'</p><p class="edit">Something not quite right? Help <a href="http://www.openstreetmap.org/edit?pk_campaign=odileeds-edit&node='+mark.id+'#map=17/'+mark.lat+'/'+mark.lon+'" target="_osm">improve the data on OpenStreetMap</a>.</p>';
+			label = '<h3>'+title+'</h3>'+(str ? '<p>'+str+'</p>':'')+ul+'<p class="edit">Something not quite right? Help <a href="http://www.openstreetmap.org/edit?pk_campaign=odileeds-edit&node='+mark.id+'#map=17/'+mark.lat+'/'+mark.lon+'" target="_osm">improve the data on OpenStreetMap</a>.</p>';
 			return {'label':label, 'options':{'className':cls,'icon':ico}};
 		}
 	}).addGeoJSONLayer('trees',{
