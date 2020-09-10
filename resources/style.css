@@ -173,6 +173,15 @@ input,select {
 	width: auto;
 }
 
+.tiny, .edit {
+	font-size: 0.8em;
+}
+.edit {
+	display: block;
+	border-top: 1px solid black;
+	padding-top: 0.25em;
+}
+
 @media only screen and (max-width: 700px) {
 	h1 { line-height: 1em; }
 }

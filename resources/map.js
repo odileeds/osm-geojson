@@ -668,7 +668,7 @@ ready(function(){
 			'OSMID':{'hide':true}
 		},
 		'popup': function(mark){
-			var str,cls,title,types,p,i,ts,ul;
+			var str,cls,title,types,p,i,ts,ul,label;
 			ul = '';
 			str = '';
 			cls = '';
@@ -708,7 +708,8 @@ ready(function(){
 			}
 			ul += '<tr><td><strong>OSMID:</strong></td><td>'+mark.id+'</td></tr>'
 			ul = '<table class="small">'+ul+'</table>';
-			return {'label':'<h3>'+title+'</h3>'+(str ? '<p>'+str+'</p>':'')+ul+'<p class="tiny">'+mark.lastupdate+'</p>', 'options':{'className':cls,'icon':ico}};
+			label = '<h3>'+title+'</h3>'+(str ? '<p>'+str+'</p>':'')+ul+'<p class="tiny">'+mark.lastupdate+'</p><p class="edit">Something not quite right? Help <a href="http://www.openstreetmap.org/edit?pk_campaign=odileeds-edit&node='+mark.id+'#map=17/'+mark.lat+'/'+mark.lon+'" target="_osm">improve the data on OpenStreetMap</a>.</p>';
+			return {'label':label, 'options':{'className':cls,'icon':ico}};
 		}
 	}).addGeoJSONLayer('trees',{
 		'src': 'https://odileeds.github.io/osm-geojson/tiles/trees/{z}/{x}/{y}.geojson',
@@ -720,7 +721,7 @@ ready(function(){
 			'OSMID':{'hide':true}
 		},
 		'popup': function(mark){
-			var str,cls,title,types,p,i,ts,ul;
+			var str,cls,title,types,p,i,ts,ul,label;
 			ul = '';
 			str = '';
 			cls = '';
@@ -744,7 +745,8 @@ ready(function(){
 			}
 			ul += '<tr><td><strong>OSMID:</strong></td><td>'+mark.id+'</td></tr>'
 			ul = '<table class="small">'+ul+'</table>';
-			return {'label':'<h3>'+title+'</h3>'+(str ? '<p>'+str+'</p>':'')+ul+'<p class="tiny">'+mark.lastupdate+'</p>', 'options':{'className':cls,'icon':ico}};
+			label = '<h3>'+title+'</h3>'+(str ? '<p>'+str+'</p>':'')+ul+'<p class="tiny">'+mark.lastupdate+'</p><p class="edit">Something not quite right? Help <a href="http://www.openstreetmap.org/edit?pk_campaign=odileeds-edit&node='+mark.id+'#map=17/'+mark.lat+'/'+mark.lon+'" target="_osm">improve the data on OpenStreetMap</a>.</p>';
+			return {'label':label, 'options':{'className':cls,'icon':ico}};
 		}
 	});
 	app.init();
