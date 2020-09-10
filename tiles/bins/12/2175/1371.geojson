@@ -1,6 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
+	{"geometry":{"coordinates":[11.238076,50.975011],"type":"Point"},"properties":{"osm_id":"265668642","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.222011,50.985828],"type":"Point"},"properties":{"osm_id":"289891863","tag":{"amenity":"recycling","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.223924,50.987325],"type":"Point"},"properties":{"osm_id":"289891864","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:glass:colour":"white","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.223945,50.987326],"type":"Point"},"properties":{"osm_id":"289891865","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:glass:colour":"green;brown","recycling_type":"container"}},"type":"Feature"},
@@ -9,8 +10,11 @@
 	{"geometry":{"coordinates":[11.218519,50.985885],"type":"Point"},"properties":{"osm_id":"290005619","tag":{"addr:city":"Grammetal","addr:country":"DE","addr:street":"An der Eisenbahn","addr:suburb":"Hopfgarten","amenity":"recycling","recycling:paper":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.197003,50.978448],"type":"Point"},"properties":{"osm_id":"422024584","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.219625,50.985915],"type":"Point"},"properties":{"osm_id":"1154245033","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.176598,50.958547],"type":"Point"},"properties":{"osm_id":"4011922088","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.232548,50.962705],"type":"Point"},"properties":{"osm_id":"6314579644","tag":{"amenity":"waste_disposal","waste":"organic"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.235668,50.963269],"type":"Point"},"properties":{"osm_id":"6314579678","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.233371,50.967433],"type":"Point"},"properties":{"osm_id":"6314581018","tag":{"amenity":"recycling","operator":"Texaid Collection GmbH Apolda","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.234312,50.965198],"type":"Point"},"properties":{"osm_id":"6314581028","tag":{"amenity":"waste_disposal","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.233669,50.965572],"type":"Point"},"properties":{"osm_id":"6314581050","tag":{"amenity":"recycling","operator":"Malteser","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.233962,50.960867],"type":"Point"},"properties":{"osm_id":"6314581453","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.233419,50.960962],"type":"Point"},"properties":{"osm_id":"6314581762","tag":{"amenity":"recycling","operator":"sgi Service-Gesellschaft Jena","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"}

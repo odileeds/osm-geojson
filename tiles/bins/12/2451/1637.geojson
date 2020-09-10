@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[35.501892,33.877952],"type":"Point"},"properties":{"osm_id":"359935684","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[35.492775,33.899737],"type":"Point"},"properties":{"osm_id":"7830564585","tag":{"amenity":"recycling","name:en":"Clothes recycling drop off."}},"type":"Feature"}
+	{"geometry":{"coordinates":[35.492775,33.899737],"type":"Point"},"properties":{"osm_id":"7830564585","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

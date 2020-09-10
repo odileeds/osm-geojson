@@ -1,6 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[11.643298,53.079139],"type":"Point"},"properties":{"osm_id":"1488265018","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"}
+	{"geometry":{"coordinates":[11.643298,53.079139],"type":"Point"},"properties":{"osm_id":"1488265018","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 08:00-20:00","operator":"Landkreis Prignitz","recycling:clothes":"yes","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.603509,53.069789],"type":"Point"},"properties":{"osm_id":"7864706391","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 08:00-20:00","operator":"Landkreis Prignitz","recycling:cardboard":"yes","recycling:glass":"no","recycling:glass_bottles":"yes","recycling:magazines":"yes","recycling:newspaper":"yes","recycling:paper":"yes","recycling:paper_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.620619,53.082615],"type":"Point"},"properties":{"osm_id":"7864724748","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 08:00-20:00","operator":"Landkreis Prignitz","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.655319,53.11271],"type":"Point"},"properties":{"osm_id":"7864737785","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 08:00-20:00","operator":"Landkreis Prignitz","recycling:cardboard":"yes","recycling:glass":"no","recycling:glass_bottles":"yes","recycling:magazines":"yes","recycling:newspaper":"yes","recycling:paper":"yes","recycling:paper_packaging":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

@@ -3,11 +3,13 @@
 "name": "points",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "osm_id": "420692652", "other_tags": "\"waste\"=>\"trash\",\"amenity\"=>\"waste_disposal\",\"operator\"=>\"British Waterways\"" }, "geometry": { "type": "Point", "coordinates": [ -2.2782722, 52.3377983 ] } },
 { "type": "Feature", "properties": { "osm_id": "702263653", "other_tags": "\"amenity\"=>\"recycling\",\"recycling:cans\"=>\"yes\",\"recycling:glass\"=>\"yes\",\"recycling:paper\"=>\"yes\",\"recycling:clothes\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -2.2595329, 52.4012721 ] } },
 { "type": "Feature", "properties": { "osm_id": "828759301", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.3118134, 52.375018 ] } },
 { "type": "Feature", "properties": { "osm_id": "828759310", "other_tags": "\"waste\"=>\"dog_excrement\",\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.3105892, 52.373818 ] } },
 { "type": "Feature", "properties": { "osm_id": "828759320", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.3106041, 52.3739038 ] } },
 { "type": "Feature", "properties": { "osm_id": "828759329", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.3169344, 52.3768553 ] } },
+{ "type": "Feature", "properties": { "osm_id": "2517278653", "other_tags": "\"amenity\"=>\"waste_disposal\"" }, "geometry": { "type": "Point", "coordinates": [ -2.2523866, 52.3821805 ] } },
 { "type": "Feature", "properties": { "osm_id": "3731557944", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.3154315, 52.3755816 ] } },
 { "type": "Feature", "properties": { "osm_id": "4280243697", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.2411994, 52.3846396 ] } }
 ]

@@ -4,6 +4,9 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "osm_id": "18968642", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -1.123978, 52.6681513 ] } },
+{ "type": "Feature", "properties": { "osm_id": "181294959", "other_tags": "\"amenity\"=>\"pharmacy\"" }, "geometry": { "type": "Point", "coordinates": [ -1.0866897, 52.6265572 ] } },
+{ "type": "Feature", "properties": { "osm_id": "181294962", "other_tags": "\"amenity\"=>\"place_of_worship\",\"religion\"=>\"christian\",\"denomination\"=>\"mormon\"" }, "geometry": { "type": "Point", "coordinates": [ -1.0871729, 52.6276309 ] } },
+{ "type": "Feature", "properties": { "osm_id": "181294963", "name": "St Paul's", "other_tags": "\"amenity\"=>\"place_of_worship\",\"religion\"=>\"christian\",\"wikidata\"=>\"Q20035368\",\"denomination\"=>\"catholic\"" }, "geometry": { "type": "Point", "coordinates": [ -1.087559, 52.6269357 ] } },
 { "type": "Feature", "properties": { "osm_id": "195869510", "other_tags": "\"amenity\"=>\"recycling\",\"disused\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.1005586, 52.6396032 ] } },
 { "type": "Feature", "properties": { "osm_id": "297006135", "other_tags": "\"amenity\"=>\"recycling\",\"recycling_type\"=>\"container\",\"recycling:clothes\"=>\"yes\",\"recycling:cardboard\"=>\"yes\",\"recycling:glass_bottles\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.1203302, 52.6191375 ] } },
 { "type": "Feature", "properties": { "osm_id": "335750502", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -1.1205838, 52.5987769 ] } },
@@ -39,6 +42,7 @@
 { "type": "Feature", "properties": { "osm_id": "4874557658", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.1539267, 52.6296974 ] } },
 { "type": "Feature", "properties": { "osm_id": "4874557662", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.178466, 52.6316475 ] } },
 { "type": "Feature", "properties": { "osm_id": "4874557672", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.1797266, 52.627913 ] } },
+{ "type": "Feature", "properties": { "osm_id": "5052121333", "other_tags": "\"amenity\"=>\"waste_disposal\"" }, "geometry": { "type": "Point", "coordinates": [ -1.0694407, 52.6521552 ] } },
 { "type": "Feature", "properties": { "osm_id": "5435406499", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.1134777, 52.6367382 ] } },
 { "type": "Feature", "properties": { "osm_id": "6103033269", "other_tags": "\"waste\"=>\"trash\",\"amenity\"=>\"waste_basket\",\"waste_1\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ -1.1576632, 52.6756468 ] } },
 { "type": "Feature", "properties": { "osm_id": "6172378282", "other_tags": "\"amenity\"=>\"waste_basket\",\"backrest\"=>\"yes\",\"material\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.1344153, 52.624337 ] } },

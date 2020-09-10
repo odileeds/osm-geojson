@@ -4,6 +4,8 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "osm_id": "28249581", "name": "Cheshire County Council Household Waste Recycing Site", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -3.0652342, 53.2981352 ] } },
+{ "type": "Feature", "properties": { "osm_id": "139835657", "other_tags": "\"power\"=>\"tower\"" }, "geometry": { "type": "Point", "coordinates": [ -2.9578487, 53.271704 ] } },
+{ "type": "Feature", "properties": { "osm_id": "139835659", "other_tags": "\"power\"=>\"tower\"" }, "geometry": { "type": "Point", "coordinates": [ -2.9543645, 53.2717585 ] } },
 { "type": "Feature", "properties": { "osm_id": "248869952", "name": "Ellesmere Port Household Waste Recycling Centre", "other_tags": "\"phone\"=>\"+44 151 355 9917\",\"amenity\"=>\"recycling\",\"website\"=>\"https:\/\/www.cheshirewestandchester.gov.uk\/waste_and_recycling.aspx\",\"addr:city\"=>\"Ellesmere Port\",\"addr:street\"=>\"Garth Road\",\"addr:postcode\"=>\"CH65 4LB\"" }, "geometry": { "type": "Point", "coordinates": [ -2.8725189, 53.278955 ] } },
 { "type": "Feature", "properties": { "osm_id": "312841321", "other_tags": "\"amenity\"=>\"recycling\",\"recycling:glass\"=>\"yes\",\"recycling:paper\"=>\"yes\",\"recycling:clothes\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -2.5769725, 53.2614648 ] } },
 { "type": "Feature", "properties": { "osm_id": "326151041", "other_tags": "\"amenity\"=>\"recycling\",\"recycling:glass\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -2.7715198, 53.0179664 ] } },
@@ -22,6 +24,7 @@
 { "type": "Feature", "properties": { "osm_id": "3338289500", "other_tags": "\"amenity\"=>\"recycling\",\"recycling:cans\"=>\"yes\",\"recycling:glass\"=>\"yes\",\"recycling:paper\"=>\"yes\",\"recycling:clothes\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -2.5103466, 53.2633847 ] } },
 { "type": "Feature", "properties": { "osm_id": "3360607317", "other_tags": "\"amenity\"=>\"recycling\",\"recycling:cans\"=>\"yes\",\"recycling_type\"=>\"plastic\",\"recycling:glass\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -2.5182486, 53.2228003 ] } },
 { "type": "Feature", "properties": { "osm_id": "3733047166", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.7219952, 53.2977616 ] } },
+{ "type": "Feature", "properties": { "osm_id": "3734850526", "highway": "crossing", "other_tags": "\"crossing\"=>\"uncontrolled\",\"tactile_paving\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -2.9144753, 53.1558614 ] } },
 { "type": "Feature", "properties": { "osm_id": "4374901291", "barrier": "gate" }, "geometry": { "type": "Point", "coordinates": [ -2.5080621, 53.2665714 ] } },
 { "type": "Feature", "properties": { "osm_id": "4641862126", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.605671, 53.2306018 ] } },
 { "type": "Feature", "properties": { "osm_id": "5976124574", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.6869674, 53.1228061 ] } },
@@ -34,6 +37,6 @@
 { "type": "Feature", "properties": { "osm_id": "7492664751", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.5400057, 53.189264 ] } },
 { "type": "Feature", "properties": { "osm_id": "7492728785", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.5374596, 53.1867259 ] } },
 { "type": "Feature", "properties": { "osm_id": "7613388107", "other_tags": "\"waste\"=>\"dog_excrement\",\"amenity\"=>\"waste_basket\",\"waste_basket\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -2.927618, 53.1714349 ] } },
-{ "type": "Feature", "properties": { "osm_id": "7829820721", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -2.9051542, 53.193689 ] } }
+{ "type": "Feature", "properties": { "osm_id": "7829820721", "other_tags": "\"waste\"=>\"trash\",\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.9051542, 53.193689 ] } }
 ]
 }

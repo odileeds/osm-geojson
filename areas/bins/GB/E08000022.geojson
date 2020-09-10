@@ -7,7 +7,7 @@
 { "type": "Feature", "properties": { "osm_id": "765376576", "other_tags": "\"amenity\"=>\"recycling\",\"recycling:cans\"=>\"yes\",\"recycling:glass\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6196687, 55.0571952 ] } },
 { "type": "Feature", "properties": { "osm_id": "768806441", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5396971, 55.020233 ] } },
 { "type": "Feature", "properties": { "osm_id": "796206538", "name": "Recycling Point", "other_tags": "\"amenity\"=>\"recycling\",\"recycling:cans\"=>\"yes\",\"recycling_type\"=>\"container\",\"recycling:glass\"=>\"yes\",\"recycling:paper\"=>\"yes\",\"recycling:clothes\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5673249, 55.0382173 ] } },
-{ "type": "Feature", "properties": { "osm_id": "1278034301", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4311835, 55.0304895 ] } },
+{ "type": "Feature", "properties": { "osm_id": "1278034301", "other_tags": "\"waste\"=>\"dog_excrement\",\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4311835, 55.0304895 ] } },
 { "type": "Feature", "properties": { "osm_id": "3513463734", "other_tags": "\"amenity\"=>\"recycling\",\"recycling_type\"=>\"container\",\"recycling:glass\"=>\"yes\",\"recycling:paper\"=>\"yes\",\"recycling:clothes\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4440527, 55.0096789 ] } },
 { "type": "Feature", "properties": { "osm_id": "4526425521", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.439393, 55.0078422 ] } },
 { "type": "Feature", "properties": { "osm_id": "4526425522", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4389719, 55.0079325 ] } },
@@ -22,7 +22,6 @@
 { "type": "Feature", "properties": { "osm_id": "4647423827", "name": "Acorn", "other_tags": "\"amenity\"=>\"recycling\",\"recycling_type\"=>\"centre\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5080697, 54.9911978 ] } },
 { "type": "Feature", "properties": { "osm_id": "4656569126", "name": "Community Link", "other_tags": "\"phone\"=>\"+44 300 365 2121\",\"amenity\"=>\"recycling\",\"addr:city\"=>\"Wallsend\",\"addr:street\"=>\"High Street West\",\"recycling_type\"=>\"centre\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5362224, 54.9904919 ] } },
 { "type": "Feature", "properties": { "osm_id": "4656616970", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5317199, 54.9914655 ] } },
-{ "type": "Feature", "properties": { "osm_id": "4656630997", "name": "The Cash For Clothes Shop", "other_tags": "\"amenity\"=>\"recycling\",\"addr:city\"=>\"Wallsend\",\"addr:street\"=>\"High Street East\",\"recycling_type\"=>\"centre\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5296697, 54.9915746 ] } },
 { "type": "Feature", "properties": { "osm_id": "4656631013", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5280905, 54.9918466 ] } },
 { "type": "Feature", "properties": { "osm_id": "4656790101", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5351569, 54.9908452 ] } },
 { "type": "Feature", "properties": { "osm_id": "4656790109", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5344627, 54.9911854 ] } },
@@ -202,7 +201,7 @@
 { "type": "Feature", "properties": { "osm_id": "7762193670", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4502947, 55.0527498 ] } },
 { "type": "Feature", "properties": { "osm_id": "7762193679", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4501628, 55.0525577 ] } },
 { "type": "Feature", "properties": { "osm_id": "7762193680", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4496576, 55.0518276 ] } },
-{ "type": "Feature", "properties": { "osm_id": "7775724268", "other_tags": "\"amenity\"=>\"waste_basket\",\"operator\"=>\"North Tyneside Council\",\"waste\"=>\"mixed\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4982982, 55.0032646 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7775724268", "other_tags": "\"waste\"=>\"mixed\",\"amenity\"=>\"waste_basket\",\"operator\"=>\"North Tyneside Council\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4982982, 55.0032646 ] } },
 { "type": "Feature", "properties": { "osm_id": "7781677254", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5097106, 55.0090402 ] } },
 { "type": "Feature", "properties": { "osm_id": "7804937658", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4239599, 55.0224039 ] } }
 ]

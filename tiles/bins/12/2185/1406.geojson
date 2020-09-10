@@ -39,6 +39,7 @@
 	{"geometry":{"coordinates":[12.107221,49.002799],"type":"Point"},"properties":{"osm_id":"983587233","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.067215,48.994787],"type":"Point"},"properties":{"osm_id":"1072972983","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.081941,48.996693],"type":"Point"},"properties":{"osm_id":"1077183411","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.098189,49.012386],"type":"Point"},"properties":{"osm_id":"1083647632","ref":"Bahnhofstr. 16","tag":{"amenity":"waste_disposal","collection_times":"Mo-Fr 16:30,18:00,19:30; Sa 13:45; Su 11:45","operator":"Deutsche Post AG","postal_code":"93047"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.077866,49.001991],"type":"Point"},"properties":{"osm_id":"1086097945","tag":{"amenity":"recycling","location":"overground","recycling:glass":"yes","recycling:green_waste":"yes","recycling_type":"container","source:ref":"http://stadtplan2.regensburg.de/biotonnen/"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.112997,49.014659],"type":"Point"},"properties":{"osm_id":"1123281952","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.064544,49.023624],"type":"Point"},"properties":{"osm_id":"1128004586","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -98,6 +99,9 @@
 	{"geometry":{"coordinates":[12.098076,48.994993],"type":"Point"},"properties":{"barrier":"gate","osm_id":"2082783992"},"type":"Feature"},
 	{"geometry":{"coordinates":[12.065309,48.997638],"type":"Point"},"properties":{"osm_id":"2110420923","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.065267,48.997649],"type":"Point"},"properties":{"osm_id":"2110420924","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.111955,49.006116],"type":"Point"},"properties":{"osm_id":"2187074737","tag":{"amenity":"waste_disposal","recycling:cans":"yes","recycling:plastic_packaging":"yes","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.112734,49.006599],"type":"Point"},"properties":{"osm_id":"2187074740","tag":{"amenity":"waste_disposal","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.111864,49.006843],"type":"Point"},"properties":{"osm_id":"2187074741","tag":{"amenity":"waste_disposal","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.092958,49.016285],"type":"Point"},"properties":{"osm_id":"2401541881","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.059988,49.012726],"type":"Point"},"properties":{"osm_id":"2448068314","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.066491,49.008587],"type":"Point"},"properties":{"osm_id":"2606244634","tag":{"amenity":"recycling","recycling:organic":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -437,8 +441,6 @@
 	{"geometry":{"coordinates":[12.114919,49.024444],"type":"Point"},"properties":{"osm_id":"7579995746","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.112081,49.023003],"type":"Point"},"properties":{"osm_id":"7580009597","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.125021,49.023435],"type":"Point"},"properties":{"osm_id":"7580015550","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.114919,49.024444],"type":"Point"},"properties":{"osm_id":"7580027171","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.125021,49.023435],"type":"Point"},"properties":{"osm_id":"7580031057","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.125067,49.023622],"type":"Point"},"properties":{"osm_id":"7580076092","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.118345,49.022504],"type":"Point"},"properties":{"osm_id":"7580528870","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.102459,49.021981],"type":"Point"},"properties":{"osm_id":"7588590598","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
@@ -477,7 +479,9 @@
 	{"geometry":{"coordinates":[12.103186,49.029472],"type":"Point"},"properties":{"osm_id":"7599883312","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.101756,49.027823],"type":"Point"},"properties":{"osm_id":"7599883316","tag":{"amenity":"recycling","opening_hours":"Mo-Fr 08:00-20:00","recycling:clothes":"yes","recycling:glass":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.095579,49.013961],"type":"Point"},"properties":{"osm_id":"7600521785","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.098405,49.023948],"type":"Point"},"properties":{"osm_id":"7846761943","tag":{"amenity":"bench","backrest":"yes","material":"wood"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.097882,49.02399],"type":"Point"},"properties":{"osm_id":"7846789687","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.101168,49.019051],"type":"Point"},"properties":{"osm_id":"7856272305","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[12.101168,49.019051],"type":"Point"},"properties":{"osm_id":"7856272305","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.108896,49.015278],"type":"Point"},"properties":{"name":"Biotonne","osm_id":"7864557642","tag":{"amenity":"recycling","recycling:green_waste":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

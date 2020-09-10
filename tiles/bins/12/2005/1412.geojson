@@ -1,10 +1,11 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-3.699892,48.688959],"type":"Point"},"properties":{"osm_id":"853258209","tag":{"amenity":"recycling","location":"overground","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.699892,48.688959],"type":"Point"},"properties":{"osm_id":"853258209","tag":{"amenity":"recycling","location":"overground","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.707912,48.666849],"type":"Point"},"properties":{"osm_id":"1691797214","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.740732,48.676148],"type":"Point"},"properties":{"name":"D\u00c3\u00a9chetterie","osm_id":"3658090208","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-3.769582,48.688931],"type":"Point"},"properties":{"osm_id":"7820273445","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-3.77453,48.686534],"type":"Point"},"properties":{"osm_id":"7822711115","tag":{"amenity":"recycling","location":"underground","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.769582,48.688931],"type":"Point"},"properties":{"osm_id":"7820273445","tag":{"amenity":"waste_disposal","location":"overground"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.77453,48.686534],"type":"Point"},"properties":{"osm_id":"7822711115","tag":{"amenity":"waste_disposal","location":"underground"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.716373,48.647023],"type":"Point"},"properties":{"osm_id":"7838946301","tag":{"amenity":"recycling"}},"type":"Feature"}
 ]
 }

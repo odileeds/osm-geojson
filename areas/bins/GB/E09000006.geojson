@@ -3,6 +3,8 @@
 "name": "points",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "osm_id": "13808175", "highway": "traffic_signals" }, "geometry": { "type": "Point", "coordinates": [ 0.0013381, 51.4062578 ] } },
+{ "type": "Feature", "properties": { "osm_id": "13808176", "highway": "traffic_signals" }, "geometry": { "type": "Point", "coordinates": [ 0.0021162, 51.4062484 ] } },
 { "type": "Feature", "properties": { "osm_id": "294952733", "other_tags": "\"amenity\"=>\"recycling\",\"recycling:small_appliances\"=>\"yes\",\"recycling:printer_cartridges\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0550051, 51.4192843 ] } },
 { "type": "Feature", "properties": { "osm_id": "309545266", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0672542, 51.4068541 ] } },
 { "type": "Feature", "properties": { "osm_id": "326066990", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0748643, 51.4189754 ] } },

@@ -1,6 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
+	{"geometry":{"coordinates":[-105.141512,39.726218],"type":"Point"},"properties":{"highway":"turning_circle","osm_id":"177352306"},"type":"Feature"},
 	{"geometry":{"coordinates":[-105.141409,39.739978],"type":"Point"},"properties":{"osm_id":"1704734534","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-105.141018,39.740077],"type":"Point"},"properties":{"osm_id":"1704734559","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-105.123561,39.732676],"type":"Point"},"properties":{"barrier":"gate","osm_id":"3700621623"},"type":"Feature"},
@@ -13,6 +14,8 @@
 	{"geometry":{"coordinates":[-105.123052,39.713863],"type":"Point"},"properties":{"osm_id":"4821676365","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-105.122219,39.716925],"type":"Point"},"properties":{"name":"Demolition Recycling","osm_id":"4821676400","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-105.118706,39.71698],"type":"Point"},"properties":{"osm_id":"4821762196","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-105.118091,39.718383],"type":"Point"},"properties":{"osm_id":"4821839741","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-105.118091,39.718383],"type":"Point"},"properties":{"osm_id":"4821839741","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-105.138072,39.726363],"type":"Point"},"properties":{"highway":"crossing","osm_id":"7544910510","tag":{"crossing":"uncontrolled"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-105.140049,39.726222],"type":"Point"},"properties":{"highway":"crossing","osm_id":"7662579805","tag":{"crossing":"uncontrolled"}},"type":"Feature"}
 ]
 }

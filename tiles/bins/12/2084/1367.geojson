@@ -1,6 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
+	{"geometry":{"coordinates":[3.183594,51.19033],"type":"Point"},"properties":{"osm_id":"148658083","tag":{"traffic_calming":"table"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.2078,51.200997],"type":"Point"},"properties":{"osm_id":"368235756","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.215087,51.204658],"type":"Point"},"properties":{"osm_id":"375780160","tag":{"addr:city":"Brugge","addr:postcode":"8000","addr:street":"Sint-Maartensbilk","amenity":"recycling","recycling:cans":"no","recycling:clothes":"no","recycling:glass":"no","recycling:glass_bottles":"yes","recycling:paper":"no","recycling:plastic":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.231753,51.227105],"type":"Point"},"properties":{"osm_id":"1024756867","tag":{"amenity":"recycling","location":"overground","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -149,7 +150,6 @@
 	{"geometry":{"coordinates":[3.22444,51.215626],"type":"Point"},"properties":{"osm_id":"3846456279","tag":{"amenity":"recycling","location":"underground","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.224644,51.215643],"type":"Point"},"properties":{"osm_id":"3846465740","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.238047,51.214539],"type":"Point"},"properties":{"osm_id":"3846469518","tag":{"amenity":"recycling","location":"underground","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[3.2132,51.216576],"type":"Point"},"properties":{"osm_id":"3846635879","tag":{"addr:city":"Brugge","addr:postcode":"8000","addr:street":"Scheepsdalelaan","amenity":"recycling","recycling:cans":"no","recycling:clothes":"no","recycling:glass":"no","recycling:glass_bottles":"yes","recycling:paper":"no","recycling:plastic":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.201269,51.21686],"type":"Point"},"properties":{"osm_id":"3846639500","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.202993,51.212696],"type":"Point"},"properties":{"osm_id":"3846647457","tag":{"addr:city":"Brugge","addr:postcode":"8000","addr:street":"Fosterpark","amenity":"recycling","recycling:cans":"no","recycling:clothes":"no","recycling:glass":"no","recycling:glass_bottles":"yes","recycling:paper":"no","recycling:plastic":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.231584,51.201351],"type":"Point"},"properties":{"osm_id":"3846649192","tag":{"addr:city":"Brugge","addr:postcode":"8000","addr:street":"Gentpoortvest","amenity":"recycling","recycling:cans":"no","recycling:clothes":"no","recycling:glass":"no","recycling:glass_bottles":"yes","recycling:paper":"no","recycling:plastic":"no","recycling_type":"container"}},"type":"Feature"},
@@ -308,6 +308,7 @@
 	{"geometry":{"coordinates":[3.179337,51.1844],"type":"Point"},"properties":{"osm_id":"6856730041","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.203878,51.197174],"type":"Point"},"properties":{"osm_id":"6858523991","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.203469,51.19324],"type":"Point"},"properties":{"osm_id":"6858631312","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.185181,51.188624],"type":"Point"},"properties":{"osm_id":"6866151722","tag":{"traffic_calming":"choker"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.172278,51.192949],"type":"Point"},"properties":{"osm_id":"6919561992","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.22426,51.208485],"type":"Point"},"properties":{"osm_id":"6942400832","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.232193,51.186892],"type":"Point"},"properties":{"osm_id":"6987398039","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -316,6 +317,7 @@
 	{"geometry":{"coordinates":[3.20137,51.188489],"type":"Point"},"properties":{"osm_id":"7043805289","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.225785,51.186263],"type":"Point"},"properties":{"osm_id":"7425884652","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.222981,51.21758],"type":"Point"},"properties":{"osm_id":"7606302684","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.224436,51.206388],"type":"Point"},"properties":{"osm_id":"7804734108","tag":{"access":"private","amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.213148,51.216595],"type":"Point"},"properties":{"osm_id":"7843952482","tag":{"amenity":"recycling","location":"overground","operator":"Fritobox","recycling:cooking_oil":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.21368,51.216201],"type":"Point"},"properties":{"osm_id":"7843952483","tag":{"amenity":"recycling","location":"overground","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"}
 ]

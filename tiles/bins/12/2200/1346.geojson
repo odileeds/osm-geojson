@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[13.395015,52.373092],"type":"Point"},"properties":{"osm_id":"336327545","tag":{"amenity":"recycling","location":"overground","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.395015,52.373092],"type":"Point"},"properties":{"osm_id":"336327545","tag":{"amenity":"recycling","location":"overground","opening_hours":"Mo-Fr 07:00-20:00; Sa 07:00-12:00","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.411301,52.357388],"type":"Point"},"properties":{"osm_id":"339327439","tag":{"amenity":"recycling","location":"overground","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.415428,52.327759],"type":"Point"},"properties":{"osm_id":"370467357","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.415374,52.32777],"type":"Point"},"properties":{"osm_id":"370467358","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -37,6 +37,7 @@
 	{"geometry":{"coordinates":[13.375623,52.364798],"type":"Point"},"properties":{"osm_id":"6763852959","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.412572,52.336423],"type":"Point"},"properties":{"osm_id":"7299921920","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.399945,52.34077],"type":"Point"},"properties":{"osm_id":"7301809387","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.359459,52.341727],"type":"Point"},"properties":{"osm_id":"7683576405","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[13.359459,52.341727],"type":"Point"},"properties":{"osm_id":"7683576405","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.389245,52.370905],"type":"Point"},"properties":{"osm_id":"7794688203","tag":{"amenity":"waste_basket","vending":"excrement_bags","waste":"dog_excrement"}},"type":"Feature"}
 ]
 }

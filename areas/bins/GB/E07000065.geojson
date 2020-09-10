@@ -3,6 +3,8 @@
 "name": "points",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "osm_id": "132726252", "highway": "traffic_signals", "other_tags": "\"traffic_signals\"=>\"junction\",\"traffic_signals:direction\"=>\"both\"" }, "geometry": { "type": "Point", "coordinates": [ 0.2561549, 50.8790464 ] } },
+{ "type": "Feature", "properties": { "osm_id": "132726278", "highway": "mini_roundabout", "other_tags": "\"direction\"=>\"clockwise\"" }, "geometry": { "type": "Point", "coordinates": [ 0.2551126, 50.8785993 ] } },
 { "type": "Feature", "properties": { "osm_id": "333646211", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ 0.2593988, 50.861645 ] } },
 { "type": "Feature", "properties": { "osm_id": "836652834", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ 0.1574471, 50.8071646 ] } },
 { "type": "Feature", "properties": { "osm_id": "1543246080", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ 0.1574676, 50.8072511 ] } },
@@ -41,6 +43,6 @@
 { "type": "Feature", "properties": { "osm_id": "7069444895", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ 0.0971736, 50.9713129 ] } },
 { "type": "Feature", "properties": { "osm_id": "7401596283", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ 0.1686085, 51.0614856 ] } },
 { "type": "Feature", "properties": { "osm_id": "7404970163", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ 0.1667838, 51.0571814 ] } },
-{ "type": "Feature", "properties": { "osm_id": "7769849357", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ 0.1574994, 50.8071507 ] } }
+{ "type": "Feature", "properties": { "osm_id": "7769849357", "other_tags": "\"waste\"=>\"dog_excrement\",\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ 0.1574994, 50.8071507 ] } }
 ]
 }

@@ -1,7 +1,11 @@
 {
 "type": "FeatureCollection",
 "features": [
+	{"geometry":{"coordinates":[153.035193,-27.471219],"type":"Point"},"properties":{"osm_id":"312158345","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[153.024504,-27.495739],"type":"Point"},"properties":{"osm_id":"312166406","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[153.023798,-27.524945],"type":"Point"},"properties":{"osm_id":"330810581","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[153.029036,-27.523491],"type":"Point"},"properties":{"osm_id":"331442683","tag":{"amenity":"waste_disposal","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[153.035482,-27.527125],"type":"Point"},"properties":{"osm_id":"331572020","tag":{"amenity":"waste_disposal","waste":"dog_waste"}},"type":"Feature"},
 	{"geometry":{"coordinates":[153.04527,-27.517776],"type":"Point"},"properties":{"osm_id":"437981627","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[153.051757,-27.507972],"type":"Point"},"properties":{"osm_id":"439974050","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[153.050932,-27.507531],"type":"Point"},"properties":{"osm_id":"439974057","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -67,7 +71,6 @@
 	{"geometry":{"coordinates":[153.023378,-27.478847],"type":"Point"},"properties":{"osm_id":"5233829162","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[153.022986,-27.478158],"type":"Point"},"properties":{"osm_id":"5233832212","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[153.019754,-27.476194],"type":"Point"},"properties":{"osm_id":"5237569635","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[153.020556,-27.466739],"type":"Point"},"properties":{"osm_id":"5315949962","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[153.028252,-27.477305],"type":"Point"},"properties":{"osm_id":"5317631638","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[153.031445,-27.475634],"type":"Point"},"properties":{"osm_id":"5317631647","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[153.030174,-27.476306],"type":"Point"},"properties":{"osm_id":"5336137501","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -208,6 +211,7 @@
 	{"geometry":{"coordinates":[153.094101,-27.508829],"type":"Point"},"properties":{"osm_id":"7558895406","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[153.085745,-27.511588],"type":"Point"},"properties":{"barrier":"gate","osm_id":"7593965597"},"type":"Feature"},
 	{"geometry":{"coordinates":[153.098482,-27.51286],"type":"Point"},"properties":{"osm_id":"7595344608","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[153.055703,-27.495334],"type":"Point"},"properties":{"osm_id":"7637061160","tag":{"amenity":"waste_basket","waste":"trash;recycling"}},"type":"Feature"}
+	{"geometry":{"coordinates":[153.055703,-27.495334],"type":"Point"},"properties":{"osm_id":"7637061160","tag":{"amenity":"waste_basket","waste":"trash;recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[153.095827,-27.477929],"type":"Point"},"properties":{"highway":"bus_stop","name":"Creek Rd at Minnippi Bvd","osm_id":"7841333537","tag":{"bus":"yes","gtfs_id":"2602","gtfs_stop_code":"002602","network":"TransLink","public_transport":"platform","route_ref":"210;P211","transport:zone":"2","url":"http://translink.com.au/stop/002602/gtfs/"}},"type":"Feature"}
 ]
 }
