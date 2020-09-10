@@ -420,10 +420,10 @@
 			var lat,lon,z,l,q;
 			if(typeof qs==="string"){
 				q = qs.split(/\//);
-				l = q[0];
-				z = parseInt(q[1]);
-				lat = parseFloat(q[2]);
-				lon = parseFloat(q[3]);
+				z = parseInt(q[0]);
+				lat = parseFloat(q[1]);
+				lon = parseFloat(q[2]);
+				l = q[3];
 			}else if(typeof qs==="object"){
 				l = qs.l;
 				z = (qs.zoom||this.map.getZoom());
@@ -480,25 +480,25 @@
 		}
 
 		function buildQueryString(lat,lon,z,lay){
-			return '?'+lay+'/'+z+'/'+lat.toFixed(5)+'/'+lon.toFixed(5);
+			return '?'+z+'/'+lat.toFixed(5)+'/'+lon.toFixed(5)+'/'+(lay||"");
 		}
 		// Attach events
 		this.on('moveend',function(){
+			if(!this.automatic){
+				var c = this.map.getCenter();
+				var z = this.map.getZoom();
+				history.pushState({'lon': c.lng, 'lat': c.lat,'l':this.selectedLayer,'zoom':z}, 'Test', buildQueryString(c.lat,c.lng,z,this.selectedLayer));
+			}
 			if(this.map.getZoom() >= 11){
 				id = (this.selectedLayer && this.layers[this.selectedLayer] ? this.selectedLayer : "");
 				if(id) this.getNodes(id,this.layers[id].options);
-				if(this.automatic){
-					this.automatic = false;
-				}else{
-					var c = this.map.getCenter();
-					var z = this.map.getZoom();
-					history.pushState({'lon': c.lng, 'lat': c.lat,'l':this.selectedLayer,'zoom':z}, 'Test', buildQueryString(c.lat,c.lng,z,this.selectedLayer));
-				}
 			}
+			this.automatic = false;
 		});
 		this.map.on("movestart", function(){ _obj.trigger('movestart'); });
 		this.map.on("move", function(){ _obj.trigger('move'); });
 		this.map.on("moveend", function(){ _obj.trigger('moveend'); });
+		this.map.on("zoomend", function(){ _obj.trigger('moveend'); });
 
 		return this;
 	}
