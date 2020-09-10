@@ -437,7 +437,7 @@
 			// Set map view if it isn't in the query string
 			if(isNaN(lat) || typeof lat!=="number") lat = 53.79659;
 			if(isNaN(lon) || typeof lon!=="number") lon = -1.53385;
-			if(isNaN(z) || typeof z!=="number") z = 12;
+			if(isNaN(z) || typeof z!=="number") z = 6;
 
 			this.automatic = true;
 			this.map.setView({'lon': lon, 'lat': lat,'l':l,'zoom':z},z);
