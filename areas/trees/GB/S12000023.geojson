@@ -3,6 +3,9 @@
 "name": "points",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-
+{ "type": "Feature", "properties": { "osm_id": "5779992929", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -2.9595765, 58.9825109 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7816067955", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -2.9578839, 58.9726155 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7945753979", "other_tags": "\"genus\"=>\"araucaria\",\"leaf_cycle\"=>\"evergreen\",\"leaf_type\"=>\"needleleaved\",\"natural\"=>\"tree\",\"species\"=>\"araucana\"" }, "geometry": { "type": "Point", "coordinates": [ -2.9491485, 58.763635 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7945753980", "other_tags": "\"genus\"=>\"araucaria\",\"leaf_cycle\"=>\"evergreen\",\"leaf_type\"=>\"needleleaved\",\"natural\"=>\"tree\",\"species\"=>\"araucana\"" }, "geometry": { "type": "Point", "coordinates": [ -2.9545605, 58.7657851 ] } }
 ]
 }
