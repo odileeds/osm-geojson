@@ -2,10 +2,11 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[12.625774,51.391803],"type":"Point"},"properties":{"osm_id":"391116779","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.583209,51.355932],"type":"Point"},"properties":{"osm_id":"1076672921","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.626716,51.361736],"type":"Point"},"properties":{"name":"Recyclinghof Machern","osm_id":"2117582105","tag":{"addr:city":"Machern","addr:postcode":"04827","addr:street":"Dorfstra\u00dfe","amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:scrap_metal":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.652124,51.399173],"type":"Point"},"properties":{"osm_id":"7008317120","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.652124,51.399195],"type":"Point"},"properties":{"osm_id":"7008317121","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.631355,51.362343],"type":"Point"},"properties":{"osm_id":"7683696936","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[12.583209,51.355933],"type":"Point"},"properties":{"osm_id":"1076672921","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.626716,51.361737],"type":"Point"},"properties":{"name":"Recyclinghof Machern","osm_id":"2117582105","tag":{"addr:city":"Machern","addr:postcode":"04827","addr:street":"Dorfstra\u00c3\u009fe","amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:scrap_metal":"yes","recycling_type":"centre"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.652125,51.399174],"type":"Point"},"properties":{"osm_id":"7008317120","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.652125,51.399195],"type":"Point"},"properties":{"osm_id":"7008317121","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.631355,51.362343],"type":"Point"},"properties":{"osm_id":"7683696936","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.641004,51.354215],"type":"Point"},"properties":{"osm_id":"7930886785","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }
