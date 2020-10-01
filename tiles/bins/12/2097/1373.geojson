@@ -13,7 +13,7 @@
 	{"geometry":{"coordinates":[4.391138,50.893734],"type":"Point"},"properties":{"osm_id":"574849341","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.384628,50.879824],"type":"Point"},"properties":{"osm_id":"582518638","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.387497,50.896479],"type":"Point"},"properties":{"osm_id":"582542756","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.383912,50.900943],"type":"Point"},"properties":{"osm_id":"582542761","tag":{"amenity":"recycling","operator":"Bruxelles-Propret\u00c3\u00a9 - Net Brussel","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.383912,50.900943],"type":"Point"},"properties":{"osm_id":"582542761","tag":{"amenity":"recycling","location":"underground","operator":"Bruxelles-Propret\u00c3\u00a9 - Net Brussel","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.380451,50.877385],"type":"Point"},"properties":{"osm_id":"587753446","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.367044,50.902062],"type":"Point"},"properties":{"osm_id":"600093266","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.35608,50.90145],"type":"Point"},"properties":{"osm_id":"602500336","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -1069,7 +1069,7 @@
 	{"geometry":{"coordinates":[4.329766,50.880396],"type":"Point"},"properties":{"osm_id":"6005443540","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.325118,50.883027],"type":"Point"},"properties":{"osm_id":"6047000385","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.326164,50.884511],"type":"Point"},"properties":{"osm_id":"6047000386","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.383905,50.900901],"type":"Point"},"properties":{"osm_id":"6077181338","tag":{"amenity":"recycling","clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.383903,50.900902],"type":"Point"},"properties":{"osm_id":"6077181338","tag":{"amenity":"recycling","location":"overground","operator":"Oxfam","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.350272,50.880688],"type":"Point"},"properties":{"osm_id":"6078963937","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.350225,50.880685],"type":"Point"},"properties":{"osm_id":"6078963938","tag":{"amenity":"recycling","operator":"Bruxelles-Propret\u00c3\u00a9 - Net Brussel","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.368484,50.853159],"type":"Point"},"properties":{"osm_id":"6118355013","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -1605,6 +1605,7 @@
 	{"geometry":{"coordinates":[4.379444,50.888798],"type":"Point"},"properties":{"osm_id":"7948651633","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.381739,50.890016],"type":"Point"},"properties":{"osm_id":"7956031271","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.38428,50.889402],"type":"Point"},"properties":{"osm_id":"7956033811","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.377915,50.886043],"type":"Point"},"properties":{"osm_id":"7956168263","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[4.377915,50.886043],"type":"Point"},"properties":{"osm_id":"7956168263","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.383945,50.900968],"type":"Point"},"properties":{"osm_id":"7959007211","tag":{"amenity":"recycling","location":"overground","operator":"Oliobox","recycling:cooking_oil":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }
