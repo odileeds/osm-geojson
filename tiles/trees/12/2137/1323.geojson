@@ -2,15 +2,15 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[7.864126,53.548424],"type":"Point"},"properties":{"osm_id":"931627745","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.905334,53.572912],"type":"Point"},"properties":{"osm_id":"3610518590","tag":{"genus:de":"Linde","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.905727,53.572956],"type":"Point"},"properties":{"osm_id":"3610518591","tag":{"genus:de":"Eiche","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.905421,53.573089],"type":"Point"},"properties":{"osm_id":"3610518592","tag":{"genus:de":"Linde","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.905355,53.573147],"type":"Point"},"properties":{"osm_id":"3610539193","tag":{"genus:de":"Linde","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.905288,53.573206],"type":"Point"},"properties":{"osm_id":"3610539194","tag":{"genus:de":"Linde","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.905224,53.573257],"type":"Point"},"properties":{"osm_id":"3610539195","tag":{"genus:de":"Linde","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.905173,53.573304],"type":"Point"},"properties":{"osm_id":"3610539196","tag":{"genus:de":"Linde","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.90513,53.573348],"type":"Point"},"properties":{"osm_id":"3610539197","tag":{"genus:de":"Linde","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.90499,53.573465],"type":"Point"},"properties":{"osm_id":"3610539198","tag":{"genus:de":"Linde","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.905334,53.572912],"type":"Point"},"properties":{"osm_id":"3610518590","tag":{"genus:de":"Linde","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.905727,53.572956],"type":"Point"},"properties":{"osm_id":"3610518591","tag":{"genus:de":"Eiche","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.905421,53.573089],"type":"Point"},"properties":{"osm_id":"3610518592","tag":{"genus:de":"Linde","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.905355,53.573147],"type":"Point"},"properties":{"osm_id":"3610539193","tag":{"genus:de":"Linde","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.905288,53.573206],"type":"Point"},"properties":{"osm_id":"3610539194","tag":{"genus:de":"Linde","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.905224,53.573257],"type":"Point"},"properties":{"osm_id":"3610539195","tag":{"genus:de":"Linde","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.905173,53.573304],"type":"Point"},"properties":{"osm_id":"3610539196","tag":{"genus:de":"Linde","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.90513,53.573348],"type":"Point"},"properties":{"osm_id":"3610539197","tag":{"genus:de":"Linde","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.90499,53.573465],"type":"Point"},"properties":{"osm_id":"3610539198","tag":{"genus:de":"Linde","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.901297,53.57352],"type":"Point"},"properties":{"name":"Bismarck Eiche","osm_id":"3673070491","tag":{"genus:de":"Eiche","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.896708,53.57297],"type":"Point"},"properties":{"name":"Elsbeere - Geschenk zum Jubli\u00c3\u00a4um 475 Jahre Stadt Jever","osm_id":"3678644807","tag":{"genus:de":"Elsbeere","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.90121,53.563824],"type":"Point"},"properties":{"osm_id":"4711713817","tag":{"natural":"tree"}},"type":"Feature"},
@@ -20,6 +20,6 @@
 	{"geometry":{"coordinates":[7.901174,53.573509],"type":"Point"},"properties":{"osm_id":"6510769955","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.900988,53.573449],"type":"Point"},"properties":{"osm_id":"6510769956","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.90476,53.570998],"type":"Point"},"properties":{"osm_id":"6511649184","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.883067,53.564826],"type":"Point"},"properties":{"osm_id":"6651681516","tag":{"leaf_type":"needleleaved","natural":"tree"}},"type":"Feature"}
+	{"geometry":{"coordinates":[7.883067,53.564826],"type":"Point"},"properties":{"osm_id":"6651681516","tag":{"leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree"}},"type":"Feature"}
 ]
 }
