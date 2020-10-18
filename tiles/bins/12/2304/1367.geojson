@@ -55,7 +55,7 @@
 	{"geometry":{"coordinates":[22.542613,51.200493],"type":"Point"},"properties":{"osm_id":"6357895155","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[22.539951,51.196876],"type":"Point"},"properties":{"osm_id":"6358007005","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[22.540076,51.196812],"type":"Point"},"properties":{"osm_id":"6358007006","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[22.539907,51.196619],"type":"Point"},"properties":{"osm_id":"6358007007","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[22.539907,51.196619],"type":"Point"},"properties":{"osm_id":"6358007007","tag":{"amenity":"recycling","colour":"blue","operator":"Fundacja U\u00c5\u009bmiechu","phone":"+48 81 532 30 30;+48 53 020 36 62","recycling:clothes":"yes","recycling_type":"container","website":"http://www.fundacjausmiechu.pl"}},"type":"Feature"},
 	{"geometry":{"coordinates":[22.539159,51.195859],"type":"Point"},"properties":{"osm_id":"6358007010","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[22.543137,51.200497],"type":"Point"},"properties":{"osm_id":"6358007011","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[22.542663,51.20032],"type":"Point"},"properties":{"osm_id":"6358007048","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -74,11 +74,11 @@
 	{"geometry":{"coordinates":[22.542341,51.195297],"type":"Point"},"properties":{"osm_id":"6404124660","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[22.542563,51.195203],"type":"Point"},"properties":{"osm_id":"6407766006","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[22.541767,51.196372],"type":"Point"},"properties":{"osm_id":"6409021068","tag":{"amenity":"waste_basket","start_date":"2019-04-16"}},"type":"Feature"},
-	{"geometry":{"coordinates":[22.541845,51.196594],"type":"Point"},"properties":{"osm_id":"6409021069","tag":{"entrance":"main"}},"type":"Feature"},
+	{"geometry":{"coordinates":[22.541845,51.196594],"type":"Point"},"properties":{"osm_id":"6409021069","tag":{"access":"private","entrance":"main"}},"type":"Feature"},
 	{"geometry":{"coordinates":[22.541732,51.196076],"type":"Point"},"properties":{"osm_id":"6409021071","tag":{"amenity":"waste_basket","start_date":"2019-04-16"}},"type":"Feature"},
-	{"geometry":{"coordinates":[22.54228,51.196267],"type":"Point"},"properties":{"osm_id":"6410032178","tag":{"entrance":"main"}},"type":"Feature"},
-	{"geometry":{"coordinates":[22.540969,51.196644],"type":"Point"},"properties":{"osm_id":"6410032179","tag":{"entrance":"main"}},"type":"Feature"},
-	{"geometry":{"coordinates":[22.540191,51.196602],"type":"Point"},"properties":{"osm_id":"6410032181","tag":{"entrance":"main"}},"type":"Feature"},
+	{"geometry":{"coordinates":[22.54228,51.196267],"type":"Point"},"properties":{"osm_id":"6410032178","tag":{"access":"private","entrance":"main"}},"type":"Feature"},
+	{"geometry":{"coordinates":[22.540969,51.196644],"type":"Point"},"properties":{"osm_id":"6410032179","tag":{"access":"private","entrance":"main"}},"type":"Feature"},
+	{"geometry":{"coordinates":[22.540191,51.196602],"type":"Point"},"properties":{"osm_id":"6410032181","tag":{"access":"private","entrance":"main"}},"type":"Feature"},
 	{"geometry":{"coordinates":[22.540197,51.196909],"type":"Point"},"properties":{"osm_id":"6414891159","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[22.542263,51.196372],"type":"Point"},"properties":{"osm_id":"6414891160","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[22.542224,51.196033],"type":"Point"},"properties":{"osm_id":"6414891161","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -87,7 +87,7 @@
 	{"geometry":{"coordinates":[22.540586,51.195075],"type":"Point"},"properties":{"osm_id":"6416669034","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[22.540578,51.195075],"type":"Point"},"properties":{"osm_id":"6416669035","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[22.542286,51.196583],"type":"Point"},"properties":{"osm_id":"6432508306","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[22.539915,51.196628],"type":"Point"},"properties":{"osm_id":"6468014387","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[22.539915,51.196628],"type":"Point"},"properties":{"osm_id":"6468014387","tag":{"amenity":"recycling","colour":"red","contact:facebook":"https://www.facebook.com/fundacjazsercem","email":"biuro@fundacjazsercem.com.pl","operator":"Fundacja z Sercem","owner":"Fundacja z Sercem","phone":"+48 88 2130888","recycling:clothes":"yes","recycling_type":"container","website":"http://www.fundacjazsercem.com.pl/"}},"type":"Feature"},
 	{"geometry":{"coordinates":[22.542622,51.19509],"type":"Point"},"properties":{"osm_id":"6481112130","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[22.546887,51.194976],"type":"Point"},"properties":{"osm_id":"6481112169","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[22.546902,51.195145],"type":"Point"},"properties":{"osm_id":"6481112176","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -103,6 +103,8 @@
 	{"geometry":{"coordinates":[22.542428,51.198255],"type":"Point"},"properties":{"osm_id":"7088199635","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[22.543248,51.198081],"type":"Point"},"properties":{"osm_id":"7088199652","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[22.543122,51.19834],"type":"Point"},"properties":{"osm_id":"7222897725","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[22.542211,51.19839],"type":"Point"},"properties":{"osm_id":"7222897726","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[22.542211,51.19839],"type":"Point"},"properties":{"osm_id":"7222897726","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[22.539889,51.1966],"type":"Point"},"properties":{"osm_id":"7993174092","tag":{"amenity":"recycling","colour":"white","email":"fundacja@ecotextil.pl","operator":"Fundacja Eco Textil","owner":"Fundacja Eco Textil","phone":"+48 50 7614241","recycling:clothes":"yes","recycling_type":"container","website":"https://ecotextil.pl"}},"type":"Feature"},
+	{"geometry":{"coordinates":[22.539896,51.196608],"type":"Point"},"properties":{"osm_id":"7993174093","tag":{"amenity":"recycling","colour":"white","email":"fundacja@ecotextil.pl","operator":"Fundacja Eco Textil","owner":"Fundacja Eco Textil","phone":"+48 50 7614241","recycling:clothes":"yes","recycling_type":"container","website":"https://ecotextil.pl"}},"type":"Feature"}
 ]
 }

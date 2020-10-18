@@ -1,12 +1,12 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[8.385845,49.526846],"type":"Point"},"properties":{"osm_id":"291620802","tag":{"amenity":"recycling","mapillary":"7EBdK9yoAWmzFyQ9WbH1lQ","recycling:clothes":"yes","recycling:glass":"yes","recycling:shoes":"yes","recycling_type":"container","survey:date":"2018-07-13"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.385845,49.526846],"type":"Point"},"properties":{"osm_id":"291620802","tag":{"amenity":"recycling","mapillary":"7EBdK9yoAWmzFyQ9WbH1lQ","operator":"Knettenbrech+Gurdulic","recycling:clothes":"no","recycling:glass":"yes","recycling:shoes":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.3891,49.525136],"type":"Point"},"properties":{"osm_id":"291620803","tag":{"amenity":"recycling","mapillary":"hao7I79ed8tTeDAYdAdPeQ","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container","survey:date":"2018-07-13"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.389952,49.536542],"type":"Point"},"properties":{"osm_id":"292266668","tag":{"amenity":"recycling","location":"overground","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.398031,49.522517],"type":"Point"},"properties":{"osm_id":"434300721","tag":{"amenity":"recycling","recycling:cans":"no","recycling:clothes":"no","recycling:glass":"yes","recycling:paper":"no","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.402061,49.521297],"type":"Point"},"properties":{"osm_id":"435239414","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.395458,49.525781],"type":"Point"},"properties":{"osm_id":"444773603","tag":{"amenity":"recycling","mapillary":"k0ZiwriN6YGySqqoijbcyw","recycling:glass":"yes","recycling_type":"container","survey:date":"2018-07-14"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.402047,49.521291],"type":"Point"},"properties":{"osm_id":"435239414","tag":{"amenity":"recycling","operator":"Knettenbrech+Gurdulic","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.395678,49.525802],"type":"Point"},"properties":{"osm_id":"444773603","tag":{"amenity":"recycling","mapillary":"k0ZiwriN6YGySqqoijbcyw","recycling:glass":"yes","recycling_type":"container","survey:date":"2018-07-14"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.355846,49.535559],"type":"Point"},"properties":{"osm_id":"835399258","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.358559,49.524701],"type":"Point"},"properties":{"osm_id":"870216053","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.363167,49.533911],"type":"Point"},"properties":{"osm_id":"1328437014","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -77,7 +77,7 @@
 	{"geometry":{"coordinates":[8.387778,49.525416],"type":"Point"},"properties":{"osm_id":"6496497717","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.387409,49.525586],"type":"Point"},"properties":{"osm_id":"6496497719","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.387375,49.525604],"type":"Point"},"properties":{"osm_id":"6496497720","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.38493,49.522612],"type":"Point"},"properties":{"osm_id":"6496497947","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.38493,49.522612],"type":"Point"},"properties":{"osm_id":"6496497947","tag":{"amenity":"recycling","operator":"Knettenbrech+Gurdulic","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.4101,49.523865],"type":"Point"},"properties":{"osm_id":"7167523724","tag":{"amenity":"recycling","operator":"Kettenbrech+Gurdulic","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.401804,49.514616],"type":"Point"},"properties":{"osm_id":"7169176093","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.403539,49.51507],"type":"Point"},"properties":{"osm_id":"7169176094","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -95,6 +95,12 @@
 	{"geometry":{"coordinates":[8.410056,49.523845],"type":"Point"},"properties":{"osm_id":"7575876681","tag":{"amenity":"recycling","operator":"Weizenh\u00c3\u00b6fer Textilverwertung","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.372565,49.531093],"type":"Point"},"properties":{"osm_id":"7887487032","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.37044,49.530804],"type":"Point"},"properties":{"osm_id":"7887487040","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.37131,49.530905],"type":"Point"},"properties":{"osm_id":"7887487042","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[8.37131,49.530905],"type":"Point"},"properties":{"osm_id":"7887487042","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.404041,49.520749],"type":"Point"},"properties":{"osm_id":"7992465512","tag":{"amenity":"recycling","brand":"Caritas","operator":"TEXAID Deutschland GmbH","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.380961,49.534585],"type":"Point"},"properties":{"osm_id":"7993495388","tag":{"amenity":"recycling","operator":"Knettenbrech+Gurdulic","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.383909,49.533934],"type":"Point"},"properties":{"osm_id":"7993495398","tag":{"amenity":"recycling","operator":"Knettenbrech+Gurdulic","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.388398,49.528406],"type":"Point"},"properties":{"osm_id":"7993495399","tag":{"amenity":"recycling","operator":"Knettenbrech+Gurdulic","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.380382,49.51641],"type":"Point"},"properties":{"osm_id":"8014113250","tag":{"amenity":"recycling","operator":"Knettenbrech+Gurdulic","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.393857,49.518524],"type":"Point"},"properties":{"osm_id":"8016073906","tag":{"amenity":"recycling","operator":"Knettenbrech+Gurdulic","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

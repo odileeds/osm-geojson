@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[12.5915,51.31853],"type":"Point"},"properties":{"osm_id":"301834994","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.5915,51.31853],"type":"Point"},"properties":{"osm_id":"301834994","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling:shoes":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.611486,51.325915],"type":"Point"},"properties":{"osm_id":"315279865","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.579791,51.316109],"type":"Point"},"properties":{"osm_id":"321518255","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.601536,51.331715],"type":"Point"},"properties":{"osm_id":"376343089","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -25,6 +25,8 @@
 	{"geometry":{"coordinates":[12.609676,51.334687],"type":"Point"},"properties":{"osm_id":"7963065830","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.609893,51.334761],"type":"Point"},"properties":{"osm_id":"7963065831","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.609286,51.335571],"type":"Point"},"properties":{"osm_id":"7963065833","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.609727,51.334486],"type":"Point"},"properties":{"osm_id":"7963065836","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[12.609727,51.334486],"type":"Point"},"properties":{"osm_id":"7963065836","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.571165,51.314469],"type":"Point"},"properties":{"osm_id":"7997395431","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.569872,51.314856],"type":"Point"},"properties":{"osm_id":"7997395433","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
 ]
 }

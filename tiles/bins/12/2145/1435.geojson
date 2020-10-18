@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[8.527681,47.334653],"type":"Point"},"properties":{"osm_id":"80052443","tag":{"amenity":"recycling","description":"Container: Metall (2), Gr\u00c3\u00bcnglas (3), Weissglas (2), Braunglas (1)","opening_hours":"Mo-Sa 07:00-20:00","operator":"ERZ","recycling:aluminium":"yes","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.525788,47.31006],"type":"Point"},"properties":{"osm_id":"432622454","tag":{"amenity":"recycling","opening_hours":"Mo-Fr 07:00-12:00, 13:00-19:00; Sa 07:00-12:00, 13:00-17:00","opening_hours:covid19":"same","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"underfloor-container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.525788,47.31006],"type":"Point"},"properties":{"name":"Nebensammelstelle Albisstrasse","osm_id":"432622454","tag":{"amenity":"recycling","opening_hours":"Mo-Fr 07:00-12:00, 13:00-19:00; Sa 07:00-12:00, 13:00-17:00","opening_hours:covid19":"same","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"underfloor-container","website":"https://www.adliswil.ch/abfallorte/4700"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.545047,47.321368],"type":"Point"},"properties":{"osm_id":"470590314","tag":{"amenity":"recycling","location":"underground","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"no","recycling:glass_bottles":"yes","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.532572,47.288391],"type":"Point"},"properties":{"osm_id":"491480847","tag":{"amenity":"recycling","recycling:batteries":"no","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.540873,47.291081],"type":"Point"},"properties":{"osm_id":"496329306","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:scrap_metal":"yes"}},"type":"Feature"},
@@ -18,7 +18,7 @@
 	{"geometry":{"coordinates":[8.572884,47.28476],"type":"Point"},"properties":{"osm_id":"1115940540","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:scrap_metal":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.548239,47.324048],"type":"Point"},"properties":{"osm_id":"1177226657","tag":{"amenity":"recycling","location":"overground","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.549938,47.317112],"type":"Point"},"properties":{"osm_id":"1683429074","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"yes","recycling:garbage":"yes","recycling:glass":"yes","recycling:scrap_metal":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.529791,47.30673],"type":"Point"},"properties":{"osm_id":"1686851276","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.529791,47.30673],"type":"Point"},"properties":{"name":"Nebensammelstelle R\u00c3\u00bctistrasse","osm_id":"1686851276","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"underfloor-container","website":"https://www.adliswil.ch/abfallorte/4730"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.547133,47.285899],"type":"Point"},"properties":{"osm_id":"2077891292","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:scrap_metal":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.554408,47.313232],"type":"Point"},"properties":{"osm_id":"2079973556","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.551109,47.310675],"type":"Point"},"properties":{"osm_id":"2079973571","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -69,7 +69,7 @@
 	{"geometry":{"coordinates":[8.564516,47.2921],"type":"Point"},"properties":{"osm_id":"3817872314","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.554114,47.284345],"type":"Point"},"properties":{"osm_id":"3821040221","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.559252,47.292832],"type":"Point"},"properties":{"osm_id":"3825040681","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.534417,47.318881],"type":"Point"},"properties":{"osm_id":"3912974308","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.534417,47.318881],"type":"Point"},"properties":{"name":"Nebensammelstelle Gr\u00c3\u00bctstrasse","osm_id":"3912974308","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"container","website":"https://www.adliswil.ch/abfallorte/4727"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.529222,47.317313],"type":"Point"},"properties":{"barrier":"gate","osm_id":"4076717236"},"type":"Feature"},
 	{"geometry":{"coordinates":[8.528794,47.317635],"type":"Point"},"properties":{"barrier":"gate","osm_id":"4076717249"},"type":"Feature"},
 	{"geometry":{"coordinates":[8.605703,47.321707],"type":"Point"},"properties":{"osm_id":"4171398254","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -147,6 +147,11 @@
 	{"geometry":{"coordinates":[8.527525,47.314375],"type":"Point"},"properties":{"osm_id":"7924965650","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.52648,47.314241],"type":"Point"},"properties":{"osm_id":"7924965651","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.52604,47.313183],"type":"Point"},"properties":{"osm_id":"7924965658","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.529062,47.316433],"type":"Point"},"properties":{"osm_id":"7924965663","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[8.529062,47.316433],"type":"Point"},"properties":{"osm_id":"7924965663","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.5366,47.312291],"type":"Point"},"properties":{"name":"Nebensammelstelle Sportplatz Tal","osm_id":"7994815493","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"underfloor-container","website":"https://www.adliswil.ch/abfallorte/4739"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.52753,47.312136],"type":"Point"},"properties":{"osm_id":"7997132834","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.526731,47.309331],"type":"Point"},"properties":{"osm_id":"7997309801","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.526357,47.308676],"type":"Point"},"properties":{"osm_id":"7997309808","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.526782,47.317928],"type":"Point"},"properties":{"osm_id":"7997309811","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
 ]
 }

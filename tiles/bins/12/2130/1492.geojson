@@ -1,6 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[7.238489,43.79015],"type":"Point"},"properties":{"osm_id":"2341935111","tag":{"amenity":"recycling"}},"type":"Feature"}
+	{"geometry":{"coordinates":[7.238489,43.79015],"type":"Point"},"properties":{"osm_id":"2341935111","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.210715,43.780304],"type":"Point"},"properties":{"osm_id":"7976209335","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container agricultural cooperative"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.210727,43.780333],"type":"Point"},"properties":{"osm_id":"7976209336","tag":{"amenity":"recycling","recycling:newspaper":"yes","recycling:paper":"yes","recycling_type":"container agricultural cooperative"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.210726,43.780352],"type":"Point"},"properties":{"osm_id":"7976209337","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container agricultural cooperative"}},"type":"Feature"}
 ]
 }

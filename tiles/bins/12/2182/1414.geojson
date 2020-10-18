@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[11.8087,48.542744],"type":"Point"},"properties":{"name":"Wertstoffhof Nandlstadt","osm_id":"429615968","tag":{"amenity":"recycling","collection_times":"Dienstag & Freitag 15:00 - 18:00, Samstag 09:00 - 13:00","recycling:batteries":"yes","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:scrap_metal":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.8087,48.542744],"type":"Point"},"properties":{"name":"Wertstoffhof Nandlstadt","osm_id":"429615968","tag":{"amenity":"recycling","collection_times":"Tu,Fr 15:00-18:00; Sa 09:00-13:00","recycling:batteries":"yes","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.856447,48.548985],"type":"Point"},"properties":{"osm_id":"7554810160","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"}
 ]
 }

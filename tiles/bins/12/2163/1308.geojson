@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[10.132997,54.34134],"type":"Point"},"properties":{"osm_id":"283101669","tag":{"amenity":"recycling","location":"overground","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.138146,54.342389],"type":"Point"},"properties":{"osm_id":"283101670","tag":{"amenity":"recycling","location":"underground","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.138146,54.342389],"type":"Point"},"properties":{"osm_id":"283101670","tag":{"amenity":"recycling","check_date:recycling":"2020-10-11","location":"underground","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.136894,54.335375],"type":"Point"},"properties":{"osm_id":"283101671","tag":{"amenity":"recycling","operator":"Abfallbeseitigung Kiel","recycling:cans":"no","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"no","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.127475,54.321765],"type":"Point"},"properties":{"osm_id":"283122656","tag":{"amenity":"recycling","location":"overground","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.177396,54.319751],"type":"Point"},"properties":{"osm_id":"283402783","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -407,6 +407,9 @@
 	{"geometry":{"coordinates":[10.116074,54.327433],"type":"Point"},"properties":{"osm_id":"7899795590","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.116455,54.327188],"type":"Point"},"properties":{"osm_id":"7899795591","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.122958,54.323606],"type":"Point"},"properties":{"osm_id":"7913838266","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.132288,54.335851],"type":"Point"},"properties":{"osm_id":"7934519674","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[10.132288,54.335851],"type":"Point"},"properties":{"osm_id":"7934519674","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.144671,54.347123],"type":"Point"},"properties":{"osm_id":"8006457343","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.144999,54.347118],"type":"Point"},"properties":{"osm_id":"8006465507","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.145112,54.34674],"type":"Point"},"properties":{"osm_id":"8006465519","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

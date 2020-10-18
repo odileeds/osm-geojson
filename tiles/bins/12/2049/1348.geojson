@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[0.138708,52.21619],"type":"Point"},"properties":{"osm_id":"21137355","tag":{"amenity":"recycling","location":"overground","recycling:batteries":"yes","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[0.138708,52.21619],"type":"Point"},"properties":{"osm_id":"21137355","tag":{"amenity":"recycling","location":"overground","operator":"Salvation Army","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.152249,52.23052],"type":"Point"},"properties":{"osm_id":"21261084","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.136807,52.229673],"type":"Point"},"properties":{"osm_id":"21449507","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.126751,52.231296],"type":"Point"},"properties":{"osm_id":"21449587","tag":{"amenity":"recycling"}},"type":"Feature"},
@@ -38,6 +38,7 @@
 	{"geometry":{"coordinates":[0.135526,52.232725],"type":"Point"},"properties":{"osm_id":"7923524815","tag":{"amenity":"waste_disposal","operator":"Veolia"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.127453,52.224882],"type":"Point"},"properties":{"osm_id":"7923524816","tag":{"amenity":"recycling","operator":"Salvation Army","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.127457,52.224889],"type":"Point"},"properties":{"osm_id":"7923524817","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:cardboard":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[0.127461,52.224896],"type":"Point"},"properties":{"osm_id":"7923524818","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[0.127461,52.224896],"type":"Point"},"properties":{"osm_id":"7923524818","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[0.138721,52.2162],"type":"Point"},"properties":{"osm_id":"8016664711","tag":{"amenity":"recycling","location":"overground","operator":"Recolight","recycling:batteries":"yes","recycling:low_energy_bulbs":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

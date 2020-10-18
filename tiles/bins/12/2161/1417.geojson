@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[9.949583,48.390908],"type":"Point"},"properties":{"osm_id":"280278599","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.949534,48.390913],"type":"Point"},"properties":{"osm_id":"280278599","tag":{"amenity":"recycling","location":"overground","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.947859,48.388007],"type":"Point"},"properties":{"osm_id":"280278601","tag":{"amenity":"recycling","location":"overground","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.976985,48.35344],"type":"Point"},"properties":{"osm_id":"287363266","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.967139,48.391662],"type":"Point"},"properties":{"osm_id":"287370873","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -52,7 +52,7 @@
 	{"geometry":{"coordinates":[9.956277,48.366804],"type":"Point"},"properties":{"osm_id":"2332423901","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.970986,48.356646],"type":"Point"},"properties":{"barrier":"gate","osm_id":"2333199995"},"type":"Feature"},
 	{"geometry":{"coordinates":[9.971454,48.356538],"type":"Point"},"properties":{"barrier":"gate","osm_id":"2333200052"},"type":"Feature"},
-	{"geometry":{"coordinates":[9.970374,48.359097],"type":"Point"},"properties":{"osm_id":"2333215500","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.970374,48.359097],"type":"Point"},"properties":{"osm_id":"2333215500","tag":{"amenity":"recycling","check_date:recycling":"2020-10-12","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.970443,48.356581],"type":"Point"},"properties":{"barrier":"gate","osm_id":"2333215527"},"type":"Feature"},
 	{"geometry":{"coordinates":[9.970058,48.354781],"type":"Point"},"properties":{"osm_id":"2459926926","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.969953,48.356029],"type":"Point"},"properties":{"osm_id":"2459926962","tag":{"amenity":"waste_basket"}},"type":"Feature"},
