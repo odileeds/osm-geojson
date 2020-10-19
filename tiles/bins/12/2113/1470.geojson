@@ -785,7 +785,7 @@
 	{"geometry":{"coordinates":[5.735331,45.180358],"type":"Point"},"properties":{"osm_id":"3838127647","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.735192,45.180489],"type":"Point"},"properties":{"osm_id":"3838127649","tag":{"addr:city":"Grenoble","amenity":"recycling","location":"underground","recycling:cans":"no","recycling:clothes":"no","recycling:glass":"no","recycling:glass_bottles":"yes","recycling:paper":"no","recycling:plastic":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.741458,45.175181],"type":"Point"},"properties":{"osm_id":"3840572483","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.748941,45.20884],"type":"Point"},"properties":{"osm_id":"3840933931","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.748941,45.20884],"type":"Point"},"properties":{"osm_id":"3840933931","tag":{"amenity":"recycling","check_date:recycling":"2020-10-18","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.781305,45.173524],"type":"Point"},"properties":{"osm_id":"3841037757","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.740326,45.171137],"type":"Point"},"properties":{"osm_id":"3854293010","tag":{"amenity":"recycling","recycling:cans":"no","recycling:clothes":"no","recycling:glass":"no","recycling:glass_bottles":"yes","recycling:paper":"no","recycling:plastic":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.739848,45.171333],"type":"Point"},"properties":{"osm_id":"3854293045","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -1600,6 +1600,10 @@
 	{"geometry":{"coordinates":[5.72485,45.187944],"type":"Point"},"properties":{"osm_id":"7995205585","tag":{"amenity":"waste_basket","survey:date":"2020-10-10"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.722134,45.185101],"type":"Point"},"properties":{"osm_id":"8006992085","tag":{"amenity":"waste_basket","survey:date":"2020-10-14","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.721996,45.185267],"type":"Point"},"properties":{"osm_id":"8006992185","tag":{"amenity":"waste_basket","survey:date":"2020-10-14"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.718018,45.173407],"type":"Point"},"properties":{"osm_id":"8016402587","tag":{"amenity":"waste_basket","survey:date":"2020-10-17","waste":"recycling"}},"type":"Feature"}
+	{"geometry":{"coordinates":[5.718018,45.173407],"type":"Point"},"properties":{"osm_id":"8016402587","tag":{"amenity":"waste_basket","survey:date":"2020-10-17","waste":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.725375,45.198699],"type":"Point"},"properties":{"osm_id":"8018614087","tag":{"amenity":"waste_basket","material":"metal","survey:date":"2020-10-18","waste":"cigarettes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.725354,45.198767],"type":"Point"},"properties":{"osm_id":"8018614087","tag":{"amenity":"waste_basket","material":"metal","survey:date":"2020-10-18","waste":"cigarettes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.725018,45.198769],"type":"Point"},"properties":{"osm_id":"8018662285","tag":{"amenity":"waste_basket","survey:date":"2020-10-18","waste":"cigarettes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.724983,45.198765],"type":"Point"},"properties":{"osm_id":"8018662385","tag":{"amenity":"waste_basket","survey:date":"2020-10-18","waste":"trash"}},"type":"Feature"}
 ]
 }
