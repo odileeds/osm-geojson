@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[8.44267,48.992858],"type":"Point"},"properties":{"osm_id":"25250241","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:cans":"no","recycling:clothes":"yes","recycling:glass":"no","recycling:paper":"no","recycling:scrap_metal":"no","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.44267,48.992858],"type":"Point"},"properties":{"osm_id":"25250241","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.451314,48.994985],"type":"Point"},"properties":{"osm_id":"25250598","tag":{"amenity":"recycling","location":"overground","recycling:batteries":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.443192,49.017106],"type":"Point"},"properties":{"osm_id":"25311878","tag":{"amenity":"recycling","capacity":"3000l","check_date":"2018-03","location":"overground","manufacturer":"Kinshofer Technik","opening_hours":"24/7","operator":"Stadt Karlsruhe","operator:type":"public","recycling:clothes":"yes","recycling:others":"no","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.454301,49.027247],"type":"Point"},"properties":{"osm_id":"25313587","tag":{"amenity":"recycling","check_date":"2018-01","operator":"Stadt Karlsruhe","recycling:batteries":"yes","recycling:others":"no","recycling_type":"container"}},"type":"Feature"},
@@ -408,6 +408,7 @@
 	{"geometry":{"coordinates":[8.439284,49.017744],"type":"Point"},"properties":{"osm_id":"7918151144","tag":{"amenity":"waste_basket","ashtray":"yes","operator":"Verkehrsbetriebe Karlsruhe GmbH","support":"pole","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.439189,49.023698],"type":"Point"},"properties":{"osm_id":"7924267876","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.440962,49.022122],"type":"Point"},"properties":{"osm_id":"7924267877","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.444336,49.018602],"type":"Point"},"properties":{"osm_id":"7924267881","tag":{"amenity":"waste_basket","operator":"Stadt Karlsruhe","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[8.444336,49.018602],"type":"Point"},"properties":{"osm_id":"7924267881","tag":{"amenity":"waste_basket","operator":"Stadt Karlsruhe","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.44268,48.992843],"type":"Point"},"properties":{"osm_id":"8038292087","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }
