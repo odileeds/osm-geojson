@@ -48,7 +48,7 @@
 	{"geometry":{"coordinates":[6.951397,49.24071],"type":"Point"},"properties":{"osm_id":"1829090422","tag":{"amenity":"recycling","operator":"ZKE","recycling:cardboard":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.00559,49.235137],"type":"Point"},"properties":{"osm_id":"2098836659","ref":"Bruchwiesenstra\u00c3\u009fe","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.003183,49.235591],"type":"Point"},"properties":{"osm_id":"2098839214","ref":"Schmollerstra\u00c3\u009fe","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.00176,49.23355],"type":"Point"},"properties":{"osm_id":"2098846497","ref":"Landwehrplatz","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.001753,49.233543],"type":"Point"},"properties":{"osm_id":"2098846497","ref":"Landwehrplatz","tag":{"amenity":"recycling","opening_hours":"24/7","operator":"ZKE","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.014535,49.248583],"type":"Point"},"properties":{"osm_id":"2193593754","tag":{"amenity":"recycling","location":"overground","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.990389,49.232562],"type":"Point"},"properties":{"osm_id":"2288467898","tag":{"amenity":"recycling","recycling:cardboard":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.959359,49.255026],"type":"Point"},"properties":{"osm_id":"2378978369","tag":{"amenity":"recycling"}},"type":"Feature"},
@@ -492,7 +492,7 @@
 	{"geometry":{"coordinates":[6.996849,49.234163],"type":"Point"},"properties":{"osm_id":"6124583745","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.99736,49.234619],"type":"Point"},"properties":{"osm_id":"6124583771","tag":{"amenity":"waste_basket","operator":"ZKE","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.00216,49.234129],"type":"Point"},"properties":{"osm_id":"6131005213","tag":{"amenity":"waste_basket","operator":"ZKE","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.001668,49.233395],"type":"Point"},"properties":{"osm_id":"6131005215","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.001647,49.233386],"type":"Point"},"properties":{"osm_id":"6131005215","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.001857,49.233728],"type":"Point"},"properties":{"osm_id":"6131005225","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.982384,49.234845],"type":"Point"},"properties":{"osm_id":"6137522923","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.010235,49.229244],"type":"Point"},"properties":{"osm_id":"6138999279","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
@@ -1002,6 +1002,8 @@
 	{"geometry":{"coordinates":[7.028738,49.216743],"type":"Point"},"properties":{"osm_id":"8017185703","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.030877,49.215384],"type":"Point"},"properties":{"osm_id":"8017257472","tag":{"amenity":"waste_disposal","noname":"yes","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.029468,49.215871],"type":"Point"},"properties":{"osm_id":"8019946815","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.946363,49.240993],"type":"Point"},"properties":{"osm_id":"8022849912","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[6.946363,49.240993],"type":"Point"},"properties":{"osm_id":"8022849912","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.002176,49.232604],"type":"Point"},"properties":{"osm_id":"8040801244","tag":{"amenity":"waste_basket","colour":"black","operator":"ZKE","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.001775,49.233591],"type":"Point"},"properties":{"osm_id":"8040801249","ref":"Landwehrplatz","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 07:00-20:00; PH,Su closed","operator":"ZKE","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }
