@@ -629,7 +629,7 @@
 	{"geometry":{"coordinates":[5.737528,45.187649],"type":"Point"},"properties":{"osm_id":"2306469308","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.737996,45.187608],"type":"Point"},"properties":{"osm_id":"2306469309","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.737523,45.193039],"type":"Point"},"properties":{"osm_id":"2322091328","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.764045,45.186264],"type":"Point"},"properties":{"osm_id":"2327936063","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.764045,45.186264],"type":"Point"},"properties":{"osm_id":"2327936063","tag":{"amenity":"recycling","check_date:recycling":"2020-10-24","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.721371,45.190423],"type":"Point"},"properties":{"osm_id":"2340433390","tag":{"amenity":"waste_basket","survey:date":"2019-09-21"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.788144,45.181248],"type":"Point"},"properties":{"osm_id":"2345281054","tag":{"amenity":"waste_basket","network":"TAG"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.725713,45.176128],"type":"Point"},"properties":{"name":"Union locale des initiatives solidaires au service de l'emploi","osm_id":"2433476644","tag":{"addr:city":"Grenoble","addr:housenumber":"2","addr:postcode":"38100","addr:street":"Rue Hippolyte M\u00c3\u00bcller","alt_name":"ULISSE Grenoble Solidarit\u00c3\u00a9","amenity":"recycling","office":"association","opening_hours":"Tu,Fr 09:30-16:30; Sa[2] 09:30-13:00","phone":"+33 4 76 26 66 94","recycling_type":"centre","shop":"second_hand","short_name":"ULISSE","website":"https://www.ulisse38.com/6794-page-2.htm","wheelchair":"yes"}},"type":"Feature"},
@@ -1604,6 +1604,9 @@
 	{"geometry":{"coordinates":[5.725375,45.198699],"type":"Point"},"properties":{"osm_id":"8018614087","tag":{"amenity":"waste_basket","material":"metal","survey:date":"2020-10-18","waste":"cigarettes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.725018,45.198769],"type":"Point"},"properties":{"osm_id":"8018662285","tag":{"amenity":"waste_basket","survey:date":"2020-10-18","waste":"cigarettes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.724983,45.198765],"type":"Point"},"properties":{"osm_id":"8018662385","tag":{"amenity":"waste_basket","survey:date":"2020-10-18","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.727522,45.18325],"type":"Point"},"properties":{"osm_id":"8035337385","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[5.727522,45.18325],"type":"Point"},"properties":{"osm_id":"8035337385","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.761471,45.175923],"type":"Point"},"properties":{"osm_id":"8042204068","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.761462,45.175812],"type":"Point"},"properties":{"osm_id":"8042207824","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.772699,45.180758],"type":"Point"},"properties":{"osm_id":"8042581385","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
 ]
 }
