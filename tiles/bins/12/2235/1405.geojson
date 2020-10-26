@@ -1,10 +1,10 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[16.465052,49.073233],"type":"Point"},"properties":{"osm_id":"5964349594","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.465052,49.073233],"type":"Point"},"properties":{"osm_id":"5964349594","tag":{"amenity":"recycling","recycling:electronics":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.494035,49.075391],"type":"Point"},"properties":{"osm_id":"6521360103","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[16.488041,49.05552],"type":"Point"},"properties":{"osm_id":"7660447379","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[16.487903,49.055627],"type":"Point"},"properties":{"osm_id":"7660447380","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.488041,49.05552],"type":"Point"},"properties":{"osm_id":"7660447379","tag":{"amenity":"recycling","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.487903,49.055627],"type":"Point"},"properties":{"osm_id":"7660447380","tag":{"amenity":"recycling","recycling:bio_waste":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.443693,49.078225],"type":"Point"},"properties":{"osm_id":"7703362015","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.442209,49.069471],"type":"Point"},"properties":{"osm_id":"7703362111","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.438956,49.073885],"type":"Point"},"properties":{"osm_id":"7703362157","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
