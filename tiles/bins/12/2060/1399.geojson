@@ -466,7 +466,7 @@
 	{"geometry":{"coordinates":[1.081742,49.436158],"type":"Point"},"properties":{"osm_id":"4687405808","tag":{"access":"yes","amenity":"waste_disposal","fee":"no","operator":"Syndicat mixte d\u00e2\u0080\u0099\u00c3\u00a9limination des d\u00c3\u00a9chets de l\u00e2\u0080\u0099arrondissement de Rouen","waste":"trash","wheelchair":"no"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.084081,49.409532],"type":"Point"},"properties":{"osm_id":"4689231102","tag":{"amenity":"waste_basket","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.079129,49.410655],"type":"Point"},"properties":{"osm_id":"4689263343","tag":{"amenity":"waste_basket","wheelchair":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[1.078956,49.410567],"type":"Point"},"properties":{"osm_id":"4689263345","tag":{"amenity":"waste_basket","wheelchair":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[1.078954,49.410579],"type":"Point"},"properties":{"osm_id":"4689263345","tag":{"amenity":"waste_basket","waste":"trash","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.061763,49.395811],"type":"Point"},"properties":{"osm_id":"4689353435","tag":{"amenity":"waste_basket","waste":"trash","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.062241,49.396011],"type":"Point"},"properties":{"osm_id":"4689353436","tag":{"amenity":"recycling","fee":"no","operator":"Le Relais","recycling:clothes":"yes","recycling:shoes":"yes","recycling:textiles":"yes","recycling_type":"container","wheelchair":"no"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.061855,49.395929],"type":"Point"},"properties":{"osm_id":"4689353437","tag":{"amenity":"waste_basket","waste":"trash","wheelchair":"yes"}},"type":"Feature"},
@@ -494,7 +494,7 @@
 	{"geometry":{"coordinates":[1.092213,49.42802],"type":"Point"},"properties":{"osm_id":"4691476944","tag":{"access":"yes","amenity":"recycling","fee":"no","operator":"Syndicat mixte d\u00e2\u0080\u0099\u00c3\u00a9limination des d\u00c3\u00a9chets de l\u00e2\u0080\u0099arrondissement de Rouen","recycling:cans":"yes","recycling:cardboard":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.092245,49.427994],"type":"Point"},"properties":{"osm_id":"4691476945","tag":{"access":"yes","amenity":"waste_disposal","fee":"no","operator":"Syndicat mixte d\u00e2\u0080\u0099\u00c3\u00a9limination des d\u00c3\u00a9chets de l\u00e2\u0080\u0099arrondissement de Rouen","waste":"trash","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.091799,49.439535],"type":"Point"},"properties":{"osm_id":"4692399127","tag":{"amenity":"waste_basket","waste":"trash","wheelchair":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[1.089222,49.408278],"type":"Point"},"properties":{"osm_id":"4693931850","tag":{"amenity":"waste_basket","wheelchair":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[1.089222,49.408278],"type":"Point"},"properties":{"osm_id":"4693931850","tag":{"amenity":"waste_basket","waste":"trash","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.0908,49.439291],"type":"Point"},"properties":{"osm_id":"4708763054","tag":{"amenity":"recycling","fee":"no","operator":"Syndicat mixte d\u00e2\u0080\u0099\u00c3\u00a9limination des d\u00c3\u00a9chets de l\u00e2\u0080\u0099arrondissement de Rouen","recycling:glass_bottles":"yes","recycling:glass_jars":"yes","recycling_type":"container","wheelchair":"no"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.090842,49.439281],"type":"Point"},"properties":{"osm_id":"4708763055","tag":{"amenity":"waste_basket","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.090753,49.439301],"type":"Point"},"properties":{"osm_id":"4708763056","tag":{"amenity":"recycling","fee":"no","operator":"Syndicat mixte d\u00e2\u0080\u0099\u00c3\u00a9limination des d\u00c3\u00a9chets de l\u00e2\u0080\u0099arrondissement de Rouen","recycling:cans":"yes","recycling:cartons":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container","wheelchair":"no"}},"type":"Feature"},
@@ -1127,6 +1127,9 @@
 	{"geometry":{"coordinates":[1.071147,49.414869],"type":"Point"},"properties":{"osm_id":"8041720255","tag":{"amenity":"waste_basket","waste":"trash","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.070809,49.415533],"type":"Point"},"properties":{"osm_id":"8041720264","tag":{"amenity":"waste_basket","waste":"trash","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.071023,49.415766],"type":"Point"},"properties":{"osm_id":"8041720265","tag":{"amenity":"waste_basket","waste":"trash","wheelchair":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[1.097076,49.418221],"type":"Point"},"properties":{"osm_id":"8048159881","tag":{"amenity":"waste_basket","waste":"trash","wheelchair":"yes"}},"type":"Feature"}
+	{"geometry":{"coordinates":[1.097076,49.418221],"type":"Point"},"properties":{"osm_id":"8048159881","tag":{"amenity":"waste_basket","waste":"trash","wheelchair":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[1.082109,49.409797],"type":"Point"},"properties":{"osm_id":"8051234395","tag":{"amenity":"waste_basket","waste":"trash","wheelchair":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[1.082112,49.409797],"type":"Point"},"properties":{"osm_id":"8051234395","tag":{"amenity":"waste_basket","waste":"trash","wheelchair":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[1.089895,49.408072],"type":"Point"},"properties":{"osm_id":"8053212579","tag":{"amenity":"waste_basket","waste":"trash","wheelchair":"yes"}},"type":"Feature"}
 ]
 }

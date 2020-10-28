@@ -2,10 +2,14 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[12.072576,50.545371],"type":"Point"},"properties":{"osm_id":"1029657899","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.084359,50.542031],"type":"Point"},"properties":{"osm_id":"1029657954","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.08441,50.542288],"type":"Point"},"properties":{"osm_id":"1029657954","tag":{"amenity":"recycling","location":"overground","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.111551,50.521712],"type":"Point"},"properties":{"osm_id":"5305735847","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.090026,50.550476],"type":"Point"},"properties":{"osm_id":"7416259512","tag":{"amenity":"waste_basket","material":"metal","operator":"Gemeinde Syrau","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.051655,50.538425],"type":"Point"},"properties":{"osm_id":"7902260519","tag":{"amenity":"waste_basket","colour":"gray","material":"metal","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.06809,50.541544],"type":"Point"},"properties":{"osm_id":"8043628580","tag":{"amenity":"waste_basket","colour":"brown","material":"wood","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[12.06809,50.541544],"type":"Point"},"properties":{"osm_id":"8043628580","tag":{"amenity":"waste_basket","colour":"brown","material":"wood","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.084394,50.542264],"type":"Point"},"properties":{"osm_id":"8049299868","tag":{"amenity":"recycling","location":"overground","recycling:small_electrical_appliances":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.084424,50.542311],"type":"Point"},"properties":{"osm_id":"8049299869","tag":{"amenity":"recycling","location":"overground","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.084441,50.542333],"type":"Point"},"properties":{"osm_id":"8049299870","tag":{"amenity":"recycling","location":"overground","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.078384,50.542319],"type":"Point"},"properties":{"osm_id":"8050882205","tag":{"amenity":"waste_basket","colour":"brown","material":"wood","waste":"trash"}},"type":"Feature"}
 ]
 }
