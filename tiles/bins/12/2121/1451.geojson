@@ -13,7 +13,7 @@
 	{"geometry":{"coordinates":[6.483196,46.374731],"type":"Point"},"properties":{"osm_id":"3081615038","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.483578,46.37655],"type":"Point"},"properties":{"osm_id":"3081615044","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.483887,46.374218],"type":"Point"},"properties":{"osm_id":"3093991834","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.432591,46.33642],"type":"Point"},"properties":{"osm_id":"4839609423","tag":{"amenity":"recycling","location":"underground","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.432591,46.33642],"type":"Point"},"properties":{"osm_id":"4839609423","tag":{"amenity":"recycling","location":"underground","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.46031,46.360321],"type":"Point"},"properties":{"osm_id":"5016160610","tag":{"addr:city":"Thonon-les-Bains","addr:street":"Chemin de Morcy","amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.46048,46.358238],"type":"Point"},"properties":{"osm_id":"5016160611","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.431287,46.337711],"type":"Point"},"properties":{"osm_id":"5086470236","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -58,6 +58,8 @@
 	{"geometry":{"coordinates":[6.452855,46.358007],"type":"Point"},"properties":{"osm_id":"7980731698","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.452274,46.358347],"type":"Point"},"properties":{"osm_id":"7980731701","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.452215,46.358575],"type":"Point"},"properties":{"osm_id":"7980731703","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.466666,46.36845],"type":"Point"},"properties":{"osm_id":"8003525402","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[6.466666,46.36845],"type":"Point"},"properties":{"osm_id":"8003525402","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.496911,46.373018],"type":"Point"},"properties":{"osm_id":"8063477497","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.498588,46.374064],"type":"Point"},"properties":{"osm_id":"8063477514","tag":{"access":"private","amenity":"waste_disposal","waste":"trash"}},"type":"Feature"}
 ]
 }
