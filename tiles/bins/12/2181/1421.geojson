@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[11.738056,48.115127],"type":"Point"},"properties":{"osm_id":"259246792","tag":{"addr:city":"Haar","addr:country":"DE","addr:street":"Leibstra\u00c3\u009fe","amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container","underground":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.738056,48.115127],"type":"Point"},"properties":{"osm_id":"259246792","tag":{"addr:city":"Haar","addr:country":"DE","addr:street":"Leibstra\u00c3\u009fe","amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.714458,48.131555],"type":"Point"},"properties":{"osm_id":"292736042","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container","underground":"yes","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.750286,48.16231],"type":"Point"},"properties":{"osm_id":"293816066","tag":{"addr:city":"Kirchheim","addr:postcode":"85551","addr:street":"Am Sportpark","amenity":"recycling","opening_hours":"08:00-20:00","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.757605,48.123239],"type":"Point"},"properties":{"osm_id":"339246648","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -241,6 +241,12 @@
 	{"geometry":{"coordinates":[11.69732,48.131485],"type":"Point"},"properties":{"osm_id":"7996781575","tag":{"amenity":"recycling","location":"underground","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.758402,48.164911],"type":"Point"},"properties":{"osm_id":"8042594341","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.758687,48.165],"type":"Point"},"properties":{"osm_id":"8042594343","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.75998,48.166002],"type":"Point"},"properties":{"osm_id":"8043990408","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[11.75998,48.166002],"type":"Point"},"properties":{"osm_id":"8043990408","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.746926,48.116692],"type":"Point"},"properties":{"osm_id":"8077936850","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.746818,48.116731],"type":"Point"},"properties":{"osm_id":"8077940341","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.745677,48.117146],"type":"Point"},"properties":{"osm_id":"8077946973","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.73733,48.114985],"type":"Point"},"properties":{"osm_id":"8077953732","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.738073,48.115102],"type":"Point"},"properties":{"osm_id":"8077954568","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.731851,48.113194],"type":"Point"},"properties":{"osm_id":"8077956149","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

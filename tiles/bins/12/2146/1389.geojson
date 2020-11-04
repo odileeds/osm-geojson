@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[8.655479,49.991799],"type":"Point"},"properties":{"osm_id":"290866194","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.655479,49.991799],"type":"Point"},"properties":{"osm_id":"290866194","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.649333,49.994139],"type":"Point"},"properties":{"osm_id":"290866198","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.65685,49.991932],"type":"Point"},"properties":{"osm_id":"313077671","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.691916,49.982059],"type":"Point"},"properties":{"osm_id":"346280306","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -80,6 +80,7 @@
 	{"geometry":{"coordinates":[8.659249,49.994898],"type":"Point"},"properties":{"osm_id":"7727091827","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.658732,49.980645],"type":"Point"},"properties":{"osm_id":"8003042919","tag":{"amenity":"waste_basket","material":"steel","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.668066,49.964942],"type":"Point"},"properties":{"osm_id":"8022417265","tag":{"amenity":"waste_basket","material":"metal","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.670463,49.983929],"type":"Point"},"properties":{"osm_id":"8025745772","tag":{"amenity":"recycling"}},"type":"Feature"}
+	{"geometry":{"coordinates":[8.670463,49.983929],"type":"Point"},"properties":{"osm_id":"8025745772","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.654686,49.991764],"type":"Point"},"properties":{"osm_id":"8077719927","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }
