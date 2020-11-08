@@ -28,9 +28,9 @@
 	{"geometry":{"coordinates":[8.503972,49.112409],"type":"Point"},"properties":{"osm_id":"3578349871","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.50485,49.112592],"type":"Point"},"properties":{"osm_id":"3578349884","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.505164,49.112779],"type":"Point"},"properties":{"osm_id":"3578350003","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.477095,49.109879],"type":"Point"},"properties":{"osm_id":"3760130861","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.477118,49.109971],"type":"Point"},"properties":{"barrier":"gate","osm_id":"3760130863"},"type":"Feature"},
-	{"geometry":{"coordinates":[8.477096,49.110138],"type":"Point"},"properties":{"barrier":"gate","osm_id":"3760130867","tag":{"traffic_sign:backward":"DE:267"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.477106,49.109909],"type":"Point"},"properties":{"osm_id":"3760130861","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.477116,49.109969],"type":"Point"},"properties":{"barrier":"gate","osm_id":"3760130863"},"type":"Feature"},
+	{"geometry":{"coordinates":[8.477089,49.110138],"type":"Point"},"properties":{"barrier":"gate","osm_id":"3760130867","tag":{"traffic_sign:backward":"DE:267"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.45434,49.116497],"type":"Point"},"properties":{"osm_id":"4098317091","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.508428,49.108829],"type":"Point"},"properties":{"osm_id":"4238198438","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.521123,49.124168],"type":"Point"},"properties":{"osm_id":"4389500164","tag":{"amenity":"recycling","capacity":"1","lastcheck":"2016-09-07","operator":"Sehbehinderten Selbsthilfe Kurpfalz-Odenwald e.V.","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -51,12 +51,16 @@
 	{"geometry":{"coordinates":[8.519054,49.130472],"type":"Point"},"properties":{"osm_id":"5611129394","tag":{"amenity":"recycling","operator":"D\u00c3\u00a4sa Wiederverwertungs GmbH","recycling:clothes":"yes","recycling:others":"no","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.51393,49.118446],"type":"Point"},"properties":{"osm_id":"5679982372","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:clothes":"yes","recycling:others":"no","recycling:shoes":"unknown","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.501391,49.111303],"type":"Point"},"properties":{"osm_id":"5732508329","tag":{"amenity":"recycling","operator":"Suez S\u00c3\u00bcd GmbH","recycling:glass_bottles":"yes","recycling:others":"no","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.496066,49.116452],"type":"Point"},"properties":{"osm_id":"5908865710","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.496173,49.116415],"type":"Point"},"properties":{"osm_id":"5908865711","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.49612,49.11651],"type":"Point"},"properties":{"osm_id":"5908865712","tag":{"amenity":"recycling","recycling:green_waste":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.49595,49.11652],"type":"Point"},"properties":{"osm_id":"5908865710","tag":{"amenity":"recycling","opening_hours":"24/7","recycling:glass_bottles":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.496276,49.11653],"type":"Point"},"properties":{"osm_id":"5908865711","tag":{"amenity":"recycling","recycling:hardcore":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.496102,49.116519],"type":"Point"},"properties":{"osm_id":"5908865712","tag":{"amenity":"recycling","recycling:green_waste":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.504572,49.112936],"type":"Point"},"properties":{"osm_id":"6404655080","tag":{"amenity":"recycling","check_date":"2019-04","operator":"Suez S\u00c3\u00bcd GmbH","recycling:glass_bottles":"yes","recycling:others":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.505332,49.125716],"type":"Point"},"properties":{"osm_id":"7692927746","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.483345,49.106532],"type":"Point"},"properties":{"osm_id":"7796885192","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.48358,49.106571],"type":"Point"},"properties":{"osm_id":"7796885193","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[8.48358,49.106571],"type":"Point"},"properties":{"osm_id":"7796885193","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.496433,49.116526],"type":"Point"},"properties":{"osm_id":"8090506313","tag":{"amenity":"recycling","recycling:green_waste":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.496231,49.116537],"type":"Point"},"properties":{"osm_id":"8090524818","tag":{"amenity":"recycling","recycling:styrofoam":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.496534,49.116464],"type":"Point"},"properties":{"barrier":"gate","osm_id":"8090524828"},"type":"Feature"},
+	{"geometry":{"coordinates":[8.477089,49.109975],"type":"Point"},"properties":{"osm_id":"8090792832","tag":{"planned:barrier":"gate"}},"type":"Feature"}
 ]
 }

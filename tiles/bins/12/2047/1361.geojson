@@ -118,7 +118,7 @@
 	{"geometry":{"coordinates":[-0.015928,51.560303],"type":"Point"},"properties":{"osm_id":"2404050035","tag":{"entrance":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.086903,51.547012],"type":"Point"},"properties":{"osm_id":"2508652053","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.078031,51.547192],"type":"Point"},"properties":{"osm_id":"2525146387","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.06825,51.514916],"type":"Point"},"properties":{"osm_id":"2640698053","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.06825,51.514916],"type":"Point"},"properties":{"osm_id":"2640698053","tag":{"amenity":"waste_basket","operator":"Tower Hamlets"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.01504,51.548429],"type":"Point"},"properties":{"highway":"crossing","osm_id":"2775993676","tag":{"crossing":"uncontrolled","crossing_ref":"zebra"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.01182,51.550785],"type":"Point"},"properties":{"osm_id":"2786623000","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.053046,51.527748],"type":"Point"},"properties":{"name":"Globe Town Neighbourhood Recycling Centre","osm_id":"3075670569","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
@@ -496,6 +496,11 @@
 	{"geometry":{"coordinates":[-0.045682,51.545993],"type":"Point"},"properties":{"osm_id":"8041901185","tag":{"amenity":"recycling","recycling:clothes":"no","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container","survey:date":"2020-10-24"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.045576,51.545298],"type":"Point"},"properties":{"osm_id":"8041901285","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container","survey:date":"2020-10-24"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.043743,51.546071],"type":"Point"},"properties":{"osm_id":"8041919886","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container","survey:date":"2020-10-24"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.021949,51.545799],"type":"Point"},"properties":{"osm_id":"8063621425","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-0.021949,51.545799],"type":"Point"},"properties":{"osm_id":"8063621425","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.0679,51.516174],"type":"Point"},"properties":{"osm_id":"8091293580","tag":{"amenity":"waste_basket","colour":"black","material":"plastic","operator":"Tower Hamlets"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.067864,51.516143],"type":"Point"},"properties":{"osm_id":"8091293581","tag":{"amenity":"waste_basket","colour":"black","material":"plastic","operator":"Tower Hamlets"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.072135,51.515267],"type":"Point"},"properties":{"osm_id":"8091293582","tag":{"amenity":"waste_basket","colour":"black","material":"plastic","operator":"Tower Hamlets"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.073488,51.514583],"type":"Point"},"properties":{"osm_id":"8091293584","tag":{"amenity":"waste_basket","colour":"black","material":"plastic","operator":"Tower Hamlets"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.064085,51.513125],"type":"Point"},"properties":{"osm_id":"8091293595","tag":{"amenity":"recycling","operator":"Tower Hamlets","recycling_type":"container"}},"type":"Feature"}
 ]
 }
