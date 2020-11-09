@@ -12,7 +12,7 @@
 	{"geometry":{"coordinates":[8.078987,52.258681],"type":"Point"},"properties":{"osm_id":"933292643","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 07:00-20:00; PH off","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.065087,52.245854],"type":"Point"},"properties":{"osm_id":"943448098","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.045293,52.254886],"type":"Point"},"properties":{"osm_id":"1016598692","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.042498,52.25621],"type":"Point"},"properties":{"osm_id":"1016598759","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.042498,52.25621],"type":"Point"},"properties":{"osm_id":"1016598759","tag":{"amenity":"recycling","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.067887,52.265607],"type":"Point"},"properties":{"osm_id":"1025426946","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.071479,52.255197],"type":"Point"},"properties":{"osm_id":"1033540069","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.066602,52.255575],"type":"Point"},"properties":{"osm_id":"1033540090","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -94,6 +94,6 @@
 	{"geometry":{"coordinates":[8.019425,52.261924],"type":"Point"},"properties":{"osm_id":"7389616745","tag":{"addr:city":"Osnabr\u00c3\u00bcck","addr:postcode":"49080","addr:street":"Quellwiese","amenity":"recycling","opening_hours":"24/7","recycling:clothes":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.04624,52.257006],"type":"Point"},"properties":{"osm_id":"7555521152","tag":{"amenity":"waste_basket","material":"steel","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.046601,52.257329],"type":"Point"},"properties":{"osm_id":"7555521154","tag":{"amenity":"waste_basket","material":"steel","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.042547,52.256315],"type":"Point"},"properties":{"osm_id":"7628454689","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[8.042547,52.256315],"type":"Point"},"properties":{"osm_id":"7628454689","tag":{"amenity":"recycling","operator":"SP Textilverwertung","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }
