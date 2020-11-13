@@ -3,7 +3,7 @@
 "name": "points",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "osm_id": "256116174", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ 0.161124, 51.4099308 ] } },
+{ "type": "Feature", "properties": { "osm_id": "256116174", "other_tags": "\"amenity\"=>\"recycling\",\"recycling:clothes\"=>\"yes\",\"recycling:glass\"=>\"yes\",\"recycling:paper\"=>\"no\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ 0.1616806, 51.4102018 ] } },
 { "type": "Feature", "properties": { "osm_id": "269804946", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ 0.196218, 51.43119 ] } },
 { "type": "Feature", "properties": { "osm_id": "332506438", "other_tags": "\"amenity\"=>\"recycling\",\"recycling:cans\"=>\"yes\",\"recycling:glass\"=>\"yes\",\"recycling:paper\"=>\"yes\",\"recycling:clothes\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ 0.2284846, 51.4501518 ] } },
 { "type": "Feature", "properties": { "osm_id": "448012034", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ 0.2607291, 51.4428669 ] } },
