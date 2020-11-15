@@ -205,7 +205,7 @@
 	{"geometry":{"coordinates":[4.84484,45.777596],"type":"Point"},"properties":{"osm_id":"4941267950","tag":{"amenity":"waste_basket","operator":"Grand Lyon"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.856995,45.803998],"type":"Point"},"properties":{"osm_id":"4959568454","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:fluorescent_tubes":"yes","recycling:light_bulbs":"yes","recycling:low_energy_bulbs":"yes","recycling:printer_inkjet_cartridges":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.836607,45.767554],"type":"Point"},"properties":{"osm_id":"5015968947","tag":{"amenity":"waste_basket","operator":"Grand Lyon"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.861174,45.772837],"type":"Point"},"properties":{"osm_id":"5064882094","tag":{"amenity":"recycling","check_date:recycling":"2020-10-03","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.861174,45.772837],"type":"Point"},"properties":{"osm_id":"5064882094","tag":{"amenity":"recycling","check_date:recycling":"2020-10-03","operator":"Le Relais","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.843783,45.777354],"type":"Point"},"properties":{"osm_id":"5082411679","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.860123,45.774585],"type":"Point"},"properties":{"osm_id":"5109940483","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.836897,45.802434],"type":"Point"},"properties":{"osm_id":"5113206902","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -512,6 +512,7 @@
 	{"geometry":{"coordinates":[4.834113,45.770521],"type":"Point"},"properties":{"osm_id":"8107344792","tag":{"amenity":"waste_basket","material":"plastic"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.834452,45.771708],"type":"Point"},"properties":{"osm_id":"8110932582","tag":{"access":"private","amenity":"recycling","recycling:aluminium":"yes","recycling:cartons":"yes","recycling:iron":"yes","recycling:paper":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container mobile mixed"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.835139,45.771903],"type":"Point"},"properties":{"osm_id":"8110932596","tag":{"access":"private","amenity":"waste_disposal","level":"0"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.835137,45.771909],"type":"Point"},"properties":{"osm_id":"8110932597","tag":{"access":"private","amenity":"recycling","level":"0","recycling_type":"container mobile mixed"}},"type":"Feature"}
+	{"geometry":{"coordinates":[4.835137,45.771909],"type":"Point"},"properties":{"osm_id":"8110932597","tag":{"access":"private","amenity":"recycling","level":"0","recycling_type":"container mobile mixed"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.863971,45.774981],"type":"Point"},"properties":{"osm_id":"8119026229","tag":{"amenity":"recycling","opening_hours":"Th 18:30-19:30","operator":"Ecolo Tonkin","recycling:green_waste":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }
