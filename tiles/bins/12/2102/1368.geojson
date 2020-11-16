@@ -3,7 +3,7 @@
 "features": [
 	{"geometry":{"coordinates":[4.756996,51.141909],"type":"Point"},"properties":{"osm_id":"291019695","tag":{"amenity":"recycling","recycling:clothes":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.820236,51.173028],"type":"Point"},"properties":{"osm_id":"1243283881","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:scrap_metal":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.754813,51.168424],"type":"Point"},"properties":{"osm_id":"5082608284","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.754813,51.168424],"type":"Point"},"properties":{"osm_id":"5082608284","tag":{"amenity":"waste_basket","colour":"green","material":"plastic","operator":"Gemeente Grobbendonk","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.75782,51.136648],"type":"Point"},"properties":{"osm_id":"5521092562","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.758865,51.136029],"type":"Point"},"properties":{"osm_id":"5521092585","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.758588,51.135947],"type":"Point"},"properties":{"osm_id":"5521092592","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -22,6 +22,11 @@
 	{"geometry":{"coordinates":[4.833562,51.178993],"type":"Point"},"properties":{"osm_id":"8072442795","tag":{"amenity":"waste_basket","colour":"grey","material":"metal","operator":"Stad Herentals","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.833016,51.179068],"type":"Point"},"properties":{"osm_id":"8072442796","tag":{"amenity":"waste_basket","colour":"grey","material":"metal","operator":"Stad Herentals","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.833221,51.179156],"type":"Point"},"properties":{"osm_id":"8072442797","tag":{"amenity":"waste_basket","colour":"grey","material":"metal","operator":"Stad Herentals","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.832202,51.178711],"type":"Point"},"properties":{"osm_id":"8072442798","tag":{"amenity":"waste_basket","colour":"grey","material":"metal","operator":"Stad Herentals","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[4.832202,51.178711],"type":"Point"},"properties":{"osm_id":"8072442798","tag":{"amenity":"waste_basket","colour":"grey","material":"metal","operator":"Stad Herentals","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.749793,51.165105],"type":"Point"},"properties":{"osm_id":"8120853444","tag":{"amenity":"waste_basket","colour":"green","material":"plastic","operator":"Gemeente Grobbendonk","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.762367,51.175694],"type":"Point"},"properties":{"osm_id":"8121577693","tag":{"amenity":"waste_basket","colour":"grey-yellow","material":"metal","operator":"De Lijn (Gemeente Grobbendonk)","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.752653,51.174247],"type":"Point"},"properties":{"osm_id":"8121639927","tag":{"amenity":"waste_basket","colour":"grey-yellow","material":"metal","operator":"De Lijn (Gemeente Grobbendonk)","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.76791,51.176547],"type":"Point"},"properties":{"osm_id":"8121657393","tag":{"amenity":"waste_basket","colour":"grey-yellow","material":"metal","operator":"De Lijn (Gemeente Grobbendonk)","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.767994,51.176699],"type":"Point"},"properties":{"osm_id":"8121657400","tag":{"amenity":"waste_basket","colour":"grey-yellow","material":"metal","operator":"De Lijn (Gemeente Grobbendonk)","waste":"trash"}},"type":"Feature"}
 ]
 }
