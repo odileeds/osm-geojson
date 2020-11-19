@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-86.080735,40.866069],"type":"Point"},"properties":{"name":"Denver Recycling Drop Off","osm_id":"6935649002","tag":{"addr:housenumber":"352","addr:street":"West Harrison Street","amenity":"recycling","opening_hours":"24/7","operator":"Miami County Recycling District","recycling_type":"container","website":"https://www.miamicountyin.gov/293/Recycling-Drop-Off"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-86.080735,40.866069],"type":"Point"},"properties":{"name":"Denver Recycling Drop Off","osm_id":"6935649002","tag":{"addr:housenumber":"352","addr:street":"West Harrison Street","amenity":"recycling","opening_hours":"24/7","operator":"Miami County Recycling District","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container","website":"https://www.miamicountyin.gov/293/Recycling-Drop-Off"}},"type":"Feature"}
 ]
 }

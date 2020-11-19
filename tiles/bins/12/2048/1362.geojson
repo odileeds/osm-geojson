@@ -44,7 +44,7 @@
 	{"geometry":{"coordinates":[0.000568,51.476642],"type":"Point"},"properties":{"osm_id":"3760810207","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.002019,51.474353],"type":"Point"},"properties":{"osm_id":"3760810212","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.000745,51.475811],"type":"Point"},"properties":{"osm_id":"3760810214","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[0.023439,51.488554],"type":"Point"},"properties":{"osm_id":"3785949987","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[0.023439,51.488554],"type":"Point"},"properties":{"osm_id":"3785949987","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.079319,51.458986],"type":"Point"},"properties":{"osm_id":"4085403493","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.000126,51.477137],"type":"Point"},"properties":{"osm_id":"4524694516","tag":{"amenity":"waste_basket","description":"dog"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.033854,51.501673],"type":"Point"},"properties":{"osm_id":"4715725456","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -180,6 +180,7 @@
 	{"geometry":{"coordinates":[0.034338,51.500268],"type":"Point"},"properties":{"osm_id":"8117462550","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.027726,51.504086],"type":"Point"},"properties":{"osm_id":"8121157467","tag":{"amenity":"waste_disposal","waste":"household"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.027402,51.504095],"type":"Point"},"properties":{"osm_id":"8121157468","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
-	{"geometry":{"coordinates":[0.023289,51.499081],"type":"Point"},"properties":{"osm_id":"8121272260","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[0.023289,51.499081],"type":"Point"},"properties":{"osm_id":"8121272260","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[0.0677,51.506931],"type":"Point"},"properties":{"osm_id":"8140130864","tag":{"amenity":"recycling","operator":"British Heart Foundation","recycling:books":"yes","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }
