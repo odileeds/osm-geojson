@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[4.991488,51.1761],"type":"Point"},"properties":{"osm_id":"1578782628","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.004136,51.145017],"type":"Point"},"properties":{"osm_id":"1707637545","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.004136,51.145017],"type":"Point"},"properties":{"osm_id":"1707637545","tag":{"amenity":"waste_basket","operator":"Stad Geel"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.992484,51.173704],"type":"Point"},"properties":{"osm_id":"2995564608","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.96997,51.158518],"type":"Point"},"properties":{"barrier":"gate","osm_id":"3065907066"},"type":"Feature"},
 	{"geometry":{"coordinates":[4.969555,51.158984],"type":"Point"},"properties":{"barrier":"gate","osm_id":"3065907072"},"type":"Feature"},
@@ -20,7 +20,7 @@
 	{"geometry":{"coordinates":[5.001434,51.163193],"type":"Point"},"properties":{"osm_id":"6517915797","tag":{"amenity":"recycling","operator":"VICT","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.941215,51.131823],"type":"Point"},"properties":{"osm_id":"6564208134","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.008606,51.127332],"type":"Point"},"properties":{"osm_id":"6595261737","tag":{"amenity":"waste_basket","colour":"yellow","material":"steel"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.008375,51.127344],"type":"Point"},"properties":{"osm_id":"6595261738","tag":{"amenity":"waste_basket","colour":"yellow","material":"steel"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.008386,51.127057],"type":"Point"},"properties":{"osm_id":"6595261738","tag":{"amenity":"waste_basket","colour":"yellow","material":"steel","operator":"Stad Geel"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.004523,51.161586],"type":"Point"},"properties":{"osm_id":"6630736205","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.982704,51.161093],"type":"Point"},"properties":{"osm_id":"6636885874","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.980845,51.158379],"type":"Point"},"properties":{"osm_id":"6842652730","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -158,6 +158,8 @@
 	{"geometry":{"coordinates":[4.961284,51.163808],"type":"Point"},"properties":{"osm_id":"8137219153","tag":{"amenity":"waste_basket","operator":"Stad Geel"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.961431,51.163793],"type":"Point"},"properties":{"osm_id":"8137219154","tag":{"amenity":"waste_basket","operator":"Stad Geel"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.961521,51.163438],"type":"Point"},"properties":{"osm_id":"8137219210","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.961171,51.163494],"type":"Point"},"properties":{"osm_id":"8137219212","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[4.961171,51.163494],"type":"Point"},"properties":{"osm_id":"8137219212","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.008972,51.127628],"type":"Point"},"properties":{"osm_id":"8143474761","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.008494,51.130046],"type":"Point"},"properties":{"osm_id":"8143474765","tag":{"amenity":"waste_basket","operator":"Stad Geel"}},"type":"Feature"}
 ]
 }
