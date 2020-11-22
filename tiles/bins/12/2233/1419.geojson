@@ -1,9 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[16.344641,48.230063],"type":"Point"},"properties":{"osm_id":"279613405","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.344641,48.230063],"type":"Point"},"properties":{"osm_id":"279613405","tag":{"amenity":"recycling","location":"overground","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:plastic":"no","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.344622,48.224978],"type":"Point"},"properties":{"osm_id":"279871551","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[16.346196,48.231376],"type":"Point"},"properties":{"osm_id":"280134722","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.346196,48.231376],"type":"Point"},"properties":{"osm_id":"280134722","tag":{"amenity":"recycling","location":"overground","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:green_waste":"yes","recycling:paper":"yes","recycling:plastic":"no","recycling:plastic_packaging":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.347236,48.233254],"type":"Point"},"properties":{"osm_id":"280137682","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.335145,48.228601],"type":"Point"},"properties":{"osm_id":"280539797","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.333976,48.225166],"type":"Point"},"properties":{"osm_id":"280540477","tag":{"amenity":"recycling","location":"overground","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -32,7 +32,7 @@
 	{"geometry":{"coordinates":[16.305563,48.233987],"type":"Point"},"properties":{"osm_id":"294151627","tag":{"amenity":"recycling","recycling:green_waste":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.316236,48.236597],"type":"Point"},"properties":{"osm_id":"294151635","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:green_waste":"yes","recycling:paper":"yes","recycling:plastic_bottles":"yes","recycling:scrap_metal":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.337879,48.233918],"type":"Point"},"properties":{"osm_id":"299595879","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[16.345379,48.2294],"type":"Point"},"properties":{"osm_id":"306005710","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.345379,48.2294],"type":"Point"},"properties":{"osm_id":"306005710","tag":{"amenity":"recycling","location":"overground","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:plastic":"no","recycling:plastic_packaging":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.327322,48.235151],"type":"Point"},"properties":{"osm_id":"306216087","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling:green_waste":"yes","recycling:plastic_bottles":"yes","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.338732,48.246167],"type":"Point"},"properties":{"osm_id":"336036069","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.310721,48.24123],"type":"Point"},"properties":{"osm_id":"386089342","tag":{"addr:city":"Wien","addr:country":"AT","addr:postcode":"1180","addr:street":"Max-Schmidt-Platz","amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:plastic":"yes"}},"type":"Feature"},
