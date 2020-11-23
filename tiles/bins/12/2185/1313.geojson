@@ -70,9 +70,9 @@
 	{"geometry":{"coordinates":[12.069129,54.10168],"type":"Point"},"properties":{"osm_id":"1132222604","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.072354,54.101861],"type":"Point"},"properties":{"osm_id":"1132222619","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.067927,54.101521],"type":"Point"},"properties":{"osm_id":"1132222882","tag":{"amenity":"recycling","location":"overground","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.069693,54.100102],"type":"Point"},"properties":{"osm_id":"1132223098","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.069693,54.100102],"type":"Point"},"properties":{"osm_id":"1132223098","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.073459,54.09426],"type":"Point"},"properties":{"osm_id":"1159935853","tag":{"amenity":"recycling","location":"overground","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.067121,54.098653],"type":"Point"},"properties":{"osm_id":"1159936738","tag":{"amenity":"recycling","location":"overground","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.067121,54.098653],"type":"Point"},"properties":{"osm_id":"1159936738","tag":{"amenity":"recycling","location":"overground","recycling:clothes":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.071931,54.092834],"type":"Point"},"properties":{"osm_id":"1159938741","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.068151,54.097353],"type":"Point"},"properties":{"osm_id":"1159939676","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.066019,54.100975],"type":"Point"},"properties":{"barrier":"gate","osm_id":"1240979959"},"type":"Feature"},
@@ -578,6 +578,10 @@
 	{"geometry":{"coordinates":[12.069754,54.104348],"type":"Point"},"properties":{"osm_id":"8126870398","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.054594,54.10667],"type":"Point"},"properties":{"osm_id":"8126886719","tag":{"access":"yes","amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.052208,54.108165],"type":"Point"},"properties":{"osm_id":"8126886752","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.052253,54.108162],"type":"Point"},"properties":{"osm_id":"8126886753","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[12.052253,54.108162],"type":"Point"},"properties":{"osm_id":"8126886753","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.072876,54.101839],"type":"Point"},"properties":{"osm_id":"8152232206","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.066391,54.098043],"type":"Point"},"properties":{"osm_id":"8152293368","tag":{"amenity":"recycling","location":"overground","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.066611,54.099946],"type":"Point"},"properties":{"osm_id":"8152293389","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.066381,54.100103],"type":"Point"},"properties":{"osm_id":"8152293396","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

@@ -60,7 +60,7 @@
 	{"geometry":{"coordinates":[8.480833,48.996329],"type":"Point"},"properties":{"osm_id":"530636171","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.444262,48.991832],"type":"Point"},"properties":{"osm_id":"581839034","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.461152,49.001265],"type":"Point"},"properties":{"osm_id":"609169716","tag":{"amenity":"recycling","capacity":"3000l","check_date":"2018-01","location":"overground","manufacturer":"Kinshofer Technik","opening_hours":"24/7","operator":"Stadt Karlsruhe","operator:type":"public","recycling:clothes":"yes","recycling:others":"no","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.49748,49.012477],"type":"Point"},"properties":{"osm_id":"662538754","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.49748,49.012477],"type":"Point"},"properties":{"osm_id":"662538754","tag":{"amenity":"recycling","location":"overground","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.491298,49.012557],"type":"Point"},"properties":{"osm_id":"726583301","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.47074,48.987788],"type":"Point"},"properties":{"osm_id":"766795152","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.524597,49.006158],"type":"Point"},"properties":{"osm_id":"928995135","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
@@ -414,6 +414,8 @@
 	{"geometry":{"coordinates":[8.44268,48.992843],"type":"Point"},"properties":{"osm_id":"8038292087","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.43759,49.024065],"type":"Point"},"properties":{"osm_id":"8040624518","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.437933,49.021999],"type":"Point"},"properties":{"osm_id":"8040624553","tag":{"amenity":"waste_basket","start_date":"2020","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.439624,49.020378],"type":"Point"},"properties":{"osm_id":"8094186740","tag":{"amenity":"waste_basket","start_date":"2020","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[8.439624,49.020378],"type":"Point"},"properties":{"osm_id":"8094186740","tag":{"amenity":"waste_basket","start_date":"2020","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.45892,48.991808],"type":"Point"},"properties":{"osm_id":"8151667489","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.456115,48.991489],"type":"Point"},"properties":{"osm_id":"8151667490","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

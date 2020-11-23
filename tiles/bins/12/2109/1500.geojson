@@ -522,7 +522,7 @@
 	{"geometry":{"coordinates":[5.373444,43.305074],"type":"Point"},"properties":{"osm_id":"6697114739","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.397149,43.289593],"type":"Point"},"properties":{"osm_id":"6720650559","tag":{"amenity":"recycling","contact:phone":"+33 4 91 67 14 14","operator":"Le Relais","recycling:bags":"yes","recycling:belts":"yes","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container","website":"https://lerelais.org"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.388741,43.277465],"type":"Point"},"properties":{"osm_id":"6723015866","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.387547,43.27868],"type":"Point"},"properties":{"osm_id":"6723038181","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.387547,43.27868],"type":"Point"},"properties":{"osm_id":"6723038181","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"no","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.373062,43.315726],"type":"Point"},"properties":{"osm_id":"6769194434","tag":{"amenity":"recycling","operator":"Le Relais","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.382421,43.298943],"type":"Point"},"properties":{"osm_id":"6835394917","tag":{"amenity":"recycling","operator":"Aix Marseille M\u00c3\u00a9tropole","recycling:organic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.38321,43.301171],"type":"Point"},"properties":{"osm_id":"6859594950","tag":{"amenity":"recycling"}},"type":"Feature"},
@@ -631,6 +631,7 @@
 	{"geometry":{"coordinates":[5.370606,43.312688],"type":"Point"},"properties":{"osm_id":"8149003203","tag":{"amenity":"waste_disposal","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.369147,43.309546],"type":"Point"},"properties":{"osm_id":"8149003215","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.36956,43.308796],"type":"Point"},"properties":{"osm_id":"8149003216","tag":{"access":"yes","amenity":"waste_disposal","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.368518,43.309014],"type":"Point"},"properties":{"osm_id":"8149025020","tag":{"amenity":"waste_basket","material":"metal","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[5.368518,43.309014],"type":"Point"},"properties":{"osm_id":"8149025020","tag":{"amenity":"waste_basket","material":"metal","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.414811,43.261294],"type":"Point"},"properties":{"osm_id":"8151801680","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }
