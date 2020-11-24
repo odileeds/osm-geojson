@@ -8,7 +8,7 @@
 { "type": "Feature", "properties": { "osm_id": "670461858", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ 1.1576642, 52.0603467 ] } },
 { "type": "Feature", "properties": { "osm_id": "670461962", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ 1.1577876, 52.063427 ] } },
 { "type": "Feature", "properties": { "osm_id": "670461974", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ 1.1573276, 52.0595807 ] } },
-{ "type": "Feature", "properties": { "osm_id": "670462276", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ 1.1571708, 52.061277 ] } },
+{ "type": "Feature", "properties": { "osm_id": "670462276", "other_tags": "\"amenity\"=>\"recycling\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ 1.1571835, 52.0613021 ] } },
 { "type": "Feature", "properties": { "osm_id": "786103020", "name": "Bicycle Doctor", "other_tags": "\"shop\"=>\"bicycle_repair\",\"amenity\"=>\"recycling\",\"website\"=>\"http:\/\/www.bicycledoctor.gbr.fm\",\"addr:city\"=>\"Ipswich\",\"addr:street\"=>\"Bartholomew Street\",\"designation\"=>\"Bicycle Doctor\",\"addr:postcode\"=>\"IP4 2RP\",\"recycling_type\"=>\"centre\",\"addr:housenumber\"=>\"18\",\"recycling:bicycles\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ 1.1718467, 52.0577907 ] } },
 { "type": "Feature", "properties": { "osm_id": "1925752452", "other_tags": "\"amenity\"=>\"recycling\",\"recycling:cans\"=>\"no\",\"recycling:glass\"=>\"yes\",\"recycling:paper\"=>\"no\",\"recycling:clothes\"=>\"no\",\"recycling:batteries\"=>\"no\",\"recycling:scrap_metal\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ 1.1561579, 52.0488287 ] } },
 { "type": "Feature", "properties": { "osm_id": "1933692752", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ 1.1418972, 52.0688565 ] } },
@@ -68,6 +68,12 @@
 { "type": "Feature", "properties": { "osm_id": "7840949163", "other_tags": "\"waste\"=>\"trash\",\"colour\"=>\"black\",\"amenity\"=>\"waste_basket\",\"material\"=>\"metal\"" }, "geometry": { "type": "Point", "coordinates": [ 1.1152413, 52.0682991 ] } },
 { "type": "Feature", "properties": { "osm_id": "7844596142", "other_tags": "\"amenity\"=>\"recycling\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ 1.1343222, 52.0592981 ] } },
 { "type": "Feature", "properties": { "osm_id": "7891377887", "other_tags": "\"amenity\"=>\"recycling\",\"recycling:glass_bottles\"=>\"yes\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ 1.1183806, 52.0743958 ] } },
-{ "type": "Feature", "properties": { "osm_id": "7955010260", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ 1.2021835, 52.0549967 ] } }
+{ "type": "Feature", "properties": { "osm_id": "7955010260", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ 1.2021835, 52.0549967 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8156163348", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ 1.1524829, 52.0659549 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8156163349", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ 1.1587126, 52.0593756 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8156163361", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ 1.1555781, 52.0614512 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8156163362", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ 1.154174, 52.0624435 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8156163364", "other_tags": "\"amenity\"=>\"recycling\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ 1.1574094, 52.0609226 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8156163365", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ 1.1573799, 52.060935 ] } }
 ]
 }
