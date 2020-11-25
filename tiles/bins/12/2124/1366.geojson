@@ -147,7 +147,11 @@
 	{"geometry":{"coordinates":[6.735703,51.261083],"type":"Point"},"properties":{"osm_id":"8047678351","tag":{"amenity":"waste_basket","indoor":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.707636,51.243548],"type":"Point"},"properties":{"osm_id":"8081310374","tag":{"amenity":"waste_basket","material":"steel","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.708182,51.242694],"type":"Point"},"properties":{"osm_id":"8096138501","tag":{"amenity":"waste_basket","material":"steel","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.707152,51.244172],"type":"Point"},"properties":{"osm_id":"8150759230","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.707608,51.242557],"type":"Point"},"properties":{"osm_id":"8150872942","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[6.707109,51.244212],"type":"Point"},"properties":{"osm_id":"8150759230","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.707608,51.242557],"type":"Point"},"properties":{"osm_id":"8150872942","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.707113,51.244227],"type":"Point"},"properties":{"osm_id":"8158220278","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.707111,51.244247],"type":"Point"},"properties":{"osm_id":"8158220279","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.707109,51.244186],"type":"Point"},"properties":{"osm_id":"8158220280","tag":{"amenity":"recycling","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.707107,51.244164],"type":"Point"},"properties":{"osm_id":"8158220281","tag":{"amenity":"recycling","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }
