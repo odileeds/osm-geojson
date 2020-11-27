@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-2.464489,36.844929],"type":"Point"},"properties":{"name":"Contenedor de reciclaje de pilas","osm_id":"4432554469","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-2.464489,36.844929],"type":"Point"},"properties":{"name":"Contenedor de reciclaje de pilas","osm_id":"4432554469","tag":{"amenity":"recycling","recycling:batteries":"both","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.464031,36.842766],"type":"Point"},"properties":{"name":"Contenedor de pilas","osm_id":"4461603846","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.4705,36.839984],"type":"Point"},"properties":{"osm_id":"6414750088","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.470237,36.839998],"type":"Point"},"properties":{"osm_id":"6414750089","tag":{"amenity":"waste_basket"}},"type":"Feature"},
