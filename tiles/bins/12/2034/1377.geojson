@@ -1,12 +1,12 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-1.206187,50.6657],"type":"Point"},"properties":{"osm_id":"729063582","tag":{"amenity":"recycling","location":"overground","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.180632,50.646579],"type":"Point"},"properties":{"osm_id":"3868631544","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.206187,50.6657],"type":"Point"},"properties":{"osm_id":"729063582","tag":{"amenity":"recycling","location":"overground","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container","ref:GB:uprn":"10024247123"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.180632,50.646579],"type":"Point"},"properties":{"osm_id":"3868631544","tag":{"amenity":"recycling","ref:GB:uprn":"10024247118"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.172352,50.646938],"type":"Point"},"properties":{"osm_id":"3971485327","tag":{"amenity":"recycling","location":"overground","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.142847,50.679772],"type":"Point"},"properties":{"osm_id":"3979185656","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.142847,50.679772],"type":"Point"},"properties":{"osm_id":"3979185656","tag":{"amenity":"recycling","ref:GB:uprn":"10024247102"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.179839,50.645364],"type":"Point"},"properties":{"osm_id":"5141587334","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.161756,50.65189],"type":"Point"},"properties":{"osm_id":"5686975078","tag":{"addr:city":"Sandown","addr:postcode":"PO36 9ET","addr:street":"Broadway","amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.161756,50.65189],"type":"Point"},"properties":{"osm_id":"5686975078","tag":{"addr:city":"Sandown","addr:postcode":"PO36 9ET","addr:street":"Broadway","amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling:shoes":"yes","recycling_type":"container","ref:GB:uprn":"10024247139"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.170076,50.633621],"type":"Point"},"properties":{"osm_id":"6448482357","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.171212,50.631513],"type":"Point"},"properties":{"osm_id":"6448482358","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.171252,50.631498],"type":"Point"},"properties":{"osm_id":"6448482359","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
@@ -82,6 +82,6 @@
 	{"geometry":{"coordinates":[-1.180343,50.631982],"type":"Point"},"properties":{"osm_id":"7981241457","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.179886,50.631287],"type":"Point"},"properties":{"osm_id":"7981241458","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.179676,50.631673],"type":"Point"},"properties":{"osm_id":"7981241460","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.179931,50.63141],"type":"Point"},"properties":{"osm_id":"7990311517","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-1.179931,50.63141],"type":"Point"},"properties":{"osm_id":"7990311517","tag":{"amenity":"recycling","recycling_type":"container","ref:GB:uprn":"10024247142"}},"type":"Feature"}
 ]
 }
