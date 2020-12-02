@@ -244,7 +244,7 @@
 	{"geometry":{"coordinates":[6.671644,51.225096],"type":"Point"},"properties":{"osm_id":"771646281","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.608606,51.195707],"type":"Point"},"properties":{"osm_id":"773113697","tag":{"amenity":"recycling","operator":"Alba AG","recycling:glass_bottles":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.607794,51.195135],"type":"Point"},"properties":{"osm_id":"773113704","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.607155,51.195012],"type":"Point"},"properties":{"osm_id":"773113726","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.60717,51.194979],"type":"Point"},"properties":{"osm_id":"773113726","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.607587,51.195495],"type":"Point"},"properties":{"osm_id":"773113776","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.606014,51.201417],"type":"Point"},"properties":{"osm_id":"773644463","tag":{"amenity":"recycling","recycling:green_waste":"yes","recycling:plastic":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.606444,51.201422],"type":"Point"},"properties":{"osm_id":"773644466","tag":{"amenity":"recycling","recycling:green_waste":"yes","recycling:plastic":"yes"}},"type":"Feature"},
@@ -325,8 +325,8 @@
 	{"geometry":{"coordinates":[6.655119,51.22807],"type":"Point"},"properties":{"osm_id":"1274590078","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.603317,51.202252],"type":"Point"},"properties":{"osm_id":"1278279858","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.676081,51.200762],"type":"Point"},"properties":{"osm_id":"1294701026","tag":{"amenity":"recycling","operator":"Alba","recycling:glass":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.613728,51.219447],"type":"Point"},"properties":{"osm_id":"1305223265","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.613759,51.219489],"type":"Point"},"properties":{"osm_id":"1305223444","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.613728,51.219447],"type":"Point"},"properties":{"osm_id":"1305223265","tag":{"amenity":"recycling","operator":"Deutsches Rotes Kreuz","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.613759,51.219489],"type":"Point"},"properties":{"osm_id":"1305223444","tag":{"amenity":"recycling","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.617972,51.217767],"type":"Point"},"properties":{"osm_id":"1305223454","tag":{"amenity":"recycling","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.615124,51.213855],"type":"Point"},"properties":{"osm_id":"1310234296","tag":{"amenity":"recycling","operator":"Alba","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.651744,51.207935],"type":"Point"},"properties":{"osm_id":"1317274543","tag":{"amenity":"recycling","operator":"Alba","recycling:glass":"yes"}},"type":"Feature"},
@@ -478,7 +478,7 @@
 	{"geometry":{"coordinates":[6.674103,51.211239],"type":"Point"},"properties":{"osm_id":"7233822249","tag":{"amenity":"waste_disposal","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.651351,51.2189],"type":"Point"},"properties":{"osm_id":"7315157857","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.652313,51.218695],"type":"Point"},"properties":{"osm_id":"7315157858","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.617997,51.217735],"type":"Point"},"properties":{"osm_id":"7411633413","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.617997,51.217735],"type":"Point"},"properties":{"osm_id":"7411633413","tag":{"amenity":"recycling","operator":"Deutsches Rotes Kreuz","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.655897,51.220135],"type":"Point"},"properties":{"osm_id":"7619586500","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.614373,51.231189],"type":"Point"},"properties":{"osm_id":"7642284022","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.653395,51.216184],"type":"Point"},"properties":{"osm_id":"7725430212","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -498,6 +498,8 @@
 	{"geometry":{"coordinates":[6.625833,51.220914],"type":"Point"},"properties":{"osm_id":"8151097622","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.622898,51.218857],"type":"Point"},"properties":{"osm_id":"8151532630","tag":{"access":"private","amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.618016,51.224379],"type":"Point"},"properties":{"osm_id":"8155113348","tag":{"amenity":"recycling","operator":"Malteser","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.611764,51.225097],"type":"Point"},"properties":{"osm_id":"8155380312","tag":{"amenity":"recycling","operator":"Deutsches Rotes Kreuz","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[6.611764,51.225097],"type":"Point"},"properties":{"osm_id":"8155380312","tag":{"amenity":"recycling","operator":"Deutsches Rotes Kreuz","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.611553,51.216797],"type":"Point"},"properties":{"osm_id":"8176438255","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.611469,51.216793],"type":"Point"},"properties":{"osm_id":"8176490301","tag":{"amenity":"recycling","operator":"Deutsches Rotes Kreuz","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

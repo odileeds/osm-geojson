@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[20.552803,54.675103],"type":"Point"},"properties":{"osm_id":"1137925560","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[20.515263,54.697743],"type":"Point"},"properties":{"osm_id":"3156318161","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[20.5152,54.697739],"type":"Point"},"properties":{"osm_id":"3156318161","tag":{"access":"yes","amenity":"waste_disposal","waste":"mixed"}},"type":"Feature"},
 	{"geometry":{"coordinates":[20.521969,54.690224],"type":"Point"},"properties":{"osm_id":"3486939759","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[20.480573,54.688742],"type":"Point"},"properties":{"osm_id":"4223623943","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[20.482398,54.695352],"type":"Point"},"properties":{"osm_id":"4223623944","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
@@ -35,6 +35,9 @@
 	{"geometry":{"coordinates":[20.515041,54.704812],"type":"Point"},"properties":{"osm_id":"7884376508","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[20.517608,54.699335],"type":"Point"},"properties":{"osm_id":"7884377447","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[20.517374,54.699041],"type":"Point"},"properties":{"osm_id":"7884377452","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[20.517364,54.699036],"type":"Point"},"properties":{"osm_id":"7884377454","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[20.517364,54.699036],"type":"Point"},"properties":{"osm_id":"7884377454","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[20.506461,54.700151],"type":"Point"},"properties":{"osm_id":"8184528585","tag":{"access":"yes","amenity":"waste_disposal","waste":"mixed"}},"type":"Feature"},
+	{"geometry":{"coordinates":[20.506512,54.700155],"type":"Point"},"properties":{"osm_id":"8184528586","tag":{"amenity":"recycling","opening_hours":"24/7","recycling:batteries":"yes","recycling:bulbs":"yes","recycling:lamps":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[20.515199,54.697677],"type":"Point"},"properties":{"osm_id":"8184528587","tag":{"amenity":"recycling","opening_hours":"24/7","recycling:plastic_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

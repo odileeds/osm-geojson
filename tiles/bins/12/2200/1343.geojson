@@ -30,12 +30,12 @@
 	{"geometry":{"coordinates":[13.39464,52.504013],"type":"Point"},"properties":{"osm_id":"447924125","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.409333,52.533762],"type":"Point"},"properties":{"osm_id":"447938240","tag":{"amenity":"recycling","operator":"Karl Meyer Rohstoffverwertung","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.419269,52.496339],"type":"Point"},"properties":{"osm_id":"448811299","tag":{"amenity":"recycling","location":"overground","operator":"Karl Meyer Rohstoffverwertung","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.431396,52.512818],"type":"Point"},"properties":{"osm_id":"472496597","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.431396,52.512818],"type":"Point"},"properties":{"osm_id":"472496597","tag":{"amenity":"recycling","check_date:recycling":"2020-12-01","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.445125,52.523593],"type":"Point"},"properties":{"osm_id":"493149696","tag":{"amenity":"recycling","check_date:recycling":"2020-10-16","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.415537,52.525371],"type":"Point"},"properties":{"osm_id":"506357627","tag":{"amenity":"waste_basket","colour":"orange","operator":"BSR","recycling_type":"bin"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.431421,52.497703],"type":"Point"},"properties":{"osm_id":"559945799","tag":{"amenity":"recycling","operator":"Karl Meyer Rohstoffverwertung","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.436628,52.512367],"type":"Point"},"properties":{"osm_id":"566376504","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.438443,52.511984],"type":"Point"},"properties":{"osm_id":"566376517","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.438443,52.511984],"type":"Point"},"properties":{"osm_id":"566376517","tag":{"amenity":"recycling","check_date:recycling":"2020-12-01","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.443124,52.500598],"type":"Point"},"properties":{"osm_id":"615020653","tag":{"amenity":"recycling","operator":"Karl Meyer Rohstoffverwertung","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.391141,52.488354],"type":"Point"},"properties":{"osm_id":"629101858","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.391274,52.48834],"type":"Point"},"properties":{"osm_id":"629101859","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -1220,6 +1220,7 @@
 	{"geometry":{"coordinates":[13.390395,52.5037],"type":"Point"},"properties":{"osm_id":"8152620780","tag":{"access":"private","amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.390745,52.500969],"type":"Point"},"properties":{"osm_id":"8165602934","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.390528,52.50237],"type":"Point"},"properties":{"osm_id":"8165603127","tag":{"access":"private","amenity":"waste_disposal"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.389078,52.502704],"type":"Point"},"properties":{"osm_id":"8165603142","tag":{"access":"private","amenity":"waste_disposal"}},"type":"Feature"}
+	{"geometry":{"coordinates":[13.389078,52.502704],"type":"Point"},"properties":{"osm_id":"8165603142","tag":{"access":"private","amenity":"waste_disposal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.426501,52.485493],"type":"Point"},"properties":{"osm_id":"8179651132","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
 ]
 }
