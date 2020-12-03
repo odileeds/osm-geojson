@@ -718,7 +718,7 @@
 	{"geometry":{"coordinates":[2.437462,48.856479],"type":"Point"},"properties":{"osm_id":"7284497762","tag":{"amenity":"recycling","brand":"Le sens de l'humus","collection_times":"sun 11:00-13:00","contact:website":"https://senshumus.org/","recycling:organic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.440679,48.862798],"type":"Point"},"properties":{"osm_id":"7284497763","tag":{"amenity":"recycling","brand":"Le sens de l'humus","collection_times":"sat 11:00-13:00","contact:website":"https://senshumus.org/","recycling:organic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.377613,48.822716],"type":"Point"},"properties":{"osm_id":"7286446844","ref":"D791","tag":{"amenity":"recycling","opening_hours":"24/7","recycling:glass_bottles":"yes","recycling_type":"container","wheelchair":"no"}},"type":"Feature"},
-	{"geometry":{"coordinates":[2.382493,48.826279],"type":"Point"},"properties":{"osm_id":"7286446845","ref":"D1032","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.382493,48.826279],"type":"Point"},"properties":{"osm_id":"7286446845","ref":"D1032","tag":{"amenity":"recycling","opening_hours":"24/7","recycling:glass_bottles":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.380798,48.829195],"type":"Point"},"properties":{"osm_id":"7286446847","ref":"D1011","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.383589,48.864317],"type":"Point"},"properties":{"osm_id":"7341478928","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.405932,48.844745],"type":"Point"},"properties":{"osm_id":"7405319728","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -783,6 +783,9 @@
 	{"geometry":{"coordinates":[2.441208,48.859295],"type":"Point"},"properties":{"osm_id":"8147715092","tag":{"amenity":"recycling","produce":"compost","recycling:green_waste":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.424475,48.847979],"type":"Point"},"properties":{"osm_id":"8154183855","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.424771,48.848219],"type":"Point"},"properties":{"osm_id":"8154183856","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
-	{"geometry":{"coordinates":[2.37727,48.824392],"type":"Point"},"properties":{"osm_id":"8173239435","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[2.37727,48.824392],"type":"Point"},"properties":{"osm_id":"8173239435","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.385056,48.833169],"type":"Point"},"properties":{"osm_id":"8187983058","tag":{"amenity":"recycling","recycling:PET":"yes","recycling:cans":"yes","recycling:paper":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling:small_appliances":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.376346,48.828845],"type":"Point"},"properties":{"osm_id":"8187983076","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.385096,48.833179],"type":"Point"},"properties":{"osm_id":"8187983077","tag":{"amenity":"recycling","recycling:waste":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"}
 ]
 }
