@@ -51,7 +51,7 @@
 	{"geometry":{"coordinates":[19.845384,43.85647],"type":"Point"},"properties":{"osm_id":"8019198155","tag":{"amenity":"waste_disposal","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.844862,43.856576],"type":"Point"},"properties":{"osm_id":"8019198161","tag":{"amenity":"waste_disposal","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.844844,43.856582],"type":"Point"},"properties":{"osm_id":"8019198162","tag":{"amenity":"waste_disposal","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[19.844009,43.856301],"type":"Point"},"properties":{"highway":"street_lamp","osm_id":"8023067609","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.844009,43.856301],"type":"Point"},"properties":{"highway":"street_lamp","osm_id":"8023067609","tag":{"amenity":"waste_basket","lamp_mount":"straight_mast","light:count":"2"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.843799,43.856085],"type":"Point"},"properties":{"osm_id":"8023067636","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.843774,43.856081],"type":"Point"},"properties":{"osm_id":"8023067637","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.842268,43.855775],"type":"Point"},"properties":{"osm_id":"8042970802","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -88,9 +88,9 @@
 	{"geometry":{"coordinates":[19.844355,43.856774],"type":"Point"},"properties":{"osm_id":"8104433412","tag":{"amenity":"waste_disposal","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.844671,43.85674],"type":"Point"},"properties":{"osm_id":"8104497964","tag":{"amenity":"waste_disposal","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.844643,43.856741],"type":"Point"},"properties":{"osm_id":"8104497965","tag":{"amenity":"waste_disposal","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[19.841107,43.856849],"type":"Point"},"properties":{"highway":"street_lamp","osm_id":"8150009560","tag":{"amenity":"waste_basket","lamp_mount":"straight_mast"}},"type":"Feature"},
-	{"geometry":{"coordinates":[19.841087,43.856765],"type":"Point"},"properties":{"highway":"street_lamp","osm_id":"8150009570","tag":{"amenity":"waste_basket","lamp_mount":"straight_mast"}},"type":"Feature"},
-	{"geometry":{"coordinates":[19.841071,43.856704],"type":"Point"},"properties":{"highway":"street_lamp","osm_id":"8150009571","tag":{"amenity":"waste_basket","lamp_mount":"straight_mast"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.841107,43.856849],"type":"Point"},"properties":{"highway":"street_lamp","osm_id":"8150009560","tag":{"amenity":"waste_basket","lamp_mount":"straight_mast","light:count":"2"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.841087,43.856765],"type":"Point"},"properties":{"highway":"street_lamp","osm_id":"8150009570","tag":{"amenity":"waste_basket","lamp_mount":"straight_mast","light:count":"2"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.841071,43.856704],"type":"Point"},"properties":{"highway":"street_lamp","osm_id":"8150009571","tag":{"amenity":"waste_basket","lamp_mount":"straight_mast","light:count":"2"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.839962,43.857112],"type":"Point"},"properties":{"highway":"street_lamp","osm_id":"8150009681","tag":{"amenity":"waste_basket","lamp_mount":"high_mast","light:colour":"white","light:lit":"dusk-dawn","support":"pole"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.839888,43.856464],"type":"Point"},"properties":{"osm_id":"8150009685","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.839834,43.856592],"type":"Point"},"properties":{"osm_id":"8150009686","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -132,6 +132,8 @@
 	{"geometry":{"coordinates":[19.846734,43.849877],"type":"Point"},"properties":{"osm_id":"8180691609","tag":{"amenity":"waste_disposal","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.846723,43.849893],"type":"Point"},"properties":{"osm_id":"8180691610","tag":{"amenity":"waste_disposal","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.846713,43.849908],"type":"Point"},"properties":{"osm_id":"8180691611","tag":{"amenity":"waste_disposal","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[19.846875,43.849675],"type":"Point"},"properties":{"osm_id":"8180691612","tag":{"amenity":"waste_disposal","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[19.846875,43.849675],"type":"Point"},"properties":{"osm_id":"8180691612","tag":{"amenity":"waste_disposal","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.843829,43.856588],"type":"Point"},"properties":{"osm_id":"8191767244","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.843908,43.856528],"type":"Point"},"properties":{"osm_id":"8191767245","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }
