@@ -1,11 +1,11 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-3.720106,42.801375],"type":"Point"},"properties":{"osm_id":"5287989426","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-3.721699,42.801726],"type":"Point"},"properties":{"osm_id":"5288064544","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-3.7772,42.811027],"type":"Point"},"properties":{"osm_id":"6368845550","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-3.770038,42.801965],"type":"Point"},"properties":{"osm_id":"6586657678","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-3.769552,42.800255],"type":"Point"},"properties":{"osm_id":"6733305219","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.720106,42.801375],"type":"Point"},"properties":{"osm_id":"5287989426","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.721699,42.801726],"type":"Point"},"properties":{"osm_id":"5288064544","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.7772,42.811027],"type":"Point"},"properties":{"osm_id":"6368845550","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.770038,42.801965],"type":"Point"},"properties":{"osm_id":"6586657678","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.769552,42.800255],"type":"Point"},"properties":{"osm_id":"6733305219","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.693557,42.768015],"type":"Point"},"properties":{"osm_id":"8177944456","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:cardboard":"yes","recycling:green_waste":"yes","recycling:magazines":"yes","recycling:paper":"yes","recycling:paper_packaging":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

@@ -1,8 +1,8 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-2.912078,43.264517],"type":"Point"},"properties":{"osm_id":"610919967","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-2.912295,43.263428],"type":"Point"},"properties":{"osm_id":"610961636","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-2.912078,43.264517],"type":"Point"},"properties":{"osm_id":"610919967","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-2.912295,43.263428],"type":"Point"},"properties":{"osm_id":"610961636","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.912123,43.263523],"type":"Point"},"properties":{"osm_id":"610961637","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.983901,43.298924],"type":"Point"},"properties":{"osm_id":"1624162095","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.98716,43.291679],"type":"Point"},"properties":{"osm_id":"1644082112","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"no","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -23,7 +23,7 @@
 	{"geometry":{"coordinates":[-2.987951,43.292652],"type":"Point"},"properties":{"osm_id":"3556441080","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.968254,43.317195],"type":"Point"},"properties":{"barrier":"gate","osm_id":"4513382151"},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.968521,43.316702],"type":"Point"},"properties":{"barrier":"gate","osm_id":"4513382152"},"type":"Feature"},
-	{"geometry":{"coordinates":[-2.949178,43.298113],"type":"Point"},"properties":{"name":"Indumental recycling","osm_id":"4599539692","tag":{"amenity":"recycling","name:es":"Indumental recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-2.949178,43.298113],"type":"Point"},"properties":{"name":"Indumental recycling","osm_id":"4599539692","tag":{"amenity":"recycling","name:es":"Indumental recycling","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.922817,43.263614],"type":"Point"},"properties":{"osm_id":"4701162679","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.919058,43.262639],"type":"Point"},"properties":{"osm_id":"4701258318","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.922945,43.261639],"type":"Point"},"properties":{"osm_id":"4701258415","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:green_waste":"yes","recycling:paper":"yes","recycling:plastic":"no","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},

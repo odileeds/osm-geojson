@@ -1,9 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-3.801419,40.20161],"type":"Point"},"properties":{"osm_id":"3102374826","tag":{"amenity":"recycling","recycling:cardboard":"yes","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-3.85126,40.21272],"type":"Point"},"properties":{"osm_id":"3102375449","tag":{"amenity":"recycling","recycling:cardboard":"yes","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-3.828005,40.206441],"type":"Point"},"properties":{"osm_id":"3102375467","tag":{"amenity":"recycling","recycling:cardboard":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:waste":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-3.856821,40.217457],"type":"Point"},"properties":{"osm_id":"3105903119","tag":{"amenity":"recycling","recycling:cardboard":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:waste":"yes"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-3.801419,40.20161],"type":"Point"},"properties":{"osm_id":"3102374826","tag":{"amenity":"recycling","recycling:cardboard":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.85126,40.21272],"type":"Point"},"properties":{"osm_id":"3102375449","tag":{"amenity":"recycling","recycling:cardboard":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.828005,40.206441],"type":"Point"},"properties":{"osm_id":"3102375467","tag":{"amenity":"recycling","recycling:cardboard":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.856821,40.217457],"type":"Point"},"properties":{"osm_id":"3105903119","tag":{"amenity":"recycling","recycling:cardboard":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

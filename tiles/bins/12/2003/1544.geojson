@@ -1,8 +1,8 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-3.915543,40.437265],"type":"Point"},"properties":{"osm_id":"325625711","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-3.89067,40.415257],"type":"Point"},"properties":{"name":"Punto Limpio de Boadilla del Monte","osm_id":"1930575175","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.915543,40.437265],"type":"Point"},"properties":{"osm_id":"325625711","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.89067,40.415257],"type":"Point"},"properties":{"name":"Punto Limpio de Boadilla del Monte","osm_id":"1930575175","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.875381,40.40542],"type":"Point"},"properties":{"osm_id":"4855670576","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:cardboard":"yes","recycling:glass_bottles":"yes","recycling:green_waste":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling:waste":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.896016,40.412962],"type":"Point"},"properties":{"osm_id":"4867401125","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.882214,40.407008],"type":"Point"},"properties":{"osm_id":"4867997227","tag":{"amenity":"waste_disposal"}},"type":"Feature"},

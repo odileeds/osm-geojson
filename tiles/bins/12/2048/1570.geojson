@@ -1,9 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[0.077609,38.657973],"type":"Point"},"properties":{"osm_id":"1096754128","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[0.047322,38.644285],"type":"Point"},"properties":{"osm_id":"1126556003","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[0.052566,38.645821],"type":"Point"},"properties":{"name":"Punt Blanc","osm_id":"3428077867","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[0.077609,38.657973],"type":"Point"},"properties":{"osm_id":"1096754128","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[0.047322,38.644285],"type":"Point"},"properties":{"osm_id":"1126556003","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[0.052566,38.645821],"type":"Point"},"properties":{"name":"Punt Blanc","osm_id":"3428077867","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.077704,38.651071],"type":"Point"},"properties":{"osm_id":"4462136989","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic_bottles":"yes","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.037756,38.666378],"type":"Point"},"properties":{"osm_id":"5290329376","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic_bottles":"yes","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.071659,38.641293],"type":"Point"},"properties":{"osm_id":"5588318622","tag":{"amenity":"waste_disposal"}},"type":"Feature"},

@@ -2,10 +2,10 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[-5.763797,43.550134],"type":"Point"},"properties":{"osm_id":"2719487674","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-5.786131,43.535571],"type":"Point"},"properties":{"osm_id":"2799263519","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-5.786131,43.535571],"type":"Point"},"properties":{"osm_id":"2799263519","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-5.727611,43.571944],"type":"Point"},"properties":{"osm_id":"2799611651","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-5.718042,43.536024],"type":"Point"},"properties":{"name":"Desguaces Gerardo","osm_id":"4351585289","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-5.717956,43.535947],"type":"Point"},"properties":{"name":"Desguaces Puente Seco","osm_id":"4351585389","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-5.718042,43.536024],"type":"Point"},"properties":{"name":"Desguaces Gerardo","osm_id":"4351585289","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-5.717956,43.535947],"type":"Point"},"properties":{"name":"Desguaces Puente Seco","osm_id":"4351585389","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-5.749522,43.520098],"type":"Point"},"properties":{"osm_id":"5301102791","tag":{"amenity":"recycling","operator":"Cogersa","recycling:cans":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-5.749494,43.520105],"type":"Point"},"properties":{"osm_id":"5301102792","tag":{"amenity":"recycling","operator":"Cogersa","recycling:cardboard":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-5.749547,43.520092],"type":"Point"},"properties":{"osm_id":"5301102793","tag":{"amenity":"recycling","opening_hours":"24/7","operator":"Cogersa","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},

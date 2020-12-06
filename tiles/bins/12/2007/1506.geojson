@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-3.593407,42.893055],"type":"Point"},"properties":{"osm_id":"1827399675","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.593407,42.893055],"type":"Point"},"properties":{"osm_id":"1827399675","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.571201,42.938795],"type":"Point"},"properties":{"osm_id":"4386022725","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.58312,42.937707],"type":"Point"},"properties":{"osm_id":"6298263545","tag":{"amenity":"recycling","colour":"green","material":"plastic","operator":"Ayto Villarcayo MCV","recycling:batteries":"no","recycling:cans":"no","recycling:clothes":"no","recycling:glass":"no","recycling:glass_bottles":"no","recycling:organic":"yes","recycling:paper":"no","recycling:scrap_metal":"no","recycling:waste":"no","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.583193,42.937722],"type":"Point"},"properties":{"osm_id":"6669868047","tag":{"amenity":"recycling","collection_times":"24/7","colour":"yellow","level":"0","material":"plastic","operator":"Diputacion de Burgos","recycling:aluminium":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -68,16 +68,16 @@
 	{"geometry":{"coordinates":[-3.585428,42.939892],"type":"Point"},"properties":{"osm_id":"6684020429","tag":{"amenity":"recycling","colour":"green","material":"plastic","opening_hours":"24/7","operator":"Ayto Villarcayo MCV","recycling:organic":"yes","recycling_type":"container","wheelchair":"limited"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.571468,42.938025],"type":"Point"},"properties":{"osm_id":"6698188685","tag":{"amenity":"recycling","colour":"green","operator":"Ayuntamiento de Villarcayo de Merindad de Castilla Vieja","recycling:glass_bottles":"no","recycling:paper":"no","recycling:plastic":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.571459,42.938047],"type":"Point"},"properties":{"osm_id":"6698188686","tag":{"amenity":"recycling","operator":"Consorcio Residuos de la diputaci\u00c3\u00b3n de Burgos","recycling:glass_bottles":"yes","recycling:paper":"no","recycling:plastic":"no","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-3.582609,42.909529],"type":"Point"},"properties":{"osm_id":"6716450979","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-3.576113,42.928513],"type":"Point"},"properties":{"osm_id":"6721267055","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-3.524866,42.940063],"type":"Point"},"properties":{"osm_id":"6721267085","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-3.524789,42.938721],"type":"Point"},"properties":{"osm_id":"6721267091","tag":{"amenity":"recycling","recycling:paper":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-3.532842,42.916284],"type":"Point"},"properties":{"osm_id":"6721267108","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-3.572198,42.93806],"type":"Point"},"properties":{"osm_id":"6800261292","tag":{"amenity":"recycling","recycling:glass_bottles":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.582609,42.909529],"type":"Point"},"properties":{"osm_id":"6716450979","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.576113,42.928513],"type":"Point"},"properties":{"osm_id":"6721267055","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.524866,42.940063],"type":"Point"},"properties":{"osm_id":"6721267085","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.524789,42.938721],"type":"Point"},"properties":{"osm_id":"6721267091","tag":{"amenity":"recycling","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.532842,42.916284],"type":"Point"},"properties":{"osm_id":"6721267108","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.572198,42.93806],"type":"Point"},"properties":{"osm_id":"6800261292","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.572691,42.936698],"type":"Point"},"properties":{"osm_id":"6800261293","tag":{"amenity":"recycling","mapillary":"JjF4fymo-M7ZcXjdQzO8GQ","recycling_type":"container","survey:date":"2019-02-19"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.573193,42.935668],"type":"Point"},"properties":{"osm_id":"6800261294","tag":{"amenity":"recycling","mapillary":"IIjIZwq38SZjTadMJshixQ","recycling_type":"container","survey:date":"2019-02-19"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-3.573618,42.934911],"type":"Point"},"properties":{"osm_id":"6800261295","tag":{"amenity":"recycling","recycling:glass_bottles":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.573618,42.934911],"type":"Point"},"properties":{"osm_id":"6800261295","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.574668,42.933215],"type":"Point"},"properties":{"osm_id":"6800261296","tag":{"amenity":"recycling","mapillary":"3ShlLnLZIR35kxQlpdHmOQ","recycling_type":"container","survey:date":"2017-12-06"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-3.581718,42.920582],"type":"Point"},"properties":{"osm_id":"6800261298","tag":{"amenity":"recycling"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-3.581718,42.920582],"type":"Point"},"properties":{"osm_id":"6800261298","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
 ]
 }

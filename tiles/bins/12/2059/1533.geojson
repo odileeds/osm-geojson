@@ -1,10 +1,10 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[1.00266,41.119089],"type":"Point"},"properties":{"osm_id":"4332071628","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[1.000922,41.121081],"type":"Point"},"properties":{"osm_id":"4332075083","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[1.000321,41.123599],"type":"Point"},"properties":{"osm_id":"4332165069","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[1.002106,41.12143],"type":"Point"},"properties":{"osm_id":"4332780475","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[1.00266,41.119089],"type":"Point"},"properties":{"osm_id":"4332071628","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[1.000922,41.121081],"type":"Point"},"properties":{"osm_id":"4332075083","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[1.000321,41.123599],"type":"Point"},"properties":{"osm_id":"4332165069","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[1.002106,41.12143],"type":"Point"},"properties":{"osm_id":"4332780475","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.041613,41.112524],"type":"Point"},"properties":{"osm_id":"4746939331","tag":{"amenity":"recycling","location":"overground","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:organic":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.040253,41.11449],"type":"Point"},"properties":{"osm_id":"4750764002","tag":{"amenity":"recycling","location":"overground","recycling:cans":"yes","recycling:cardboard":"no","recycling:glass_bottles":"yes","recycling:green_waste":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.041046,41.112625],"type":"Point"},"properties":{"osm_id":"4750921841","tag":{"amenity":"recycling","location":"overground","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:green_waste":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},

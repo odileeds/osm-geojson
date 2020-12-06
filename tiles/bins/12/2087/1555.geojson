@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[3.439733,39.656432],"type":"Point"},"properties":{"osm_id":"35345628","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[3.438023,39.658413],"type":"Point"},"properties":{"osm_id":"35345900","tag":{"amenity":"recycling"}},"type":"Feature"}
+	{"geometry":{"coordinates":[3.439733,39.656432],"type":"Point"},"properties":{"osm_id":"35345628","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.438023,39.658413],"type":"Point"},"properties":{"osm_id":"35345900","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
 ]
 }

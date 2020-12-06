@@ -1,9 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-0.52576,38.302087],"type":"Point"},"properties":{"name":"Ecoparque","osm_id":"359902756","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.481438,38.338923],"type":"Point"},"properties":{"osm_id":"1691989382","tag":{"amenity":"recycling","recycling:waste":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.481458,38.338942],"type":"Point"},"properties":{"osm_id":"1691989387","tag":{"amenity":"recycling","recycling:engine_oil":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.52576,38.302087],"type":"Point"},"properties":{"name":"Ecoparque","osm_id":"359902756","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.481438,38.338923],"type":"Point"},"properties":{"osm_id":"1691989382","tag":{"amenity":"recycling","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.481458,38.338942],"type":"Point"},"properties":{"osm_id":"1691989387","tag":{"amenity":"recycling","recycling:engine_oil":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.496429,38.340746],"type":"Point"},"properties":{"osm_id":"4061961228","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.492523,38.33844],"type":"Point"},"properties":{"osm_id":"4394594583","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.508955,38.338106],"type":"Point"},"properties":{"osm_id":"4477143890","tag":{"amenity":"waste_basket"}},"type":"Feature"},

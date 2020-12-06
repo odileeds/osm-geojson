@@ -1,12 +1,12 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-8.221259,43.517697],"type":"Point"},"properties":{"osm_id":"681622495","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:scrap_metal":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-8.20858,43.519812],"type":"Point"},"properties":{"osm_id":"1718671965","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-8.19179,43.536486],"type":"Point"},"properties":{"osm_id":"1794645919","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-8.190047,43.536915],"type":"Point"},"properties":{"name":"Empacadora de Lixo Sogama","osm_id":"1794646305","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-8.209857,43.546096],"type":"Point"},"properties":{"osm_id":"3239776802","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-8.187875,43.536152],"type":"Point"},"properties":{"osm_id":"4319473788","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-8.221259,43.517697],"type":"Point"},"properties":{"osm_id":"681622495","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-8.20858,43.519812],"type":"Point"},"properties":{"osm_id":"1718671965","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-8.19179,43.536486],"type":"Point"},"properties":{"osm_id":"1794645919","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-8.190047,43.536915],"type":"Point"},"properties":{"name":"Empacadora de Lixo Sogama","osm_id":"1794646305","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-8.209857,43.546096],"type":"Point"},"properties":{"osm_id":"3239776802","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-8.187875,43.536152],"type":"Point"},"properties":{"osm_id":"4319473788","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-8.21938,43.567112],"type":"Point"},"properties":{"osm_id":"4593364867","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-8.175748,43.53717],"type":"Point"},"properties":{"osm_id":"4681565808","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-8.199943,43.536252],"type":"Point"},"properties":{"osm_id":"4757775457","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},

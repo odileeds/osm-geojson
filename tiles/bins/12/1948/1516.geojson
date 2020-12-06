@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-8.78541,42.262641],"type":"Point"},"properties":{"osm_id":"1918280699","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:cardboard":"yes","recycling:glass_bottles":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-8.78541,42.262641],"type":"Point"},"properties":{"osm_id":"1918280699","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:cardboard":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-8.767435,42.260798],"type":"Point"},"properties":{"osm_id":"2678987201","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-8.768166,42.26114],"type":"Point"},"properties":{"osm_id":"2678987213","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-8.768567,42.261324],"type":"Point"},"properties":{"osm_id":"2678987218","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -22,8 +22,8 @@
 	{"geometry":{"coordinates":[-8.774103,42.263123],"type":"Point"},"properties":{"osm_id":"2678987367","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-8.77459,42.26326],"type":"Point"},"properties":{"osm_id":"2678987377","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-8.774762,42.263352],"type":"Point"},"properties":{"osm_id":"2678987392","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-8.784642,42.261636],"type":"Point"},"properties":{"name":"Envoltas","osm_id":"4233555703","tag":{"amenity":"recycling","operator":"Sogama"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-8.783452,42.26008],"type":"Point"},"properties":{"name":"Vidro","osm_id":"4233555716","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-8.784642,42.261636],"type":"Point"},"properties":{"name":"Envoltas","osm_id":"4233555703","tag":{"amenity":"recycling","operator":"Sogama","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-8.783452,42.26008],"type":"Point"},"properties":{"name":"Vidro","osm_id":"4233555716","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-8.704859,42.249041],"type":"Point"},"properties":{"osm_id":"4891786620","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-8.706256,42.244047],"type":"Point"},"properties":{"osm_id":"4891802073","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-8.701747,42.244616],"type":"Point"},"properties":{"osm_id":"4968711695","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},

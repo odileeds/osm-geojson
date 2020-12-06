@@ -1,10 +1,10 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-0.79795,38.474205],"type":"Point"},"properties":{"osm_id":"4692378729","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.798526,38.473017],"type":"Point"},"properties":{"osm_id":"4692413273","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.799226,38.473497],"type":"Point"},"properties":{"osm_id":"4692415030","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.796529,38.474747],"type":"Point"},"properties":{"osm_id":"4692456246","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.79795,38.474205],"type":"Point"},"properties":{"osm_id":"4692378729","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.798526,38.473017],"type":"Point"},"properties":{"osm_id":"4692413273","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.799226,38.473497],"type":"Point"},"properties":{"osm_id":"4692415030","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.796529,38.474747],"type":"Point"},"properties":{"osm_id":"4692456246","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.791082,38.476874],"type":"Point"},"properties":{"osm_id":"4692530941","tag":{"amenity":"recycling","operator":"Vidrio","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.791083,38.477979],"type":"Point"},"properties":{"osm_id":"4692530953","tag":{"amenity":"recycling","operator":"Vidrio, Carton y Plastico","recycling:cardboard":"yes","recycling:glass_bottles":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.791816,38.478321],"type":"Point"},"properties":{"osm_id":"4692530956","tag":{"amenity":"recycling","operator":"Vidrio","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},

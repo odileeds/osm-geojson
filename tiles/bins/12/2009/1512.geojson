@@ -1,8 +1,8 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-3.347734,42.50288],"type":"Point"},"properties":{"osm_id":"4684296823","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-3.361433,42.524461],"type":"Point"},"properties":{"osm_id":"4693549068","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-3.349505,42.50318],"type":"Point"},"properties":{"osm_id":"5514475797","tag":{"amenity":"recycling"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-3.347734,42.50288],"type":"Point"},"properties":{"osm_id":"4684296823","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.361433,42.524461],"type":"Point"},"properties":{"osm_id":"4693549068","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.349505,42.50318],"type":"Point"},"properties":{"osm_id":"5514475797","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
 ]
 }
