@@ -26,7 +26,7 @@
 	{"geometry":{"coordinates":[1.39507,43.633819],"type":"Point"},"properties":{"osm_id":"1751451593","tag":{"amenity":"recycling","location":"overground","operator":"Toulouse M\u00c3\u00a9tropole","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.400442,43.636023],"type":"Point"},"properties":{"osm_id":"1751451622","tag":{"amenity":"recycling","location":"overground","operator":"Toulouse M\u00c3\u00a9tropole","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.397366,43.642208],"type":"Point"},"properties":{"osm_id":"1780483633","tag":{"amenity":"recycling","location":"overground","operator":"Toulouse M\u00c3\u00a9tropole","recycling:clothes":"yes","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[1.385939,43.642111],"type":"Point"},"properties":{"osm_id":"1787478040","tag":{"amenity":"recycling","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[1.385939,43.642111],"type":"Point"},"properties":{"osm_id":"1787478040","tag":{"amenity":"recycling","check_date:recycling":"2020-12-12","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.393277,43.643255],"type":"Point"},"properties":{"osm_id":"2140296093","tag":{"amenity":"recycling","location":"overground","operator":"Toulouse M\u00c3\u00a9tropole","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.350344,43.585487],"type":"Point"},"properties":{"osm_id":"2153397808","tag":{"amenity":"recycling","location":"overground","operator":"Toulouse M\u00c3\u00a9tropole","recycling:batteries":"no","recycling:books":"no","recycling:cans":"no","recycling:cardboard":"no","recycling:cartons":"no","recycling:clothes":"no","recycling:electrical_appliances":"no","recycling:glass":"no","recycling:glass_bottles":"yes","recycling:green_waste":"no","recycling:magazines":"no","recycling:newspaper":"no","recycling:paper":"no","recycling:paper_packaging":"no","recycling:plastic":"no","recycling:plastic_bottles":"no","recycling:plastic_packaging":"no","recycling:scrap_metal":"no","recycling:small_appliances":"no","recycling:waste":"no","recycling:wood":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.353056,43.588436],"type":"Point"},"properties":{"osm_id":"2161665638","tag":{"amenity":"recycling","location":"overground","operator":"Toulouse M\u00c3\u00a9tropole","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -321,8 +321,8 @@
 	{"geometry":{"coordinates":[1.33286,43.586233],"type":"Point"},"properties":{"osm_id":"7756858258","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.332213,43.585658],"type":"Point"},"properties":{"osm_id":"7756858259","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.33221,43.586613],"type":"Point"},"properties":{"osm_id":"7756858262","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[1.334138,43.603619],"type":"Point"},"properties":{"osm_id":"7760932400","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[1.333501,43.603566],"type":"Point"},"properties":{"osm_id":"7760932401","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[1.334138,43.603619],"type":"Point"},"properties":{"osm_id":"7760932400","tag":{"amenity":"waste_basket","level":"0"}},"type":"Feature"},
+	{"geometry":{"coordinates":[1.333501,43.603566],"type":"Point"},"properties":{"osm_id":"7760932401","tag":{"amenity":"waste_basket","level":"0"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.384314,43.635823],"type":"Point"},"properties":{"osm_id":"7887197282","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.384418,43.635779],"type":"Point"},"properties":{"osm_id":"7887241985","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.384314,43.635747],"type":"Point"},"properties":{"osm_id":"7890246396","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
@@ -334,6 +334,8 @@
 	{"geometry":{"coordinates":[1.350089,43.594277],"type":"Point"},"properties":{"osm_id":"8009648240","tag":{"amenity":"recycling","location":"underground","operator":"Toulouse M\u00c3\u00a9tropole","recycling:cans":"yes","recycling:cardboard":"yes","recycling:glass":"no","recycling:glass_bottles":"no","recycling:paper":"yes","recycling:plastic_bottles":"yes","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.346824,43.585157],"type":"Point"},"properties":{"osm_id":"8011158513","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.347195,43.585067],"type":"Point"},"properties":{"osm_id":"8011164516","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[1.331413,43.628031],"type":"Point"},"properties":{"osm_id":"8150286417","tag":{"amenity":"waste_disposal"}},"type":"Feature"}
+	{"geometry":{"coordinates":[1.331413,43.628031],"type":"Point"},"properties":{"osm_id":"8150286417","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[1.332429,43.586068],"type":"Point"},"properties":{"osm_id":"8222726733","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[1.332366,43.58616],"type":"Point"},"properties":{"osm_id":"8222726733","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

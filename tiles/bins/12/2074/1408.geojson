@@ -1030,7 +1030,7 @@
 	{"geometry":{"coordinates":[2.319417,48.884504],"type":"Point"},"properties":{"osm_id":"5122630121","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.318711,48.885327],"type":"Point"},"properties":{"osm_id":"5122630122","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.349556,48.894899],"type":"Point"},"properties":{"osm_id":"5127860802","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[2.349606,48.894879],"type":"Point"},"properties":{"osm_id":"5127860968","tag":{"amenity":"recycling","operator":"Le Relais","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.349606,48.894879],"type":"Point"},"properties":{"osm_id":"5127860968","tag":{"amenity":"recycling","opening_hours":"24/7","operator":"Le Relais","recycling:clothes":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.315576,48.882014],"type":"Point"},"properties":{"osm_id":"5138118323","tag":{"amenity":"recycling","description":"Point de collecte \u00c3\u00a0 l'int\u00c3\u00a9rieur du magasin (Collect point inside the shop)","recycling:batteries":"yes","recycling:fluorescent_tubes":"yes","recycling:light_bulbs":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.36211,48.915347],"type":"Point"},"properties":{"osm_id":"5176542286","tag":{"amenity":"recycling","location":"overground","recycling:bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.325795,48.888405],"type":"Point"},"properties":{"osm_id":"5198493021","tag":{"amenity":"recycling","operator":"Le Relais","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -1457,6 +1457,7 @@
 	{"geometry":{"coordinates":[2.361031,48.869667],"type":"Point"},"properties":{"osm_id":"8187983037","tag":{"amenity":"recycling","opening_hours":"24/7","recycling:glass_bottles":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.36107,48.869645],"type":"Point"},"properties":{"osm_id":"8187983039","tag":{"amenity":"recycling","opening_hours":"24/7","recycling:PET":"yes","recycling:cans":"yes","recycling:paper":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling:small_appliances":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.360988,48.869686],"type":"Point"},"properties":{"osm_id":"8187983060","tag":{"amenity":"recycling","opening_hours":"24/7","recycling:PET":"yes","recycling:cans":"yes","recycling:paper":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[2.362496,48.874722],"type":"Point"},"properties":{"osm_id":"8205219130","tag":{"amenity":"recycling","recycling:waste":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"}
+	{"geometry":{"coordinates":[2.362496,48.874722],"type":"Point"},"properties":{"osm_id":"8205219130","tag":{"amenity":"recycling","recycling:waste":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.351195,48.877731],"type":"Point"},"properties":{"osm_id":"8222344155","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
 ]
 }
