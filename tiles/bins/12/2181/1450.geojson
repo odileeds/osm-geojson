@@ -1,12 +1,12 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[11.690223,46.430314],"type":"Point"},"properties":{"osm_id":"298401087","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.694248,46.430181],"type":"Point"},"properties":{"osm_id":"298401091","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.691063,46.436099],"type":"Point"},"properties":{"osm_id":"1228138182","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.690223,46.430314],"type":"Point"},"properties":{"osm_id":"298401087","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.694248,46.430181],"type":"Point"},"properties":{"osm_id":"298401091","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.691063,46.436099],"type":"Point"},"properties":{"osm_id":"1228138182","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.689502,46.433495],"type":"Point"},"properties":{"osm_id":"1228474159","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.691495,46.43445],"type":"Point"},"properties":{"osm_id":"1594571362","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.746192,46.424272],"type":"Point"},"properties":{"osm_id":"3667763702","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:waste":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.746192,46.424272],"type":"Point"},"properties":{"osm_id":"3667763702","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.702884,46.434673],"type":"Point"},"properties":{"osm_id":"5661441656","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
 ]
 }

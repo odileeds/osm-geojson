@@ -29,7 +29,7 @@
 	{"geometry":{"coordinates":[-1.540331,52.294926],"type":"Point"},"properties":{"osm_id":"1891172120","tag":{"amenity":"recycling","noname":"yes","opening_hours":"24/7","recycling:cans":"yes","recycling:cardboard":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic_bottles":"yes","recycling_type":"centre","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.537054,52.294414],"type":"Point"},"properties":{"osm_id":"1891172124","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.536409,52.293739],"type":"Point"},"properties":{"osm_id":"1891172133","tag":{"amenity":"waste_basket","operator":"Warwick District Council","waste":"trash;dog_excrement;cigarettes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.535882,52.294253],"type":"Point"},"properties":{"osm_id":"1891811106","tag":{"amenity":"waste_basket","operator":"Warwick District Council","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.535882,52.294253],"type":"Point"},"properties":{"osm_id":"1891811106","tag":{"amenity":"waste_basket","operator":"Warwick District Council","waste":"trash;cigarettes;dog_excrement"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.535775,52.293753],"type":"Point"},"properties":{"osm_id":"1891811112","tag":{"amenity":"waste_basket","operator":"Warwick District Council","waste":"trash;dog_excrement;cigarettes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.537019,52.29466],"type":"Point"},"properties":{"osm_id":"1891811117","tag":{"amenity":"waste_basket","operator":"Warwick District Council","waste":"trash;dog_excrement;cigarettes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.532305,52.287733],"type":"Point"},"properties":{"osm_id":"1896584981","tag":{"amenity":"waste_basket","check_date":"2020-12-12"}},"type":"Feature"},
@@ -80,7 +80,7 @@
 	{"geometry":{"coordinates":[-1.537133,52.294637],"type":"Point"},"properties":{"highway":"street_lamp","osm_id":"7981342027","tag":{"amenity":"waste_basket","lamp_mount":"bent_mast","lamp_type":"led"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.537029,52.293309],"type":"Point"},"properties":{"osm_id":"7981505674","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.539872,52.290303],"type":"Point"},"properties":{"osm_id":"7984164286","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.535396,52.29437],"type":"Point"},"properties":{"osm_id":"7984972456","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.535396,52.29437],"type":"Point"},"properties":{"osm_id":"7984972456","tag":{"amenity":"waste_basket","waste":"trash;cigarettes;dog_excrement"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.555454,52.297412],"type":"Point"},"properties":{"osm_id":"7985328675","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.555145,52.297263],"type":"Point"},"properties":{"osm_id":"7985328677","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.555652,52.297323],"type":"Point"},"properties":{"osm_id":"7985328680","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
@@ -133,7 +133,7 @@
 	{"geometry":{"coordinates":[-1.533409,52.286481],"type":"Point"},"properties":{"osm_id":"8040332041","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.533822,52.287196],"type":"Point"},"properties":{"osm_id":"8040332042","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.533154,52.28644],"type":"Point"},"properties":{"osm_id":"8040332043","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.53741,52.296241],"type":"Point"},"properties":{"osm_id":"8042400927","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.53741,52.296241],"type":"Point"},"properties":{"osm_id":"8042400927","tag":{"amenity":"waste_basket","waste":"trash;cigarettes;dog_excrement"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.547529,52.293252],"type":"Point"},"properties":{"osm_id":"8045217927","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.540378,52.296142],"type":"Point"},"properties":{"osm_id":"8112392205","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.542269,52.292167],"type":"Point"},"properties":{"osm_id":"8130143787","tag":{"amenity":"waste_basket","ele:ellipsoid":"108.7","waste":"cigarettes"}},"type":"Feature"},
@@ -147,6 +147,8 @@
 	{"geometry":{"coordinates":[-1.553172,52.289316],"type":"Point"},"properties":{"osm_id":"8228478076","tag":{"amenity":"waste_basket","waste":"trash;dog_excrement;cigarettes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.554893,52.289456],"type":"Point"},"properties":{"osm_id":"8228492592","tag":{"amenity":"waste_basket","waste":"trash;dog_excrement;cigarettes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.559592,52.289312],"type":"Point"},"properties":{"osm_id":"8228543047","tag":{"amenity":"waste_basket","waste":"trash;dog_excrement;cigarettes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.55519,52.290702],"type":"Point"},"properties":{"osm_id":"8228650248","tag":{"amenity":"waste_basket","waste":"trash;dog_excrement;cigarettes"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-1.55519,52.290702],"type":"Point"},"properties":{"osm_id":"8228650248","tag":{"amenity":"waste_basket","waste":"trash;dog_excrement;cigarettes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.535989,52.29463],"type":"Point"},"properties":{"osm_id":"8231320832","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.536383,52.294619],"type":"Point"},"properties":{"osm_id":"8231320833","tag":{"amenity":"waste_basket","waste":"cigarettes;dog_excrement;trash"}},"type":"Feature"}
 ]
 }
