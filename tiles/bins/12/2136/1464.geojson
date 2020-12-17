@@ -1,11 +1,11 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[7.808317,45.581298],"type":"Point"},"properties":{"osm_id":"3806626679","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.808018,45.582656],"type":"Point"},"properties":{"osm_id":"3806626692","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.814709,45.582394],"type":"Point"},"properties":{"osm_id":"3818781432","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.81458,45.582629],"type":"Point"},"properties":{"osm_id":"3818813011","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.816556,45.570242],"type":"Point"},"properties":{"osm_id":"3822989466","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.812384,45.570686],"type":"Point"},"properties":{"osm_id":"3822989521","tag":{"amenity":"recycling"}},"type":"Feature"}
+	{"geometry":{"coordinates":[7.808317,45.581298],"type":"Point"},"properties":{"osm_id":"3806626679","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.808018,45.582656],"type":"Point"},"properties":{"osm_id":"3806626692","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.814709,45.582394],"type":"Point"},"properties":{"osm_id":"3818781432","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.81458,45.582629],"type":"Point"},"properties":{"osm_id":"3818813011","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.816556,45.570242],"type":"Point"},"properties":{"osm_id":"3822989466","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.812384,45.570686],"type":"Point"},"properties":{"osm_id":"3822989521","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
 ]
 }
