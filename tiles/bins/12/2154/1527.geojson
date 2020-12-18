@@ -1,7 +1,11 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[9.334509,41.571893],"type":"Point"},"properties":{"osm_id":"2952045030","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.320797,41.561409],"type":"Point"},"properties":{"osm_id":"6002584058","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic_packaging":"yes","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[9.334525,41.5719],"type":"Point"},"properties":{"osm_id":"2952045030","tag":{"amenity":"recycling","location":"underground","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.320797,41.561409],"type":"Point"},"properties":{"osm_id":"6002584058","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic_packaging":"yes","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.334507,41.57189],"type":"Point"},"properties":{"osm_id":"8238127619","tag":{"amenity":"recycling","location":"underground","recycling:magazines":"yes","recycling:newspaper":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.334487,41.571875],"type":"Point"},"properties":{"osm_id":"8238127620","tag":{"amenity":"recycling","location":"underground","recycling:cans":"yes","recycling:cardboard":"yes","recycling:cartons":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.334468,41.571862],"type":"Point"},"properties":{"osm_id":"8238127621","tag":{"amenity":"waste_disposal","location":"underground"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.334448,41.571849],"type":"Point"},"properties":{"osm_id":"8238127622","tag":{"amenity":"waste_disposal","location":"underground"}},"type":"Feature"}
 ]
 }

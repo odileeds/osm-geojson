@@ -1,10 +1,10 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[11.625769,44.828066],"type":"Point"},"properties":{"osm_id":"2959894441","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.621938,44.829521],"type":"Point"},"properties":{"osm_id":"3373187648","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.625769,44.828066],"type":"Point"},"properties":{"osm_id":"2959894441","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.621938,44.829521],"type":"Point"},"properties":{"osm_id":"3373187648","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.621956,44.820666],"type":"Point"},"properties":{"osm_id":"4466124563","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.618523,44.838318],"type":"Point"},"properties":{"osm_id":"4501305497","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.618523,44.838318],"type":"Point"},"properties":{"osm_id":"4501305497","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.604149,44.816332],"type":"Point"},"properties":{"name":"Raccolta medicinali usati","osm_id":"4558783394","tag":{"amenity":"waste_disposal"}},"type":"Feature"}
 ]
 }
