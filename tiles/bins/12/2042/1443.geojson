@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[-0.460741,46.850625],"type":"Point"},"properties":{"osm_id":"1751242869","tag":{"addr:housenumber":"21","addr:street":"Rue Lavoisier"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.499496,46.840672],"type":"Point"},"properties":{"osm_id":"1851342599","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.499496,46.840672],"type":"Point"},"properties":{"osm_id":"1851342599","tag":{"amenity":"recycling","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.509389,46.842606],"type":"Point"},"properties":{"name":"Point Propre","osm_id":"1851342602","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.490078,46.841868],"type":"Point"},"properties":{"osm_id":"1873106189","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.490775,46.841915],"type":"Point"},"properties":{"name":"Croix Rouge Fran\u00c3\u00a7aise","osm_id":"1873106191","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -61,6 +61,9 @@
 	{"geometry":{"coordinates":[-0.494846,46.85017],"type":"Point"},"properties":{"osm_id":"8223130979","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.494796,46.850266],"type":"Point"},"properties":{"osm_id":"8223130984","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.49498,46.849973],"type":"Point"},"properties":{"osm_id":"8223144204","tag":{"amenity":"waste_basket","waste":"trash;cigarettes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.503359,46.842034],"type":"Point"},"properties":{"osm_id":"8223212454","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-0.503359,46.842034],"type":"Point"},"properties":{"osm_id":"8223212454","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.499664,46.840959],"type":"Point"},"properties":{"osm_id":"8241386448","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.499441,46.840829],"type":"Point"},"properties":{"osm_id":"8241386451","tag":{"amenity":"recycling","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.499468,46.84081],"type":"Point"},"properties":{"osm_id":"8241386452","tag":{"amenity":"recycling","recycling:waste":"yes","recycling_type":"centre"}},"type":"Feature"}
 ]
 }

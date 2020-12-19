@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[11.75994,42.240894],"type":"Point"},"properties":{"osm_id":"1241017016","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.75994,42.240894],"type":"Point"},"properties":{"osm_id":"1241017016","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.767947,42.250023],"type":"Point"},"properties":{"osm_id":"1241843311","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.767763,42.249921],"type":"Point"},"properties":{"osm_id":"1241986903","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.769063,42.249646],"type":"Point"},"properties":{"osm_id":"1241992395","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -14,7 +14,7 @@
 	{"geometry":{"coordinates":[11.768515,42.250269],"type":"Point"},"properties":{"osm_id":"1242109446","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.768868,42.250448],"type":"Point"},"properties":{"osm_id":"1242111030","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.768053,42.249821],"type":"Point"},"properties":{"osm_id":"1242139226","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.76797,42.249723],"type":"Point"},"properties":{"osm_id":"1242154919","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.76797,42.249723],"type":"Point"},"properties":{"osm_id":"1242154919","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.767945,42.249732],"type":"Point"},"properties":{"osm_id":"1242154922","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.76135,42.253457],"type":"Point"},"properties":{"osm_id":"1601735730","tag":{"amenity":"recycling","opening_hours":"11:45-15:15,17:30-19:45","recycling:batteries":"yes","recycling:green_waste":"yes","recycling:plastic":"yes","recycling:waste":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.760719,42.253398],"type":"Point"},"properties":{"osm_id":"1601770724","tag":{"amenity":"waste_disposal","information":"map","map_size":"city","operator":"Citt\u00c3\u00a0 di Tarquinia","tourism":"information"}},"type":"Feature"},

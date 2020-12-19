@@ -1,9 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[11.835202,42.559953],"type":"Point"},"properties":{"name":"Centro di raccolta","osm_id":"3426391919","tag":{"amenity":"recycling","operator":"Comune di Valentano"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.835202,42.559953],"type":"Point"},"properties":{"name":"Centro di raccolta","osm_id":"3426391919","tag":{"amenity":"recycling","operator":"Comune di Valentano","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.836222,42.55897],"type":"Point"},"properties":{"name":"Riciclaggio Olio da Cucina","osm_id":"3451797993","tag":{"amenity":"recycling","recycling:batteries":"no","recycling:cans":"no","recycling:cardboard":"no","recycling:clothes":"no","recycling:glass":"no","recycling:glass_bottles":"no","recycling:green_waste":"no","recycling:paper":"no","recycling:plastic":"no","recycling:scrap_metal":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.838103,42.556583],"type":"Point"},"properties":{"osm_id":"3484594148","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.840113,42.555991],"type":"Point"},"properties":{"name":"Punto raccolta rifiuti","osm_id":"3487678503","tag":{"amenity":"recycling"}},"type":"Feature"}
+	{"geometry":{"coordinates":[11.840113,42.555991],"type":"Point"},"properties":{"name":"Punto raccolta rifiuti","osm_id":"3487678503","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
 ]
 }

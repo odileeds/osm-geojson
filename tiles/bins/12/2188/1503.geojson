@@ -1,17 +1,17 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[12.374972,43.12711],"type":"Point"},"properties":{"osm_id":"1166817018","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.374431,43.125217],"type":"Point"},"properties":{"osm_id":"1246840311","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.374972,43.12711],"type":"Point"},"properties":{"osm_id":"1166817018","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.374431,43.125217],"type":"Point"},"properties":{"osm_id":"1246840311","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.383622,43.116569],"type":"Point"},"properties":{"osm_id":"1410551954","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.389523,43.110913],"type":"Point"},"properties":{"osm_id":"1413062595","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.388742,43.111909],"type":"Point"},"properties":{"osm_id":"1413080720","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.372154,43.12643],"type":"Point"},"properties":{"osm_id":"1636746441","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.372154,43.12643],"type":"Point"},"properties":{"osm_id":"1636746441","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.378428,43.11358],"type":"Point"},"properties":{"osm_id":"2476778826","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.333619,43.074058],"type":"Point"},"properties":{"name":"Isola Ecologica Sant'Andrea delle Fratte","osm_id":"2681758333","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.333619,43.074058],"type":"Point"},"properties":{"name":"Isola Ecologica Sant'Andrea delle Fratte","osm_id":"2681758333","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.366435,43.128351],"type":"Point"},"properties":{"osm_id":"3150487119","tag":{"amenity":"recycling","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.377029,43.124873],"type":"Point"},"properties":{"osm_id":"3357433590","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"no","recycling:paper":"yes","recycling:plastic":"yes","recycling:waste":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.377271,43.12654],"type":"Point"},"properties":{"osm_id":"3359802439","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:waste":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.373635,43.126283],"type":"Point"},"properties":{"osm_id":"3632649888","tag":{"amenity":"recycling"}},"type":"Feature"}
+	{"geometry":{"coordinates":[12.377029,43.124873],"type":"Point"},"properties":{"osm_id":"3357433590","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"no","recycling:paper":"yes","recycling:plastic":"yes","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.377271,43.12654],"type":"Point"},"properties":{"osm_id":"3359802439","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.373635,43.126283],"type":"Point"},"properties":{"osm_id":"3632649888","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
 ]
 }
