@@ -2,8 +2,8 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[9.335705,45.729776],"type":"Point"},"properties":{"name":"Piattaforma Ecologica","osm_id":"396487282","tag":{"amenity":"recycling","opening_hours":"Apr-Oct: Mo,Th 16:00-18:00; Sa 14:00-18:00; Nov-Mar: Mo,Th 14:30-16:30; Sa 13:30-17:00","operator":"Associazione AVES","recycling_type":"centre"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.383466,45.711177],"type":"Point"},"properties":{"osm_id":"538500623","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.402762,45.721124],"type":"Point"},"properties":{"osm_id":"1837076073","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.383466,45.711177],"type":"Point"},"properties":{"osm_id":"538500623","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.402762,45.721124],"type":"Point"},"properties":{"osm_id":"1837076073","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.330742,45.707109],"type":"Point"},"properties":{"osm_id":"2353495589","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.330139,45.707253],"type":"Point"},"properties":{"osm_id":"2353495704","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.33208,45.709595],"type":"Point"},"properties":{"osm_id":"3189105001","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},

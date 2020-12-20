@@ -1,12 +1,12 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[9.250327,45.86604],"type":"Point"},"properties":{"osm_id":"1075857100","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.250327,45.86604],"type":"Point"},"properties":{"osm_id":"1075857100","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.250375,45.866084],"type":"Point"},"properties":{"osm_id":"1075857179","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.238124,45.864014],"type":"Point"},"properties":{"osm_id":"1092322200","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.238124,45.864014],"type":"Point"},"properties":{"osm_id":"1092322200","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.297655,45.853648],"type":"Point"},"properties":{"osm_id":"1989768234","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.268087,45.881438],"type":"Point"},"properties":{"osm_id":"2270077899","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.246447,45.879864],"type":"Point"},"properties":{"osm_id":"2830955303","tag":{"amenity":"recycling","recycling:cans":"no","recycling:glass":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.246447,45.879864],"type":"Point"},"properties":{"osm_id":"2830955303","tag":{"amenity":"recycling","recycling:cans":"no","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.297276,45.874389],"type":"Point"},"properties":{"osm_id":"4799223397","tag":{"addr:city":"Valbrona","addr:postcode":"22039","addr:street":"Via Risorgimento","amenity":"recycling","recycling:glass":"yes","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.268886,45.881468],"type":"Point"},"properties":{"osm_id":"5208784544","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.268884,45.881493],"type":"Point"},"properties":{"osm_id":"5208784545","tag":{"amenity":"waste_disposal"}},"type":"Feature"},

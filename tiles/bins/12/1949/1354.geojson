@@ -2,6 +2,10 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[-8.617696,51.918119],"type":"Point"},"properties":{"osm_id":"1078802146","tag":{"amenity":"recycling","description":"Clothes banks for ClothesPod.ie, St. Vincent De Paul and Cork City Hospitals Children's Club. Recycling containers for green glass, clear glass, brown glass, drinks cans, food cans.  Operator is repak / cork city council and the relevant charities.","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-8.671938,51.901164],"type":"Point"},"properties":{"osm_id":"5789725046","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-8.671938,51.901164],"type":"Point"},"properties":{"osm_id":"5789725046","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-8.671685,51.925839],"type":"Point"},"properties":{"osm_id":"8243028423","tag":{"amenity":"recycling","operator":"Cork County Council","recycling:glass_bottles":"yes","recycling:glass_bottles:colour":"clear","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-8.671709,51.925836],"type":"Point"},"properties":{"osm_id":"8243028424","tag":{"amenity":"recycling","operator":"Cork County Council","recycling:glass_bottles":"yes","recycling:glass_bottles:colour":"green","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-8.671733,51.925832],"type":"Point"},"properties":{"osm_id":"8243028425","tag":{"amenity":"recycling","operator":"Cork County Council","recycling:glass_bottles":"yes","recycling:glass_bottles:colour":"brown","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-8.671757,51.925828],"type":"Point"},"properties":{"osm_id":"8243028426","tag":{"amenity":"recycling","operator":"Cork County Council","recycling:cans":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

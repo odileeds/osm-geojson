@@ -1,9 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[9.675593,45.659892],"type":"Point"},"properties":{"osm_id":"347740414","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:drugs":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.674964,45.661021],"type":"Point"},"properties":{"osm_id":"526959170","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:drugs":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.674237,45.660827],"type":"Point"},"properties":{"osm_id":"571821731","tag":{"amenity":"recycling","recycling:batteries":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.675593,45.659892],"type":"Point"},"properties":{"osm_id":"347740414","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:drugs":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.674964,45.661021],"type":"Point"},"properties":{"osm_id":"526959170","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:drugs":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.674237,45.660827],"type":"Point"},"properties":{"osm_id":"571821731","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.714029,45.653052],"type":"Point"},"properties":{"osm_id":"2015850887","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.672211,45.693024],"type":"Point"},"properties":{"osm_id":"4514860852","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
