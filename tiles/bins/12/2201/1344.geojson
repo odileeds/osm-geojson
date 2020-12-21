@@ -142,7 +142,7 @@
 	{"geometry":{"coordinates":[13.479111,52.436599],"type":"Point"},"properties":{"osm_id":"1690497069","tag":{"amenity":"recycling","recycling:clothes":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.476883,52.438959],"type":"Point"},"properties":{"osm_id":"1690497072","tag":{"amenity":"recycling","recycling:clothes":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.502954,52.441525],"type":"Point"},"properties":{"osm_id":"1703291311","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.512348,52.478103],"type":"Point"},"properties":{"osm_id":"1704390445","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.512348,52.478103],"type":"Point"},"properties":{"osm_id":"1704390445","tag":{"amenity":"recycling","opening_hours":"08:30-12:30,15:30-20:00","recycling:glass_bottles":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.502938,52.441451],"type":"Point"},"properties":{"osm_id":"1705263991","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.451681,52.475812],"type":"Point"},"properties":{"osm_id":"1861543930","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.45211,52.480806],"type":"Point"},"properties":{"osm_id":"1973525349","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -202,7 +202,7 @@
 	{"geometry":{"coordinates":[13.516684,52.481897],"type":"Point"},"properties":{"osm_id":"3910983120","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.460015,52.451853],"type":"Point"},"properties":{"name":"Beller Schrotthandel","osm_id":"3955524160","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.5296,52.452283],"type":"Point"},"properties":{"osm_id":"4017682666","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.516815,52.481954],"type":"Point"},"properties":{"osm_id":"4256471589","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.516815,52.481954],"type":"Point"},"properties":{"osm_id":"4256471589","tag":{"amenity":"waste_basket","check_date":"2020-12-20"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.517211,52.46261],"type":"Point"},"properties":{"osm_id":"4263416997","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.517135,52.461966],"type":"Point"},"properties":{"osm_id":"4263453295","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.514311,52.462473],"type":"Point"},"properties":{"osm_id":"4266005590","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -619,6 +619,12 @@
 	{"geometry":{"coordinates":[13.4507,52.435071],"type":"Point"},"properties":{"osm_id":"8222407171","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.450596,52.435039],"type":"Point"},"properties":{"osm_id":"8222407173","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.450322,52.435247],"type":"Point"},"properties":{"osm_id":"8222407207","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.516071,52.456003],"type":"Point"},"properties":{"osm_id":"8242415783","tag":{"amenity":"recycling","operator":"BR Berlin Recycling GmbH","recycling:glass_bottles":"yes","recycling:glass_brown":"yes","recycling:glass_green":"yes","recycling:glass_jars":"yes","recycling:glass_white":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[13.516071,52.456003],"type":"Point"},"properties":{"osm_id":"8242415783","tag":{"amenity":"recycling","operator":"BR Berlin Recycling GmbH","recycling:glass_bottles":"yes","recycling:glass_brown":"yes","recycling:glass_green":"yes","recycling:glass_jars":"yes","recycling:glass_white":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.515363,52.46874],"type":"Point"},"properties":{"osm_id":"8244653842","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.51728,52.469198],"type":"Point"},"properties":{"osm_id":"8244678307","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.518288,52.468092],"type":"Point"},"properties":{"osm_id":"8244709502","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.523605,52.467513],"type":"Point"},"properties":{"osm_id":"8244720462","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.525783,52.465181],"type":"Point"},"properties":{"osm_id":"8244768390","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.515615,52.480762],"type":"Point"},"properties":{"osm_id":"8244933895","tag":{"amenity":"waste_basket","waste":"trash;dog_excrement;cigarettes"}},"type":"Feature"}
 ]
 }

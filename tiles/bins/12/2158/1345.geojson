@@ -29,7 +29,7 @@
 	{"geometry":{"coordinates":[9.746051,52.388609],"type":"Point"},"properties":{"osm_id":"471288244","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.687881,52.378554],"type":"Point"},"properties":{"osm_id":"503988127","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.694609,52.375651],"type":"Point"},"properties":{"osm_id":"503988278","tag":{"amenity":"recycling","operator":"aha Zweckverband Abfallwirtschaft Region Hannover","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.752715,52.382131],"type":"Point"},"properties":{"osm_id":"618841400","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"no"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.752715,52.382131],"type":"Point"},"properties":{"osm_id":"618841400","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.738841,52.390998],"type":"Point"},"properties":{"osm_id":"655145658","tag":{"addr:city":"Hannover","addr:street":"Isernhagener Stra\u00c3\u009fe","amenity":"recycling","operator":"AHA","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.719259,52.385258],"type":"Point"},"properties":{"osm_id":"1080687544","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.718695,52.385393],"type":"Point"},"properties":{"osm_id":"1080687551","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -52,7 +52,7 @@
 	{"geometry":{"coordinates":[9.720065,52.388928],"type":"Point"},"properties":{"barrier":"gate","osm_id":"1389400628"},"type":"Feature"},
 	{"geometry":{"coordinates":[9.729151,52.385621],"type":"Point"},"properties":{"osm_id":"1408729951","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.699855,52.385597],"type":"Point"},"properties":{"osm_id":"1408757942","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.690469,52.404094],"type":"Point"},"properties":{"osm_id":"1560428217","tag":{"amenity":"recycling","operator":"aha Zweckverband Abfallwirtschaft Region Hannover","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.690469,52.404094],"type":"Point"},"properties":{"osm_id":"1560428217","tag":{"amenity":"recycling","operator":"aha Zweckverband Abfallwirtschaft Region Hannover","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.74126,52.397947],"type":"Point"},"properties":{"osm_id":"1565038522","tag":{"addr:city":"Hannover","addr:street":"Isernhagener Stra\u00c3\u009fe","amenity":"recycling","operator":"AHA","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.712964,52.401042],"type":"Point"},"properties":{"osm_id":"1579944104","tag":{"addr:city":"Hannover","addr:street":"Schulenburger Landstra\u00c3\u009fe","amenity":"recycling","operator":"AHA","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.717027,52.388392],"type":"Point"},"properties":{"osm_id":"1596930039","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -84,7 +84,7 @@
 	{"geometry":{"coordinates":[9.752726,52.38986],"type":"Point"},"properties":{"osm_id":"2727293869","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.711364,52.383214],"type":"Point"},"properties":{"osm_id":"2971622483","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.704149,52.39299],"type":"Point"},"properties":{"osm_id":"3122007215","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.689844,52.407255],"type":"Point"},"properties":{"osm_id":"3136621440","tag":{"amenity":"recycling","operator":"aha Zweckverband Abfallwirtschaft Region Hannover","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.689844,52.407255],"type":"Point"},"properties":{"osm_id":"3136621440","tag":{"amenity":"recycling","operator":"aha Zweckverband Abfallwirtschaft Region Hannover","recycling:clothes":"yes","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.685317,52.39188],"type":"Point"},"properties":{"osm_id":"3182698857","tag":{"amenity":"recycling","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.723972,52.390266],"type":"Point"},"properties":{"osm_id":"3429767450","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.73148,52.423573],"type":"Point"},"properties":{"osm_id":"3599514312","tag":{"amenity":"recycling","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -176,6 +176,7 @@
 	{"geometry":{"coordinates":[9.716359,52.386005],"type":"Point"},"properties":{"osm_id":"7903388796","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.716606,52.385773],"type":"Point"},"properties":{"osm_id":"7903388802","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.706996,52.386528],"type":"Point"},"properties":{"osm_id":"8003550184","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.697371,52.420751],"type":"Point"},"properties":{"osm_id":"8235291593","tag":{"amenity":"recycling"}},"type":"Feature"}
+	{"geometry":{"coordinates":[9.697371,52.420751],"type":"Point"},"properties":{"osm_id":"8235291593","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.748931,52.377873],"type":"Point"},"properties":{"osm_id":"8246085059","tag":{"amenity":"recycling","operator":"AHA","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }
