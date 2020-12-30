@@ -193,7 +193,7 @@
 	{"geometry":{"coordinates":[-122.051257,36.997203],"type":"Point"},"properties":{"osm_id":"6231380076","tag":{"amenity":"recycling","recycling:cardboard":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-122.053142,37.001669],"type":"Point"},"properties":{"osm_id":"6235495068","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-122.013635,36.969784],"type":"Point"},"properties":{"osm_id":"6254286201","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:plastic":"no","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"no","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-122.000765,36.975821],"type":"Point"},"properties":{"osm_id":"6268048852","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-122.000765,36.975821],"type":"Point"},"properties":{"osm_id":"6268048852","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:plastic":"no","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-122.000757,36.975819],"type":"Point"},"properties":{"osm_id":"6268048853","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-122.022414,36.97582],"type":"Point"},"properties":{"osm_id":"6268832144","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-122.022413,36.975812],"type":"Point"},"properties":{"osm_id":"6268832145","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
@@ -289,6 +289,12 @@
 	{"geometry":{"coordinates":[-122.025759,36.957519],"type":"Point"},"properties":{"osm_id":"8129701830","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-122.025771,36.957517],"type":"Point"},"properties":{"osm_id":"8129701831","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-122.051032,36.953311],"type":"Point"},"properties":{"osm_id":"8228962777","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-122.051033,36.953327],"type":"Point"},"properties":{"osm_id":"8228962778","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-122.051033,36.953327],"type":"Point"},"properties":{"osm_id":"8228962778","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-122.04101,36.96828],"type":"Point"},"properties":{"osm_id":"8249890140","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-122.041214,36.967891],"type":"Point"},"properties":{"osm_id":"8250099829","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-122.041153,36.967872],"type":"Point"},"properties":{"osm_id":"8250101246","tag":{"access":"private","amenity":"recycling","operator":"City of Santa Cruz","recycling:green_waste":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-122.020692,36.985421],"type":"Point"},"properties":{"osm_id":"8252437379","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-122.021483,36.985392],"type":"Point"},"properties":{"osm_id":"8253192480","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-122.021377,36.98515],"type":"Point"},"properties":{"osm_id":"8253192481","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
 ]
 }

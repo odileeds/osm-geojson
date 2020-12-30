@@ -83,11 +83,11 @@
 	{"geometry":{"coordinates":[0.006684,51.5377],"type":"Point"},"properties":{"osm_id":"4409872795","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.007931,51.537535],"type":"Point"},"properties":{"osm_id":"4410028847","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.008408,51.537488],"type":"Point"},"properties":{"osm_id":"4410088900","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[0.009082,51.537452],"type":"Point"},"properties":{"osm_id":"4410088901","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[0.008693,51.537802],"type":"Point"},"properties":{"osm_id":"4410088903","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[0.008689,51.5378],"type":"Point"},"properties":{"osm_id":"4410088905","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[0.009082,51.537452],"type":"Point"},"properties":{"osm_id":"4410088901","tag":{"amenity":"waste_basket","check_date":"2020-12-26"}},"type":"Feature"},
+	{"geometry":{"coordinates":[0.008693,51.537802],"type":"Point"},"properties":{"osm_id":"4410088903","tag":{"amenity":"waste_basket","check_date":"2020-12-26"}},"type":"Feature"},
+	{"geometry":{"coordinates":[0.008689,51.5378],"type":"Point"},"properties":{"osm_id":"4410088905","tag":{"amenity":"waste_basket","check_date":"2020-12-26"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.007826,51.537612],"type":"Point"},"properties":{"osm_id":"4410088906","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[0.009134,51.537433],"type":"Point"},"properties":{"osm_id":"4410088907","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
+	{"geometry":{"coordinates":[0.009134,51.537433],"type":"Point"},"properties":{"osm_id":"4410088907","tag":{"amenity":"waste_basket","check_date":"2020-12-26","waste":"dog_excrement"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.016999,51.539208],"type":"Point"},"properties":{"osm_id":"4426138058","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.016345,51.538995],"type":"Point"},"properties":{"osm_id":"4426138060","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.018577,51.539472],"type":"Point"},"properties":{"osm_id":"4426138065","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
@@ -195,6 +195,8 @@
 	{"geometry":{"coordinates":[0.023701,51.522802],"type":"Point"},"properties":{"osm_id":"8195141146","tag":{"amenity":"recycling","operator":"Aspire Community Enterprises Ltd.","recycling:blankets":"yes","recycling:clothes":"yes","recycling:curtains":"yes","recycling:sheets":"yes","recycling:shoes":"yes","recycling:towels":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.032034,51.513309],"type":"Point"},"properties":{"osm_id":"8199205018","tag":{"amenity":"recycling","colour":"green","recycling:blankets":"yes","recycling:clothes":"yes","recycling:curtains":"yes","recycling:sheets":"yes","recycling:shoes":"yes","recycling:towels":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.011907,51.513302],"type":"Point"},"properties":{"osm_id":"8199212325","tag":{"amenity":"recycling","colour":"blue","operator":"United Shoe Recycling Company","recycling:bags":"yes","recycling:belts":"yes","recycling:clothes":"yes","recycling:curtains":"yes","recycling:sheets":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[0.025173,51.552091],"type":"Point"},"properties":{"osm_id":"8240261442","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[0.025173,51.552091],"type":"Point"},"properties":{"osm_id":"8240261442","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[0.009359,51.523944],"type":"Point"},"properties":{"name":"Reclaim At The Lane","osm_id":"8262243169","tag":{"addr:city":"London","addr:housenumber":"122-162","addr:postcode":"E16 4PE","addr:street":"Cranberry Lane","amenity":"recycling","operator":"Bright Sparks","operator:type":"community","phone":"+44 20 8522 2330","recycling_type":"centre","website":"https://brightsparksonline.com/"}},"type":"Feature"},
+	{"geometry":{"coordinates":[0.013873,51.517995],"type":"Point"},"properties":{"osm_id":"8266616534","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

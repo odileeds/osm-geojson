@@ -19,7 +19,7 @@
 	{"geometry":{"coordinates":[-66.165452,-17.400116],"type":"Point"},"properties":{"osm_id":"2684641207","tag":{"amenity":"waste_basket","operator":"mARTadero","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-66.149185,-17.433077],"type":"Point"},"properties":{"osm_id":"3636047024","tag":{"amenity":"waste_disposal","operator":"EMSA","recycling_type":"container","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-66.161582,-17.397342],"type":"Point"},"properties":{"osm_id":"4006128047","tag":{"amenity":"waste_disposal","operator":"EMSA","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-66.148743,-17.398031],"type":"Point"},"properties":{"osm_id":"4044430340","tag":{"addr:city":"Cochabamba","addr:street":"Avenida Oquendo","amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"centre"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-66.148743,-17.398031],"type":"Point"},"properties":{"osm_id":"4044430340","tag":{"addr:city":"Cochabamba","addr:street":"Avenida Oquendo","amenity":"recycling","recycling:cardboard":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-66.157493,-17.396572],"type":"Point"},"properties":{"osm_id":"4051759815","tag":{"amenity":"waste_basket","operator":"EMSA","waste":"trash;plastic;organic"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-66.158193,-17.395539],"type":"Point"},"properties":{"osm_id":"4072794218","tag":{"amenity":"waste_basket","operator":"EMSA","waste":"trash;plastic;organic"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-66.158158,-17.395732],"type":"Point"},"properties":{"osm_id":"4072794219","tag":{"amenity":"waste_disposal","operator":"EMSA","waste":"trash"}},"type":"Feature"},
@@ -62,7 +62,7 @@
 	{"geometry":{"coordinates":[-66.145053,-17.393301],"type":"Point"},"properties":{"osm_id":"6299490181","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-66.145036,-17.393415],"type":"Point"},"properties":{"osm_id":"6299490390","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-66.146648,-17.393553],"type":"Point"},"properties":{"osm_id":"6299491686","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-66.147824,-17.398101],"type":"Point"},"properties":{"name":"Centro de acopio","osm_id":"6497827932","tag":{"amenity":"recycling","recycling":"paper;glass;alumn;bottles;books;cartoon"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-66.147824,-17.398101],"type":"Point"},"properties":{"name":"Centro de Acopio","osm_id":"6497827932","tag":{"addr:city":"Cochabamba","addr:street":"Avenida Guillermo Urquidi","amenity":"recycling","recycling":"paper;glass;alumn;bottles;books;cartoon","recycling:cardboard":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-66.152682,-17.395639],"type":"Point"},"properties":{"osm_id":"6649051189","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-66.150556,-17.395246],"type":"Point"},"properties":{"osm_id":"7943094761","tag":{"amenity":"recycling","recycling:bottles":"yes","recycling:cans":"yes","recycling:cartons":"yes","recycling:glass_bottles":"yes"}},"type":"Feature"}
 ]

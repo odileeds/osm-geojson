@@ -1177,7 +1177,7 @@
 	{"geometry":{"coordinates":[21.252447,48.73123],"type":"Point"},"properties":{"osm_id":"6087609710","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[21.252184,48.73062],"type":"Point"},"properties":{"osm_id":"6087609768","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
 	{"geometry":{"coordinates":[21.252143,48.730627],"type":"Point"},"properties":{"osm_id":"6087609769","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
-	{"geometry":{"coordinates":[21.252147,48.730591],"type":"Point"},"properties":{"osm_id":"6087609770","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[21.252147,48.730591],"type":"Point"},"properties":{"osm_id":"6087609770","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[21.212272,48.719888],"type":"Point"},"properties":{"osm_id":"6088721234","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[21.211785,48.7205],"type":"Point"},"properties":{"osm_id":"6088721275","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[21.261559,48.694496],"type":"Point"},"properties":{"osm_id":"6088791095","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -1439,6 +1439,7 @@
 	{"geometry":{"coordinates":[21.209545,48.719145],"type":"Point"},"properties":{"osm_id":"8188776760","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[21.209537,48.719129],"type":"Point"},"properties":{"osm_id":"8188776761","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[21.208586,48.719283],"type":"Point"},"properties":{"osm_id":"8188776766","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
-	{"geometry":{"coordinates":[21.237215,48.718704],"type":"Point"},"properties":{"osm_id":"8194549227","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[21.237215,48.718704],"type":"Point"},"properties":{"osm_id":"8194549227","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[21.213096,48.711486],"type":"Point"},"properties":{"name":"Srdce","osm_id":"8254153663","tag":{"amenity":"recycling","indoor":"no","material":"metal","opening_hours":"24/7","opening_hours:covid19":"same","operator":"M\u00c4\u008c S\u00c3\u00addlisko KVP","recycling:plastic_bottle_caps":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

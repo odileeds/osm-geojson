@@ -51,7 +51,7 @@
 { "type": "Feature", "properties": { "osm_id": "2872611306", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ 0.6881573, 52.6537495 ] } },
 { "type": "Feature", "properties": { "osm_id": "2881281446", "other_tags": "\"waste\"=>\"dog_excrement\",\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ 0.6112602, 52.4660429 ] } },
 { "type": "Feature", "properties": { "osm_id": "2881655751", "other_tags": "\"waste\"=>\"dog_excrement\",\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ 0.6055426, 52.5630609 ] } },
-{ "type": "Feature", "properties": { "osm_id": "2881695804", "other_tags": "\"waste\"=>\"dog_excrement\",\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ 0.6209301, 52.4622206 ] } },
+{ "type": "Feature", "properties": { "osm_id": "2881695804", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ 0.6209221, 52.4622243 ] } },
 { "type": "Feature", "properties": { "osm_id": "2886686551", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ 0.6915067, 52.6476736 ] } },
 { "type": "Feature", "properties": { "osm_id": "2895882037", "other_tags": "\"waste\"=>\"dog_excrement\",\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ 0.6542413, 52.5133988 ] } },
 { "type": "Feature", "properties": { "osm_id": "2895882038", "other_tags": "\"waste\"=>\"dog_excrement\",\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ 0.6578945, 52.5133026 ] } },
@@ -341,7 +341,7 @@
 { "type": "Feature", "properties": { "osm_id": "6912436964", "other_tags": "\"amenity\"=>\"waste_basket\",\"bdc:name\"=>\"CHURCHILL RD\",\"operator\"=>\"Breckland District Council\"" }, "geometry": { "type": "Point", "coordinates": [ 0.758813, 52.4191124 ] } },
 { "type": "Feature", "properties": { "osm_id": "6912436967", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ 0.7539348, 52.417059 ] } },
 { "type": "Feature", "properties": { "osm_id": "6912436972", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ 0.7481673, 52.4137056 ] } },
-{ "type": "Feature", "properties": { "osm_id": "6912436974", "other_tags": "\"amenity\"=>\"waste_basket\",\"bdc:name\"=>\"KINGS STREET, BETWEEN 27 AND 29\",\"operator\"=>\"Breckland District Council\"" }, "geometry": { "type": "Point", "coordinates": [ 0.7485851, 52.414004 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6912436974", "other_tags": "\"amenity\"=>\"waste_basket\",\"bdc:name\"=>\"KINGS STREET, BETWEEN 27 AND 29\",\"operator\"=>\"Breckland District Council\"" }, "geometry": { "type": "Point", "coordinates": [ 0.7485489, 52.4140097 ] } },
 { "type": "Feature", "properties": { "osm_id": "6912436977", "other_tags": "\"amenity\"=>\"waste_basket\",\"bdc:name\"=>\"KING STREET, NEAR CHURCH\",\"operator\"=>\"Breckland District Council\"" }, "geometry": { "type": "Point", "coordinates": [ 0.7494584, 52.4138933 ] } },
 { "type": "Feature", "properties": { "osm_id": "6912436978", "other_tags": "\"amenity\"=>\"waste_basket\",\"bdc:name\"=>\"KING STREET NEAR NO 10\",\"operator\"=>\"Breckland District Council\"" }, "geometry": { "type": "Point", "coordinates": [ 0.7496368, 52.4138498 ] } },
 { "type": "Feature", "properties": { "osm_id": "6912436979", "other_tags": "\"amenity\"=>\"waste_basket\",\"bdc:name\"=>\"KING STREET BEHIND ST CUTHBERT'S CHURCH\",\"operator\"=>\"Breckland District Council\"" }, "geometry": { "type": "Point", "coordinates": [ 0.7496794, 52.4134672 ] } },
@@ -493,6 +493,11 @@
 { "type": "Feature", "properties": { "osm_id": "7973300682", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ 0.7385986, 52.393645 ] } },
 { "type": "Feature", "properties": { "osm_id": "8018878883", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ 0.7819189, 52.4324342 ] } },
 { "type": "Feature", "properties": { "osm_id": "8119196533", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ 0.6660295, 52.5144385 ] } },
-{ "type": "Feature", "properties": { "osm_id": "8158241550", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ 0.8524402, 52.4911083 ] } }
+{ "type": "Feature", "properties": { "osm_id": "8158241550", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ 0.8524402, 52.4911083 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8261526012", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ 0.6138564, 52.4663449 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8261582882", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ 0.6147328, 52.4712183 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8261582883", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ 0.614761, 52.4711827 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8261608108", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ 0.6209126, 52.4622546 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8270800564", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ 0.9402457, 52.6799028 ] } }
 ]
 }

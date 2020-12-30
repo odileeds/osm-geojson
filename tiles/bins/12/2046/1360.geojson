@@ -56,7 +56,7 @@
 	{"geometry":{"coordinates":[-0.138744,51.570454],"type":"Point"},"properties":{"osm_id":"1451330423","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.136014,51.571633],"type":"Point"},"properties":{"osm_id":"1451339426","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.126731,51.575277],"type":"Point"},"properties":{"osm_id":"1451355704","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.106508,51.577431],"type":"Point"},"properties":{"osm_id":"1541638206","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.106431,51.57748],"type":"Point"},"properties":{"osm_id":"1541638206","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.116972,51.579761],"type":"Point"},"properties":{"osm_id":"1637903129","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.091186,51.586218],"type":"Point"},"properties":{"osm_id":"1643721476","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.155926,51.607076],"type":"Point"},"properties":{"name":"Tesco Recycling Centre","osm_id":"1678630381","tag":{"amenity":"recycling","opening_hours":"Mo-Su 07:00-23:00","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:plastic_bags":"yes","recycling:plastic_bottles":"yes","recycling:shoes":"yes"}},"type":"Feature"},
@@ -502,6 +502,7 @@
 	{"geometry":{"coordinates":[-0.126121,51.591475],"type":"Point"},"properties":{"osm_id":"8116772459","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.15652,51.597251],"type":"Point"},"properties":{"osm_id":"8151667481","tag":{"amenity":"waste_basket","description":"Mixed recycling, general waste and dog waste accepted"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.154385,51.595284],"type":"Point"},"properties":{"osm_id":"8151667487","tag":{"amenity":"waste_basket","description":"Mixed recycling, general waste and dog waste accepted"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.158776,51.59524],"type":"Point"},"properties":{"osm_id":"8176466074","tag":{"amenity":"waste_basket","description":"Mixed recycling, general waste and dog waste accepted"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-0.158776,51.59524],"type":"Point"},"properties":{"osm_id":"8176466074","tag":{"amenity":"waste_basket","description":"Mixed recycling, general waste and dog waste accepted"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.098982,51.578949],"type":"Point"},"properties":{"osm_id":"8270181262","tag":{"amenity":"waste_basket","colour":"black","material":"steel","operator":"council","waste":"trash"}},"type":"Feature"}
 ]
 }

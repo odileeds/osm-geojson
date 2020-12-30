@@ -376,7 +376,7 @@
 	{"geometry":{"coordinates":[8.533355,47.39838],"type":"Point"},"properties":{"osm_id":"5779331054","tag":{"amenity":"waste_basket","manufacturer":"Anta Swiss"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.540952,47.413912],"type":"Point"},"properties":{"osm_id":"5784260810","tag":{"amenity":"waste_basket","manufacturer":"Anta Swiss"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.564424,47.424479],"type":"Point"},"properties":{"osm_id":"5784918186","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.564621,47.424576],"type":"Point"},"properties":{"osm_id":"5784918187","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.564621,47.424576],"type":"Point"},"properties":{"osm_id":"5784918187","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.562806,47.422753],"type":"Point"},"properties":{"osm_id":"5801099654","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.532737,47.398479],"type":"Point"},"properties":{"osm_id":"5819394185","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.542587,47.414518],"type":"Point"},"properties":{"osm_id":"5954906205","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"underfloor-container"}},"type":"Feature"},
@@ -546,6 +546,7 @@
 	{"geometry":{"coordinates":[8.593751,47.418447],"type":"Point"},"properties":{"osm_id":"7902739521","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.545632,47.417523],"type":"Point"},"properties":{"osm_id":"7952704124","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.54544,47.416765],"type":"Point"},"properties":{"osm_id":"7952707783","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.605398,47.401123],"type":"Point"},"properties":{"osm_id":"8203306958","tag":{"amenity":"recycling","operator":"Coop Bau+Hobby","recycling:batteries":"yes","recycling:cartons":"yes","recycling:paper_packaging":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[8.605398,47.401123],"type":"Point"},"properties":{"osm_id":"8203306958","tag":{"amenity":"recycling","operator":"Coop Bau+Hobby","recycling:batteries":"yes","recycling:cartons":"yes","recycling:paper_packaging":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.560403,47.419712],"type":"Point"},"properties":{"osm_id":"8262424939","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

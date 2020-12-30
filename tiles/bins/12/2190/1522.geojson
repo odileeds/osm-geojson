@@ -253,8 +253,8 @@
 	{"geometry":{"coordinates":[12.506265,41.838203],"type":"Point"},"properties":{"osm_id":"6515376945","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.50717,41.838379],"type":"Point"},"properties":{"osm_id":"6515376946","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.489021,41.847098],"type":"Point"},"properties":{"osm_id":"6565595372","tag":{"amenity":"recycling","recycling:PET":"yes","recycling:aluminium":"yes","recycling:cans":"yes","recycling:cardboard":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.485473,41.846009],"type":"Point"},"properties":{"osm_id":"6565648882","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.486451,41.846296],"type":"Point"},"properties":{"osm_id":"6565649485","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.485473,41.846009],"type":"Point"},"properties":{"osm_id":"6565648882","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:green_waste":"yes","recycling:paper":"yes","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.486451,41.846296],"type":"Point"},"properties":{"osm_id":"6565649485","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:green_waste":"yes","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.482131,41.875668],"type":"Point"},"properties":{"name":"+ricicli +viaggi (Piramide)","osm_id":"6718501219","tag":{"amenity":"recycling","level":"-1","operator":"Atac","recycling:plastic_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.509956,41.885341],"type":"Point"},"properties":{"name":"+ricicli +viaggi (San Giovanni)","osm_id":"6718520461","tag":{"amenity":"recycling","level":"-1","operator":"Atac","recycling:plastic_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.486907,41.860808],"type":"Point"},"properties":{"osm_id":"6838609816","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling_type":"box"}},"type":"Feature"},
@@ -369,6 +369,14 @@
 	{"geometry":{"coordinates":[12.491237,41.857385],"type":"Point"},"properties":{"osm_id":"8118508183","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.561219,41.86142],"type":"Point"},"properties":{"osm_id":"8122102295","tag":{"amenity":"waste_disposal","waste":"trash;recycling;household;organic"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.499141,41.851625],"type":"Point"},"properties":{"osm_id":"8224429229","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.548085,41.864],"type":"Point"},"properties":{"osm_id":"8225791546","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[12.548085,41.864],"type":"Point"},"properties":{"osm_id":"8225791546","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.484599,41.845375],"type":"Point"},"properties":{"osm_id":"8270311643","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.484599,41.845375],"type":"Point"},"properties":{"osm_id":"8270311643","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.486508,41.846704],"type":"Point"},"properties":{"osm_id":"8270488103","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.486672,41.845396],"type":"Point"},"properties":{"osm_id":"8270509701","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.489233,41.846243],"type":"Point"},"properties":{"osm_id":"8270548390","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.488974,41.84659],"type":"Point"},"properties":{"osm_id":"8270565388","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.489805,41.845949],"type":"Point"},"properties":{"osm_id":"8270578935","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.487942,41.846134],"type":"Point"},"properties":{"osm_id":"8270580083","tag":{"amenity":"recycling"}},"type":"Feature"}
 ]
 }

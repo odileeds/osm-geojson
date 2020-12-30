@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-3.106146,55.938354],"type":"Point"},"properties":{"osm_id":"27719682","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.106146,55.938354],"type":"Point"},"properties":{"osm_id":"27719682","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.162921,55.926146],"type":"Point"},"properties":{"osm_id":"312789996","tag":{"amenity":"recycling","location":"overground","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.146173,55.931188],"type":"Point"},"properties":{"osm_id":"313210568","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.093471,55.933837],"type":"Point"},"properties":{"osm_id":"322801532","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
@@ -178,6 +178,8 @@
 	{"geometry":{"coordinates":[-3.153031,55.946965],"type":"Point"},"properties":{"osm_id":"7692407368","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.150256,55.948566],"type":"Point"},"properties":{"osm_id":"7692407370","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.150313,55.949313],"type":"Point"},"properties":{"osm_id":"7692407373","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-3.124372,55.929034],"type":"Point"},"properties":{"osm_id":"8096929982","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-3.124372,55.929034],"type":"Point"},"properties":{"osm_id":"8096929982","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.150348,55.959501],"type":"Point"},"properties":{"osm_id":"8269807741","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.156163,55.966413],"type":"Point"},"properties":{"osm_id":"8270396999","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

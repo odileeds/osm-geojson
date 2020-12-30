@@ -26,7 +26,7 @@
 { "type": "Feature", "properties": { "osm_id": "1422390967", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.1237719, 51.5787373 ] } },
 { "type": "Feature", "properties": { "osm_id": "1451330423", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.138744, 51.5704549 ] } },
 { "type": "Feature", "properties": { "osm_id": "1451355704", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.1267312, 51.5752777 ] } },
-{ "type": "Feature", "properties": { "osm_id": "1541638206", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -0.1065082, 51.5774314 ] } },
+{ "type": "Feature", "properties": { "osm_id": "1541638206", "other_tags": "\"amenity\"=>\"recycling\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -0.1064318, 51.5774806 ] } },
 { "type": "Feature", "properties": { "osm_id": "1637903129", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.1169726, 51.5797615 ] } },
 { "type": "Feature", "properties": { "osm_id": "1643721476", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0911867, 51.5862184 ] } },
 { "type": "Feature", "properties": { "osm_id": "2020207822", "highway": "crossing", "other_tags": "\"crossing\"=>\"traffic_signals\",\"crossing_ref\"=>\"pelican\",\"crossing:island\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -0.1092698, 51.5965087 ] } },
@@ -352,6 +352,7 @@
 { "type": "Feature", "properties": { "osm_id": "8116772459", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.1261211, 51.5914752 ] } },
 { "type": "Feature", "properties": { "osm_id": "8151667481", "other_tags": "\"amenity\"=>\"waste_basket\",\"description\"=>\"Mixed recycling, general waste and dog waste accepted\"" }, "geometry": { "type": "Point", "coordinates": [ -0.1565201, 51.5972519 ] } },
 { "type": "Feature", "properties": { "osm_id": "8151667487", "other_tags": "\"amenity\"=>\"waste_basket\",\"description\"=>\"Mixed recycling, general waste and dog waste accepted\"" }, "geometry": { "type": "Point", "coordinates": [ -0.1543856, 51.5952844 ] } },
-{ "type": "Feature", "properties": { "osm_id": "8176466074", "other_tags": "\"amenity\"=>\"waste_basket\",\"description\"=>\"Mixed recycling, general waste and dog waste accepted\"" }, "geometry": { "type": "Point", "coordinates": [ -0.1587768, 51.5952402 ] } }
+{ "type": "Feature", "properties": { "osm_id": "8176466074", "other_tags": "\"amenity\"=>\"waste_basket\",\"description\"=>\"Mixed recycling, general waste and dog waste accepted\"" }, "geometry": { "type": "Point", "coordinates": [ -0.1587768, 51.5952402 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8270181262", "other_tags": "\"amenity\"=>\"waste_basket\",\"colour\"=>\"black\",\"material\"=>\"steel\",\"operator\"=>\"council\",\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0989825, 51.5789499 ] } }
 ]
 }
