@@ -96,7 +96,7 @@
 	{"geometry":{"coordinates":[9.935649,51.61698],"type":"Point"},"properties":{"osm_id":"4907663529","tag":{"amenity":"waste_basket","survey:date":"2017-06-06"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.935893,51.617113],"type":"Point"},"properties":{"osm_id":"4907663536","tag":{"amenity":"waste_basket","survey:date":"2017-06-06"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.934503,51.586583],"type":"Point"},"properties":{"osm_id":"4907910826","tag":{"amenity":"waste_basket","survey:date":"2017-06-06"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.937759,51.587909],"type":"Point"},"properties":{"osm_id":"4907954897","tag":{"amenity":"recycling","operator":"Fehr","recycling:glass_bottles":"yes","recycling_type":"container","survey:date":"2017-06-06"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.937915,51.588022],"type":"Point"},"properties":{"osm_id":"4907954897","tag":{"amenity":"recycling","operator":"Fehr","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container","survey:date":"2020-12-30"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.932697,51.586449],"type":"Point"},"properties":{"osm_id":"4907955125","tag":{"amenity":"waste_basket","survey:date":"2017-06-06"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.937048,51.572258],"type":"Point"},"properties":{"osm_id":"4909709513","tag":{"amenity":"waste_basket","survey:date":"2017-06-11"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.97936,51.565923],"type":"Point"},"properties":{"osm_id":"4935348614","tag":{"amenity":"waste_basket","survey:date":"2017-06-24"}},"type":"Feature"},
@@ -110,8 +110,8 @@
 	{"geometry":{"coordinates":[9.956126,51.593168],"type":"Point"},"properties":{"osm_id":"5522813306","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.934262,51.585848],"type":"Point"},"properties":{"osm_id":"5746327678","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.934245,51.585868],"type":"Point"},"properties":{"osm_id":"5746327679","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.93778,51.587926],"type":"Point"},"properties":{"osm_id":"5746327680","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.937803,51.587943],"type":"Point"},"properties":{"osm_id":"5746327681","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.937936,51.588038],"type":"Point"},"properties":{"osm_id":"5746327680","tag":{"amenity":"recycling","operator":"Fehr","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container","survey:date":"2020-12-30"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.93796,51.588055],"type":"Point"},"properties":{"osm_id":"5746327681","tag":{"amenity":"recycling","operator":"Fehr","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container","survey:date":"2020-12-30"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.93383,51.576351],"type":"Point"},"properties":{"osm_id":"6208053151","tag":{"amenity":"waste_basket","survey:date":"2019-01-14"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.933879,51.578065],"type":"Point"},"properties":{"osm_id":"6208053184","tag":{"amenity":"recycling","operator":"Parkfriedhof Weende","recycling:green_waste":"yes","recycling_type":"container","survey:date":"2019-01-14"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.934369,51.577901],"type":"Point"},"properties":{"osm_id":"6208054985","tag":{"amenity":"recycling","operator":"Parkfriedhof Weende","recycling:green_waste":"yes","recycling_type":"container","survey:date":"2019-01-14"}},"type":"Feature"},
@@ -146,6 +146,8 @@
 	{"geometry":{"coordinates":[9.943435,51.613372],"type":"Point"},"properties":{"osm_id":"7903455563","tag":{"amenity":"waste_basket","material":"metal","survey:date":"2020-09-13"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.989301,51.599277],"type":"Point"},"properties":{"osm_id":"7923741564","tag":{"amenity":"waste_basket","material":"metal","survey:date":"2020-09-16"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.940316,51.5873],"type":"Point"},"properties":{"osm_id":"8262267877","tag":{"amenity":"waste_basket","material":"metal","survey:date":"2020-12-26"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.941797,51.588657],"type":"Point"},"properties":{"osm_id":"8262280169","tag":{"amenity":"waste_basket","material":"metal","support":"pole","survey:date":"2020-12-26"}},"type":"Feature"}
+	{"geometry":{"coordinates":[9.941797,51.588657],"type":"Point"},"properties":{"osm_id":"8262280169","tag":{"amenity":"waste_basket","material":"metal","support":"pole","survey:date":"2020-12-26"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.942618,51.591145],"type":"Point"},"properties":{"osm_id":"8275204371","tag":{"amenity":"waste_basket","support":"pole","survey:date":"2020-12-30"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.939533,51.590193],"type":"Point"},"properties":{"osm_id":"8275204405","tag":{"amenity":"waste_basket","material":"metal","support":"pole","survey:date":"2020-12-30"}},"type":"Feature"}
 ]
 }

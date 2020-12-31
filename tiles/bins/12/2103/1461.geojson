@@ -766,7 +766,7 @@
 	{"geometry":{"coordinates":[4.838529,45.748148],"type":"Point"},"properties":{"osm_id":"6486048549","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.879194,45.756548],"type":"Point"},"properties":{"osm_id":"6488219376","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.852629,45.74405],"type":"Point"},"properties":{"osm_id":"6490365863","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.848079,45.765467],"type":"Point"},"properties":{"osm_id":"6517895849","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.848079,45.765467],"type":"Point"},"properties":{"osm_id":"6517895849","tag":{"amenity":"recycling","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.863403,45.767355],"type":"Point"},"properties":{"osm_id":"6518728186","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.840279,45.750389],"type":"Point"},"properties":{"osm_id":"6520963085","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.841195,45.749635],"type":"Point"},"properties":{"osm_id":"6520963086","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -1096,6 +1096,6 @@
 	{"geometry":{"coordinates":[4.885613,45.744036],"type":"Point"},"properties":{"osm_id":"8240965208","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.838796,45.748975],"type":"Point"},"properties":{"osm_id":"8245582128","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container","survey:date":"2020-12-20"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.839435,45.75478],"type":"Point"},"properties":{"osm_id":"8261726717","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container","survey:date":"2020-12-26"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.8588,45.740992],"type":"Point"},"properties":{"osm_id":"8266349076","tag":{"amenity":"recycling","operator":"Compost'elle","recycling:green_waste":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[4.8588,45.740992],"type":"Point"},"properties":{"osm_id":"8266349076","tag":{"amenity":"recycling","operator":"Compost'elle","recycling:organic":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }
