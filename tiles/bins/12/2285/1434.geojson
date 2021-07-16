@@ -2,12 +2,18 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[20.841882,47.383696],"type":"Point"},"properties":{"osm_id":"3488434857","tag":{"amenity":"recycling","recycling_type":"container","source:date":"2012-10-25","url":"http://turistautak.hu/poi.php?id=51602"}},"type":"Feature"},
-	{"geometry":{"coordinates":[20.832127,47.386003],"type":"Point"},"properties":{"osm_id":"3488434859","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[20.832127,47.386003],"type":"Point"},"properties":{"osm_id":"3488434859","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:glass_bottles:colour":"yes","recycling:glass_white":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[20.842732,47.388868],"type":"Point"},"properties":{"osm_id":"4710905568","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[20.844363,47.38698],"type":"Point"},"properties":{"osm_id":"5602820480","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[20.842745,47.385968],"type":"Point"},"properties":{"osm_id":"6806428243","tag":{"amenity":"waste_basket","colour":"yellow","material":"metal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[20.841879,47.385297],"type":"Point"},"properties":{"osm_id":"6806428245","tag":{"amenity":"waste_basket","colour":"yellow","material":"metal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[20.841491,47.385065],"type":"Point"},"properties":{"osm_id":"6806428252","tag":{"amenity":"waste_basket","colour":"yellow","material":"metal"}},"type":"Feature"},
-	{"geometry":{"coordinates":[20.836409,47.382302],"type":"Point"},"properties":{"osm_id":"6806428268","tag":{"amenity":"waste_basket","colour":"yellow","material":"steel"}},"type":"Feature"}
+	{"geometry":{"coordinates":[20.836409,47.382302],"type":"Point"},"properties":{"osm_id":"6806428268","tag":{"amenity":"waste_basket","colour":"yellow","material":"steel"}},"type":"Feature"},
+	{"geometry":{"coordinates":[20.840746,47.389093],"type":"Point"},"properties":{"osm_id":"8902041329","tag":{"amenity":"waste_basket","colour":"black","note:hu":"Ez egy becsl\u00c3\u00a9s. A telefonom geok\u00c3\u00b3dol\u00c3\u00a1sa enn\u00c3\u00a9l rossz volt \u00c3\u00a9s kb 100m-re van \u00c3\u00adgy arr\u00c3\u00a9bb, \u00c3\u00adgy kett\u00c5\u0091 k\u00c3\u00b6ztes k\u00c3\u00a9pb\u00c5\u0091l becslem a poz\u00c3\u00adci\u00c3\u00b3j\u00c3\u00a1t(amik 1 perc elt\u00c3\u00a9r\u00c3\u00a9ssel k\u00c3\u00a9sz\u00c3\u00bcltek). - ottwiz","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[20.83965,47.3889],"type":"Point"},"properties":{"osm_id":"8902041331","tag":{"amenity":"waste_basket","colour":"black","note:hu":"Ez egy becsl\u00c3\u00a9s. A telefonom geok\u00c3\u00b3dol\u00c3\u00a1sa enn\u00c3\u00a9l rossz volt \u00c3\u00a9s kb 100m-re van \u00c3\u00adgy arr\u00c3\u00a9bb, \u00c3\u00adgy kett\u00c5\u0091 k\u00c3\u00b6ztes k\u00c3\u00a9pb\u00c5\u0091l becslem a poz\u00c3\u00adci\u00c3\u00b3j\u00c3\u00a1t(amik 1 perc elt\u00c3\u00a9r\u00c3\u00a9ssel k\u00c3\u00a9sz\u00c3\u00bcltek). - ottwiz","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[20.838316,47.388694],"type":"Point"},"properties":{"osm_id":"8902041333","tag":{"amenity":"waste_basket","colour":"black","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[20.841516,47.386411],"type":"Point"},"properties":{"osm_id":"8907971318","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[20.842085,47.385711],"type":"Point"},"properties":{"osm_id":"8907972058","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[20.842254,47.385911],"type":"Point"},"properties":{"osm_id":"8907972070","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
 ]
 }

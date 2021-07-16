@@ -1,10 +1,12 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[11.202494,51.825788],"type":"Point"},"properties":{"name":"Harz-Humus Recycling GmbH","osm_id":"304632645","tag":{"addr:city":"Ditfurt","addr:housenumber":"31","addr:postcode":"06484","addr:street":"Am Lagerweg","amenity":"recycling","recycling:green_waste":"yes","recycling_type":"centre"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.200382,51.833606],"type":"Point"},"properties":{"osm_id":"304841017","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.202494,51.825788],"type":"Point"},"properties":{"name":"Harz-Humus Recycling GmbH","osm_id":"304632645","tag":{"addr:city":"Ditfurt","addr:housenumber":"1","addr:postcode":"06484","addr:street":"Am See","amenity":"recycling","recycling:green_waste":"yes","recycling_type":"centre"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.200382,51.833606],"type":"Point"},"properties":{"osm_id":"304841017","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.204301,51.78899],"type":"Point"},"properties":{"osm_id":"389908554","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.205596,51.788161],"type":"Point"},"properties":{"name":"Recyclinghof","osm_id":"883107796","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.162427,51.795552],"type":"Point"},"properties":{"osm_id":"3638004301","tag":{"access":"private","amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[11.162427,51.795552],"type":"Point"},"properties":{"osm_id":"3638004301","tag":{"access":"private","amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.19359,51.827706],"type":"Point"},"properties":{"osm_id":"8316267122","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.181291,51.800131],"type":"Point"},"properties":{"name":"Wertstoffhof Quedlinburg","osm_id":"8895454998","tag":{"addr:city":"Quedlinburg","addr:housenumber":"27","addr:postcode":"06484","addr:street":"Gro\u00c3\u009f Orden (Gewerbegebiet \"Magdeburger Stra\u00c3\u009fe\")","amenity":"recycling","email":"info@enwi-hz.de","opening_hours":"Jan,Feb,Dec: Mo-Fr 09:00-17:00; PH off; Mar-Nov: Mo-Fr 08:00-18:00; Sa 08:00-14:00; ","operator":"Entsorgungswirtschaft des Landkreises Harz A\u00c3\u00b6R","operator:type":"public","phone":"+49 3946 - 99 99 006","recycling_type":"centre","website":"https://www.enwi-hz.de/"}},"type":"Feature"}
 ]
 }

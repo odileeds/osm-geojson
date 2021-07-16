@@ -1,9 +1,11 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[14.1833,50.230724],"type":"Point"},"properties":{"osm_id":"1553031185","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[14.183321,50.230733],"type":"Point"},"properties":{"osm_id":"1553031185","tag":{"amenity":"recycling","recycling:beverage_cartons":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[14.221918,50.224775],"type":"Point"},"properties":{"osm_id":"6816673604","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[14.164496,50.209876],"type":"Point"},"properties":{"osm_id":"7250056812","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[14.163148,50.211282],"type":"Point"},"properties":{"osm_id":"7314563078","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[14.163148,50.211282],"type":"Point"},"properties":{"osm_id":"7314563078","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[14.224345,50.19758],"type":"Point"},"properties":{"osm_id":"8571318074","tag":{"amenity":"recycling","recycling:drink_cartons":"yes","recycling:metal_containers":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[14.231011,50.198039],"type":"Point"},"properties":{"osm_id":"8571358974","tag":{"amenity":"recycling","recycling:drinking_cartons":"yes","recycling:metal":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

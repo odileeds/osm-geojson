@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[16.790891,49.209934],"type":"Point"},"properties":{"osm_id":"377791165","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[16.792067,49.209018],"type":"Point"},"properties":{"osm_id":"3301217741","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.792067,49.209018],"type":"Point"},"properties":{"osm_id":"3301217741","tag":{"amenity":"waste_basket","check_date":"2021-04-04"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.792984,49.209024],"type":"Point"},"properties":{"osm_id":"3301217742","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.793974,49.20925],"type":"Point"},"properties":{"osm_id":"3301217743","tag":{"amenity":"waste_basket","bin":"yes","payment:none":"yes","vending":"excrement_bags","waste":"dog_excrement"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.791008,49.20964],"type":"Point"},"properties":{"osm_id":"3301217747","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -13,6 +13,8 @@
 	{"geometry":{"coordinates":[16.81134,49.204939],"type":"Point"},"properties":{"osm_id":"5443361090","tag":{"amenity":"waste_basket","vending":"excrement_bags","waste":"dog_excrement"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.816324,49.205156],"type":"Point"},"properties":{"osm_id":"5443361091","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.827007,49.201087],"type":"Point"},"properties":{"name":"Kovo\u00c5\u00a1rot Kovalovice","osm_id":"5659275626","tag":{"amenity":"recycling","opening_hours":"Mo-Fr 09:00-16:00; Sa 09:00-13:00; PH off; Jun-Aug Mo-Fr 08:00-17:00","recycling:scrap_metal":"yes","recycling_type":"centre","wheelchair":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[16.79238,49.209855],"type":"Point"},"properties":{"osm_id":"6366145051","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[16.79238,49.209855],"type":"Point"},"properties":{"osm_id":"6366145051","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.813527,49.177316],"type":"Point"},"properties":{"osm_id":"8491720974","tag":{"amenity":"recycling","opening_hours":"24/7","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.848555,49.180629],"type":"Point"},"properties":{"osm_id":"8837917656","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:small_appliances":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

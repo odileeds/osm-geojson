@@ -3,7 +3,7 @@
 "features": [
 	{"geometry":{"coordinates":[1.033037,52.856751],"type":"Point"},"properties":{"osm_id":"3128822509","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.033148,52.856818],"type":"Point"},"properties":{"osm_id":"3128822512","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[1.022357,52.868347],"type":"Point"},"properties":{"osm_id":"3777796948","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[1.022357,52.868347],"type":"Point"},"properties":{"osm_id":"3777796948","tag":{"amenity":"recycling","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.988288,52.876602],"type":"Point"},"properties":{"osm_id":"5030087338","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
 ]
 }

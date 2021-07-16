@@ -1,7 +1,8 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[7.009041,43.743326],"type":"Point"},"properties":{"osm_id":"604018267","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.996917,43.712056],"type":"Point"},"properties":{"osm_id":"5863768817","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[7.009041,43.743326],"type":"Point"},"properties":{"osm_id":"604018267","tag":{"amenity":"recycling","location":"underground","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.996917,43.712056],"type":"Point"},"properties":{"osm_id":"5863768817","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.977789,43.721794],"type":"Point"},"properties":{"osm_id":"8409906921","tag":{"amenity":"recycling","recycling:cardboard":"yes","recycling:clothes":"Aire de la Ferrage","recycling:glass_bottles":"yes","recycling:paper_packaging":"yes","recycling:plastic_packaging":"yes","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

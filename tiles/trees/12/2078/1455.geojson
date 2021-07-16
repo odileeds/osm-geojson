@@ -1,19 +1,21 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[2.643203,46.12417],"type":"Point"},"properties":{"name":"douglasse","osm_id":"3828950359","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[2.643356,46.123994],"type":"Point"},"properties":{"name":"c\u00c3\u00a8dre du liban","osm_id":"3828950360","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[2.643392,46.123938],"type":"Point"},"properties":{"name":"c\u00c3\u00a8dre du liban","osm_id":"3828950361","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[2.643436,46.123868],"type":"Point"},"properties":{"name":"c\u00c3\u00a8dre du liban","osm_id":"3828950362","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[2.643479,46.123797],"type":"Point"},"properties":{"name":"sycomore","osm_id":"3828950363","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[2.643632,46.123807],"type":"Point"},"properties":{"name":"catalpa","osm_id":"3828950364","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[2.643552,46.123747],"type":"Point"},"properties":{"name":"catalpa","osm_id":"3828950365","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[2.6438,46.123388],"type":"Point"},"properties":{"name":"marronnier","osm_id":"3828950366","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.643203,46.12417],"type":"Point"},"properties":{"osm_id":"3828950359","tag":{"description":"douglasse","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.643356,46.123994],"type":"Point"},"properties":{"osm_id":"3828950360","tag":{"natural":"tree","species":"cedrus libani"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.643392,46.123938],"type":"Point"},"properties":{"osm_id":"3828950361","tag":{"natural":"tree","species":"cedrus libani"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.643436,46.123868],"type":"Point"},"properties":{"osm_id":"3828950362","tag":{"natural":"tree","species":"cedrus libani"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.643479,46.123797],"type":"Point"},"properties":{"osm_id":"3828950363","tag":{"natural":"tree","species":"ficus sycomorus"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.643632,46.123807],"type":"Point"},"properties":{"osm_id":"3828950364","tag":{"natural":"tree","species":"catalpa"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.643552,46.123747],"type":"Point"},"properties":{"osm_id":"3828950365","tag":{"natural":"tree","species":"catalpa"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.6438,46.123388],"type":"Point"},"properties":{"osm_id":"3828950366","tag":{"description":"marronnier","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.643698,46.123479],"type":"Point"},"properties":{"osm_id":"3828950367","tag":{"natural":"tree","species:fr":"Pommier"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.64369,46.123444],"type":"Point"},"properties":{"osm_id":"3828950369","tag":{"genus":"Fraxinus excelsior","natural":"tree","species":"Ol\u00c3\u00a9ac\u00c3\u00a9e","species:fr":"Fr\u00c3\u00aane commun"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.641967,46.125455],"type":"Point"},"properties":{"osm_id":"4235567143","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.641923,46.125364],"type":"Point"},"properties":{"osm_id":"4235567144","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.641894,46.125152],"type":"Point"},"properties":{"osm_id":"4235567145","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[2.641792,46.125001],"type":"Point"},"properties":{"osm_id":"4235567146","tag":{"natural":"tree"}},"type":"Feature"}
+	{"geometry":{"coordinates":[2.641792,46.125001],"type":"Point"},"properties":{"osm_id":"4235567146","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.685123,46.087667],"type":"Point"},"properties":{"osm_id":"8341849542","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.685229,46.087426],"type":"Point"},"properties":{"osm_id":"8341849543","tag":{"natural":"tree"}},"type":"Feature"}
 ]
 }

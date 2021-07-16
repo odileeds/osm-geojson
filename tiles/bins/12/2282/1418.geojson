@@ -1,8 +1,8 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[20.580866,48.28431],"type":"Point"},"properties":{"osm_id":"3421974265","tag":{"addr:city":"Saj\u00c3\u00b3kaza","addr:street":"Kossuth Lajos utca","amenity":"recycling","url":"http://turistautak.hu/poi.php?id=72419"}},"type":"Feature"},
-	{"geometry":{"coordinates":[20.57715,48.287733],"type":"Point"},"properties":{"osm_id":"3421974394","tag":{"amenity":"recycling","url":"http://turistautak.hu/poi.php?id=75850"}},"type":"Feature"},
-	{"geometry":{"coordinates":[20.65157,48.314747],"type":"Point"},"properties":{"osm_id":"3454464240","tag":{"amenity":"recycling","source:date":"2011-09-06","url":"http://turistautak.hu/poi.php?id=88398"}},"type":"Feature"}
+	{"geometry":{"coordinates":[20.580866,48.28431],"type":"Point"},"properties":{"osm_id":"3421974265","tag":{"addr:city":"Saj\u00c3\u00b3kaza","addr:street":"Kossuth Lajos utca","amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container","url":"http://turistautak.hu/poi.php?id=72419"}},"type":"Feature"},
+	{"geometry":{"coordinates":[20.57715,48.287733],"type":"Point"},"properties":{"osm_id":"3421974394","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container","url":"http://turistautak.hu/poi.php?id=75850"}},"type":"Feature"},
+	{"geometry":{"coordinates":[20.65157,48.314747],"type":"Point"},"properties":{"osm_id":"3454464240","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container","source:date":"2011-09-06","url":"http://turistautak.hu/poi.php?id=88398"}},"type":"Feature"}
 ]
 }

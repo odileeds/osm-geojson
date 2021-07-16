@@ -1,6 +1,8 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[11.102929,44.594517],"type":"Point"},"properties":{"name":"Dimer Carta","osm_id":"901554844","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"}
+	{"geometry":{"coordinates":[11.102929,44.594517],"type":"Point"},"properties":{"name":"Dimer Carta","osm_id":"901554844","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.129423,44.610168],"type":"Point"},"properties":{"osm_id":"8405495376","tag":{"amenity":"recycling","recycling:aluminium":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.129425,44.610187],"type":"Point"},"properties":{"osm_id":"8405495377","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

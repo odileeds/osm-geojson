@@ -1,14 +1,14 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[16.056878,48.397911],"type":"Point"},"properties":{"osm_id":"3026193916","tag":{"genus":"Malus","natural":"tree","species:de":"Apfel","type":"broad_leaved"}},"type":"Feature"},
-	{"geometry":{"coordinates":[16.024921,48.369917],"type":"Point"},"properties":{"osm_id":"3042158827","tag":{"genus":"Malus","natural":"tree","species:de":"Apfel","type":"broad_leaved"}},"type":"Feature"},
-	{"geometry":{"coordinates":[16.058733,48.39549],"type":"Point"},"properties":{"osm_id":"3042159135","tag":{"genus":"Pyrus","natural":"tree","species:de":"Birne","type":"broad_leaved"}},"type":"Feature"},
-	{"geometry":{"coordinates":[16.057819,48.39654],"type":"Point"},"properties":{"osm_id":"3042159136","tag":{"genus":"Malus","natural":"tree","species:de":"Apfel","type":"broad_leaved"}},"type":"Feature"},
-	{"geometry":{"coordinates":[16.054064,48.398834],"type":"Point"},"properties":{"osm_id":"3042159137","tag":{"genus":"Pyrus","natural":"tree","species:de":"Birne","type":"broad_leaved"}},"type":"Feature"},
-	{"geometry":{"coordinates":[16.053767,48.398847],"type":"Point"},"properties":{"osm_id":"3042159138","tag":{"genus":"Pyrus","natural":"tree","species:de":"Birne","type":"broad_leaved"}},"type":"Feature"},
-	{"geometry":{"coordinates":[16.053345,48.398873],"type":"Point"},"properties":{"osm_id":"3042159139","tag":{"genus":"Pyrus","natural":"tree","species:de":"Birne","type":"broad_leaved"}},"type":"Feature"},
-	{"geometry":{"coordinates":[16.05294,48.398897],"type":"Point"},"properties":{"osm_id":"3042159140","tag":{"genus":"Pyrus","natural":"tree","species:de":"Birne","type":"broad_leaved"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.056878,48.397911],"type":"Point"},"properties":{"osm_id":"3026193916","tag":{"genus":"Malus","leaf_type":"broadleaved","natural":"tree","species:de":"Apfel"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.024921,48.369917],"type":"Point"},"properties":{"osm_id":"3042158827","tag":{"genus":"Malus","leaf_type":"broadleaved","natural":"tree","species:de":"Apfel"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.058733,48.39549],"type":"Point"},"properties":{"osm_id":"3042159135","tag":{"genus":"Pyrus","leaf_type":"broadleaved","natural":"tree","species:de":"Birne"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.057819,48.39654],"type":"Point"},"properties":{"osm_id":"3042159136","tag":{"genus":"Malus","leaf_type":"broadleaved","natural":"tree","species:de":"Apfel"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.054064,48.398834],"type":"Point"},"properties":{"osm_id":"3042159137","tag":{"genus":"Pyrus","leaf_type":"broadleaved","natural":"tree","species:de":"Birne"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.053767,48.398847],"type":"Point"},"properties":{"osm_id":"3042159138","tag":{"genus":"Pyrus","leaf_type":"broadleaved","natural":"tree","species:de":"Birne"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.053345,48.398873],"type":"Point"},"properties":{"osm_id":"3042159139","tag":{"genus":"Pyrus","leaf_type":"broadleaved","natural":"tree","species:de":"Birne"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.05294,48.398897],"type":"Point"},"properties":{"osm_id":"3042159140","tag":{"genus":"Pyrus","leaf_type":"broadleaved","natural":"tree","species:de":"Birne"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.059846,48.394602],"type":"Point"},"properties":{"osm_id":"3718804521","tag":{"leaf_type":"broadleaved","natural":"tree","species:de":"Birne"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.059947,48.394608],"type":"Point"},"properties":{"osm_id":"3718804522","tag":{"leaf_type":"broadleaved","natural":"tree","species:de":"Birne"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.057612,48.396786],"type":"Point"},"properties":{"osm_id":"4783159438","tag":{"natural":"tree"}},"type":"Feature"},
@@ -55,6 +55,8 @@
 	{"geometry":{"coordinates":[16.065116,48.369836],"type":"Point"},"properties":{"osm_id":"6918042331","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.065366,48.369838],"type":"Point"},"properties":{"osm_id":"6918042332","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.065628,48.369847],"type":"Point"},"properties":{"osm_id":"6918042333","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[16.065623,48.369754],"type":"Point"},"properties":{"osm_id":"6918042334","tag":{"natural":"tree"}},"type":"Feature"}
+	{"geometry":{"coordinates":[16.065623,48.369754],"type":"Point"},"properties":{"osm_id":"6918042334","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.006471,48.360123],"type":"Point"},"properties":{"osm_id":"8247960503","tag":{"denotation":"natural_monument","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.011439,48.360761],"type":"Point"},"properties":{"osm_id":"8247960516","tag":{"leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"}
 ]
 }

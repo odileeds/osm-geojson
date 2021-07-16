@@ -1,6 +1,11 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[9.173128,51.728864],"type":"Point"},"properties":{"osm_id":"3444505727","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[9.173128,51.728864],"type":"Point"},"properties":{"osm_id":"3444505727","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.22176,51.771628],"type":"Point"},"properties":{"osm_id":"8486461985","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.221717,51.771613],"type":"Point"},"properties":{"osm_id":"8486461986","tag":{"amenity":"recycling","operator":"Deutsches Rotes Kreuz","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.220836,51.771177],"type":"Point"},"properties":{"osm_id":"8486461987","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.215914,51.773835],"type":"Point"},"properties":{"osm_id":"8917149067","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.21735,51.774214],"type":"Point"},"properties":{"osm_id":"8917149068","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

@@ -4,12 +4,11 @@
 	{"geometry":{"coordinates":[-0.2171,51.356956],"type":"Point"},"properties":{"osm_id":"36871896","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.215812,51.360395],"type":"Point"},"properties":{"osm_id":"251779254","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.224089,51.368639],"type":"Point"},"properties":{"osm_id":"266880602","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.190863,51.358676],"type":"Point"},"properties":{"osm_id":"269014539","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic_bottles":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.190863,51.358676],"type":"Point"},"properties":{"osm_id":"269014539","tag":{"amenity":"recycling","location":"overground","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.196872,51.347752],"type":"Point"},"properties":{"osm_id":"269137157","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.218269,51.379895],"type":"Point"},"properties":{"osm_id":"970557270","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:cardboard":"yes","recycling:magazines":"yes","recycling:paper":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.221676,51.376805],"type":"Point"},"properties":{"osm_id":"970601945","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:cardboard":"yes","recycling:glass_bottles":"yes","recycling:magazines":"yes","recycling:newspaper":"yes","recycling:paper":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.225854,51.372515],"type":"Point"},"properties":{"name":"Sainsbury's Supermarket Car Park","osm_id":"970601977","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"yes","recycling:magazines":"yes","recycling:newspaper":"yes","recycling:paper":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.194167,51.344667],"type":"Point"},"properties":{"osm_id":"1108185074","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.205319,51.374311],"type":"Point"},"properties":{"osm_id":"1510802612","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.195143,51.370638],"type":"Point"},"properties":{"osm_id":"1510803621","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.194263,51.351837],"type":"Point"},"properties":{"osm_id":"1672765266","tag":{"amenity":"recycling"}},"type":"Feature"},
@@ -17,7 +16,7 @@
 	{"geometry":{"coordinates":[-0.197692,51.344385],"type":"Point"},"properties":{"osm_id":"2145473251","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:magazines":"yes","recycling:newspaper":"yes","recycling:plastic":"yes","recycling:shoes":"yes","recycling:textiles":"yes","source_ref":"https://www.sutton.gov.uk/index.aspx?articleid=3422"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.252641,51.385488],"type":"Point"},"properties":{"osm_id":"3043305148","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.251439,51.384658],"type":"Point"},"properties":{"osm_id":"3044105783","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.237334,51.376799],"type":"Point"},"properties":{"osm_id":"3054972428","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.237334,51.376799],"type":"Point"},"properties":{"osm_id":"3054972428","tag":{"amenity":"waste_basket","check_date":"2021-03-09"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.229887,51.359053],"type":"Point"},"properties":{"osm_id":"5094603912","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.229215,51.358091],"type":"Point"},"properties":{"osm_id":"5094612145","tag":{"addr:street":"Fir Walk","amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.229766,51.358467],"type":"Point"},"properties":{"osm_id":"5094612148","tag":{"addr:street":"Fir Walk","amenity":"waste_basket"}},"type":"Feature"},
@@ -35,6 +34,10 @@
 	{"geometry":{"coordinates":[-0.213575,51.398315],"type":"Point"},"properties":{"osm_id":"6579767553","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.216104,51.388375],"type":"Point"},"properties":{"osm_id":"7040958700","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.211824,51.385308],"type":"Point"},"properties":{"osm_id":"7644680989","tag":{"amenity":"recycling","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.21276,51.386157],"type":"Point"},"properties":{"osm_id":"7647657146","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-0.21276,51.386157],"type":"Point"},"properties":{"osm_id":"7647657146","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.239925,51.377876],"type":"Point"},"properties":{"osm_id":"8463947671","tag":{"amenity":"waste_basket","colour":"Black","material":"steel","waste":"recycling;trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.249648,51.354724],"type":"Point"},"properties":{"osm_id":"8863060506","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.243762,51.386723],"type":"Point"},"properties":{"osm_id":"8863124929","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.228824,51.356754],"type":"Point"},"properties":{"osm_id":"8911965935","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

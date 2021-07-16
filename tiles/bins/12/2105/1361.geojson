@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[5.023038,51.523767],"type":"Point"},"properties":{"osm_id":"276428597","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.023038,51.523767],"type":"Point"},"properties":{"osm_id":"276428597","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.01357,51.522216],"type":"Point"},"properties":{"osm_id":"857476778","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.062669,51.534784],"type":"Point"},"properties":{"osm_id":"2162254711","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.06314,51.535118],"type":"Point"},"properties":{"osm_id":"2162254716","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -89,7 +89,7 @@
 	{"geometry":{"coordinates":[5.083296,51.553961],"type":"Point"},"properties":{"osm_id":"7498111465","tag":{"amenity":"recycling","description":"Openbare afvalcontainer voor glas","recycling:glass_bottles":"yes","recycling_type":"container","source:date":"2020-04-28"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.045855,51.544759],"type":"Point"},"properties":{"osm_id":"7498111466","tag":{"amenity":"recycling","description":"Openbare afvalcontainer voor textiel","location":"underground","recycling:clothes":"yes","recycling_type":"container","source:date":"2020-04-28"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.080874,51.556867],"type":"Point"},"properties":{"osm_id":"7498111480","tag":{"amenity":"recycling","description":"Openbare afvalcontainer voor luiers en incontinentiemateriaal","recycling:diapers":"yes","recycling_type":"container","source:date":"2020-04-28"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.076235,51.562781],"type":"Point"},"properties":{"osm_id":"7498111485","tag":{"amenity":"recycling","description":"Openbare afvalcontainer voor textiel","location":"underground","recycling:clothes":"yes","recycling_type":"container","source:date":"2020-04-28"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.076235,51.562781],"type":"Point"},"properties":{"osm_id":"7498111485","tag":{"amenity":"recycling","description":"Openbare afvalcontainer voor textiel","location":"underground","operator":"gemeente Tilburg","recycling:clothes":"yes","recycling_type":"container","source:date":"2020-04-28"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.066639,51.560808],"type":"Point"},"properties":{"osm_id":"7498111495","tag":{"amenity":"recycling","description":"Openbare afvalcontainer voor glas","recycling:glass_bottles":"yes","recycling_type":"container","source:date":"2020-04-28"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.045875,51.544774],"type":"Point"},"properties":{"osm_id":"7498111499","tag":{"amenity":"recycling","description":"Openbare afvalcontainer voor glas","location":"underground","recycling:glass_bottles":"yes","recycling_type":"container","source:date":"2020-04-28"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.068854,51.560772],"type":"Point"},"properties":{"osm_id":"7498111506","tag":{"amenity":"recycling","description":"Openbare afvalcontainer voor glas","recycling:glass_bottles":"yes","recycling_type":"container","source:date":"2020-04-28"}},"type":"Feature"},
@@ -234,6 +234,7 @@
 	{"geometry":{"coordinates":[5.088782,51.546617],"type":"Point"},"properties":{"osm_id":"7734678150","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.079068,51.548657],"type":"Point"},"properties":{"osm_id":"7740670805","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.076331,51.547819],"type":"Point"},"properties":{"osm_id":"7743889804","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.076344,51.547887],"type":"Point"},"properties":{"osm_id":"7743889809","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[5.076344,51.547887],"type":"Point"},"properties":{"osm_id":"7743889809","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.079916,51.549174],"type":"Point"},"properties":{"osm_id":"8656612621","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

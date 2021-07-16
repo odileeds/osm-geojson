@@ -105,7 +105,7 @@
 	{"geometry":{"coordinates":[11.112436,46.140525],"type":"Point"},"properties":{"osm_id":"2908646648","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.09966,46.152165],"type":"Point"},"properties":{"osm_id":"3149995498","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.097562,46.16321],"type":"Point"},"properties":{"osm_id":"3823542791","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.154515,46.15824],"type":"Point"},"properties":{"osm_id":"3995540783","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.154515,46.15824],"type":"Point"},"properties":{"osm_id":"3995540783","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:green_waste":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.136179,46.194679],"type":"Point"},"properties":{"osm_id":"4121422567","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.103966,46.138434],"type":"Point"},"properties":{"osm_id":"4406614243","tag":{"amenity":"recycling","operator":"ASIA","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.106597,46.143193],"type":"Point"},"properties":{"osm_id":"4558633053","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -133,6 +133,13 @@
 	{"geometry":{"coordinates":[11.111903,46.179502],"type":"Point"},"properties":{"osm_id":"8022908334","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.110401,46.175315],"type":"Point"},"properties":{"osm_id":"8022908340","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.110933,46.170771],"type":"Point"},"properties":{"osm_id":"8022908343","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.156716,46.168147],"type":"Point"},"properties":{"osm_id":"8170134077","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[11.156716,46.168147],"type":"Point"},"properties":{"osm_id":"8170134077","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.115347,46.157896],"type":"Point"},"properties":{"osm_id":"8781408456","tag":{"amenity":"recycling","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.115351,46.157877],"type":"Point"},"properties":{"osm_id":"8781408457","tag":{"amenity":"recycling","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.115355,46.157855],"type":"Point"},"properties":{"osm_id":"8781408458","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.115355,46.157832],"type":"Point"},"properties":{"osm_id":"8781408459","tag":{"amenity":"recycling","recycling:organic":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.115353,46.15781],"type":"Point"},"properties":{"osm_id":"8781408460","tag":{"amenity":"recycling","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.109776,46.148827],"type":"Point"},"properties":{"osm_id":"8845532326","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.133794,46.168149],"type":"Point"},"properties":{"osm_id":"8859480854","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

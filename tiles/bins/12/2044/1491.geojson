@@ -1,6 +1,12 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-0.309327,43.885693],"type":"Point"},"properties":{"osm_id":"6293895807","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-0.309327,43.885693],"type":"Point"},"properties":{"osm_id":"6293895807","tag":{"amenity":"recycling","operator":"Sictom du Marsan","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.307255,43.887482],"type":"Point"},"properties":{"osm_id":"8625983362","tag":{"amenity":"recycling","operator":"Sictom du Marsan","recycling:glass_bottles":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.308043,43.895005],"type":"Point"},"properties":{"osm_id":"8625987199","tag":{"amenity":"recycling","operator":"Sictom du Marsan","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.264857,43.888899],"type":"Point"},"properties":{"osm_id":"8702294866","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.333015,43.860926],"type":"Point"},"properties":{"osm_id":"8702310815","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.305129,43.893661],"type":"Point"},"properties":{"name":"Poubelle","osm_id":"8922572331"},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.305129,43.893661],"type":"Point"},"properties":{"osm_id":"8922572331","tag":{"amenity":"waste_basket","colour":"brown","material":"wood","operator":"Mairie","waste":"mixed"}},"type":"Feature"}
 ]
 }

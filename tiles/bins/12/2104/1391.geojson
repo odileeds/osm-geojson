@@ -2,12 +2,23 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[4.968923,49.844882],"type":"Point"},"properties":{"osm_id":"2539537676","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.970972,49.840962],"type":"Point"},"properties":{"osm_id":"3237463768","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.970972,49.840962],"type":"Point"},"properties":{"osm_id":"3237463768","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.00345,49.840712],"type":"Point"},"properties":{"osm_id":"7514154551","tag":{"amenity":"recycling","opening_hours":"24/7","operator":"IDELUX-Environnement","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.967618,49.848285],"type":"Point"},"properties":{"osm_id":"8196537671","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.961879,49.853818],"type":"Point"},"properties":{"osm_id":"8206941874","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.946529,49.861149],"type":"Point"},"properties":{"osm_id":"8212816048","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.946887,49.861495],"type":"Point"},"properties":{"osm_id":"8212816051","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.946887,49.861521],"type":"Point"},"properties":{"osm_id":"8212816052","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[4.946887,49.861521],"type":"Point"},"properties":{"osm_id":"8212816052","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.969409,49.841275],"type":"Point"},"properties":{"osm_id":"8741605443","tag":{"amenity":"waste_basket","material":"plastic"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.973337,49.841002],"type":"Point"},"properties":{"osm_id":"8741605456","tag":{"amenity":"waste_basket","material":"plastic"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.969703,49.841395],"type":"Point"},"properties":{"osm_id":"8742336108","tag":{"amenity":"waste_basket","material":"plastic"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.969675,49.841323],"type":"Point"},"properties":{"osm_id":"8742336109","tag":{"amenity":"waste_basket","material":"plastic"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.951341,49.851747],"type":"Point"},"properties":{"osm_id":"8745779535","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.935139,49.84943],"type":"Point"},"properties":{"osm_id":"8745779537","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.93521,49.872807],"type":"Point"},"properties":{"osm_id":"8916548127","tag":{"amenity":"recycling","image":"https://westnordost.de/p/49458.jpg","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.935177,49.872801],"type":"Point"},"properties":{"osm_id":"8916548128","tag":{"amenity":"recycling","image":"https://westnordost.de/p/49458.jpg","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.935146,49.872796],"type":"Point"},"properties":{"osm_id":"8916548129","tag":{"amenity":"recycling","image":"https://westnordost.de/p/49458.jpg","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.935117,49.872791],"type":"Point"},"properties":{"osm_id":"8916548130","tag":{"amenity":"recycling","image":"https://westnordost.de/p/49458.jpg","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.935282,49.872983],"type":"Point"},"properties":{"osm_id":"8916558252","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

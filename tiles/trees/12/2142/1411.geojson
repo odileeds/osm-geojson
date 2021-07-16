@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[8.342695,48.746565],"type":"Point"},"properties":{"osm_id":"1557626541","tag":{"genus:de":"Eiche","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.264201,48.694282],"type":"Point"},"properties":{"name":"Wandres Tanne","osm_id":"1761111976","tag":{"leaf_type":"needleleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.264201,48.694282],"type":"Point"},"properties":{"name":"Wandres Tanne","osm_id":"1761111976","tag":{"genus":"Abies","genus:de":"Tannen","genus:wikidata":"Q25350","leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.299948,48.736586],"type":"Point"},"properties":{"osm_id":"3220067682","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.335624,48.743686],"type":"Point"},"properties":{"osm_id":"3454018559","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.335872,48.743705],"type":"Point"},"properties":{"osm_id":"3454018561","tag":{"natural":"tree"}},"type":"Feature"},
@@ -281,6 +281,9 @@
 	{"geometry":{"coordinates":[8.265193,48.74892],"type":"Point"},"properties":{"osm_id":"4305909976","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.266505,48.748933],"type":"Point"},"properties":{"osm_id":"4305909977","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.264914,48.74894],"type":"Point"},"properties":{"osm_id":"4305909980","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.264767,48.748943],"type":"Point"},"properties":{"osm_id":"4305909981","tag":{"natural":"tree"}},"type":"Feature"}
+	{"geometry":{"coordinates":[8.264767,48.748943],"type":"Point"},"properties":{"osm_id":"4305909981","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.261752,48.742798],"type":"Point"},"properties":{"osm_id":"8805305297","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.261864,48.742691],"type":"Point"},"properties":{"osm_id":"8805305298","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.291335,48.746255],"type":"Point"},"properties":{"name":"Dr. Anton Hammer-Douglasien","osm_id":"8910305438","tag":{"genus":"Douglasien","genus:wikidata":"Q158771","leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree"}},"type":"Feature"}
 ]
 }

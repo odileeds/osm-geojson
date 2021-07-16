@@ -1,10 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[2.897215,42.68135],"type":"Point"},"properties":{"osm_id":"289486907","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.897456,42.680837],"type":"Point"},"properties":{"osm_id":"289486918","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.898029,42.680742],"type":"Point"},"properties":{"osm_id":"289486920","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[2.850055,42.644915],"type":"Point"},"properties":{"name":"D\u00c3\u00a9ch\u00c3\u00a8terie de Canoh\u00c3\u00a8s","osm_id":"687448974","tag":{"amenity":"recycling","opening_hours":"Mo-Fr 08:30-12:00,14:00-18:00; Su 08:00-12:00; PH 08:00-12:00","operator":"Perpignan M\u00c3\u00a9diterran\u00c3\u00a9e Communaut\u00c3\u00a9 d'agglom\u00c3\u00a9ration","phone":"+33 4 68 56 98 88","recycling:electrical_appliances":"yes","recycling:small_appliances":"yes","recycling_type":"centre"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.850055,42.644915],"type":"Point"},"properties":{"name":"D\u00c3\u00a9ch\u00c3\u00a8terie de Canoh\u00c3\u00a8s","osm_id":"687448974","tag":{"amenity":"recycling","opening_hours":"Mo-Fr 08:30-12:00,14:00-17:30; Su 08:00-12:00; PH 08:00-12:00","operator":"Perpignan M\u00c3\u00a9diterran\u00c3\u00a9e Communaut\u00c3\u00a9 d'agglom\u00c3\u00a9ration","phone":"+33 4 68 56 98 88","recycling:electrical_appliances":"yes","recycling:small_appliances":"yes","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.896751,42.681458],"type":"Point"},"properties":{"osm_id":"950032389","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:paper":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.899124,42.679878],"type":"Point"},"properties":{"osm_id":"950301423","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:paper":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.89973,42.679556],"type":"Point"},"properties":{"osm_id":"950384708","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -29,7 +28,7 @@
 	{"geometry":{"coordinates":[2.895217,42.636126],"type":"Point"},"properties":{"osm_id":"1573486144","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.895409,42.636296],"type":"Point"},"properties":{"osm_id":"1573486156","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.895594,42.636405],"type":"Point"},"properties":{"osm_id":"1573486157","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[2.897786,42.637543],"type":"Point"},"properties":{"osm_id":"1573486251","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.897786,42.637543],"type":"Point"},"properties":{"osm_id":"1573486251","tag":{"amenity":"recycling","recycling:glass_bottles":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.899195,42.679517],"type":"Point"},"properties":{"osm_id":"2193994730","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.899518,42.680195],"type":"Point"},"properties":{"osm_id":"2193994749","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.898875,42.6822],"type":"Point"},"properties":{"osm_id":"2783314528","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -64,6 +63,11 @@
 	{"geometry":{"coordinates":[2.868832,42.640903],"type":"Point"},"properties":{"osm_id":"7187097232","tag":{"amenity":"waste_basket","colour":"grise","material":"metal","operator":"Ecole","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.85135,42.674138],"type":"Point"},"properties":{"osm_id":"7717078994","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.849047,42.672264],"type":"Point"},"properties":{"osm_id":"7721347627","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[2.88886,42.672266],"type":"Point"},"properties":{"osm_id":"8271129688","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[2.88886,42.672266],"type":"Point"},"properties":{"osm_id":"8271129688","tag":{"amenity":"recycling","location":"Dans le sas de sortie de Decathlon.","opening_hours":"Mo-Sa 09:00-20:00","recycling:batteries":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.888437,42.672608],"type":"Point"},"properties":{"osm_id":"8327110016","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.900287,42.676603],"type":"Point"},"properties":{"osm_id":"8387606334","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.899699,42.674277],"type":"Point"},"properties":{"osm_id":"8400642584","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.899714,42.674367],"type":"Point"},"properties":{"osm_id":"8400642585","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.897285,42.681349],"type":"Point"},"properties":{"osm_id":"8658757887","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

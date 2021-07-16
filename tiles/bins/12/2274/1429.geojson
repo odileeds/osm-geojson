@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[19.926827,47.681924],"type":"Point"},"properties":{"osm_id":"1470051314","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[19.915084,47.688708],"type":"Point"},"properties":{"osm_id":"3445507034","tag":{"amenity":"recycling","source:date":"2013-07-16","url":"http://turistautak.hu/poi.php?id=156370"}},"type":"Feature"}
+	{"geometry":{"coordinates":[19.926827,47.681924],"type":"Point"},"properties":{"osm_id":"1470051314","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.915084,47.688708],"type":"Point"},"properties":{"osm_id":"3445507034","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container","source:date":"2013-07-16","url":"http://turistautak.hu/poi.php?id=156370"}},"type":"Feature"}
 ]
 }

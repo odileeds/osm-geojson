@@ -2,15 +2,22 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[8.690416,47.208861],"type":"Point"},"properties":{"osm_id":"281380675","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.687747,47.199571],"type":"Point"},"properties":{"osm_id":"1613055812","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.687747,47.199571],"type":"Point"},"properties":{"osm_id":"1613055812","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.664482,47.213573],"type":"Point"},"properties":{"osm_id":"1690045004","tag":{"amenity":"waste_basket","material":"steel","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.64407,47.192358],"type":"Point"},"properties":{"osm_id":"2657922193","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.618739,47.211423],"type":"Point"},"properties":{"name":"Nespresso Kapseln","osm_id":"5478178621","tag":{"amenity":"recycling","operator":"Gerber H.P Elektro AG","phone":"+41 44 729 99 11","website":"http://www.gerberelektroag.ch"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.617783,47.207469],"type":"Point"},"properties":{"osm_id":"5478178824","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.617789,47.207482],"type":"Point"},"properties":{"osm_id":"5478178824","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.700646,47.20791],"type":"Point"},"properties":{"osm_id":"5734174322","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.671862,47.211897],"type":"Point"},"properties":{"osm_id":"5761897760","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.672369,47.211375],"type":"Point"},"properties":{"osm_id":"5761899269","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.61877,47.210917],"type":"Point"},"properties":{"osm_id":"6561852485","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.62756,47.214457],"type":"Point"},"properties":{"osm_id":"6561852685","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[8.62756,47.214457],"type":"Point"},"properties":{"osm_id":"6561852685","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.68747,47.193251],"type":"Point"},"properties":{"osm_id":"7619859204","tag":{"amenity":"waste_basket","bin":"yes","waste":"dog_excrement"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.699962,47.216646],"type":"Point"},"properties":{"osm_id":"8731022112","tag":{"amenity":"waste_basket","bin":"yes","fee":"no","vending":"excrement_bags","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.700907,47.215647],"type":"Point"},"properties":{"osm_id":"8731040172","tag":{"amenity":"waste_basket","bin":"yes","fee":"no","vending":"excrement_bags","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.679205,47.191469],"type":"Point"},"properties":{"osm_id":"8897799529","tag":{"amenity":"waste_basket","fee":"no","vending":"excrement_bags","waste":"trash;dog_excrement"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.67946,47.194918],"type":"Point"},"properties":{"osm_id":"8898331563","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.686225,47.199134],"type":"Point"},"properties":{"osm_id":"8898389976","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.686862,47.206094],"type":"Point"},"properties":{"osm_id":"8898415217","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

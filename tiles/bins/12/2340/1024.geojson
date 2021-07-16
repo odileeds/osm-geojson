@@ -1,8 +1,8 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[25.711791,66.49993],"type":"Point"},"properties":{"name":"Pohjolankadun kierr\u00c3\u00a4tyspiste","osm_id":"451933281","tag":{"access":"yes","amenity":"recycling","recycling:cans":"yes","recycling:cardboard":"yes","recycling:glass":"yes","recycling_type":"container","website":"https://residuum.fi/asukkaille/ekopisteet/"}},"type":"Feature"},
-	{"geometry":{"coordinates":[25.685188,66.493239],"type":"Point"},"properties":{"name":"Etel\u00c3\u00a4keskus kierr\u00c3\u00a4tyspiste","osm_id":"6467723631","tag":{"access":"yes","amenity":"recycling","recycling:cans":"yes","recycling:cardboard":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[25.711791,66.49993],"type":"Point"},"properties":{"name":"Pohjolankadun kierr\u00c3\u00a4tyspiste","osm_id":"451933281","tag":{"access":"yes","amenity":"recycling","recycling:cans":"yes","recycling:cardboard":"yes","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container","website":"https://residuum.fi/asukkaille/ekopisteet/"}},"type":"Feature"},
+	{"geometry":{"coordinates":[25.68478,66.492987],"type":"Point"},"properties":{"name":"Etel\u00c3\u00a4keskus kierr\u00c3\u00a4tyspiste","osm_id":"6467723631","tag":{"access":"yes","amenity":"recycling","opening_hours":"24/7","operator":"Rinkiin","recycling:cans":"yes","recycling:cardboard":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.737818,66.501529],"type":"Point"},"properties":{"osm_id":"6684865685","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.738478,66.502195],"type":"Point"},"properties":{"osm_id":"6684865687","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.738221,66.502979],"type":"Point"},"properties":{"osm_id":"6684865786","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -13,6 +13,8 @@
 	{"geometry":{"coordinates":[25.737102,66.500631],"type":"Point"},"properties":{"osm_id":"6685138588","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.737365,66.500955],"type":"Point"},"properties":{"osm_id":"6685151785","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.73676,66.500197],"type":"Point"},"properties":{"osm_id":"6685151786","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[25.736473,66.499838],"type":"Point"},"properties":{"osm_id":"6685152185","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[25.736473,66.499838],"type":"Point"},"properties":{"osm_id":"6685152185","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[25.742794,66.497795],"type":"Point"},"properties":{"osm_id":"8319202552","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[25.743241,66.497298],"type":"Point"},"properties":{"osm_id":"8319558388","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

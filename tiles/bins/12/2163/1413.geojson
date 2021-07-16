@@ -2,8 +2,6 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[10.124932,48.59562],"type":"Point"},"properties":{"osm_id":"413575513","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.116917,48.596491],"type":"Point"},"properties":{"highway":"turning_circle","osm_id":"416870144"},"type":"Feature"},
-	{"geometry":{"coordinates":[10.117041,48.596992],"type":"Point"},"properties":{"barrier":"bollard","osm_id":"416870145","tag":{"bicycle":"yes","foot":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.174219,48.617928],"type":"Point"},"properties":{"osm_id":"440860742","tag":{"amenity":"recycling","location":"overground","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.184549,48.624175],"type":"Point"},"properties":{"name":"Recyclinghof Herbrechtingen","osm_id":"1637924409","tag":{"addr:housenumber":"25","addr:street":"Im Saun","amenity":"recycling","opening_hours":"We, Fr 13:00-17:00","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.188909,48.628492],"type":"Point"},"properties":{"osm_id":"1646722209","tag":{"amenity":"recycling","location":"overground","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -20,9 +18,12 @@
 	{"geometry":{"coordinates":[10.171295,48.622501],"type":"Point"},"properties":{"osm_id":"7272511797","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.124382,48.599404],"type":"Point"},"properties":{"osm_id":"7843718968","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.185254,48.628203],"type":"Point"},"properties":{"osm_id":"7857784611","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.154229,48.619748],"type":"Point"},"properties":{"osm_id":"8002771865","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.154213,48.619754],"type":"Point"},"properties":{"osm_id":"8002771865","tag":{"amenity":"waste_basket","material":"metal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.182585,48.631439],"type":"Point"},"properties":{"osm_id":"8018575473","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.182829,48.631646],"type":"Point"},"properties":{"osm_id":"8018594823","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.188453,48.628284],"type":"Point"},"properties":{"osm_id":"8044578563","tag":{"amenity":"recycling","last_checked":"2020-10-25","opening_hours":"24/7","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[10.188453,48.628284],"type":"Point"},"properties":{"osm_id":"8044578563","tag":{"amenity":"recycling","last_checked":"2020-10-25","opening_hours":"24/7","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.186985,48.59932],"type":"Point"},"properties":{"osm_id":"8583439256","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.161939,48.628458],"type":"Point"},"properties":{"osm_id":"8720818447","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.178071,48.623235],"type":"Point"},"properties":{"osm_id":"8864356721","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

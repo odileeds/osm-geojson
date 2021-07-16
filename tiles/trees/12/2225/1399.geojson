@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[15.585177,49.402933],"type":"Point"},"properties":{"name":"TGM - L\u00c3\u00adpa st\u00c5\u0099\u00c3\u00adzlivosti","osm_id":"456243215","tag":{"denotation":"urban","genus":"Tilia","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","species":"Cordata","taxon":"Tilia Cordata","taxon:cs":"L\u00c3\u00adpa malolist\u00c3\u00a1"}},"type":"Feature"},
-	{"geometry":{"coordinates":[15.593807,49.394997],"type":"Point"},"properties":{"name":"Buk u kostela sv. Jakuba","osm_id":"670504739","tag":{"height":"19","leaf_type":"broadleaved","name:botanical":"beech","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[15.593807,49.394997],"type":"Point"},"properties":{"name":"Buk u kostela sv. Jakuba","osm_id":"670504739","ref":"100933","tag":{"denotation":"natural_monument","height":"19","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","taxon":"Fagus sylvatica","taxon:cs":"Buk lesn\u00c3\u00ad","wikidata":"Q11362389","wikipedia":"cs:Buk u kostela v Jihlav\u00c4\u009b"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.586372,49.395648],"type":"Point"},"properties":{"osm_id":"1836736774","tag":{"leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.586432,49.395673],"type":"Point"},"properties":{"osm_id":"1836736780","tag":{"leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.586332,49.39569],"type":"Point"},"properties":{"osm_id":"1836736786","tag":{"leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
@@ -156,6 +156,9 @@
 	{"geometry":{"coordinates":[15.586638,49.395253],"type":"Point"},"properties":{"osm_id":"5024781073","tag":{"leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.586612,49.395294],"type":"Point"},"properties":{"osm_id":"5024781074","tag":{"leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.589411,49.394876],"type":"Point"},"properties":{"osm_id":"5024781772","tag":{"leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[15.59543,49.392583],"type":"Point"},"properties":{"osm_id":"5024814406","tag":{"leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"}
+	{"geometry":{"coordinates":[15.59543,49.392583],"type":"Point"},"properties":{"osm_id":"5024814406","tag":{"leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[15.570777,49.393541],"type":"Point"},"properties":{"name":"Zerav obrovsk\u00c3\u00bd v Jihlav\u00c4\u009b","osm_id":"8402584021","ref":"105729","tag":{"denotation":"natural_monument","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","taxon":"Thuja plicata","taxon:cs":"Zerav obrovsk\u00c3\u00bd"}},"type":"Feature"},
+	{"geometry":{"coordinates":[15.571683,49.398728],"type":"Point"},"properties":{"name":"Dub u Domu zdrav\u00c3\u00ad","osm_id":"8402584022","ref":"100877","tag":{"denotation":"natural_monument","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","taxon":"Quercus robur","taxon:cs":"Dub letn\u00c3\u00ad"}},"type":"Feature"},
+	{"geometry":{"coordinates":[15.584147,49.397024],"type":"Point"},"properties":{"name":"Buky Bed\u00c5\u0099icha Smetany","osm_id":"8402584023","ref":"100882","tag":{"denotation":"natural_monument","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","taxon":"Fagus sylvatica","taxon:cs":"Buk lesn\u00c3\u00ad"}},"type":"Feature"}
 ]
 }

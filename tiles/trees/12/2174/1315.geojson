@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[11.157867,53.959549],"type":"Point"},"properties":{"osm_id":"871975169","tag":{"name:botanical":"Tilia","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.157867,53.959549],"type":"Point"},"properties":{"osm_id":"871975169","tag":{"genus":"Tilia","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.150725,53.962648],"type":"Point"},"properties":{"osm_id":"2853079540","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.111839,53.99006],"type":"Point"},"properties":{"osm_id":"3867585280","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.095573,53.969157],"type":"Point"},"properties":{"osm_id":"4078511178","tag":{"leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree"}},"type":"Feature"},
@@ -35,6 +35,6 @@
 	{"geometry":{"coordinates":[11.158799,53.958582],"type":"Point"},"properties":{"osm_id":"6579959487","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.160441,53.959058],"type":"Point"},"properties":{"osm_id":"6579987495","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.160183,53.958918],"type":"Point"},"properties":{"osm_id":"6579987496","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.160058,53.958376],"type":"Point"},"properties":{"osm_id":"7444956612","tag":{"denotation":"natural_monument","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","species":"Tilia","species:de":"Linde","wikidata":"Q127849","wikimedia_commons":"File:Festonallee_Kl\u00c3\u00bctz.jpg"}},"type":"Feature"}
+	{"geometry":{"coordinates":[11.160058,53.958376],"type":"Point"},"properties":{"osm_id":"7444956612","tag":{"denotation":"natural_monument","genus:wikidata":"Q127849","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","species":"Tilia","species:de":"Linde","wikimedia_commons":"File:Festonallee_Kl\u00c3\u00bctz.jpg"}},"type":"Feature"}
 ]
 }

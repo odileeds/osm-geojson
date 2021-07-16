@@ -1,8 +1,8 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-64.795832,46.104737],"type":"Point"},"properties":{"osm_id":"3841940144","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-64.795832,46.104737],"type":"Point"},"properties":{"osm_id":"3841940144","tag":{"amenity":"waste_basket","check_date":"2021-02-13"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-64.783359,46.087173],"type":"Point"},"properties":{"osm_id":"5142890222","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-64.787824,46.083228],"type":"Point"},"properties":{"name":"Re Express","osm_id":"6343343027","tag":{"amenity":"recycling","website":"https://www.re-express.ca/"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-64.787824,46.083228],"type":"Point"},"properties":{"name":"Re Express","osm_id":"6343343027","tag":{"amenity":"recycling","location":"overground","recycling_type":"container","website":"https://www.re-express.ca/"}},"type":"Feature"}
 ]
 }

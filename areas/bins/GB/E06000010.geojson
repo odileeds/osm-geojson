@@ -26,7 +26,7 @@
 { "type": "Feature", "properties": { "osm_id": "1763231832", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.3701019, 53.7563169 ] } },
 { "type": "Feature", "properties": { "osm_id": "1763232789", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.3703594, 53.7578075 ] } },
 { "type": "Feature", "properties": { "osm_id": "1763233491", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.3705311, 53.7578963 ] } },
-{ "type": "Feature", "properties": { "osm_id": "3458504494", "other_tags": "\"amenity\"=>\"recycling\",\"addr:city\"=>\"Kingston upon Hull\",\"addr:street\"=>\"Queens Road\",\"addr:postcode\"=>\"HU5 2QR\",\"recycling:cans\"=>\"yes\",\"recycling:glass\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -0.354064, 53.7607793 ] } },
+{ "type": "Feature", "properties": { "osm_id": "3458504494", "other_tags": "\"addr:city\"=>\"Kingston upon Hull\",\"addr:postcode\"=>\"HU5 2QR\",\"addr:street\"=>\"Queens Road\",\"amenity\"=>\"recycling\",\"recycling:cans\"=>\"yes\",\"recycling:glass\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -0.354064, 53.7607793 ] } },
 { "type": "Feature", "properties": { "osm_id": "4755983055", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.3678618, 53.7527581 ] } },
 { "type": "Feature", "properties": { "osm_id": "4755996584", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.3739008, 53.7560819 ] } },
 { "type": "Feature", "properties": { "osm_id": "4755996585", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.373411, 53.7513552 ] } },
@@ -38,6 +38,7 @@
 { "type": "Feature", "properties": { "osm_id": "4756009173", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.3610263, 53.7521699 ] } },
 { "type": "Feature", "properties": { "osm_id": "4756009174", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.3602768, 53.7536894 ] } },
 { "type": "Feature", "properties": { "osm_id": "4756021076", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.3669423, 53.7527933 ] } },
-{ "type": "Feature", "properties": { "osm_id": "5774571493", "other_tags": "\"amenity\"=>\"recycling\",\"recycling_type\"=>\"container\",\"recycling:clothes\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -0.350043, 53.746077 ] } }
+{ "type": "Feature", "properties": { "osm_id": "5774571493", "other_tags": "\"amenity\"=>\"recycling\",\"recycling:clothes\"=>\"yes\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -0.350043, 53.746077 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8563896233", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.3264182, 53.7390184 ] } }
 ]
 }

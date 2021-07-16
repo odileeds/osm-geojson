@@ -7,7 +7,7 @@
 	{"geometry":{"coordinates":[5.591958,43.855464],"type":"Point"},"properties":{"osm_id":"2429937331","tag":{"amenity":"recycling","description":"Conteneur de recyclage vert","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.591972,43.855478],"type":"Point"},"properties":{"osm_id":"2429937332","tag":{"amenity":"recycling","location":"overground","operator":"Le Relais","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.566296,43.894059],"type":"Point"},"properties":{"osm_id":"2897916839","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.564734,43.897091],"type":"Point"},"properties":{"osm_id":"4938093106","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.564734,43.897091],"type":"Point"},"properties":{"osm_id":"4938093106","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.564703,43.897107],"type":"Point"},"properties":{"osm_id":"4938093107","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.565101,43.896985],"type":"Point"},"properties":{"osm_id":"4938094009","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.549144,43.895375],"type":"Point"},"properties":{"osm_id":"4938108591","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
@@ -24,6 +24,6 @@
 	{"geometry":{"coordinates":[5.589425,43.856459],"type":"Point"},"properties":{"osm_id":"7468431402","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.58946,43.856449],"type":"Point"},"properties":{"osm_id":"7468431403","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.583601,43.856562],"type":"Point"},"properties":{"osm_id":"7524084508","tag":{"amenity":"recycling","description":"Conteneur de recyclage vert","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.583595,43.856588],"type":"Point"},"properties":{"osm_id":"7524084509","tag":{"amenity":"recycling","location":"overground","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[5.583595,43.856588],"type":"Point"},"properties":{"osm_id":"7524084509","tag":{"amenity":"recycling","location":"overground","operator":"Le Relais","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

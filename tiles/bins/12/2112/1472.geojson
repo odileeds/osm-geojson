@@ -3,7 +3,7 @@
 "features": [
 	{"geometry":{"coordinates":[5.701139,45.043471],"type":"Point"},"properties":{"osm_id":"1519646577","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.650966,45.027975],"type":"Point"},"properties":{"osm_id":"1530784536","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.667352,45.04714],"type":"Point"},"properties":{"osm_id":"1530942571","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.667352,45.04714],"type":"Point"},"properties":{"osm_id":"1530942571","tag":{"amenity":"recycling","recycling:glass_bottles":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.707589,45.049776],"type":"Point"},"properties":{"osm_id":"1530951935","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.668811,45.056197],"type":"Point"},"properties":{"osm_id":"1975273558","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.669234,45.055102],"type":"Point"},"properties":{"osm_id":"1975357777","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -56,6 +56,9 @@
 	{"geometry":{"coordinates":[5.666224,45.050561],"type":"Point"},"properties":{"osm_id":"8010598546","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.668784,45.055887],"type":"Point"},"properties":{"osm_id":"8062449985","tag":{"amenity":"waste_basket","survey:date":"2020-10-29","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.675521,45.061521],"type":"Point"},"properties":{"osm_id":"8111192546","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.707864,45.087283],"type":"Point"},"properties":{"osm_id":"8117390477","tag":{"amenity":"waste_disposal"}},"type":"Feature"}
+	{"geometry":{"coordinates":[5.707864,45.087283],"type":"Point"},"properties":{"osm_id":"8117390477","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.666983,45.047096],"type":"Point"},"properties":{"name":"poubelle","osm_id":"8499241913","tag":{"access":"private","amenity":"waste_disposal","waste":"recycling;trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.643422,45.071312],"type":"Point"},"properties":{"osm_id":"8900997421","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.642131,45.071707],"type":"Point"},"properties":{"osm_id":"8900997422","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

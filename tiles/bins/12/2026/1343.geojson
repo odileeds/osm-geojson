@@ -2,12 +2,13 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[-1.904288,52.526207],"type":"Point"},"properties":{"osm_id":"242944213","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.91877,52.534459],"type":"Point"},"properties":{"osm_id":"248185535","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.918868,52.534691],"type":"Point"},"properties":{"osm_id":"248185535","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.882395,52.508372],"type":"Point"},"properties":{"osm_id":"249804862","tag":{"amenity":"waste_basket","colour":"black","material":"metal","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.933541,52.513617],"type":"Point"},"properties":{"osm_id":"292616779","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.871071,52.522705],"type":"Point"},"properties":{"osm_id":"1483459127","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.858263,52.5254],"type":"Point"},"properties":{"osm_id":"2272780871","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.874231,52.535724],"type":"Point"},"properties":{"osm_id":"2377074219","tag":{"amenity":"recycling","recycling:batteries":"no","recycling:books":"no","recycling:cans":"yes","recycling:cardboard":"yes","recycling:cartons":"yes","recycling:clothes":"yes","recycling:electrical_appliances":"no","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:green_waste":"no","recycling:magazines":"yes","recycling:newspaper":"yes","recycling:paper":"yes","recycling:paper_packaging":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling:scrap_metal":"no","recycling:small_appliances":"no","recycling:waste":"no","recycling:wood":"no","recycling_type":"centre"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.889499,52.486242],"type":"Point"},"properties":{"osm_id":"2449733538","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.889499,52.486242],"type":"Point"},"properties":{"osm_id":"2449733538","tag":{"amenity":"waste_basket","check_date":"2021-05-22"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.887459,52.484339],"type":"Point"},"properties":{"osm_id":"2451000120","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.887335,52.484416],"type":"Point"},"properties":{"osm_id":"2451000130","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.887567,52.484464],"type":"Point"},"properties":{"osm_id":"2451076416","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -27,7 +28,7 @@
 	{"geometry":{"coordinates":[-1.888777,52.485596],"type":"Point"},"properties":{"osm_id":"2455919333","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.889152,52.485661],"type":"Point"},"properties":{"osm_id":"2455919339","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.888916,52.485697],"type":"Point"},"properties":{"osm_id":"2455919343","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.888975,52.485713],"type":"Point"},"properties":{"osm_id":"2455919348","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.888975,52.485713],"type":"Point"},"properties":{"osm_id":"2455919348","tag":{"amenity":"waste_basket","check_date":"2021-05-22"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.889065,52.485792],"type":"Point"},"properties":{"osm_id":"2455919351","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.889122,52.485893],"type":"Point"},"properties":{"osm_id":"2455919373","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.888958,52.486097],"type":"Point"},"properties":{"osm_id":"2455919379","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -44,6 +45,14 @@
 	{"geometry":{"coordinates":[-1.890103,52.483544],"type":"Point"},"properties":{"osm_id":"4891940636","tag":{"amenity":"waste_basket","colour":"black"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.931931,52.515936],"type":"Point"},"properties":{"osm_id":"6753294804","tag":{"amenity":"waste_basket","colour":"Brown","material":"metal","operator":"Birmingham City Council"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.912732,52.489523],"type":"Point"},"properties":{"osm_id":"7055178871","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.912731,52.489531],"type":"Point"},"properties":{"osm_id":"7055178872","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-1.912731,52.489531],"type":"Point"},"properties":{"osm_id":"7055178872","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.899112,52.535191],"type":"Point"},"properties":{"osm_id":"8369833132","tag":{"amenity":"waste_basket","colour":"black and gold","material":"metal","operator":"Birmingham City Council","waste":"trash;dog_excrement;cigarettes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.907119,52.536232],"type":"Point"},"properties":{"osm_id":"8369920459","tag":{"amenity":"waste_basket","colour":"black","operator":"Birmingham City Council","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.906363,52.535761],"type":"Point"},"properties":{"osm_id":"8369920460","tag":{"amenity":"waste_basket","operator":"Birmingham City Council","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.90646,52.535816],"type":"Point"},"properties":{"osm_id":"8369920461","tag":{"amenity":"waste_basket","colour":"black","operator":"Birmingham City Council","waste":"rubbish"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.90531,52.535664],"type":"Point"},"properties":{"osm_id":"8369920462","tag":{"amenity":"waste_basket","colour":"black","operator":"Birmingham City Council","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.883395,52.509188],"type":"Point"},"properties":{"osm_id":"8779013681","tag":{"amenity":"waste_basket","colour":"black","material":"metal","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.883856,52.509617],"type":"Point"},"properties":{"osm_id":"8779037271","tag":{"amenity":"waste_basket","colour":"black","material":"metal","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.883861,52.509588],"type":"Point"},"properties":{"osm_id":"8779037272","tag":{"amenity":"waste_basket","colour":"black","material":"metal","waste":"trash"}},"type":"Feature"}
 ]
 }

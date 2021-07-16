@@ -1,6 +1,12 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[11.780675,45.090756],"type":"Point"},"properties":{"osm_id":"3747406590","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[11.780675,45.090756],"type":"Point"},"properties":{"osm_id":"3747406590","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.78917,45.104403],"type":"Point"},"properties":{"osm_id":"8560725319","tag":{"amenity":"recycling","opening_hours":"24/7","operator":"ASM Rovigo","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.789104,45.104385],"type":"Point"},"properties":{"osm_id":"8560725320","tag":{"amenity":"recycling","opening_hours":"24/7","operator":"ASM Rovigo","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.789138,45.1044],"type":"Point"},"properties":{"osm_id":"8560725321","tag":{"amenity":"recycling","opening_hours":"24/7","operator":"ASM Rovigo","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.789193,45.104413],"type":"Point"},"properties":{"osm_id":"8560725322","tag":{"amenity":"recycling","opening_hours":"24/7","operator":"ASM Rovigo","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.789218,45.104425],"type":"Point"},"properties":{"osm_id":"8560725323","tag":{"amenity":"recycling","opening_hours":"24/7","operator":"ASM Rovigo","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.789245,45.104433],"type":"Point"},"properties":{"osm_id":"8560725324","tag":{"amenity":"recycling","opening_hours":"24/7","operator":"ASM Rovigo","recycling:oils":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

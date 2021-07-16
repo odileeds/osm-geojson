@@ -3,7 +3,7 @@
 "name": "points",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "osm_id": "2615819413", "other_tags": "\"type\"=>\"cedar\",\"natural\"=>\"tree\",\"species\"=>\"Cedrus libani\",\"leaf_type\"=>\"needleleaved\",\"denotation\"=>\"landmark\",\"leaf_cycle\"=>\"evergreen\",\"species:en\"=>\"Cedar of Lebanon\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0873532, 51.2844892 ] } },
+{ "type": "Feature", "properties": { "osm_id": "2615819413", "other_tags": "\"denotation\"=>\"landmark\",\"leaf_cycle\"=>\"evergreen\",\"leaf_type\"=>\"needleleaved\",\"natural\"=>\"tree\",\"species\"=>\"Cedrus libani\",\"species:en\"=>\"Cedar of Lebanon\",\"type\"=>\"cedar\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0873532, 51.2844892 ] } },
 { "type": "Feature", "properties": { "osm_id": "2738198896", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0444238, 51.3267934 ] } },
 { "type": "Feature", "properties": { "osm_id": "2756048881", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0751986, 51.3190425 ] } },
 { "type": "Feature", "properties": { "osm_id": "2756048883", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0755316, 51.3190474 ] } },
@@ -153,7 +153,7 @@
 { "type": "Feature", "properties": { "osm_id": "5294315203", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0562521, 51.2955336 ] } },
 { "type": "Feature", "properties": { "osm_id": "5294315204", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0557103, 51.2953256 ] } },
 { "type": "Feature", "properties": { "osm_id": "5294315205", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0543146, 51.2956903 ] } },
-{ "type": "Feature", "properties": { "osm_id": "5300675831", "other_tags": "\"natural\"=>\"tree\",\"leaf_type\"=>\"broadleaved\",\"leaf_cycle\"=>\"deciduous\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0210546, 51.1737485 ] } },
+{ "type": "Feature", "properties": { "osm_id": "5300675831", "other_tags": "\"leaf_cycle\"=>\"deciduous\",\"leaf_type\"=>\"broadleaved\",\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0210546, 51.1737485 ] } },
 { "type": "Feature", "properties": { "osm_id": "5306485674", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0490129, 51.2834439 ] } },
 { "type": "Feature", "properties": { "osm_id": "5306485675", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0488959, 51.2835557 ] } },
 { "type": "Feature", "properties": { "osm_id": "5306485744", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0503116, 51.2787784 ] } },
@@ -522,8 +522,8 @@
 { "type": "Feature", "properties": { "osm_id": "5573417842", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ 0.036991, 51.287554 ] } },
 { "type": "Feature", "properties": { "osm_id": "6351231160", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0042996, 51.2585842 ] } },
 { "type": "Feature", "properties": { "osm_id": "6351231161", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0041556, 51.258448 ] } },
-{ "type": "Feature", "properties": { "osm_id": "6468049497", "other_tags": "\"natural\"=>\"tree\",\"species\"=>\"Taxus baccata\",\"leaf_type\"=>\"needleleaved\"" }, "geometry": { "type": "Point", "coordinates": [ -0.032265, 51.2430839 ] } },
-{ "type": "Feature", "properties": { "osm_id": "6534049691", "other_tags": "\"natural\"=>\"tree\",\"leaf_type\"=>\"broadleaved\",\"denotation\"=>\"natural_monument\",\"leaf_cycle\"=>\"deciduous\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0864831, 51.2833227 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6468049497", "other_tags": "\"leaf_type\"=>\"needleleaved\",\"natural\"=>\"tree\",\"species\"=>\"Taxus baccata\"" }, "geometry": { "type": "Point", "coordinates": [ -0.032265, 51.2430839 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6534049691", "other_tags": "\"denotation\"=>\"natural_monument\",\"leaf_cycle\"=>\"deciduous\",\"leaf_type\"=>\"broadleaved\",\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0864831, 51.2833227 ] } },
 { "type": "Feature", "properties": { "osm_id": "6561638579", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ 0.0204872, 51.2585124 ] } },
 { "type": "Feature", "properties": { "osm_id": "6561638580", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ 0.0209706, 51.2578682 ] } },
 { "type": "Feature", "properties": { "osm_id": "6561638581", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ 0.0203297, 51.2579498 ] } },
@@ -635,6 +635,7 @@
 { "type": "Feature", "properties": { "osm_id": "8174736959", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ 0.0020814, 51.2423991 ] } },
 { "type": "Feature", "properties": { "osm_id": "8174736960", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ 0.0020975, 51.2425384 ] } },
 { "type": "Feature", "properties": { "osm_id": "8174736961", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ 0.0015262, 51.2425384 ] } },
-{ "type": "Feature", "properties": { "osm_id": "8174736962", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ 0.0013223, 51.2426425 ] } }
+{ "type": "Feature", "properties": { "osm_id": "8174736962", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ 0.0013223, 51.2426425 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8645057343", "name": "Crowhurst Yew", "other_tags": "\"denotation\"=>\"natural_monument\",\"diameter\"=>\"10m\",\"leaf_type\"=>\"broadleaved\",\"natural\"=>\"tree\",\"species\"=>\"Taxus baccata\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0103562, 51.2094573 ] } }
 ]
 }

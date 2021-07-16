@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[13.364756,52.137943],"type":"Point"},"properties":{"osm_id":"2036560531","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.364756,52.137943],"type":"Point"},"properties":{"osm_id":"2036560531","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.3655,52.138072],"type":"Point"},"properties":{"osm_id":"2283313144","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.365126,52.139557],"type":"Point"},"properties":{"osm_id":"2283313173","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.363955,52.141876],"type":"Point"},"properties":{"osm_id":"6301095889","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -12,6 +12,7 @@
 	{"geometry":{"coordinates":[13.368911,52.135785],"type":"Point"},"properties":{"osm_id":"7417322714","tag":{"amenity":"waste_basket","covered":"no","indoor":"no","material":"metal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.365781,52.137579],"type":"Point"},"properties":{"osm_id":"7417344342","tag":{"amenity":"waste_basket","covered":"yes","indoor":"no","material":"metal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.439267,52.124266],"type":"Point"},"properties":{"osm_id":"7622618843","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.401154,52.155946],"type":"Point"},"properties":{"osm_id":"7751929189","tag":{"amenity":"waste_basket","covered":"no","indoor":"no","material":"concrete"}},"type":"Feature"}
+	{"geometry":{"coordinates":[13.401154,52.155946],"type":"Point"},"properties":{"osm_id":"7751929189","tag":{"amenity":"waste_basket","covered":"no","indoor":"no","material":"concrete"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.363174,52.144083],"type":"Point"},"properties":{"osm_id":"8572111287","tag":{"amenity":"recycling","colour":"yellow","covered":"no","indoor":"no","material":"metal","opening_hours":"24/7","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

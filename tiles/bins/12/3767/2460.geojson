@@ -17,11 +17,10 @@
 	{"geometry":{"coordinates":[151.156496,-34.050106],"type":"Point"},"properties":{"osm_id":"1259073033","tag":{"amenity":"waste_basket","source:location":"nearmap"}},"type":"Feature"},
 	{"geometry":{"coordinates":[151.153809,-34.055059],"type":"Point"},"properties":{"osm_id":"1259073034","tag":{"amenity":"waste_basket","source:location":"nearmap"}},"type":"Feature"},
 	{"geometry":{"coordinates":[151.155268,-34.050484],"type":"Point"},"properties":{"osm_id":"1268487027","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[151.121875,-34.042008],"type":"Point"},"properties":{"osm_id":"1280106723","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[151.121875,-34.042008],"type":"Point"},"properties":{"osm_id":"1280106723","tag":{"amenity":"waste_basket","check_date":"2021-01-09"}},"type":"Feature"},
 	{"geometry":{"coordinates":[151.125273,-34.048231],"type":"Point"},"properties":{"osm_id":"1302890256","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[151.084713,-34.035273],"type":"Point"},"properties":{"name":"Gymea Fresh Deli","osm_id":"5362532957","tag":{"addr:city":"Gymea","addr:housenumber":"63","addr:postcode":"2227","addr:province":"NSW","addr:street":"Gymea Bay Road","amenity":"recycling","opening_hours":"Mo-Fr 09:00-17:00","operator":"Return and Earn","recycling:drink_cans":"yes","recycling:glass_bottles":"yes","recycling:soft_drink_bottles":"yes","recycling_type":"container","website":"https://returnandearn.org.au/"}},"type":"Feature"},
 	{"geometry":{"coordinates":[151.104206,-34.03817],"type":"Point"},"properties":{"osm_id":"5367352219","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[151.111767,-34.027389],"type":"Point"},"properties":{"osm_id":"5428321268","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[151.129096,-34.027064],"type":"Point"},"properties":{"osm_id":"5506969107","tag":{"amenity":"recycling","recycling_type":"container","website":"https://returnandearn.org.au/"}},"type":"Feature"},
 	{"geometry":{"coordinates":[151.11816,-34.026062],"type":"Point"},"properties":{"osm_id":"5608313111","tag":{"amenity":"recycling","recycling:batteries":"no","recycling:cans":"no","recycling:clothes":"no","recycling:glass":"no","recycling:glass_bottles":"no","recycling:paper":"no","recycling:plastic":"plastic bags","recycling:plastic_bottles":"no","recycling:scrap_metal":"no","recycling:soft_plastics":"yes","recycling:waste":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[151.121653,-34.02968],"type":"Point"},"properties":{"osm_id":"5625907468","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -34,7 +33,7 @@
 	{"geometry":{"coordinates":[151.118484,-34.043322],"type":"Point"},"properties":{"osm_id":"5999671694","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[151.121939,-34.042573],"type":"Point"},"properties":{"osm_id":"7409100267","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[151.12327,-34.044613],"type":"Point"},"properties":{"osm_id":"7409110203","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[151.123495,-34.044793],"type":"Point"},"properties":{"osm_id":"7413971970","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[151.123495,-34.044793],"type":"Point"},"properties":{"osm_id":"7413971970","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[151.120076,-34.035567],"type":"Point"},"properties":{"osm_id":"7414604350","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:plastic_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[151.121066,-34.036392],"type":"Point"},"properties":{"osm_id":"7416176520","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[151.12204,-34.043126],"type":"Point"},"properties":{"osm_id":"7435769695","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -44,7 +43,9 @@
 	{"geometry":{"coordinates":[151.120916,-34.041761],"type":"Point"},"properties":{"osm_id":"7484324112","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[151.120675,-34.040576],"type":"Point"},"properties":{"osm_id":"7486452073","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[151.149969,-34.054888],"type":"Point"},"properties":{"osm_id":"7489413046","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[151.121295,-34.042261],"type":"Point"},"properties":{"osm_id":"7571848170","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[151.131685,-34.053711],"type":"Point"},"properties":{"osm_id":"7740105723","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[151.121298,-34.042238],"type":"Point"},"properties":{"osm_id":"7571848170","tag":{"amenity":"recycling","operator":"Enough is Enough","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[151.131685,-34.053711],"type":"Point"},"properties":{"osm_id":"7740105723","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[151.102624,-34.036309],"type":"Point"},"properties":{"osm_id":"8490715863","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[151.102639,-34.036311],"type":"Point"},"properties":{"osm_id":"8490733557","tag":{"amenity":"recycling"}},"type":"Feature"}
 ]
 }

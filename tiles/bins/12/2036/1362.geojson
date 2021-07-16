@@ -5,7 +5,7 @@
 	{"geometry":{"coordinates":[-0.975912,51.454121],"type":"Point"},"properties":{"osm_id":"16204762","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:magazines":"yes","recycling:paper":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.021194,51.466897],"type":"Point"},"properties":{"osm_id":"318561062","tag":{"amenity":"recycling","location":"overground","recycling:clothes":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.998453,51.460445],"type":"Point"},"properties":{"osm_id":"425088353","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.040348,51.486895],"type":"Point"},"properties":{"osm_id":"440617251","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.040348,51.486895],"type":"Point"},"properties":{"osm_id":"440617251","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.041124,51.458065],"type":"Point"},"properties":{"osm_id":"840629166","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.037043,51.465998],"type":"Point"},"properties":{"osm_id":"840713271","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.037535,51.465705],"type":"Point"},"properties":{"osm_id":"840713449","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -42,7 +42,7 @@
 	{"geometry":{"coordinates":[-0.972865,51.47311],"type":"Point"},"properties":{"osm_id":"5605467682","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.972841,51.47288],"type":"Point"},"properties":{"osm_id":"5605467684","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.972736,51.469728],"type":"Point"},"properties":{"osm_id":"5605467687","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.972758,51.469723],"type":"Point"},"properties":{"osm_id":"5605467688","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.972772,51.469714],"type":"Point"},"properties":{"osm_id":"5605467688","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.969489,51.45626],"type":"Point"},"properties":{"osm_id":"5636754514","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.979666,51.467764],"type":"Point"},"properties":{"osm_id":"5752423803","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.979627,51.468072],"type":"Point"},"properties":{"osm_id":"5752425135","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
@@ -136,6 +136,7 @@
 	{"geometry":{"coordinates":[-1.014453,51.463688],"type":"Point"},"properties":{"osm_id":"7549426445","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.040177,51.457764],"type":"Point"},"properties":{"osm_id":"7875756607","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.040346,51.45752],"type":"Point"},"properties":{"osm_id":"7875756608","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.023662,51.461374],"type":"Point"},"properties":{"osm_id":"7902510100","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-1.023662,51.461374],"type":"Point"},"properties":{"osm_id":"7902510100","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.029455,51.454337],"type":"Point"},"properties":{"osm_id":"8285941521","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
 ]
 }

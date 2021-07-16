@@ -1,6 +1,10 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-89.596858,44.524464],"type":"Point"},"properties":{"osm_id":"7762308798","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-89.596858,44.524464],"type":"Point"},"properties":{"osm_id":"7762308798","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-89.56979,44.525706],"type":"Point"},"properties":{"osm_id":"8766422399","tag":{"amenity":"recycling","direction":"E","recycling:aluminium":"yes","recycling:cans":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-89.56979,44.525702],"type":"Point"},"properties":{"osm_id":"8766422403","tag":{"amenity":"recycling","direction":"E","recycling:glass":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-89.582527,44.523659],"type":"Point"},"properties":{"osm_id":"8766422407","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-89.569791,44.525703],"type":"Point"},"properties":{"osm_id":"8766472632","tag":{"amenity":"waste_basket","direction":"E","waste":"trash"}},"type":"Feature"}
 ]
 }

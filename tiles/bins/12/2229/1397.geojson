@@ -1,13 +1,15 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[15.945657,49.549223],"type":"Point"},"properties":{"osm_id":"249507311","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[15.945657,49.549223],"type":"Point"},"properties":{"osm_id":"249507311","tag":{"amenity":"recycling","recycling_type":"centre","website":"https://www.ave.cz/cs/kraj-vysocina/provozovna-zdar-nad-sazavou"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.965447,49.523258],"type":"Point"},"properties":{"osm_id":"367678356","tag":{"amenity":"recycling","recycling:cars":"yes","recycling_type":"centre"}},"type":"Feature"},
-	{"geometry":{"coordinates":[15.947936,49.552253],"type":"Point"},"properties":{"name":"Kovo\u00c5\u00a1rot","osm_id":"367678467","tag":{"amenity":"recycling","recycling:scrap_metal":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[15.935592,49.502608],"type":"Point"},"properties":{"osm_id":"5002860102","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[15.932817,49.544758],"type":"Point"},"properties":{"osm_id":"5003324802","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[15.947936,49.552253],"type":"Point"},"properties":{"name":"Kovo\u00c5\u00a1rot","osm_id":"367678467","tag":{"amenity":"recycling","recycling:scrap_metal":"yes","recycling_type":"centre","website":"https://metalsrot.cz/provozy/"}},"type":"Feature"},
+	{"geometry":{"coordinates":[15.935592,49.502608],"type":"Point"},"properties":{"osm_id":"5002860102","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[15.932817,49.544758],"type":"Point"},"properties":{"osm_id":"5003324802","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:cooking_oil":"yes","recycling:electrical_appliances":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.909062,49.52171],"type":"Point"},"properties":{"osm_id":"5003934656","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.909806,49.519314],"type":"Point"},"properties":{"osm_id":"5003948133","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[15.911307,49.517041],"type":"Point"},"properties":{"osm_id":"5004473877","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[15.911307,49.517041],"type":"Point"},"properties":{"osm_id":"5004473877","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[15.983221,49.507374],"type":"Point"},"properties":{"osm_id":"8468565857","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[15.966824,49.524646],"type":"Point"},"properties":{"osm_id":"8621176562","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:cooking_oil":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

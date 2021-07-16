@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[8.680993,47.542231],"type":"Point"},"properties":{"osm_id":"685191496","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.680904,47.542277],"type":"Point"},"properties":{"osm_id":"685191496","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.626344,47.524332],"type":"Point"},"properties":{"name":"Sammelstelle","osm_id":"960451618","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.644222,47.517497],"type":"Point"},"properties":{"osm_id":"1203245877","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.670946,47.576136],"type":"Point"},"properties":{"name":"TRELAG AG","osm_id":"1272546606","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 07:00-18:00","recycling:aluminium":"yes","recycling:batteries":"yes","recycling:fluorescent_tubes":"yes","recycling:fridge_and_freezer":"yes","recycling:light_bulbs":"yes","recycling:low_energy_bulbs":"yes","recycling:mobile_phones":"yes","recycling:printer_cartridges":"yes","recycling:scrap_metal":"yes","recycling:small_appliances":"yes","recycling:tv_monitor":"yes","website":"http://www.trelag.ch"}},"type":"Feature"},
@@ -17,6 +17,7 @@
 	{"geometry":{"coordinates":[8.692294,47.545639],"type":"Point"},"properties":{"osm_id":"3537256545","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.692669,47.545846],"type":"Point"},"properties":{"name":"FABI Recycling GmbH","osm_id":"4249935796","tag":{"addr:city":"Hettlingen","addr:housenumber":"4","addr:postcode":"8442","addr:street":"Aeschemerstrasse","amenity":"recycling","website":"https://www.fabirecycling.ch/"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.674485,47.528449],"type":"Point"},"properties":{"osm_id":"6096823519","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:beverage_cartons":"yes","recycling:cans":"yes","recycling:cartons":"yes","recycling:clothes":"yes","recycling:electrical_appliances":"yes","recycling:glass_bottles":"yes","recycling:magazines":"yes","recycling:newspaper":"yes","recycling:paper":"yes","recycling_type":"centre"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.68242,47.571243],"type":"Point"},"properties":{"osm_id":"6823639764","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[8.68242,47.571243],"type":"Point"},"properties":{"osm_id":"6823639764","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.674649,47.518284],"type":"Point"},"properties":{"osm_id":"8569833968","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

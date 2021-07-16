@@ -4,13 +4,11 @@
 	{"geometry":{"coordinates":[7.978741,50.965893],"type":"Point"},"properties":{"osm_id":"109587937","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.978468,50.963797],"type":"Point"},"properties":{"osm_id":"110224325","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.977587,50.959018],"type":"Point"},"properties":{"osm_id":"122284759","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.992489,50.959414],"type":"Point"},"properties":{"osm_id":"122484608","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.992489,50.959414],"type":"Point"},"properties":{"osm_id":"122484608","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.968028,50.979631],"type":"Point"},"properties":{"osm_id":"266366066","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.976326,50.974937],"type":"Point"},"properties":{"osm_id":"305469548","tag":{"amenity":"recycling","recycling:cardboard":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.99745,50.968836],"type":"Point"},"properties":{"osm_id":"330263360","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.996969,50.962747],"type":"Point"},"properties":{"osm_id":"330263361","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.936059,50.97413],"type":"Point"},"properties":{"osm_id":"393896841","tag":{"layer":"-1"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.989781,50.961086],"type":"Point"},"properties":{"osm_id":"421881523","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.961624,50.976705],"type":"Point"},"properties":{"osm_id":"503339700","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.970012,50.980513],"type":"Point"},"properties":{"osm_id":"648215765","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.978543,50.982415],"type":"Point"},"properties":{"osm_id":"1011258689","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -50,6 +48,7 @@
 	{"geometry":{"coordinates":[7.988986,50.95965],"type":"Point"},"properties":{"osm_id":"6679688713","tag":{"amenity":"waste_basket","material":"metal","operator":"Stadt Kreuztal","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.988998,50.959588],"type":"Point"},"properties":{"osm_id":"6679688715","tag":{"amenity":"waste_basket","colour":"red","material":"plastic","operator":"Stadt Kreuztal","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.989112,50.959842],"type":"Point"},"properties":{"osm_id":"6679688733","tag":{"amenity":"waste_basket","material":"metal","operator":"Stadt Kreuztal","wheelchair":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.922952,51.006245],"type":"Point"},"properties":{"osm_id":"7385127692","tag":{"amenity":"recycling","material":"metal","opening_hours":"Mo-Sa 07:00-19:00; Su,PH off","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[7.922952,51.006245],"type":"Point"},"properties":{"osm_id":"7385127692","tag":{"amenity":"recycling","material":"metal","opening_hours":"Mo-Sa 07:00-19:00; Su,PH off","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.987984,50.961512],"type":"Point"},"properties":{"osm_id":"8756446515","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
 ]
 }

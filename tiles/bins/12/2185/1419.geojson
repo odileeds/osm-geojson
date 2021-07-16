@@ -1,18 +1,19 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[12.122321,48.274235],"type":"Point"},"properties":{"osm_id":"278738499","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.122321,48.274235],"type":"Point"},"properties":{"osm_id":"278738499","tag":{"amenity":"recycling","location":"overground","opening_hours":"Mo-Sa 07:00-12:00,14:00-19:00; Su,PH off","recycling:cans":"yes","recycling:cardboard":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:shoes":"yes","recycling_type":"container","website":"https://www.landkreis-erding.de/abfallwirtschaft/rund-um-die-entsorgung/recyclinghoefe-containerplaetze/"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.124076,48.273764],"type":"Point"},"properties":{"osm_id":"315788335","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.123664,48.273652],"type":"Point"},"properties":{"osm_id":"315788339","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.125854,48.275616],"type":"Point"},"properties":{"osm_id":"315788348","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.12885,48.275154],"type":"Point"},"properties":{"osm_id":"316968398","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.048922,48.253462],"type":"Point"},"properties":{"osm_id":"380524245","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.04276,48.25971],"type":"Point"},"properties":{"osm_id":"3935992444","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.042705,48.261076],"type":"Point"},"properties":{"osm_id":"3935992446","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.046894,48.262434],"type":"Point"},"properties":{"osm_id":"3935992448","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.051786,48.254549],"type":"Point"},"properties":{"osm_id":"5323540891","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.044563,48.255265],"type":"Point"},"properties":{"osm_id":"5352745067","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.069348,48.264774],"type":"Point"},"properties":{"osm_id":"7120274954","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.065054,48.258059],"type":"Point"},"properties":{"osm_id":"8175143719","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[12.065054,48.258059],"type":"Point"},"properties":{"osm_id":"8175143719","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.109002,48.255194],"type":"Point"},"properties":{"osm_id":"8583059873","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.048925,48.253488],"type":"Point"},"properties":{"barrier":"gate","osm_id":"8777477245"},"type":"Feature"}
 ]
 }

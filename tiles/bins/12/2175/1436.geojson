@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[11.243976,47.273389],"type":"Point"},"properties":{"osm_id":"310409633","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.237405,47.274197],"type":"Point"},"properties":{"osm_id":"322153176","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:scrap_metal":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.235315,47.274962],"type":"Point"},"properties":{"osm_id":"322153181","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:scrap_metal":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.21156,47.268337],"type":"Point"},"properties":{"name":"Recyclinghof Inzing","osm_id":"1337342926","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.235365,47.278461],"type":"Point"},"properties":{"osm_id":"1933889003","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -26,6 +25,10 @@
 	{"geometry":{"coordinates":[11.21815,47.237469],"type":"Point"},"properties":{"osm_id":"5864950887","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.219269,47.237509],"type":"Point"},"properties":{"osm_id":"5865059685","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.20441,47.272834],"type":"Point"},"properties":{"osm_id":"6615670086","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.22614,47.266328],"type":"Point"},"properties":{"name":"Energie AG Zirl","osm_id":"7965516926","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"}
+	{"geometry":{"coordinates":[11.22614,47.266328],"type":"Point"},"properties":{"name":"Energie AG Zirl","osm_id":"7965516926","tag":{"alt_name":"AVE Abfallbeseitigung","amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.236188,47.276386],"type":"Point"},"properties":{"osm_id":"8286201935","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.22563,47.265689],"type":"Point"},"properties":{"name":"Replast Kunststoffe","osm_id":"8294166662","tag":{"amenity":"recycling","recycling:plastic":"yes","recycling_type":"centre"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.246009,47.271988],"type":"Point"},"properties":{"osm_id":"8303371338","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.23147,47.262644],"type":"Point"},"properties":{"barrier":"gate","osm_id":"8668671004"},"type":"Feature"}
 ]
 }

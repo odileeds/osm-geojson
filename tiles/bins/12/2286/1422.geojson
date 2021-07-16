@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[20.979103,48.064907],"type":"Point"},"properties":{"osm_id":"3437756686","tag":{"amenity":"recycling","source:date":"2011-05-08","url":"http://turistautak.hu/poi.php?id=95268"}},"type":"Feature"},
-	{"geometry":{"coordinates":[20.960417,48.0885],"type":"Point"},"properties":{"osm_id":"3437756817","tag":{"addr:street":"Hern\u00c3\u00a1dkak","amenity":"recycling","source:date":"2011-05-08","url":"http://turistautak.hu/poi.php?id=66023"}},"type":"Feature"}
+	{"geometry":{"coordinates":[20.979103,48.064907],"type":"Point"},"properties":{"osm_id":"3437756686","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container","source:date":"2011-05-08","url":"http://turistautak.hu/poi.php?id=95268"}},"type":"Feature"},
+	{"geometry":{"coordinates":[20.960417,48.0885],"type":"Point"},"properties":{"osm_id":"3437756817","tag":{"addr:street":"Hern\u00c3\u00a1dkak","amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container","source:date":"2011-05-08","url":"http://turistautak.hu/poi.php?id=66023"}},"type":"Feature"}
 ]
 }

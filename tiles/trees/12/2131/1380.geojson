@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[7.305789,50.478845],"type":"Point"},"properties":{"osm_id":"2319660957","tag":{"name:botanical":"Aesculus hippocastanum","natural":"tree","type":"broad_leaved"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.305789,50.478845],"type":"Point"},"properties":{"osm_id":"2319660957","tag":{"leaf_type":"broadleaved","name:botanical":"Aesculus hippocastanum","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.30826,50.512478],"type":"Point"},"properties":{"osm_id":"4936548056","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.308349,50.512499],"type":"Point"},"properties":{"osm_id":"4936548057","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.307904,50.512265],"type":"Point"},"properties":{"osm_id":"4936550879","tag":{"natural":"tree"}},"type":"Feature"},
@@ -16,10 +16,13 @@
 	{"geometry":{"coordinates":[7.33,50.482018],"type":"Point"},"properties":{"osm_id":"6314645901","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.307451,50.512975],"type":"Point"},"properties":{"osm_id":"6494280207","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.296686,50.458306],"type":"Point"},"properties":{"osm_id":"6604412861","tag":{"check_date":"2019-07-10","genus":"Quercus","genus:de":"Eiche","genus:en":"Oak","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.357876,50.47235],"type":"Point"},"properties":{"name":"Linde","osm_id":"6815838642","tag":{"denotation":"landmark","leaf_cycle":"semi_deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.357915,50.472372],"type":"Point"},"properties":{"name":"Linde","osm_id":"6815838642","tag":{"denotation":"landmark","leaf_cycle":"semi_deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.308019,50.512621],"type":"Point"},"properties":{"osm_id":"7773412368","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.308753,50.511835],"type":"Point"},"properties":{"osm_id":"7773412369","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.309058,50.511998],"type":"Point"},"properties":{"osm_id":"7773418863","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.310152,50.511108],"type":"Point"},"properties":{"osm_id":"7773418864","tag":{"natural":"tree"}},"type":"Feature"}
+	{"geometry":{"coordinates":[7.310152,50.511108],"type":"Point"},"properties":{"osm_id":"7773418864","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.297689,50.504848],"type":"Point"},"properties":{"osm_id":"8284061194","tag":{"genus":"Picea","leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree","species":"Picea abies"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.297577,50.504827],"type":"Point"},"properties":{"osm_id":"8284061195","tag":{"genus":"Picea","leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree","species":"Picea abies"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.29914,50.507282],"type":"Point"},"properties":{"osm_id":"8284290423","tag":{"genus":"Cedrus","leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree"}},"type":"Feature"}
 ]
 }

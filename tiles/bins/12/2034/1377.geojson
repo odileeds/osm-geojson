@@ -1,8 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-1.206187,50.6657],"type":"Point"},"properties":{"osm_id":"729063582","tag":{"amenity":"recycling","location":"overground","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container","ref:GB:uprn":"10024247123"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.180632,50.646579],"type":"Point"},"properties":{"osm_id":"3868631544","tag":{"amenity":"recycling","ref:GB:uprn":"10024247118"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.180632,50.646579],"type":"Point"},"properties":{"osm_id":"3868631544","tag":{"amenity":"recycling","location":"overground","opening_hours":"24/7","operator":"Isle of Wight Council","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:shoes":"yes","recycling_type":"container","ref:GB:uprn":"10024247118"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.172352,50.646938],"type":"Point"},"properties":{"osm_id":"3971485327","tag":{"amenity":"recycling","location":"overground","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.142847,50.679772],"type":"Point"},"properties":{"osm_id":"3979185656","tag":{"amenity":"recycling","ref:GB:uprn":"10024247102"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.179839,50.645364],"type":"Point"},"properties":{"osm_id":"5141587334","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -73,15 +72,17 @@
 	{"geometry":{"coordinates":[-1.178208,50.630078],"type":"Point"},"properties":{"osm_id":"7845859062","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.178077,50.629892],"type":"Point"},"properties":{"osm_id":"7845859063","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.178328,50.631146],"type":"Point"},"properties":{"osm_id":"7845859064","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.154029,50.655246],"type":"Point"},"properties":{"osm_id":"7884192527","tag":{"amenity":"recycling","opening_hours":"24/7","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.153984,50.655237],"type":"Point"},"properties":{"osm_id":"7884192527","tag":{"amenity":"recycling","opening_hours":"24/7","operator":"Astra Recyling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.166905,50.643723],"type":"Point"},"properties":{"osm_id":"7884740473","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.183838,50.666905],"type":"Point"},"properties":{"osm_id":"7928344447","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.183824,50.666904],"type":"Point"},"properties":{"osm_id":"7928344449","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.180951,50.633948],"type":"Point"},"properties":{"osm_id":"7976184854","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.179705,50.631812],"type":"Point"},"properties":{"osm_id":"7981241456","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.180343,50.631982],"type":"Point"},"properties":{"osm_id":"7981241457","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.180323,50.631966],"type":"Point"},"properties":{"osm_id":"7981241457","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.179886,50.631287],"type":"Point"},"properties":{"osm_id":"7981241458","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.179676,50.631673],"type":"Point"},"properties":{"osm_id":"7981241460","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.179931,50.63141],"type":"Point"},"properties":{"osm_id":"7990311517","tag":{"amenity":"recycling","recycling_type":"container","ref:GB:uprn":"10024247142"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-1.179659,50.631672],"type":"Point"},"properties":{"osm_id":"7981241460","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.179931,50.63141],"type":"Point"},"properties":{"name":"The Co-operative, Shanklin Mini Recycling Site","osm_id":"7990311517","tag":{"amenity":"recycling","location":"surface","operator":"Isle of Wight Council","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:shoes":"yes","recycling_type":"container","ref:GB:uprn":"10024247142"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.180837,50.62522],"type":"Point"},"properties":{"osm_id":"8522129260","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.155259,50.653076],"type":"Point"},"properties":{"osm_id":"8557240628","tag":{"amenity":"recycling","opening_hours":"24/7","operator":"Isle of Wight Council","recycling:cans":"yes","recycling:glass":"yes","recycling_type":"container","ref:GB:uprn":"10024247159"}},"type":"Feature"}
 ]
 }

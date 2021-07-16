@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[10.358875,63.407349],"type":"Point"},"properties":{"osm_id":"1804450156","tag":{"amenity":"recycling","description":"Returpunkt, By\u00c3\u00a5sen, v/Bunnpris Havstad","recycling:glass_bottles":"yes","recycling_type":"container","ref:sortere":"10722"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.358681,63.407498],"type":"Point"},"properties":{"osm_id":"1804450207","tag":{"amenity":"recycling","recycling:clothes":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.358681,63.407495],"type":"Point"},"properties":{"osm_id":"1804450207","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.351373,63.413711],"type":"Point"},"properties":{"osm_id":"1808107020","tag":{"amenity":"recycling","description":"Returpunkt, By\u00c3\u00a5sen, Gamle Oslo vei 28, v/Bunnpris","recycling:glass_bottles":"yes","recycling_type":"container","ref:sortere":"10750"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.322644,63.394954],"type":"Point"},"properties":{"osm_id":"1866474225","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.317155,63.395474],"type":"Point"},"properties":{"osm_id":"1866474233","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
@@ -37,19 +37,24 @@
 	{"geometry":{"coordinates":[10.34383,63.406407],"type":"Point"},"properties":{"osm_id":"5113513040","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.355975,63.428939],"type":"Point"},"properties":{"osm_id":"5420534202","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.336323,63.404049],"type":"Point"},"properties":{"osm_id":"5555191114","tag":{"amenity":"recycling","description":"Returpunkt, Kyvannsveien 16","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container","ref:sortere":"10682"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.358869,63.394147],"type":"Point"},"properties":{"osm_id":"5555191117","tag":{"amenity":"recycling","description":"Returpunkt, Hallset, S\u00c3\u00b8ndre Hallset B/L","recycling:glass_bottles":"yes","recycling_type":"container","ref:sortere":"10675"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.358716,63.398666],"type":"Point"},"properties":{"osm_id":"5555191763","tag":{"amenity":"recycling","description":"Returpunkt, By\u00c3\u00a5sen, B\u00c3\u00b8ckmannsveien/By\u00c3\u00a5sen skole","recycling:glass_bottles":"yes","recycling_type":"container","ref:sortere":"10538"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.358869,63.394147],"type":"Point"},"properties":{"osm_id":"5555191117","tag":{"amenity":"recycling","description":"Returpunkt, Hallset, S\u00c3\u00b8ndre Hallset B/L","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"no","recycling:plastic_packaging":"yes","recycling_type":"container","ref:sortere":"10675"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.358764,63.398677],"type":"Point"},"properties":{"osm_id":"5555191763","tag":{"amenity":"recycling","description":"Returpunkt, By\u00c3\u00a5sen, B\u00c3\u00b8ckmannsveien/By\u00c3\u00a5sen skole","recycling:glass_bottles":"yes","recycling_type":"container","ref:sortere":"10538"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.369576,63.429859],"type":"Point"},"properties":{"osm_id":"5555210275","tag":{"amenity":"recycling","description":"Ila - Mellomila/Hans Nissens gate","recycling:paper":"yes","recycling_type":"container","ref:sortere":"10579"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.365205,63.429285],"type":"Point"},"properties":{"osm_id":"5614806657","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.349193,63.42261],"type":"Point"},"properties":{"osm_id":"5614806659","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.34988,63.427539],"type":"Point"},"properties":{"osm_id":"5643839508","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.357653,63.417349],"type":"Point"},"properties":{"osm_id":"5679733547","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.3433,63.425233],"type":"Point"},"properties":{"osm_id":"5695331237","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.3433,63.425233],"type":"Point"},"properties":{"osm_id":"5695331237","tag":{"amenity":"recycling","location":"overground","recycling:paper":"yes","recycling:plastic":"no","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.366641,63.430683],"type":"Point"},"properties":{"osm_id":"6080553241","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.357823,63.421436],"type":"Point"},"properties":{"osm_id":"6164883383","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.349802,63.418457],"type":"Point"},"properties":{"osm_id":"6195511304","tag":{"amenity":"recycling","description":"Returpunkt, By\u00c3\u00a5sen butikksenter","recycling:glass_bottles":"yes","recycling_type":"container","ref:sortere":"21703"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.30451,63.395276],"type":"Point"},"properties":{"osm_id":"6295835206","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.362204,63.410857],"type":"Point"},"properties":{"osm_id":"6550108579","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.311721,63.39988],"type":"Point"},"properties":{"osm_id":"7618142697","tag":{"amenity":"recycling"}},"type":"Feature"}
+	{"geometry":{"coordinates":[10.311721,63.39988],"type":"Point"},"properties":{"osm_id":"7618142697","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.314451,63.401994],"type":"Point"},"properties":{"osm_id":"8779125028","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.353449,63.418078],"type":"Point"},"properties":{"osm_id":"8837127393","tag":{"amenity":"recycling","operator":"Fretex","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.365305,63.429442],"type":"Point"},"properties":{"osm_id":"8837154102","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.355882,63.406017],"type":"Point"},"properties":{"osm_id":"8909509152","tag":{"amenity":"recycling","operator":"Fretex","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.362305,63.399431],"type":"Point"},"properties":{"osm_id":"8910717617","tag":{"access":"private","amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
 ]
 }

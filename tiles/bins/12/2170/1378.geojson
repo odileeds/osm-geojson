@@ -1,6 +1,8 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[10.791526,50.598807],"type":"Point"},"properties":{"osm_id":"6000995946","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[10.791526,50.598807],"type":"Point"},"properties":{"osm_id":"6000995946","tag":{"amenity":"waste_basket","check_date":"2021-01-02","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.790116,50.5949],"type":"Point"},"properties":{"osm_id":"8600518872","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.790199,50.594929],"type":"Point"},"properties":{"osm_id":"8600518876","tag":{"amenity":"recycling","operator":"Stadt Suhl","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

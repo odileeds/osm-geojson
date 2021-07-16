@@ -1,10 +1,21 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[12.01244,50.549324],"type":"Point"},"properties":{"osm_id":"1157317090","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 08:00-18:00","recycling:glass":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.969072,50.531545],"type":"Point"},"properties":{"osm_id":"1165476002","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 07:00-18:00","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.033608,50.54233],"type":"Point"},"properties":{"osm_id":"1182513581","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 08:00-18:00","recycling:batteries":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.01244,50.549324],"type":"Point"},"properties":{"osm_id":"1157317090","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 08:00-18:00","recycling:glass_bottles":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.969072,50.531545],"type":"Point"},"properties":{"osm_id":"1165476002","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 07:00-18:00","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.033608,50.54233],"type":"Point"},"properties":{"osm_id":"1182513581","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 08:00-18:00","recycling:batteries":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.030485,50.531439],"type":"Point"},"properties":{"osm_id":"2843864119","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.999737,50.536793],"type":"Point"},"properties":{"osm_id":"5471607248","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 08:00-18:00","recycling:glass":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"}
+	{"geometry":{"coordinates":[11.999737,50.536793],"type":"Point"},"properties":{"osm_id":"5471607248","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 08:00-18:00","recycling:glass_bottles":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.023864,50.516509],"type":"Point"},"properties":{"osm_id":"8634038876","tag":{"amenity":"waste_basket","colour":"gray","material":"concrete","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.023403,50.516439],"type":"Point"},"properties":{"osm_id":"8634038879","tag":{"amenity":"waste_basket","colour":"gray","material":"concrete","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.025584,50.515311],"type":"Point"},"properties":{"osm_id":"8634038890","tag":{"amenity":"waste_basket","colour":"gray","material":"concrete","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.026134,50.514182],"type":"Point"},"properties":{"osm_id":"8634132295","tag":{"amenity":"waste_basket","material":"concrete","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.027202,50.513611],"type":"Point"},"properties":{"osm_id":"8634167970","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.022699,50.516659],"type":"Point"},"properties":{"osm_id":"8682336914","tag":{"amenity":"recycling","operator":"Glitzner","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.022699,50.516628],"type":"Point"},"properties":{"osm_id":"8682336915","tag":{"amenity":"recycling","operator":"Glitzner","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.022703,50.516595],"type":"Point"},"properties":{"osm_id":"8682336916","tag":{"amenity":"recycling","operator":"Glitzner","recycling:electrical_appliances":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.022705,50.516566],"type":"Point"},"properties":{"osm_id":"8682342517","tag":{"amenity":"recycling","operator":"Die Johannhiter","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.01161,50.547397],"type":"Point"},"properties":{"osm_id":"8714390082","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.011621,50.547417],"type":"Point"},"properties":{"osm_id":"8714390083","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

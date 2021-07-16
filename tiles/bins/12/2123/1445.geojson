@@ -1,6 +1,8 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[6.614698,46.703234],"type":"Point"},"properties":{"osm_id":"322091459","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"}
+	{"geometry":{"coordinates":[6.614698,46.703234],"type":"Point"},"properties":{"osm_id":"322091459","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.643858,46.688211],"type":"Point"},"properties":{"osm_id":"8804605193","tag":{"addr:city":"Vuarrens","addr:postcode":"1418","addr:street":"Route de Corcelles","amenity":"recycling","description":"D\u00c3\u00a9chetterie de Vuarrens","operator":"commune","recycling_type":"centre"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.632571,46.690218],"type":"Point"},"properties":{"osm_id":"8804605195","tag":{"amenity":"recycling","recycling:green_waste":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

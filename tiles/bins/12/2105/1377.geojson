@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[5.082208,50.675029],"type":"Point"},"properties":{"osm_id":"1937332717","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.082208,50.675029],"type":"Point"},"properties":{"osm_id":"1937332717","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.090808,50.658698],"type":"Point"},"properties":{"osm_id":"2030085040","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.088898,50.670598],"type":"Point"},"properties":{"osm_id":"2030085096","tag":{"amenity":"recycling","recycling:cans":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.066444,50.656024],"type":"Point"},"properties":{"osm_id":"3742447850","tag":{"amenity":"recycling"}},"type":"Feature"},
@@ -19,6 +19,9 @@
 	{"geometry":{"coordinates":[5.088838,50.665457],"type":"Point"},"properties":{"osm_id":"6482362239","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.087033,50.668769],"type":"Point"},"properties":{"osm_id":"6482362241","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.020044,50.677327],"type":"Point"},"properties":{"osm_id":"7556099626","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.077984,50.626604],"type":"Point"},"properties":{"osm_id":"8071541345","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[5.077984,50.626604],"type":"Point"},"properties":{"osm_id":"8071541345","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.077995,50.672282],"type":"Point"},"properties":{"osm_id":"8693784916","tag":{"amenity":"recycling","operator":"Intradel","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.073697,50.672782],"type":"Point"},"properties":{"osm_id":"8701505246","tag":{"amenity":"recycling","operator":"Intradel","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.079633,50.673485],"type":"Point"},"properties":{"osm_id":"8701561781","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

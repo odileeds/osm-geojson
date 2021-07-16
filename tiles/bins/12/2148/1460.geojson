@@ -4,7 +4,7 @@
 	{"geometry":{"coordinates":[8.827772,45.815027],"type":"Point"},"properties":{"osm_id":"835410145","tag":{"amenity":"recycling","operator":"ASPEM","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.832384,45.818879],"type":"Point"},"properties":{"osm_id":"1254449753","tag":{"amenity":"recycling","operator":"ASPEM","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.824612,45.815848],"type":"Point"},"properties":{"osm_id":"1303830556","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.838593,45.814092],"type":"Point"},"properties":{"osm_id":"1303883482","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.838593,45.814092],"type":"Point"},"properties":{"osm_id":"1303883482","tag":{"amenity":"waste_basket","check_date":"2021-01-24"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.825389,45.817161],"type":"Point"},"properties":{"osm_id":"1364519169","tag":{"amenity":"recycling","operator":"ASPEM","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.847216,45.80959],"type":"Point"},"properties":{"osm_id":"1506480944","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.847354,45.809734],"type":"Point"},"properties":{"osm_id":"1506480945","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -13,7 +13,7 @@
 	{"geometry":{"coordinates":[8.829126,45.819745],"type":"Point"},"properties":{"osm_id":"2182380434","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.824693,45.821594],"type":"Point"},"properties":{"osm_id":"2182380435","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.827235,45.817806],"type":"Point"},"properties":{"osm_id":"4165063769","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.828726,45.818604],"type":"Point"},"properties":{"osm_id":"4879990323","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.828726,45.818604],"type":"Point"},"properties":{"osm_id":"4879990323","tag":{"amenity":"recycling","operator":"ASPEM S.p.A.","recycling:batteries":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.846036,45.811461],"type":"Point"},"properties":{"osm_id":"5001272729","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.846124,45.811639],"type":"Point"},"properties":{"osm_id":"5001272730","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.829993,45.817272],"type":"Point"},"properties":{"osm_id":"7845523050","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -24,7 +24,7 @@
 	{"geometry":{"coordinates":[8.827222,45.818146],"type":"Point"},"properties":{"osm_id":"7845550558","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.826659,45.818422],"type":"Point"},"properties":{"osm_id":"7845550576","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.830148,45.817087],"type":"Point"},"properties":{"osm_id":"7845550692","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.830033,45.817174],"type":"Point"},"properties":{"osm_id":"7845550693","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.830023,45.817177],"type":"Point"},"properties":{"osm_id":"7845550693","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.829006,45.815649],"type":"Point"},"properties":{"osm_id":"7845550896","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.83279,45.816277],"type":"Point"},"properties":{"osm_id":"7845551207","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.832836,45.816042],"type":"Point"},"properties":{"osm_id":"7845551208","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -54,6 +54,9 @@
 	{"geometry":{"coordinates":[8.844924,45.819596],"type":"Point"},"properties":{"osm_id":"7945553381","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.829154,45.810616],"type":"Point"},"properties":{"osm_id":"8176060558","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.829051,45.810525],"type":"Point"},"properties":{"osm_id":"8222834257","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.828503,45.811436],"type":"Point"},"properties":{"osm_id":"8222834279","tag":{"amenity":"waste_basket","colour":"white"}},"type":"Feature"}
+	{"geometry":{"coordinates":[8.828503,45.811436],"type":"Point"},"properties":{"osm_id":"8222834279","tag":{"amenity":"waste_basket","colour":"white"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.84761,45.802083],"type":"Point"},"properties":{"osm_id":"8328314991","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.834869,45.814934],"type":"Point"},"properties":{"osm_id":"8458815717","tag":{"amenity":"recycling","operator":"Aspem S.p.A.","recycling:batteries":"yes","recycling_type":"centre"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.831318,45.806701],"type":"Point"},"properties":{"osm_id":"8754970030","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

@@ -2,13 +2,14 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[16.848281,49.613394],"type":"Point"},"properties":{"osm_id":"2961896336","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[16.845517,49.613666],"type":"Point"},"properties":{"osm_id":"2961896346","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.845517,49.613666],"type":"Point"},"properties":{"osm_id":"2961896346","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.81376,49.660844],"type":"Point"},"properties":{"osm_id":"3101112733","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.810106,49.665648],"type":"Point"},"properties":{"osm_id":"3101113256","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.840337,49.649979],"type":"Point"},"properties":{"osm_id":"3113652303","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.850954,49.612885],"type":"Point"},"properties":{"osm_id":"5105830917","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.83596,49.650227],"type":"Point"},"properties":{"osm_id":"5403969803","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.857654,49.665717],"type":"Point"},"properties":{"osm_id":"5403969806","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[16.87354,49.640929],"type":"Point"},"properties":{"osm_id":"5404022236","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[16.87354,49.640929],"type":"Point"},"properties":{"osm_id":"5404022236","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.830329,49.629653],"type":"Point"},"properties":{"osm_id":"8809598537","tag":{"amenity":"waste_disposal"}},"type":"Feature"}
 ]
 }

@@ -15,12 +15,10 @@
 	{"geometry":{"coordinates":[-9.120769,38.79192],"type":"Point"},"properties":{"osm_id":"1588899244","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-9.122035,38.79054],"type":"Point"},"properties":{"osm_id":"1588924910","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-9.122877,38.789886],"type":"Point"},"properties":{"osm_id":"1588924939","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-9.126038,38.769491],"type":"Point"},"properties":{"highway":"crossing","osm_id":"1802158745","tag":{"crossing":"uncontrolled","crossing_ref":"zebra"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-9.099663,38.777313],"type":"Point"},"properties":{"osm_id":"1864139518","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:cartons":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-9.112779,38.754188],"type":"Point"},"properties":{"osm_id":"2302738228","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-9.112892,38.75446],"type":"Point"},"properties":{"osm_id":"2302738512","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-9.113426,38.754096],"type":"Point"},"properties":{"osm_id":"2302738638","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-9.113343,38.754535],"type":"Point"},"properties":{"osm_id":"2302739023","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-9.113343,38.754535],"type":"Point"},"properties":{"osm_id":"2302739023","tag":{"amenity":"recycling","location":"underground","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-9.130158,38.758781],"type":"Point"},"properties":{"osm_id":"2908943714","tag":{"amenity":"recycling","recycling:clothes":"no","recycling:glass":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-9.118432,38.764229],"type":"Point"},"properties":{"osm_id":"3003098333","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-9.114455,38.763017],"type":"Point"},"properties":{"osm_id":"3003706933","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -38,6 +36,14 @@
 	{"geometry":{"coordinates":[-9.096297,38.820622],"type":"Point"},"properties":{"osm_id":"5802511309","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-9.096281,38.820643],"type":"Point"},"properties":{"osm_id":"5802511310","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-9.097107,38.820313],"type":"Point"},"properties":{"osm_id":"5802511311","tag":{"addr:city":"S\u00c3\u00a3o Jo\u00c3\u00a3o da Talha","addr:postcode":"2695-611","addr:street":"Rua Jo\u00c3\u00a3o Nunes Resende","amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-9.123078,38.792535],"type":"Point"},"properties":{"osm_id":"7528731034","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-9.123078,38.792535],"type":"Point"},"properties":{"osm_id":"7528731034","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-9.095212,38.756696],"type":"Point"},"properties":{"osm_id":"8377479973","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-9.095386,38.75532],"type":"Point"},"properties":{"osm_id":"8386109315","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-9.117491,38.814936],"type":"Point"},"properties":{"osm_id":"8526698015","tag":{"amenity":"waste_disposal","operator":"SIMAR","operator:type":"government","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-9.118792,38.811437],"type":"Point"},"properties":{"osm_id":"8526698016","tag":{"amenity":"recycling","operator":"SIMAR","operator:type":"government","recycling:PET":"yes","recycling:beverage_cartons":"yes","recycling:cans":"yes","recycling:cardboard":"yes","recycling:cartons":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:magazines":"yes","recycling:newspaper":"yes","recycling:paper":"yes","recycling:paper_packaging":"yes","recycling:plastic":"yes","recycling:plastic_bags":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-9.118802,38.811488],"type":"Point"},"properties":{"osm_id":"8526698917","tag":{"amenity":"waste_disposal","operator":"SIMAR","operator:type":"government","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-9.118671,38.811158],"type":"Point"},"properties":{"osm_id":"8526698918","tag":{"amenity":"waste_disposal","operator":"SIMAR","operator:type":"government","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-9.118416,38.815159],"type":"Point"},"properties":{"osm_id":"8526698920","tag":{"amenity":"recycling","operator":"SIMAR","operator:type":"government","recycling:PET":"yes","recycling:beverage_cartons":"yes","recycling:cans":"yes","recycling:cardboard":"yes","recycling:cartons":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:magazines":"yes","recycling:newspaper":"yes","recycling:paper":"yes","recycling:paper_packaging":"yes","recycling:plastic":"yes","recycling:plastic_bags":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-9.118413,38.815115],"type":"Point"},"properties":{"osm_id":"8526698921","tag":{"amenity":"waste_disposal","operator":"SIMAR","operator:type":"government","waste":"trash"}},"type":"Feature"}
 ]
 }

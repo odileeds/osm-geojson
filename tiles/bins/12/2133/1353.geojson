@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[7.556324,51.996705],"type":"Point"},"properties":{"osm_id":"271793938","tag":{"amenity":"recycling","mapillary":"CzcWUTXb7zvpnR2bZIiw7A","recycling:glass_bottles":"yes","recycling:small_appliances":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.553346,51.995488],"type":"Point"},"properties":{"osm_id":"293201597","tag":{"amenity":"recycling","mapillary":"ubLFI0FbVxQ6Mt3vNMrWWQ","recycling:glass_bottles":"yes","recycling_type":"container","survey:date":"2017-05-31"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.553346,51.995488],"type":"Point"},"properties":{"osm_id":"293201597","tag":{"amenity":"recycling","check_date:recycling":"2021-06-03","mapillary":"ubLFI0FbVxQ6Mt3vNMrWWQ","recycling:glass_bottles":"yes","recycling_type":"container","survey:date":"2017-05-31"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.53059,51.951352],"type":"Point"},"properties":{"osm_id":"418337765","tag":{"amenity":"recycling","location":"overground","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.526468,51.949356],"type":"Point"},"properties":{"osm_id":"710864205","tag":{"amenity":"recycling","mapillary":"2oYKvSEmjxkW0oTPv9gQ9Q","recycling:glass":"yes","recycling_type":"container","survey:date":"2016-10-10"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.535217,51.947147],"type":"Point"},"properties":{"name":"Recyclinghof Roxel","osm_id":"1903905705","tag":{"addr:city":"M\u00c3\u00bcnster","addr:housenumber":"66","addr:postcode":"48161","addr:street":"Nottulner Landweg","amenity":"recycling","opening_hours":"Mo,Th 12:00-19:00","recycling:batteries":"yes","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:scrap_metal":"yes","recycling_type":"centre","website":"https://awm.stadt-muenster.de/wohin-mit-dem-abfall/recyclinghoefe.html","wheelchair":"limited"}},"type":"Feature"},
@@ -19,6 +19,9 @@
 	{"geometry":{"coordinates":[7.526803,51.946024],"type":"Point"},"properties":{"osm_id":"7529728752","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.526471,51.946236],"type":"Point"},"properties":{"osm_id":"7529728753","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.5263,51.946335],"type":"Point"},"properties":{"osm_id":"7529728754","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.526224,51.946377],"type":"Point"},"properties":{"osm_id":"7529728755","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[7.526226,51.946369],"type":"Point"},"properties":{"osm_id":"7529728755","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.536563,51.95694],"type":"Point"},"properties":{"osm_id":"8701126800","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.538365,51.957283],"type":"Point"},"properties":{"osm_id":"8701346981","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.53805,51.957348],"type":"Point"},"properties":{"osm_id":"8701346985","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
 ]
 }

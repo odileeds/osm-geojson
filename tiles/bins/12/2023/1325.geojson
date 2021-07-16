@@ -1,9 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-2.193256,53.484539],"type":"Point"},"properties":{"osm_id":"307852144","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-2.193256,53.484539],"type":"Point"},"properties":{"osm_id":"307852144","tag":{"amenity":"recycling","recycling:clothes":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.189743,53.474607],"type":"Point"},"properties":{"osm_id":"309349351","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-2.157246,53.484725],"type":"Point"},"properties":{"name":"Droylsden Tip","osm_id":"2093675686","tag":{"addr:city":"Manchester","addr:housename":"Droylsden Recycling Centre","addr:postcode":"M43 6QU","addr:street":"Ash Road","amenity":"recycling","recycling_type":"centre","website":"https://recycleforgreatermanchester.com/recycle-centre/ash-road-recycling-centre/"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-2.157246,53.484725],"type":"Point"},"properties":{"name":"Ash Road Recycling Centre","osm_id":"2093675686","tag":{"addr:city":"Manchester","addr:housename":"Droylsden Recycling Centre","addr:postcode":"M43 6QU","addr:street":"Ash Road","amenity":"recycling","operator":"Suez","recycling_type":"centre","website":"https://recycleforgreatermanchester.com/recycle-centre/ash-road-recycling-centre/"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.19645,53.487714],"type":"Point"},"properties":{"osm_id":"3065253163","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.195334,53.487586],"type":"Point"},"properties":{"osm_id":"3065253164","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.194822,53.487106],"type":"Point"},"properties":{"osm_id":"3065253165","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -14,7 +14,8 @@
 	{"geometry":{"coordinates":[-2.112448,53.445699],"type":"Point"},"properties":{"osm_id":"3743418372","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.18513,53.448765],"type":"Point"},"properties":{"osm_id":"4682122816","tag":{"amenity":"recycling","recycling:shoes":"yes","recycling:textiles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.157409,53.443159],"type":"Point"},"properties":{"osm_id":"4721883366","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-2.191795,53.444681],"type":"Point"},"properties":{"osm_id":"6747146494","tag":{"amenity":"waste_basket","material":"metal"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-2.19178,53.444725],"type":"Point"},"properties":{"osm_id":"6747146495","tag":{"amenity":"waste_basket","material":"metal"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-2.191791,53.444687],"type":"Point"},"properties":{"osm_id":"6747146494","tag":{"amenity":"waste_basket","material":"metal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-2.19178,53.444725],"type":"Point"},"properties":{"osm_id":"6747146495","tag":{"amenity":"waste_basket","material":"metal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-2.147663,53.47275],"type":"Point"},"properties":{"osm_id":"8806255241","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

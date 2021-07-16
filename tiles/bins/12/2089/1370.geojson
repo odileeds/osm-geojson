@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[3.662006,51.016327],"type":"Point"},"properties":{"osm_id":"3752437285","tag":{"amenity":"recycling","recycling:clothes":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[3.686631,51.057824],"type":"Point"},"properties":{"osm_id":"4568991027","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.686631,51.057824],"type":"Point"},"properties":{"osm_id":"4568991027","tag":{"amenity":"waste_basket","colour":"oranje","operator":"ivago gent"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.666457,51.067174],"type":"Point"},"properties":{"osm_id":"4568991049","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.674206,51.054147],"type":"Point"},"properties":{"osm_id":"4568991058","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.686507,51.065704],"type":"Point"},"properties":{"osm_id":"4568991084","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -20,6 +20,9 @@
 	{"geometry":{"coordinates":[3.63793,51.032638],"type":"Point"},"properties":{"osm_id":"6573775002","tag":{"access":"yes","amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.677587,51.019003],"type":"Point"},"properties":{"osm_id":"6574712146","tag":{"amenity":"recycling","operator":"Vlaams Inzamelcentrum Textiel","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.685569,51.068362],"type":"Point"},"properties":{"osm_id":"6761510489","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[3.687077,51.065125],"type":"Point"},"properties":{"osm_id":"6761536985","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[3.687077,51.065125],"type":"Point"},"properties":{"osm_id":"6761536985","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.691351,51.025865],"type":"Point"},"properties":{"osm_id":"8283718230","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.691265,51.025754],"type":"Point"},"properties":{"osm_id":"8283718231","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.691308,51.02581],"type":"Point"},"properties":{"osm_id":"8283741543","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
 ]
 }

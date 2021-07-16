@@ -1,11 +1,14 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[10.532881,52.584588],"type":"Point"},"properties":{"osm_id":"414234642","tag":{"amenity":"recycling","location":"overground","recycling:glass":"yes","recycling:paper":"no","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.532881,52.584588],"type":"Point"},"properties":{"osm_id":"414234642","tag":{"amenity":"recycling","location":"overground","recycling:clothes":"yes","recycling:paper":"no","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.493945,52.537311],"type":"Point"},"properties":{"osm_id":"576661184","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.521142,52.568898],"type":"Point"},"properties":{"name":"Zentrale Entsorgungsanlage Wesendorf","osm_id":"1030101695","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.537505,52.585488],"type":"Point"},"properties":{"osm_id":"4155214788","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.537505,52.585488],"type":"Point"},"properties":{"osm_id":"4155214788","tag":{"amenity":"waste_basket","check_date":"2021-01-01"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.525045,52.586352],"type":"Point"},"properties":{"osm_id":"7369164598","tag":{"addr:street":"Miethenweg","amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.532579,52.574209],"type":"Point"},"properties":{"osm_id":"7684541305","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[10.532579,52.574209],"type":"Point"},"properties":{"osm_id":"7684541305","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.52562,52.563051],"type":"Point"},"properties":{"osm_id":"8463784618","tag":{"amenity":"waste_basket","covered":"no","indoor":"no","material":"plastic","waste":"mixed"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.540237,52.589257],"type":"Point"},"properties":{"osm_id":"8591944746","tag":{"amenity":"recycling","operator":"Deutsches Rotes Kreuz","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.540231,52.589312],"type":"Point"},"properties":{"osm_id":"8591944747","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

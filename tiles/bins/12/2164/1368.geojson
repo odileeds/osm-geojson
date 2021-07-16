@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[10.247284,51.162646],"type":"Point"},"properties":{"osm_id":"995953825","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.224559,51.137077],"type":"Point"},"properties":{"name":"Altkleider + Schuhe","osm_id":"5003213725","tag":{"amenity":"recycling","name:de":"Altkleider + Schuhe","name:en":"clothes + shoes"}},"type":"Feature"}
+	{"geometry":{"coordinates":[10.224559,51.137077],"type":"Point"},"properties":{"osm_id":"5003213725","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:shoes":"yes"}},"type":"Feature"}
 ]
 }

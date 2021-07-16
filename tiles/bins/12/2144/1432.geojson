@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[8.477807,47.510619],"type":"Point"},"properties":{"osm_id":"300985588","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.477807,47.510619],"type":"Point"},"properties":{"osm_id":"300985588","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.491678,47.479764],"type":"Point"},"properties":{"name":"Recyclinghof Niederhasli","osm_id":"310859635","tag":{"amenity":"recycling","opening_hours":"Tu-Fr 16:00-18:00; Sa 09:00-12:00","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.524689,47.477897],"type":"Point"},"properties":{"osm_id":"388474638","tag":{"amenity":"recycling","recycling:aluminium":"yes","recycling:batteries":"yes","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.520789,47.478595],"type":"Point"},"properties":{"osm_id":"388474640","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:cans":"yes","recycling:glass":"yes"}},"type":"Feature"},
@@ -52,7 +52,8 @@
 	{"geometry":{"coordinates":[8.450861,47.484882],"type":"Point"},"properties":{"osm_id":"7041504576","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.524652,47.474508],"type":"Point"},"properties":{"osm_id":"7088951410","tag":{"access":"private","amenity":"waste_disposal","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.52527,47.475201],"type":"Point"},"properties":{"osm_id":"7089048687","tag":{"access":"private","amenity":"waste_disposal","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.465901,47.483576],"type":"Point"},"properties":{"name":"Altkleider und Schuhe","osm_id":"7923992563","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.446268,47.489897],"type":"Point"},"properties":{"name":"Kleider und Schuhe","osm_id":"7948590954","tag":{"amenity":"recycling"}},"type":"Feature"}
+	{"geometry":{"coordinates":[8.46589,47.483594],"type":"Point"},"properties":{"osm_id":"7923992563","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.500191,47.495183],"type":"Point"},"properties":{"osm_id":"8302235538","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.518015,47.459313],"type":"Point"},"properties":{"name":"Hundekot T\u00c3\u00bcten Spender","osm_id":"8349845759","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"}
 ]
 }

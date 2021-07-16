@@ -4,12 +4,12 @@
 	{"geometry":{"coordinates":[12.669753,50.599306],"type":"Point"},"properties":{"osm_id":"446136710","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.72877,50.617347],"type":"Point"},"properties":{"osm_id":"508091021","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.697394,50.590876],"type":"Point"},"properties":{"osm_id":"535085100","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.681045,50.580368],"type":"Point"},"properties":{"osm_id":"557166825","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.681091,50.580368],"type":"Point"},"properties":{"osm_id":"557166825","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.664278,50.600295],"type":"Point"},"properties":{"osm_id":"606890458","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.66704,50.601],"type":"Point"},"properties":{"osm_id":"606909853","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.718646,50.590021],"type":"Point"},"properties":{"osm_id":"663785418","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.724182,50.614082],"type":"Point"},"properties":{"osm_id":"672240648","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:paper":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.689488,50.582317],"type":"Point"},"properties":{"osm_id":"719044979","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.68936,50.582319],"type":"Point"},"properties":{"osm_id":"719044979","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.70517,50.589795],"type":"Point"},"properties":{"osm_id":"736939792","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.704693,50.586625],"type":"Point"},"properties":{"osm_id":"882319787","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:paper":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.70527,50.592956],"type":"Point"},"properties":{"osm_id":"882343605","tag":{"amenity":"recycling"}},"type":"Feature"},
@@ -40,6 +40,10 @@
 	{"geometry":{"coordinates":[12.663862,50.594113],"type":"Point"},"properties":{"osm_id":"8165368390","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.677939,50.593641],"type":"Point"},"properties":{"osm_id":"8171550244","tag":{"amenity":"recycling","opening_hours":"24/7","operator":"DRK","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.67815,50.596865],"type":"Point"},"properties":{"osm_id":"8171568950","tag":{"amenity":"recycling","operator":"DRK","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.680101,50.596487],"type":"Point"},"properties":{"osm_id":"8171568951","tag":{"amenity":"recycling","location":"wall","recycling:glass_bottles":"yes","recycling:plastic_bottles":"yes","recycling_type":"deposit_machine"}},"type":"Feature"}
+	{"geometry":{"coordinates":[12.680101,50.596487],"type":"Point"},"properties":{"osm_id":"8171568951","tag":{"amenity":"recycling","location":"wall","recycling:glass_bottles":"yes","recycling:plastic_bottles":"yes","recycling_type":"deposit_machine"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.713478,50.59089],"type":"Point"},"properties":{"osm_id":"8703287076","tag":{"amenity":"waste_basket","colour":"orange","material":"plastic","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.656934,50.573117],"type":"Point"},"properties":{"osm_id":"8769429232","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.664993,50.585304],"type":"Point"},"properties":{"osm_id":"8810015401","tag":{"amenity":"recycling","opening_hours":"24/7","operator":"Arbeiter-Samariter-Bund KV Erzgebirge","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.667301,50.57225],"type":"Point"},"properties":{"osm_id":"8819133692","tag":{"amenity":"waste_basket","colour":"orange","waste":"trash"}},"type":"Feature"}
 ]
 }

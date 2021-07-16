@@ -1,7 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[34.609419,49.749861],"type":"Point"},"properties":{"osm_id":"2657752212","tag":{"natural":"tree","type":"broad_leaved"}},"type":"Feature"},
-	{"geometry":{"coordinates":[34.608667,49.750218],"type":"Point"},"properties":{"osm_id":"2657752216","tag":{"natural":"tree","type":"broad_leaved"}},"type":"Feature"}
+	{"geometry":{"coordinates":[34.609419,49.749861],"type":"Point"},"properties":{"osm_id":"2657752212","tag":{"leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[34.608667,49.750218],"type":"Point"},"properties":{"osm_id":"2657752216","tag":{"leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[34.573081,49.745909],"type":"Point"},"properties":{"osm_id":"8449610064","tag":{"denotation":"urban","genus":"oak","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[34.570679,49.745802],"type":"Point"},"properties":{"osm_id":"8449610065","tag":{"leaf_type":"broadleaved","natural":"tree","species":"oak"}},"type":"Feature"}
 ]
 }

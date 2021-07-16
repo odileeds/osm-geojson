@@ -1,11 +1,11 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[16.563279,48.357069],"type":"Point"},"properties":{"osm_id":"672798709","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.563279,48.357069],"type":"Point"},"properties":{"osm_id":"672798709","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.5458,48.362153],"type":"Point"},"properties":{"osm_id":"672798718","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[16.575669,48.354979],"type":"Point"},"properties":{"osm_id":"2617149898","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[16.573824,48.356879],"type":"Point"},"properties":{"osm_id":"2617149926","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[16.565606,48.35947],"type":"Point"},"properties":{"osm_id":"2617150651","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[16.580889,48.354098],"type":"Point"},"properties":{"name":"Bauhof","osm_id":"2617151760","tag":{"amenity":"recycling","recycling_centre":"yes"}},"type":"Feature"}
+	{"geometry":{"coordinates":[16.575669,48.354979],"type":"Point"},"properties":{"osm_id":"2617149898","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.573824,48.356879],"type":"Point"},"properties":{"osm_id":"2617149926","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.565606,48.35947],"type":"Point"},"properties":{"osm_id":"2617150651","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.580858,48.354123],"type":"Point"},"properties":{"name":"Bauhof","osm_id":"2617151760","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"}
 ]
 }

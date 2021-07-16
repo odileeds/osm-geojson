@@ -1,8 +1,11 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[3.794571,47.379578],"type":"Point"},"properties":{"name":"Pin Douglas","osm_id":"4126655686","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[3.794622,47.379601],"type":"Point"},"properties":{"name":"Ch\u00c3\u00aane","osm_id":"4126655702","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[3.794546,47.379568],"type":"Point"},"properties":{"osm_id":"4126661212","tag":{"natural":"tree"}},"type":"Feature"}
+	{"geometry":{"coordinates":[3.794571,47.379578],"type":"Point"},"properties":{"osm_id":"4126655686","tag":{"natural":"tree","species":"Pseudotsuga menziesii","taxon":"Pinaceae"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.794622,47.379601],"type":"Point"},"properties":{"osm_id":"4126655702","tag":{"genus":"Quercus","natural":"tree","taxon":"Fagaceae"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.794546,47.379568],"type":"Point"},"properties":{"osm_id":"4126661212","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.857702,47.393542],"type":"Point"},"properties":{"osm_id":"8329588937","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.857656,47.393631],"type":"Point"},"properties":{"osm_id":"8329588938","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.857916,47.393444],"type":"Point"},"properties":{"osm_id":"8329588939","tag":{"natural":"tree"}},"type":"Feature"}
 ]
 }

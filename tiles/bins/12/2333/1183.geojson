@@ -1,10 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[25.074274,60.240127],"type":"Point"},"properties":{"osm_id":"98675911","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.087632,60.243424],"type":"Point"},"properties":{"osm_id":"459144760","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.109097,60.279551],"type":"Point"},"properties":{"osm_id":"472311443","tag":{"amenity":"recycling","location":"underground","recycling:cartons":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"no","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[25.074295,60.239817],"type":"Point"},"properties":{"osm_id":"504925256","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[25.074295,60.239817],"type":"Point"},"properties":{"osm_id":"504925256","tag":{"amenity":"waste_basket","check_date":"2021-07-07"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.076398,60.262025],"type":"Point"},"properties":{"osm_id":"529089833","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:cardboard":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic_bags":"yes","recycling:scrap_metal":"no"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.058011,60.266575],"type":"Point"},"properties":{"osm_id":"533721513","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.105174,60.257364],"type":"Point"},"properties":{"osm_id":"561127821","tag":{"amenity":"recycling","recycling:clothes":"yes"}},"type":"Feature"},
@@ -19,11 +18,11 @@
 	{"geometry":{"coordinates":[25.049477,60.272702],"type":"Point"},"properties":{"osm_id":"1010884866","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.051767,60.271804],"type":"Point"},"properties":{"osm_id":"1010885029","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.077495,60.261695],"type":"Point"},"properties":{"osm_id":"1013447800","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[25.108579,60.241513],"type":"Point"},"properties":{"highway":"street_lamp","osm_id":"1743989730","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[25.108579,60.241513],"type":"Point"},"properties":{"highway":"street_lamp","osm_id":"1743989730","tag":{"amenity":"waste_basket","check_date":"2021-01-03"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.083761,60.26445],"type":"Point"},"properties":{"osm_id":"1764642151","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.116634,60.245815],"type":"Point"},"properties":{"osm_id":"1783874645","tag":{"amenity":"recycling","location":"underground","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"no","recycling:plastic_packaging":"yes","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.092792,60.242156],"type":"Point"},"properties":{"highway":"street_lamp","osm_id":"2451458136","tag":{"amenity":"waste_basket","traffic_sign":"FI:871[Ei talvikunnossapitoa]"}},"type":"Feature"},
-	{"geometry":{"coordinates":[25.108565,60.241479],"type":"Point"},"properties":{"osm_id":"2911978098","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[25.108565,60.241479],"type":"Point"},"properties":{"osm_id":"2911978098","tag":{"amenity":"waste_basket","check_date":"2021-01-03"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.097603,60.265619],"type":"Point"},"properties":{"osm_id":"2915054442","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.08081,60.255045],"type":"Point"},"properties":{"highway":"street_lamp","osm_id":"2922468457","tag":{"amenity":"waste_basket","traffic_sign":"FI:423"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.087968,60.260693],"type":"Point"},"properties":{"osm_id":"2964896929","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -143,6 +142,8 @@
 	{"geometry":{"coordinates":[25.080786,60.258126],"type":"Point"},"properties":{"osm_id":"7716364326","tag":{"access":"private","amenity":"recycling","location":"underground","recycling:cardboard":"yes","recycling:glass":"yes","recycling:metal":"yes","recycling:paper":"yes","recycling:plastic_packaging":"yes","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.097935,60.24052],"type":"Point"},"properties":{"osm_id":"7967311552","tag":{"amenity":"waste_basket","colour":"green","material":"metal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.111181,60.242543],"type":"Point"},"properties":{"osm_id":"8026327514","tag":{"amenity":"recycling","operator":"Auringonnousu","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[25.111232,60.242456],"type":"Point"},"properties":{"highway":"street_lamp","osm_id":"8026327515","tag":{"amenity":"waste_basket","material":"steel","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[25.111232,60.242456],"type":"Point"},"properties":{"highway":"street_lamp","osm_id":"8026327515","tag":{"amenity":"waste_basket","material":"steel","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[25.068782,60.258386],"type":"Point"},"properties":{"osm_id":"8586530771","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[25.057385,60.256462],"type":"Point"},"properties":{"name":"Hernesaaren Romu Oy","osm_id":"8887122687","tag":{"addr:housenumber":"21","addr:street":"J\u00c3\u00a4\u00c3\u00a4hdytintie","amenity":"recycling","description":"Romumetallin kierr\u00c3\u00a4tys","opening_hours":"Mo-Fr 08:00-16:00","website":"https://www.hernesaarenromu.fi/"}},"type":"Feature"}
 ]
 }

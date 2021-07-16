@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[25.502302,65.04417],"type":"Point"},"properties":{"osm_id":"291641201","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[25.494195,65.068125],"type":"Point"},"properties":{"osm_id":"442612492","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.496797,65.047339],"type":"Point"},"properties":{"osm_id":"1290399161","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.539116,65.056604],"type":"Point"},"properties":{"osm_id":"1365285955","tag":{"amenity":"recycling","recycling:cardboard":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.53876,65.057114],"type":"Point"},"properties":{"osm_id":"1365285960","tag":{"amenity":"recycling","recycling:fluorescent_tubes":"yes","recycling:low_energy_bulbs":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -15,10 +14,10 @@
 	{"geometry":{"coordinates":[25.538881,65.058128],"type":"Point"},"properties":{"name":"Ruskon j\u00c3\u00a4tekeskus","osm_id":"4437980117","tag":{"addr:housenumber":"10","addr:street":"Ruskonniityntie","amenity":"recycling","opening_hours":"Mo-Fr 07:00-20:00; Sa 08:30-15:00","website":"https://oulunjatehuolto.fi/oulun-jatehuolto/ruskon-jatekeskus/"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.575362,65.039005],"type":"Point"},"properties":{"name":"Ekopiste","osm_id":"4988842830","tag":{"amenity":"recycling","recycling:carton":"yes","recycling:glass":"yes","recycling:metal":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.566962,65.036924],"type":"Point"},"properties":{"osm_id":"4988842935","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[25.506178,65.062088],"type":"Point"},"properties":{"osm_id":"5523562293","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[25.554383,65.040166],"type":"Point"},"properties":{"name":"Ekopiste","osm_id":"5705001237","tag":{"amenity":"recycling","recycling:cartons":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[25.553856,65.040246],"type":"Point"},"properties":{"name":"Vaatteiden lahjoitus","osm_id":"5705001238","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[25.553415,65.039768],"type":"Point"},"properties":{"name":"Pullonpalautus","osm_id":"5705001247","tag":{"amenity":"recycling","name:en":"Bottle recycling","name:fi":"Pullonpalautus","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:plastic_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[25.506135,65.062034],"type":"Point"},"properties":{"osm_id":"5523562293","tag":{"amenity":"waste_basket","waste":"trash;dog_excrement"}},"type":"Feature"},
+	{"geometry":{"coordinates":[25.554761,65.040033],"type":"Point"},"properties":{"name":"Ekopiste","osm_id":"5705001237","tag":{"amenity":"recycling","recycling:cartons":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[25.554474,65.040075],"type":"Point"},"properties":{"name":"Vaatteiden lahjoitus","osm_id":"5705001238","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[25.553768,65.039514],"type":"Point"},"properties":{"name":"Pullonpalautus","osm_id":"5705001247","tag":{"amenity":"recycling","name:en":"Bottle recycling","name:fi":"Pullonpalautus","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:plastic_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.494007,65.063836],"type":"Point"},"properties":{"osm_id":"7575251902","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.499186,65.064366],"type":"Point"},"properties":{"osm_id":"7589990099","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.502041,65.04601],"type":"Point"},"properties":{"osm_id":"7757535001","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -29,6 +28,9 @@
 	{"geometry":{"coordinates":[25.539653,65.056649],"type":"Point"},"properties":{"osm_id":"7948188994","tag":{"amenity":"recycling","recycling:small_appliances":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.53972,65.056725],"type":"Point"},"properties":{"osm_id":"7948188995","tag":{"amenity":"recycling","recycling:tv_monitor":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.539434,65.056609],"type":"Point"},"properties":{"osm_id":"7948189002","tag":{"amenity":"recycling","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[25.538538,65.056651],"type":"Point"},"properties":{"osm_id":"7948189015","tag":{"amenity":"recycling","recycling:wood":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[25.538538,65.056651],"type":"Point"},"properties":{"osm_id":"7948189015","tag":{"amenity":"recycling","recycling:wood":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[25.49589,65.062655],"type":"Point"},"properties":{"osm_id":"8378326688","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[25.489189,65.067829],"type":"Point"},"properties":{"osm_id":"8400170155","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[25.495902,65.060075],"type":"Point"},"properties":{"osm_id":"8420385326","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

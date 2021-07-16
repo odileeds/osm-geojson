@@ -2,8 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[12.544771,52.578917],"type":"Point"},"properties":{"osm_id":"288344929","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.557668,52.561087],"type":"Point"},"properties":{"osm_id":"288344941","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.509511,52.557699],"type":"Point"},"properties":{"osm_id":"7824303720","tag":{"addr:city":"Nennhausen","addr:housenumber":"37","addr:street":"Brandenburger Landstra\u00c3\u009fe"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.557668,52.561087],"type":"Point"},"properties":{"osm_id":"288344941","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.513322,52.558201],"type":"Point"},"properties":{"osm_id":"8245979277","tag":{"amenity":"recycling","recycling:clothes":"hedge","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

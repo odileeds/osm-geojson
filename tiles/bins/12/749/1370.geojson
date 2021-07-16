@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[-114.098554,51.025691],"type":"Point"},"properties":{"osm_id":"266329524","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-114.091981,51.057664],"type":"Point"},"properties":{"osm_id":"885735777","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-114.162519,51.025429],"type":"Point"},"properties":{"osm_id":"2312053654","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-114.09551,51.065255],"type":"Point"},"properties":{"osm_id":"2705045703","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-114.156329,51.066673],"type":"Point"},"properties":{"osm_id":"4408493294","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -26,13 +25,15 @@
 	{"geometry":{"coordinates":[-114.127729,51.056846],"type":"Point"},"properties":{"osm_id":"5166710529","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-114.137122,51.056752],"type":"Point"},"properties":{"osm_id":"5231640761","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-114.139074,51.056767],"type":"Point"},"properties":{"osm_id":"5231650115","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-114.127044,51.014532],"type":"Point"},"properties":{"name":"Recycle-Logic Currie Barracks","osm_id":"5284580183","tag":{"amenity":"recycling","opening_hours":"10:00-16:00","operator":"Recycle-Logic Inc.","phone":"+1-888-678-2467","recycling:cds":"yes","recycling:electronics":"yes","recycling:mobile_phones":"yes","recycling:small_appliances":"yes","recycling:tv_monitor":"yes","recycling_type":"centre","website":"http://www.recycle-logic.com/"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-114.127044,51.014532],"type":"Point"},"properties":{"name":"Shanked Computer Recycling Currie Barracks","osm_id":"5284580183","tag":{"amenity":"recycling","opening_hours":"10:00-16:00","operator":"Shanked Computer Recycling Inc.","operator:type":"private","recycling:cds":"yes","recycling:electronics":"yes","recycling:mobile_phones":"yes","recycling:small_appliances":"yes","recycling:tv_monitor":"yes","recycling_type":"centre","website":"https://www.scri.ca/"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-114.135741,51.0482],"type":"Point"},"properties":{"osm_id":"6047393992","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:cardboard":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:newspaper":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-114.159963,51.020374],"type":"Point"},"properties":{"osm_id":"6075154166","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-114.093949,51.048837],"type":"Point"},"properties":{"osm_id":"6373424128","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-114.111317,51.048234],"type":"Point"},"properties":{"osm_id":"6373424132","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-114.125637,51.053908],"type":"Point"},"properties":{"osm_id":"6373424134","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-114.102401,51.040923],"type":"Point"},"properties":{"osm_id":"7256396789","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-114.094992,51.017142],"type":"Point"},"properties":{"osm_id":"7333646130","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-114.094992,51.017142],"type":"Point"},"properties":{"osm_id":"7333646130","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-114.111374,51.039321],"type":"Point"},"properties":{"osm_id":"8579966899","tag":{"amenity":"waste_basket","material":"metal","operator":"City of Calgary","waste":"trash;dog_excrement"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-114.096626,51.036689],"type":"Point"},"properties":{"osm_id":"8789880560","tag":{"amenity":"waste_basket","colour":"brown","material":"metal","operator":"City of Calgary","waste":"trash"}},"type":"Feature"}
 ]
 }

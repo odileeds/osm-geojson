@@ -3,13 +3,17 @@
 "features": [
 	{"geometry":{"coordinates":[-2.59425,47.604757],"type":"Point"},"properties":{"osm_id":"2640194447","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.630495,47.580036],"type":"Point"},"properties":{"osm_id":"2844275641","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-2.635444,47.630294],"type":"Point"},"properties":{"osm_id":"2952594364","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-2.635444,47.630294],"type":"Point"},"properties":{"osm_id":"2952594364","tag":{"amenity":"recycling","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.614272,47.610513],"type":"Point"},"properties":{"osm_id":"3544962336","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.614505,47.610803],"type":"Point"},"properties":{"osm_id":"3544962343","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.593215,47.604205],"type":"Point"},"properties":{"osm_id":"3838470855","tag":{"amenity":"recycling","operator":"SYSEM","recycling:cans":"yes","recycling:clothes":"no","recycling:glass":"no","recycling:glass_bottles":"no","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.601321,47.606338],"type":"Point"},"properties":{"osm_id":"3838470860","tag":{"amenity":"recycling","operator":"SYSEM","recycling:cans":"yes","recycling:clothes":"no","recycling:glass":"no","recycling:glass_bottles":"no","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.58548,47.605502],"type":"Point"},"properties":{"name":"Poubelles","osm_id":"4426768478","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.585578,47.606999],"type":"Point"},"properties":{"name":"Poubelles de la residence","osm_id":"4426768479","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-2.587347,47.607195],"type":"Point"},"properties":{"osm_id":"6674299680","tag":{"amenity":"recycling","operator":"Vannes Agglo","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-2.587347,47.607195],"type":"Point"},"properties":{"osm_id":"6674299680","tag":{"amenity":"recycling","operator":"Vannes Agglo","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-2.552548,47.590537],"type":"Point"},"properties":{"osm_id":"8350559531","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-2.635454,47.630278],"type":"Point"},"properties":{"osm_id":"8350559643","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-2.625251,47.59138],"type":"Point"},"properties":{"osm_id":"8761788944","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-2.625211,47.591417],"type":"Point"},"properties":{"osm_id":"8761788945","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

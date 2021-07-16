@@ -3,7 +3,7 @@
 "features": [
 	{"geometry":{"coordinates":[3.185089,45.73059],"type":"Point"},"properties":{"osm_id":"597610229","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.236008,45.727913],"type":"Point"},"properties":{"osm_id":"1594899368","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[3.169003,45.707003],"type":"Point"},"properties":{"osm_id":"2968992440","tag":{"amenity":"recycling","location":"overground","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.169003,45.707003],"type":"Point"},"properties":{"osm_id":"2968992440","tag":{"amenity":"recycling","location":"overground","recycling:cans":"yes","recycling:glass":"no","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.186777,45.726649],"type":"Point"},"properties":{"osm_id":"3281174866","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.169153,45.742257],"type":"Point"},"properties":{"osm_id":"3281174870","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.180635,45.733348],"type":"Point"},"properties":{"osm_id":"3330937181","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
@@ -27,6 +27,8 @@
 	{"geometry":{"coordinates":[3.216867,45.74346],"type":"Point"},"properties":{"osm_id":"6766272025","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.209241,45.739735],"type":"Point"},"properties":{"osm_id":"6766272127","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.209277,45.739822],"type":"Point"},"properties":{"osm_id":"6766272128","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[3.213827,45.739381],"type":"Point"},"properties":{"osm_id":"6766272164","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[3.213827,45.739381],"type":"Point"},"properties":{"osm_id":"6766272164","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.166142,45.706505],"type":"Point"},"properties":{"osm_id":"8534235980","tag":{"amenity":"recycling","opening_hours":"24/7","operator":"Syndicat du Bois de l\u00e2\u0080\u0099Aum\u00c3\u00b4ne","recycling:waste":"yes","recycling_type":"container","survey:date":"2021-03-18"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.166192,45.706523],"type":"Point"},"properties":{"osm_id":"8534235981","tag":{"amenity":"recycling","opening_hours":"24/7","operator":"Syndicat du Bois de l\u00e2\u0080\u0099Aum\u00c3\u00b4ne","recycling:beverage_cartons":"yes","recycling:cans":"yes","recycling:paper_packaging":"yes","recycling:plastic_packaging":"yes","recycling_type":"container","survey:date":"2021-03-18"}},"type":"Feature"}
 ]
 }

@@ -2,13 +2,13 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[124.59653,12.065622],"type":"Point"},"properties":{"osm_id":"2603630151","tag":{"leaf_type":"broadleaved","natural":"tree","power":"pole"}},"type":"Feature"},
-	{"geometry":{"coordinates":[124.619726,12.056051],"type":"Point"},"properties":{"name":"Dalatayo Tree","osm_id":"2615857243","tag":{"denotation":"landmark","natural":"tree","type":"conifer"}},"type":"Feature"},
-	{"geometry":{"coordinates":[124.592091,12.06801],"type":"Point"},"properties":{"osm_id":"2696988438","tag":{"natural":"tree","type":"conifer"}},"type":"Feature"},
-	{"geometry":{"coordinates":[124.593213,12.068448],"type":"Point"},"properties":{"name":"Nijaga Tree","osm_id":"2696988443","tag":{"denotation":"avenue","natural":"tree","type":"conifer"}},"type":"Feature"},
-	{"geometry":{"coordinates":[124.594301,12.066717],"type":"Point"},"properties":{"osm_id":"2696988469","tag":{"denotation":"urban","natural":"tree","type":"conifer"}},"type":"Feature"},
-	{"geometry":{"coordinates":[124.594244,12.06658],"type":"Point"},"properties":{"osm_id":"2696988470","tag":{"denotation":"urban","natural":"tree","type":"conifer"}},"type":"Feature"},
+	{"geometry":{"coordinates":[124.619726,12.056051],"type":"Point"},"properties":{"name":"Dalatayo Tree","osm_id":"2615857243","tag":{"denotation":"landmark","leaf_type":"needleleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[124.592091,12.06801],"type":"Point"},"properties":{"osm_id":"2696988438","tag":{"leaf_type":"needleleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[124.593213,12.068448],"type":"Point"},"properties":{"name":"Nijaga Tree","osm_id":"2696988443","tag":{"denotation":"avenue","leaf_type":"needleleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[124.594301,12.066717],"type":"Point"},"properties":{"osm_id":"2696988469","tag":{"denotation":"urban","leaf_type":"needleleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[124.594244,12.06658],"type":"Point"},"properties":{"osm_id":"2696988470","tag":{"denotation":"urban","leaf_type":"needleleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[124.594301,12.066661],"type":"Point"},"properties":{"osm_id":"2696988471","tag":{"natural":"tree","wood":"coniferous"}},"type":"Feature"},
-	{"geometry":{"coordinates":[124.593074,12.068185],"type":"Point"},"properties":{"name":"Nijaga Tree","osm_id":"2702036476","tag":{"natural":"tree","type":"conifer"}},"type":"Feature"},
+	{"geometry":{"coordinates":[124.593074,12.068185],"type":"Point"},"properties":{"name":"Nijaga Tree","osm_id":"2702036476","tag":{"leaf_type":"needleleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[124.593294,12.066796],"type":"Point"},"properties":{"osm_id":"3248274176","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[124.593531,12.066776],"type":"Point"},"properties":{"osm_id":"3248274177","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[124.593569,12.066869],"type":"Point"},"properties":{"osm_id":"3248274178","tag":{"natural":"tree"}},"type":"Feature"},
@@ -38,6 +38,9 @@
 	{"geometry":{"coordinates":[124.591408,12.068526],"type":"Point"},"properties":{"osm_id":"5134139152","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[124.614922,12.059394],"type":"Point"},"properties":{"osm_id":"7897166112","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[124.592852,12.068274],"type":"Point"},"properties":{"osm_id":"7897209890","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[124.592742,12.068492],"type":"Point"},"properties":{"osm_id":"7897209891","tag":{"denotation":"urban","description":"I think this is the Nijaga Trees","leaf_cycle":"evergreen","natural":"tree"}},"type":"Feature"}
+	{"geometry":{"coordinates":[124.592742,12.068492],"type":"Point"},"properties":{"osm_id":"7897209891","tag":{"denotation":"urban","description":"I think this is the Nijaga Trees","leaf_cycle":"evergreen","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[124.61068,12.06115],"type":"Point"},"properties":{"osm_id":"8712604640","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[124.610637,12.061174],"type":"Point"},"properties":{"osm_id":"8712604641","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[124.610582,12.061189],"type":"Point"},"properties":{"osm_id":"8712604642","tag":{"natural":"tree"}},"type":"Feature"}
 ]
 }

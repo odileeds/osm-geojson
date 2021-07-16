@@ -1,6 +1,12 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[11.577295,45.786531],"type":"Point"},"properties":{"osm_id":"989186930","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[11.577295,45.786531],"type":"Point"},"properties":{"osm_id":"989186930","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.578942,45.784203],"type":"Point"},"properties":{"osm_id":"8674266909","tag":{"access":"yes","amenity":"waste_disposal","operator":"ETRA","waste":"organic;solid_waste"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.578447,45.784405],"type":"Point"},"properties":{"osm_id":"8674266910","tag":{"access":"yes","amenity":"waste_disposal","operator":"ETRA","waste":"plastic"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.578476,45.784393],"type":"Point"},"properties":{"osm_id":"8674266911","tag":{"access":"yes","amenity":"waste_disposal","operator":"ETRA","waste":"plastic"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.578416,45.784419],"type":"Point"},"properties":{"osm_id":"8674266912","tag":{"access":"yes","amenity":"waste_disposal","operator":"ETRA","waste":"paper"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.578385,45.784422],"type":"Point"},"properties":{"osm_id":"8674266913","tag":{"access":"yes","amenity":"waste_disposal","operator":"ETRA","waste":"paper"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.578508,45.784381],"type":"Point"},"properties":{"osm_id":"8674266914","tag":{"access":"yes","amenity":"waste_disposal","operator":"ETRA","waste":"glass"}},"type":"Feature"}
 ]
 }

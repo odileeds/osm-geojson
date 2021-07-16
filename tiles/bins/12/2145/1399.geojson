@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[8.533732,49.427746],"type":"Point"},"properties":{"osm_id":"472637077","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.533732,49.427746],"type":"Point"},"properties":{"osm_id":"472637077","tag":{"amenity":"recycling","location":"overground","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.526437,49.431233],"type":"Point"},"properties":{"osm_id":"566455673","tag":{"amenity":"recycling","recycling:clothes":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.565329,49.397096],"type":"Point"},"properties":{"osm_id":"847656214","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.565286,49.397592],"type":"Point"},"properties":{"osm_id":"847659423","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -26,7 +26,7 @@
 	{"geometry":{"coordinates":[8.532104,49.42982],"type":"Point"},"properties":{"osm_id":"1033229798","tag":{"amenity":"recycling","recycling:clothes":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.528343,49.433432],"type":"Point"},"properties":{"osm_id":"1106199584","tag":{"amenity":"recycling","mapillary":"Ji3zln5Fwn6AE7JrAAk5dQ","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container","survey:date":"2018-08-08"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.530126,49.431878],"type":"Point"},"properties":{"osm_id":"1109587117","tag":{"amenity":"recycling","mapillary":"ToyVyK4baq9ndE-bEpm3qQ","recycling:glass":"yes","recycling_type":"container","survey:date":"2018-08-08"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.593082,49.417587],"type":"Point"},"properties":{"osm_id":"1782434362","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.593082,49.417587],"type":"Point"},"properties":{"osm_id":"1782434362","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.564931,49.391848],"type":"Point"},"properties":{"osm_id":"1877253798","tag":{"amenity":"recycling","mapillary":"A2aLc-GZoZYhcT1mxSDs1w","recycling:clothes":"yes","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container","survey:date":"2019-07-03"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.535544,49.424052],"type":"Point"},"properties":{"osm_id":"2141053296","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.535007,49.391072],"type":"Point"},"properties":{"osm_id":"2216928070","tag":{"amenity":"recycling","recycling:clothes":"yes"}},"type":"Feature"},
@@ -39,8 +39,8 @@
 	{"geometry":{"coordinates":[8.535186,49.423987],"type":"Point"},"properties":{"osm_id":"3306552562","tag":{"amenity":"waste_basket","operator":"DB Station&Service AG","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.534994,49.424141],"type":"Point"},"properties":{"osm_id":"3306552579","tag":{"amenity":"waste_basket","operator":"DB Station&Service AG","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.578636,49.383563],"type":"Point"},"properties":{"osm_id":"3308118394","tag":{"amenity":"waste_basket","operator":"DB Station&Service AG","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.578511,49.383985],"type":"Point"},"properties":{"osm_id":"3308118436","tag":{"amenity":"waste_basket","operator":"DB Station&Service AG","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.57846,49.38414],"type":"Point"},"properties":{"osm_id":"3308118441","tag":{"amenity":"waste_basket","operator":"DB Station&Service AG","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.578511,49.383985],"type":"Point"},"properties":{"osm_id":"3308118436","tag":{"amenity":"waste_basket","check_date":"2021-03-19","operator":"DB Station&Service AG","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.57846,49.38414],"type":"Point"},"properties":{"osm_id":"3308118441","tag":{"amenity":"waste_basket","check_date":"2021-03-19","operator":"DB Station&Service AG","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.563454,49.392948],"type":"Point"},"properties":{"osm_id":"5064202521","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.536125,49.424074],"type":"Point"},"properties":{"osm_id":"5660964354","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.534908,49.424328],"type":"Point"},"properties":{"osm_id":"5660964360","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -64,6 +64,7 @@
 	{"geometry":{"coordinates":[8.578321,49.383774],"type":"Point"},"properties":{"osm_id":"7620622312","tag":{"amenity":"waste_basket","indoor":"yes","layer":"-1","level":"-1","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.534718,49.424395],"type":"Point"},"properties":{"osm_id":"7620685863","tag":{"amenity":"waste_basket","layer":"-1","level":"-1","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.573807,49.431793],"type":"Point"},"properties":{"osm_id":"7628404926","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.546042,49.384238],"type":"Point"},"properties":{"osm_id":"7937862847","tag":{"amenity":"waste_basket","colour":"rotbraun","material":"metal"}},"type":"Feature"}
+	{"geometry":{"coordinates":[8.546042,49.384238],"type":"Point"},"properties":{"osm_id":"7937862847","tag":{"amenity":"waste_basket","colour":"red-brown","material":"metal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.610943,49.38243],"type":"Point"},"properties":{"osm_id":"8909820288","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

@@ -1,13 +1,11 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-72.806858,41.847534],"type":"Point"},"properties":{"name":"Pinchot Sycamore Tree","osm_id":"1578642460","tag":{"natural":"tree","wikidata":"Q7194941","wikipedia":"en:Pinchot Sycamore"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-72.841284,41.888878],"type":"Point"},"properties":{"name":"catalpa tree","osm_id":"5686309683","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-72.806858,41.847534],"type":"Point"},"properties":{"name":"Pinchot Sycamore Tree","osm_id":"1578642460","tag":{"leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","species":"Platanus occidentalis","species:en":"American sycamore","wikidata":"Q7194941","wikipedia":"en:Pinchot Sycamore"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-72.837375,41.880204],"type":"Point"},"properties":{"osm_id":"6512371433","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-72.837335,41.880147],"type":"Point"},"properties":{"osm_id":"6512371434","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-72.792796,41.844188],"type":"Point"},"properties":{"name":"apple tree","osm_id":"7472551000","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-72.792702,41.844335],"type":"Point"},"properties":{"name":"white pine","osm_id":"7472551001","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-72.792868,41.844071],"type":"Point"},"properties":{"name":"sycamore","osm_id":"7472551002","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-72.778562,41.87228],"type":"Point"},"properties":{"name":"big dead tree","osm_id":"7752789241","tag":{"natural":"tree"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-72.792796,41.844188],"type":"Point"},"properties":{"osm_id":"7472551000","tag":{"natural":"tree","species:en":"apple tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-72.792702,41.844335],"type":"Point"},"properties":{"osm_id":"7472551001","tag":{"natural":"tree","species:en":"white pine"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-72.792868,41.844071],"type":"Point"},"properties":{"osm_id":"7472551002","tag":{"natural":"tree","species:en":"sycamore"}},"type":"Feature"}
 ]
 }

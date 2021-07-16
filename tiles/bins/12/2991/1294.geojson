@@ -45,7 +45,7 @@
 	{"geometry":{"coordinates":[82.935174,55.062132],"type":"Point"},"properties":{"osm_id":"1767283451","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[82.934605,55.061585],"type":"Point"},"properties":{"osm_id":"1767283460","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[82.934278,55.06145],"type":"Point"},"properties":{"osm_id":"1767283463","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[82.935514,55.062569],"type":"Point"},"properties":{"osm_id":"1767283469","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[82.935514,55.062569],"type":"Point"},"properties":{"osm_id":"1767283469","tag":{"amenity":"waste_basket","check_date":"2021-06-02"}},"type":"Feature"},
 	{"geometry":{"coordinates":[82.933232,55.062436],"type":"Point"},"properties":{"osm_id":"1767283472","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[82.933173,55.062645],"type":"Point"},"properties":{"osm_id":"1767283478","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[82.933307,55.061499],"type":"Point"},"properties":{"osm_id":"1767283499","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -87,7 +87,7 @@
 	{"geometry":{"coordinates":[82.924882,55.056408],"type":"Point"},"properties":{"osm_id":"4802858325","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[82.902266,55.065027],"type":"Point"},"properties":{"osm_id":"5487776826","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[82.917973,55.060727],"type":"Point"},"properties":{"osm_id":"5781485604","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
-	{"geometry":{"coordinates":[82.917935,55.060715],"type":"Point"},"properties":{"osm_id":"5781485605","tag":{"amenity":"recycling","recycling:aluminium":"yes","recycling:glass":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[82.917935,55.060715],"type":"Point"},"properties":{"osm_id":"5781485605","tag":{"amenity":"recycling","recycling:aluminium":"yes","recycling:glass":"no","recycling:glass_bottles":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[82.920841,55.060167],"type":"Point"},"properties":{"osm_id":"5781509195","tag":{"amenity":"recycling","recycling:aluminium":"yes","recycling:glass":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[82.920803,55.060152],"type":"Point"},"properties":{"osm_id":"5781509196","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[82.942923,55.068512],"type":"Point"},"properties":{"osm_id":"5821968618","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
@@ -125,6 +125,7 @@
 	{"geometry":{"coordinates":[82.903438,55.039953],"type":"Point"},"properties":{"osm_id":"7551978106","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[82.903913,55.042328],"type":"Point"},"properties":{"osm_id":"7551978586","tag":{"amenity":"recycling","operator":"\u00d0\u00a2\u00d0\u00b0\u00d0\u00b9\u00d0\u00b3\u00d0\u00b5-\u00d0\u00a1\u00d0\u00b8\u00d0\u00b1\u00d0\u00b8\u00d1\u0080\u00d1\u008c","recycling:cans":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:plastic":"yes","recycling:plastic_packaging":"no","recycling_type":"container","website":"http://tiger-sibir.ru/"}},"type":"Feature"},
 	{"geometry":{"coordinates":[82.904268,55.041808],"type":"Point"},"properties":{"osm_id":"7835301861","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
-	{"geometry":{"coordinates":[82.90573,55.040354],"type":"Point"},"properties":{"osm_id":"7903879767","tag":{"amenity":"waste_disposal"}},"type":"Feature"}
+	{"geometry":{"coordinates":[82.90573,55.040354],"type":"Point"},"properties":{"osm_id":"7903879767","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[82.903074,55.044915],"type":"Point"},"properties":{"osm_id":"8326620987","tag":{"amenity":"waste_disposal"}},"type":"Feature"}
 ]
 }

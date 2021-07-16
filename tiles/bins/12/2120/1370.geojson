@@ -1,9 +1,12 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[6.402515,51.047314],"type":"Point"},"properties":{"osm_id":"7629671309","tag":{"amenity":"recycling","clothes":"yes","contact:website":"https://www.drk-heinsberg.de/","operator":"DRK Kreisverband Heinsberg","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.402515,51.047314],"type":"Point"},"properties":{"osm_id":"7629671309","tag":{"amenity":"recycling","contact:website":"https://www.drk-heinsberg.de/","operator":"DRK Kreisverband Heinsberg","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.337056,51.058661],"type":"Point"},"properties":{"osm_id":"7931849302","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.335035,51.058983],"type":"Point"},"properties":{"osm_id":"7945403453","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.331686,51.059394],"type":"Point"},"properties":{"osm_id":"7945403454","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[6.331686,51.059394],"type":"Point"},"properties":{"osm_id":"7945403454","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.333955,51.034437],"type":"Point"},"properties":{"osm_id":"8596109239","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.335173,51.034073],"type":"Point"},"properties":{"osm_id":"8596109240","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.335881,51.033517],"type":"Point"},"properties":{"osm_id":"8596109245","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

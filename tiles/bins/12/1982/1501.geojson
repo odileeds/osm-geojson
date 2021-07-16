@@ -15,7 +15,7 @@
 	{"geometry":{"coordinates":[-5.775568,43.24265],"type":"Point"},"properties":{"osm_id":"3247103249","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-5.786512,43.225209],"type":"Point"},"properties":{"osm_id":"3247109681","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-5.785648,43.220844],"type":"Point"},"properties":{"osm_id":"3247109682","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-5.778003,43.250332],"type":"Point"},"properties":{"osm_id":"3299389389","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-5.778003,43.250332],"type":"Point"},"properties":{"osm_id":"3299389389","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-5.778524,43.241571],"type":"Point"},"properties":{"osm_id":"3324253198","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-5.779384,43.253053],"type":"Point"},"properties":{"osm_id":"3968146667","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-5.779693,43.25137],"type":"Point"},"properties":{"osm_id":"3968146668","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
@@ -39,6 +39,8 @@
 	{"geometry":{"coordinates":[-5.779295,43.254805],"type":"Point"},"properties":{"osm_id":"4418005663","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-5.773164,43.250304],"type":"Point"},"properties":{"osm_id":"6112588304","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-5.773186,43.250271],"type":"Point"},"properties":{"osm_id":"7494798197","tag":{"access":"yes","amenity":"waste_disposal","operator":"Cogersa","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-5.773186,43.250237],"type":"Point"},"properties":{"osm_id":"7494798198","tag":{"access":"yes","amenity":"waste_disposal","operator":"Cogresa","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-5.773186,43.250237],"type":"Point"},"properties":{"osm_id":"7494798198","tag":{"access":"yes","amenity":"waste_disposal","operator":"Cogresa","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-5.773639,43.254259],"type":"Point"},"properties":{"osm_id":"8591364198","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-5.776228,43.256914],"type":"Point"},"properties":{"osm_id":"8591425356","tag":{"amenity":"recycling"}},"type":"Feature"}
 ]
 }

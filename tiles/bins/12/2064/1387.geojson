@@ -2,6 +2,8 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[1.433264,50.079878],"type":"Point"},"properties":{"osm_id":"2718806594","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[1.454796,50.109282],"type":"Point"},"properties":{"osm_id":"2927910742","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"}
+	{"geometry":{"coordinates":[1.454796,50.109282],"type":"Point"},"properties":{"osm_id":"2927910742","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[1.454263,50.107576],"type":"Point"},"properties":{"osm_id":"8776629690","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[1.471261,50.091003],"type":"Point"},"properties":{"osm_id":"8887121662","tag":{"amenity":"recycling","description":"Yellow, green and blue container","recycling_type":"container"}},"type":"Feature"}
 ]
 }

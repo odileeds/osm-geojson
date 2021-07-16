@@ -1,8 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[19.071207,47.885739],"type":"Point"},"properties":{"osm_id":"2425844889","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.071207,47.885739],"type":"Point"},"properties":{"osm_id":"2425844889","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.048029,47.90642],"type":"Point"},"properties":{"osm_id":"3456392375","tag":{"amenity":"recycling","source:date":"2012-03-01","url":"http://turistautak.hu/poi.php?id=120755"}},"type":"Feature"},
-	{"geometry":{"coordinates":[19.053948,47.901705],"type":"Point"},"properties":{"osm_id":"4912619597","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[19.053948,47.901705],"type":"Point"},"properties":{"osm_id":"4912619597","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.067694,47.922322],"type":"Point"},"properties":{"osm_id":"8757364927","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
 ]
 }

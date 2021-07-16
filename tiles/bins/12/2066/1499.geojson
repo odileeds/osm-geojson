@@ -3,9 +3,9 @@
 "features": [
 	{"geometry":{"coordinates":[1.64361,43.344246],"type":"Point"},"properties":{"osm_id":"1852023431","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.609256,43.34123],"type":"Point"},"properties":{"name":"D\u00c3\u00a9ch\u00c3\u00a8terie de Colaursud","osm_id":"2694481336","tag":{"amenity":"recycling","opening_hours":"Tu,We,Fr,Sa 08:30-12:30,14:00-18:00","operator":"Colaursud","recycling:batteries":"yes","recycling:books":"yes","recycling:cans":"yes","recycling:cardboard":"yes","recycling:cartons":"yes","recycling:clothes":"yes","recycling:electrical_appliances":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:green_waste":"yes","recycling:magazines":"yes","recycling:newspaper":"yes","recycling:paper":"yes","recycling:paper_packaging":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling:scrap_metal":"yes","recycling:small_appliances":"yes","recycling:wood":"yes","recycling_type":"centre"}},"type":"Feature"},
-	{"geometry":{"coordinates":[1.621693,43.354179],"type":"Point"},"properties":{"osm_id":"3982496731","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[1.620213,43.355349],"type":"Point"},"properties":{"osm_id":"3982496732","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[1.623872,43.358908],"type":"Point"},"properties":{"osm_id":"3995066783","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[1.621693,43.354179],"type":"Point"},"properties":{"osm_id":"3982496731","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[1.620213,43.355349],"type":"Point"},"properties":{"osm_id":"3982496732","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[1.623872,43.358908],"type":"Point"},"properties":{"osm_id":"3995066783","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.623438,43.357294],"type":"Point"},"properties":{"osm_id":"5335337292","tag":{"amenity":"waste_basket","source:date":"2017","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[1.625635,43.350584],"type":"Point"},"properties":{"osm_id":"5365655389","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"}
 ]

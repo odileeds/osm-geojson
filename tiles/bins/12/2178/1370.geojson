@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[11.51135,51.032535],"type":"Point"},"properties":{"osm_id":"1534498189","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.51135,51.032535],"type":"Point"},"properties":{"osm_id":"1534498189","tag":{"amenity":"recycling","operator":"Entsorgungsgesellschaft Landkreis Weimar mbH","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.510164,51.022403],"type":"Point"},"properties":{"osm_id":"4882158774","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.511105,51.022529],"type":"Point"},"properties":{"osm_id":"4882158814","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.511664,51.022535],"type":"Point"},"properties":{"osm_id":"4882158817","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -9,6 +9,7 @@
 	{"geometry":{"coordinates":[11.511455,51.022061],"type":"Point"},"properties":{"osm_id":"4882158837","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.510851,51.021669],"type":"Point"},"properties":{"osm_id":"4882158839","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.511783,51.028889],"type":"Point"},"properties":{"osm_id":"5387882780","tag":{"amenity":"waste_basket","waste":"mixe"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.510967,51.038327],"type":"Point"},"properties":{"osm_id":"6799380154","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[11.510967,51.038327],"type":"Point"},"properties":{"osm_id":"6799380154","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.507511,51.029223],"type":"Point"},"properties":{"osm_id":"8661209098","tag":{"amenity":"recycling","operator":"Entsorgungsgesellschaft Landkreis Weimar mbH","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

@@ -2,8 +2,8 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[-8.543136,40.926616],"type":"Point"},"properties":{"name":"Dep\u00c3\u00b3sito de Lixo Residual","osm_id":"2473030833","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-8.542881,40.928812],"type":"Point"},"properties":{"name":"Ecoponto","osm_id":"2473031359","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-8.544552,40.927436],"type":"Point"},"properties":{"osm_id":"2482995380","tag":{"addr:city":"Santa Maria da Feira","addr:street":"Avenida Vinte e Cinco de Abril","amenity":"recycling","operator":"Suma","recycling:cans":"yes","recycling:clothes":"no","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-8.542881,40.928812],"type":"Point"},"properties":{"name":"Ecoponto","osm_id":"2473031359","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-8.544552,40.927436],"type":"Point"},"properties":{"osm_id":"2482995380","tag":{"addr:city":"Santa Maria da Feira","addr:street":"Avenida Vinte e Cinco de Abril","amenity":"recycling","operator":"Suma","recycling:cans":"yes","recycling:clothes":"no","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-8.609579,40.950641],"type":"Point"},"properties":{"osm_id":"4054177810","tag":{"amenity":"recycling","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-8.564661,40.923804],"type":"Point"},"properties":{"osm_id":"4378201213","tag":{"amenity":"recycling","recycling:cardboard":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-8.611971,40.96126],"type":"Point"},"properties":{"osm_id":"4581132522","tag":{"amenity":"waste_disposal"}},"type":"Feature"},

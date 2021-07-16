@@ -1,6 +1,10 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[9.882904,48.137724],"type":"Point"},"properties":{"osm_id":"8231605395","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:green_waste":"yes","recycling_type":"centre"}},"type":"Feature"}
+	{"geometry":{"coordinates":[9.882904,48.137724],"type":"Point"},"properties":{"osm_id":"8231605395","tag":{"addr:city":"Maselheim","addr:housenumber":"26","addr:postcode":"88437","addr:street":"Kronenstra\u00c3\u009fe","amenity":"recycling","recycling:green_waste":"yes","recycling:wood_waste":"yes","recycling_type":"centre"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.881084,48.136443],"type":"Point"},"properties":{"osm_id":"8751221981","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.88112,48.136403],"type":"Point"},"properties":{"osm_id":"8751221982","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.862154,48.1599],"type":"Point"},"properties":{"osm_id":"8751223333","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.871194,48.146857],"type":"Point"},"properties":{"osm_id":"8751223334","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

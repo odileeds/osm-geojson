@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[8.257678,47.412921],"type":"Point"},"properties":{"osm_id":"388141420","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"yes","recycling:coffee_capsules":"yes","recycling:cooking_oil":"yes","recycling:engine_oil":"yes","recycling:glass":"yes","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.257678,47.412921],"type":"Point"},"properties":{"osm_id":"388141420","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"yes","recycling:coffee_capsules":"yes","recycling:cooking_oil":"yes","recycling:engine_oil":"yes","recycling:glass":"no","recycling:glass_bottles":"yes","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.181544,47.401694],"type":"Point"},"properties":{"osm_id":"750528631","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.194227,47.435788],"type":"Point"},"properties":{"name":"Gr\u00c3\u00bcnmulde Friedhof","osm_id":"1072915729","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.202209,47.434946],"type":"Point"},"properties":{"name":"Gemeinde Werkhof","osm_id":"1072919911","tag":{"amenity":"recycling"}},"type":"Feature"},
@@ -39,7 +39,7 @@
 	{"geometry":{"coordinates":[8.240159,47.443333],"type":"Point"},"properties":{"osm_id":"2104707623","tag":{"amenity":"waste_basket","designation":"RobyDog"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.240095,47.440318],"type":"Point"},"properties":{"osm_id":"2104707815","tag":{"amenity":"waste_basket","designation":"RobyDog"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.242031,47.455624],"type":"Point"},"properties":{"osm_id":"2122593145","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:green_waste":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.179921,47.414286],"type":"Point"},"properties":{"osm_id":"2267314346","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:green_waste":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.179921,47.414286],"type":"Point"},"properties":{"osm_id":"2267314346","tag":{"amenity":"recycling","opening_hours":"24/7","recycling:green_waste":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.179544,47.414331],"type":"Point"},"properties":{"osm_id":"2267314351","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.236143,47.428744],"type":"Point"},"properties":{"osm_id":"2308443618","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.236408,47.428943],"type":"Point"},"properties":{"osm_id":"2308443625","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -55,7 +55,7 @@
 	{"geometry":{"coordinates":[8.192725,47.410846],"type":"Point"},"properties":{"osm_id":"2616339588","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"yes","recycling:engine_oil":"yes","recycling:glass_bottles":"yes","recycling:hardcore":"yes","recycling:plastic_bottles":"yes","recycling:rubble":"yes","recycling:scrap_metal":"yes","recycling:waste_oil":"yes","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.217957,47.417964],"type":"Point"},"properties":{"osm_id":"2726708453","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.227914,47.410529],"type":"Point"},"properties":{"osm_id":"2902992595","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:cans":"yes","recycling:clothes":"yes","recycling:cooking_oil":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.179247,47.411816],"type":"Point"},"properties":{"osm_id":"2927626266","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:green_waste":"y","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.179247,47.411816],"type":"Point"},"properties":{"name":"Eichli","osm_id":"2927626266","tag":{"amenity":"recycling","opening_hours":"24/7","recycling:green_waste":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.181029,47.414702],"type":"Point"},"properties":{"osm_id":"2927717689","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.179714,47.401481],"type":"Point"},"properties":{"osm_id":"3000077279","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.177626,47.401283],"type":"Point"},"properties":{"osm_id":"3000333969","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -97,6 +97,11 @@
 	{"geometry":{"coordinates":[8.21141,47.446862],"type":"Point"},"properties":{"osm_id":"6296028086","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.223454,47.410439],"type":"Point"},"properties":{"name":"Labdoo Annahmestelle f\u00c3\u00bcr Laptops","osm_id":"6543252113","tag":{"addr:city":"M\u00c3\u00a4genwil","addr:housenumber":"3","addr:postcode":"5506","addr:street":"Hinterm\u00c3\u00a4ttlistrasse","amenity":"recycling","brand":"Labdoo","charity":"yes","description":"Bei BRACK.CH k\u00c3\u00b6nnen Montag bis Freitag von 8:30 bis 18:30 Uhr Laptops am Abholschalter unter dem Hinweis auf Labdoo deponiert werden.","location":"indoor","operator":"BRACK.CH","recycling:computers":"yes","recycling:mobile_phones":"yes","service_times":"Mo-Fr 08:30-18:30","website":"https://www.labdoo.org/de/hub?h=16409"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.184211,47.402967],"type":"Point"},"properties":{"osm_id":"7276474471","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.218422,47.422836],"type":"Point"},"properties":{"name":"M-Z Entsorgungs-Management AG","osm_id":"8206877683","tag":{"addr:housenumber":"55","addr:street":"Hauptstrasse","amenity":"recycling","description":"Recyclinghof","phone":"+41564835000","website":"www.m-z.ch"}},"type":"Feature"}
+	{"geometry":{"coordinates":[8.218422,47.422836],"type":"Point"},"properties":{"name":"M-Z Entsorgungs-Management AG","osm_id":"8206877683","tag":{"addr:housenumber":"55","addr:street":"Hauptstrasse","amenity":"recycling","description":"Recyclinghof","phone":"+41564835000","website":"www.m-z.ch"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.259572,47.413628],"type":"Point"},"properties":{"osm_id":"8335726975","tag":{"amenity":"recycling","opening_hours":"Mo-Fr 07:00-12:00,13:00-19:00; Sa 09:00-19:00; PH closed","operator":"Gemeinde","recycling_type":"centre"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.175837,47.42243],"type":"Point"},"properties":{"osm_id":"8544875593","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.177485,47.423474],"type":"Point"},"properties":{"osm_id":"8544887720","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.179999,47.414656],"type":"Point"},"properties":{"name":"Chilerain","osm_id":"8640871990","tag":{"amenity":"recycling","opening_hours":"24/7","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:shoes":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.229417,47.411425],"type":"Point"},"properties":{"osm_id":"8892399342","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"}
 ]
 }

@@ -1,9 +1,8 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-0.18222,50.83728],"type":"Point"},"properties":{"osm_id":"25891484","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.189424,50.840874],"type":"Point"},"properties":{"osm_id":"25892499","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.180359,50.824854],"type":"Point"},"properties":{"osm_id":"87290713","tag":{"amenity":"recycling","location":"overground","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.180363,50.824863],"type":"Point"},"properties":{"osm_id":"87290713","tag":{"amenity":"recycling","location":"overground","recycling:glass_bottles":"yes","recycling:jars":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.248684,50.842941],"type":"Point"},"properties":{"osm_id":"1338001344","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.25966,50.832808],"type":"Point"},"properties":{"osm_id":"1338043882","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.207453,50.833194],"type":"Point"},"properties":{"osm_id":"2440354075","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -21,10 +20,8 @@
 	{"geometry":{"coordinates":[-0.211962,50.83659],"type":"Point"},"properties":{"osm_id":"2457913322","tag":{"amenity":"recycling","recycling:books":"yes","recycling:cans":"yes","recycling:cardboard":"yes","recycling:cartons":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:magazines":"yes","recycling:newspaper":"yes","recycling:paper":"yes","recycling:paper_packaging":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling:small_appliances":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.208284,50.830605],"type":"Point"},"properties":{"osm_id":"2464501007","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.237003,50.829781],"type":"Point"},"properties":{"osm_id":"2474201072","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.21985,50.835493],"type":"Point"},"properties":{"osm_id":"2474276955","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.189696,50.84363],"type":"Point"},"properties":{"osm_id":"2474339220","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.178529,50.839059],"type":"Point"},"properties":{"osm_id":"2496263455","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.177397,50.834735],"type":"Point"},"properties":{"name":"Glass, plastic, paper and card","osm_id":"2901847062","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.178501,50.839039],"type":"Point"},"properties":{"osm_id":"2496263455","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.181025,50.846335],"type":"Point"},"properties":{"osm_id":"5045030996","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.233673,50.840426],"type":"Point"},"properties":{"osm_id":"7841098700","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.232632,50.840324],"type":"Point"},"properties":{"osm_id":"7841098701","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -47,6 +44,18 @@
 	{"geometry":{"coordinates":[-0.222037,50.832914],"type":"Point"},"properties":{"osm_id":"7982259852","tag":{"amenity":"waste_basket","ashtray":"no","colour":"black","covered":"yes","operator":"Adur & Worthing Waste Services"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.221184,50.832979],"type":"Point"},"properties":{"osm_id":"7982269365","tag":{"amenity":"waste_basket","ashtray":"no","colour":"black","covered":"yes","material":"plastic","operator":"Adur & Worthing Waste Services"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.221621,50.831751],"type":"Point"},"properties":{"osm_id":"7982339123","tag":{"amenity":"waste_basket","ashtray":"no","colour":"black","material":"plastic","operator":"Adur & Worthing Council Services"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.26098,50.827709],"type":"Point"},"properties":{"osm_id":"8174285596","tag":{"amenity":"waste_basket","ashtray":"no","colour":"black","covered":"yes","operator":"Adur & Worthing Waste Services"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-0.26098,50.827709],"type":"Point"},"properties":{"osm_id":"8174285596","tag":{"amenity":"waste_basket","ashtray":"no","colour":"black","covered":"yes","operator":"Adur & Worthing Waste Services"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.180386,50.824898],"type":"Point"},"properties":{"osm_id":"8290252810","tag":{"amenity":"recycling","operator":"Brighton & Hove City Council","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.180411,50.824901],"type":"Point"},"properties":{"osm_id":"8290252811","tag":{"amenity":"recycling","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.180302,50.824843],"type":"Point"},"properties":{"osm_id":"8290252812","tag":{"amenity":"recycling","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.180285,50.824841],"type":"Point"},"properties":{"osm_id":"8290252813","tag":{"amenity":"recycling","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.180268,50.824838],"type":"Point"},"properties":{"osm_id":"8290252814","tag":{"amenity":"recycling","recycling:cans":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.18025,50.824836],"type":"Point"},"properties":{"osm_id":"8290252815","tag":{"amenity":"recycling","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.180235,50.824835],"type":"Point"},"properties":{"osm_id":"8290252816","tag":{"amenity":"recycling","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.180217,50.824832],"type":"Point"},"properties":{"osm_id":"8290313317","tag":{"amenity":"recycling","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.180199,50.82483],"type":"Point"},"properties":{"osm_id":"8290313318","tag":{"amenity":"recycling","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.180357,50.824877],"type":"Point"},"properties":{"osm_id":"8290313319","tag":{"amenity":"recycling","location":"overground","recycling:glass_bottles":"yes","recycling:jars":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.177446,50.825536],"type":"Point"},"properties":{"osm_id":"8694941221","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.18574,50.845327],"type":"Point"},"properties":{"osm_id":"8870680344","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

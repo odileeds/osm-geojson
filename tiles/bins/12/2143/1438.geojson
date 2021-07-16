@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[8.380291,47.104899],"type":"Point"},"properties":{"osm_id":"314764761","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.380291,47.104899],"type":"Point"},"properties":{"osm_id":"314764761","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.432905,47.141946],"type":"Point"},"properties":{"name":"\u00c3\u0096kihof Rotkreuz","osm_id":"453166316","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.390673,47.114677],"type":"Point"},"properties":{"osm_id":"1468324716","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.39225,47.14766],"type":"Point"},"properties":{"osm_id":"1468324729","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -21,6 +21,17 @@
 	{"geometry":{"coordinates":[8.42288,47.141022],"type":"Point"},"properties":{"osm_id":"7601069821","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.424613,47.141283],"type":"Point"},"properties":{"osm_id":"7601069831","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.417483,47.141337],"type":"Point"},"properties":{"osm_id":"7601080788","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.414195,47.142045],"type":"Point"},"properties":{"osm_id":"7601080912","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[8.414195,47.142045],"type":"Point"},"properties":{"osm_id":"7601080912","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.430864,47.138935],"type":"Point"},"properties":{"osm_id":"8361371901","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.430075,47.138789],"type":"Point"},"properties":{"osm_id":"8361371902","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.429652,47.138822],"type":"Point"},"properties":{"osm_id":"8361371903","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.428336,47.138412],"type":"Point"},"properties":{"osm_id":"8361387812","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.430222,47.140441],"type":"Point"},"properties":{"osm_id":"8361458135","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.428555,47.140627],"type":"Point"},"properties":{"osm_id":"8361458138","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.412777,47.153029],"type":"Point"},"properties":{"osm_id":"8595386240","tag":{"amenity":"waste_basket","waste":"cigarettes;trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.427858,47.150573],"type":"Point"},"properties":{"osm_id":"8595603604","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.417031,47.114481],"type":"Point"},"properties":{"osm_id":"8869744713","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.417073,47.11548],"type":"Point"},"properties":{"osm_id":"8869760267","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.417209,47.114618],"type":"Point"},"properties":{"osm_id":"8869774587","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
 ]
 }

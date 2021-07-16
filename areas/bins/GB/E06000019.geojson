@@ -4,14 +4,12 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "osm_id": "30808789", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -3.1233125, 52.0793651 ] } },
-{ "type": "Feature", "properties": { "osm_id": "428631536", "other_tags": "\"amenity\"=>\"recycling\",\"recycling:cans\"=>\"yes\",\"recycling:glass\"=>\"yes\",\"recycling:paper\"=>\"yes\",\"recycling:clothes\"=>\"yes\",\"recycling:batteries\"=>\"yes\",\"recycling:scrap_metal\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -2.6766948, 52.0399664 ] } },
 { "type": "Feature", "properties": { "osm_id": "772135705", "name": "Co-operative Supermarket car-park Recycling point", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -2.7442154, 52.0744195 ] } },
 { "type": "Feature", "properties": { "osm_id": "1308708739", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -2.5091872, 52.1906123 ] } },
 { "type": "Feature", "properties": { "osm_id": "1735875672", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.5703006, 51.9281979 ] } },
 { "type": "Feature", "properties": { "osm_id": "1735875691", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.5700645, 51.9282721 ] } },
-{ "type": "Feature", "properties": { "osm_id": "2174022868", "other_tags": "\"amenity\"=>\"recycling\",\"recycling_type\"=>\"container\",\"recycling:glass\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -2.6480191, 51.8493612 ] } },
-{ "type": "Feature", "properties": { "osm_id": "3301661836", "name": "Ross-on-wye household recycling", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -2.5771327, 51.9162371 ] } },
-{ "type": "Feature", "properties": { "osm_id": "5315467031", "other_tags": "\"waste\"=>\"dog_excrement\",\"amenity\"=>\"waste_basket\",\"source:geometry\"=>\"estimated\"" }, "geometry": { "type": "Point", "coordinates": [ -2.8529084, 52.2264736 ] } },
+{ "type": "Feature", "properties": { "osm_id": "2174022868", "other_tags": "\"amenity\"=>\"recycling\",\"recycling:glass\"=>\"yes\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -2.6480191, 51.8493612 ] } },
+{ "type": "Feature", "properties": { "osm_id": "5315467031", "other_tags": "\"amenity\"=>\"waste_basket\",\"source:geometry\"=>\"estimated\",\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ -2.8529084, 52.2264736 ] } },
 { "type": "Feature", "properties": { "osm_id": "6685539748", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.5887305, 51.9137102 ] } },
 { "type": "Feature", "properties": { "osm_id": "6685599000", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.5890214, 51.9135957 ] } },
 { "type": "Feature", "properties": { "osm_id": "6685606953", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.5894736, 51.9133991 ] } },
@@ -25,6 +23,8 @@
 { "type": "Feature", "properties": { "osm_id": "8042081031", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -2.964629, 52.1331743 ] } },
 { "type": "Feature", "properties": { "osm_id": "8170559361", "other_tags": "\"amenity\"=>\"recycling\",\"opening_hours\"=>\"24\/7\",\"operator\"=>\"The Salvation Army\",\"recycling:clothes\"=>\"yes\",\"recycling:shoes\"=>\"yes\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -2.4255492, 52.0350321 ] } },
 { "type": "Feature", "properties": { "osm_id": "8170559362", "other_tags": "\"amenity\"=>\"recycling\",\"opening_hours\"=>\"24\/7\",\"recycling:glass_bottles\"=>\"yes\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -2.4255278, 52.0350454 ] } },
-{ "type": "Feature", "properties": { "osm_id": "8170559363", "other_tags": "\"amenity\"=>\"recycling\",\"opening_hours\"=>\"24\/7\",\"recycling:clothes\"=>\"yes\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -2.4251871, 52.0369327 ] } }
+{ "type": "Feature", "properties": { "osm_id": "8170559363", "other_tags": "\"amenity\"=>\"recycling\",\"opening_hours\"=>\"24\/7\",\"recycling:clothes\"=>\"yes\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -2.4251871, 52.0369327 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8658666142", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -3.0265344, 52.204521 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8923576548", "barrier": "gate", "other_tags": "\"access\"=>\"permissive\"" }, "geometry": { "type": "Point", "coordinates": [ -2.5769305, 51.9160579 ] } }
 ]
 }

@@ -1,10 +1,10 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[5.467636,50.778963],"type":"Point"},"properties":{"osm_id":"306170304","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.467636,50.778963],"type":"Point"},"properties":{"osm_id":"306170304","tag":{"denotation":"natural_monument","heritage":"4","heritage:operator":"OnroerendErfgoed","image":"https://i.imgur.com/KXANHSV.jpg","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","noname":"yes","ref:OnroerendErfgoed":"4972"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.482976,50.790134],"type":"Point"},"properties":{"osm_id":"2459244088","tag":{"leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.482909,50.790198],"type":"Point"},"properties":{"osm_id":"2459244091","tag":{"leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.482273,50.789567],"type":"Point"},"properties":{"osm_id":"2459244095","tag":{"genus":"Betula","leaf_type":"broadleaved","natural":"tree","species:en":"birch","species:fr":"bouleau","species:nl":"berk"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.482273,50.789567],"type":"Point"},"properties":{"osm_id":"2459244095","tag":{"genus":"Betula","genus:en":"Birch","genus:fr":"Bouleau","genus:nl":"Berk","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.483051,50.79005],"type":"Point"},"properties":{"osm_id":"2459244097","tag":{"leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.480998,50.789054],"type":"Point"},"properties":{"osm_id":"2459289466","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.480921,50.789113],"type":"Point"},"properties":{"osm_id":"2459289488","tag":{"natural":"tree"}},"type":"Feature"},
@@ -20,6 +20,12 @@
 	{"geometry":{"coordinates":[5.465398,50.780538],"type":"Point"},"properties":{"osm_id":"8145351347","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.456212,50.783841],"type":"Point"},"properties":{"osm_id":"8145766154","tag":{"leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.456453,50.783738],"type":"Point"},"properties":{"osm_id":"8145766166","tag":{"leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.456611,50.783702],"type":"Point"},"properties":{"osm_id":"8145766167","tag":{"leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"}
+	{"geometry":{"coordinates":[5.456611,50.783702],"type":"Point"},"properties":{"osm_id":"8145766167","tag":{"leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.452285,50.775524],"type":"Point"},"properties":{"osm_id":"8773677562","tag":{"denotation":"park","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.452432,50.775322],"type":"Point"},"properties":{"osm_id":"8773685913","tag":{"denotation":"urban","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.453232,50.775203],"type":"Point"},"properties":{"osm_id":"8773812868","tag":{"denotation":"park","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.452726,50.775172],"type":"Point"},"properties":{"osm_id":"8773816019","tag":{"denotation":"urban","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.45266,50.775328],"type":"Point"},"properties":{"osm_id":"8773817431","tag":{"denotation":"park","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.451563,50.776047],"type":"Point"},"properties":{"osm_id":"8773817498","tag":{"denotation":"park","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"}
 ]
 }

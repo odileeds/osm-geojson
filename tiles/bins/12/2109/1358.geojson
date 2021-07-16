@@ -10,7 +10,7 @@
 	{"geometry":{"coordinates":[5.367226,51.717015],"type":"Point"},"properties":{"osm_id":"3213773862","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.365152,51.717301],"type":"Point"},"properties":{"osm_id":"3213773866","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.365349,51.717706],"type":"Point"},"properties":{"osm_id":"3213773867","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.363819,51.718205],"type":"Point"},"properties":{"osm_id":"3213773868","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.363819,51.718205],"type":"Point"},"properties":{"osm_id":"3213773868","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:plastic":"no","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.364681,51.718247],"type":"Point"},"properties":{"osm_id":"3213773869","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.363562,51.719107],"type":"Point"},"properties":{"osm_id":"3213773870","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.365224,51.720583],"type":"Point"},"properties":{"osm_id":"3213773871","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
@@ -26,8 +26,22 @@
 	{"geometry":{"coordinates":[5.418699,51.704927],"type":"Point"},"properties":{"osm_id":"3792881069","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.417908,51.705702],"type":"Point"},"properties":{"osm_id":"3792881071","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.400845,51.706312],"type":"Point"},"properties":{"osm_id":"3792881073","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.362399,51.717862],"type":"Point"},"properties":{"osm_id":"4200726925","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.362399,51.717862],"type":"Point"},"properties":{"osm_id":"4200726925","tag":{"amenity":"waste_basket","check_date":"2021-02-07"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.385822,51.701346],"type":"Point"},"properties":{"osm_id":"4523489738","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.362639,51.683942],"type":"Point"},"properties":{"osm_id":"6090938451","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[5.362639,51.683942],"type":"Point"},"properties":{"osm_id":"6090938451","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.363936,51.717074],"type":"Point"},"properties":{"osm_id":"8703097216","tag":{"amenity":"recycling","operator":"Afvalstoffendienst 's-Hertogenbosch","recycling:clothes":"yes","recycling:textiles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.363639,51.715704],"type":"Point"},"properties":{"osm_id":"8703098245","tag":{"amenity":"waste_basket","colour":"navy","material":"steel","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.363312,51.718266],"type":"Point"},"properties":{"osm_id":"8703132878","tag":{"amenity":"waste_basket","colour":"navy","material":"steel","operator":"Gemeente 's-Hertogenbosch","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.362612,51.71588],"type":"Point"},"properties":{"osm_id":"8703146223","tag":{"amenity":"waste_basket","colour":"navy","material":"metal","operator":"Gemeente 's-Hertogenbosch","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.363864,51.717217],"type":"Point"},"properties":{"osm_id":"8703146516","tag":{"amenity":"waste_disposal","operator":"Afvalstoffendienst 's-Hertogenbosch","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.363832,51.71736],"type":"Point"},"properties":{"osm_id":"8706587628","tag":{"amenity":"waste_basket","material":"steel","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.366411,51.722819],"type":"Point"},"properties":{"osm_id":"8706615090","tag":{"amenity":"waste_basket","colour":"navy","material":"steel","operator":"Gemeente 's-Hertogenbosch","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.367993,51.722913],"type":"Point"},"properties":{"osm_id":"8706699268","tag":{"amenity":"waste_basket","colour":"yellow","material":"steel","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.368328,51.723078],"type":"Point"},"properties":{"osm_id":"8706699270","tag":{"amenity":"waste_basket","colour":"navy","material":"steel","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.371575,51.721749],"type":"Point"},"properties":{"osm_id":"8706887290","tag":{"amenity":"waste_basket","colour":"navy","material":"steel","operator":"Gemeente 's-Hertogenbosch","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.370167,51.721163],"type":"Point"},"properties":{"osm_id":"8706894696","tag":{"amenity":"waste_basket","colour":"navy","material":"steel","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.371134,51.722851],"type":"Point"},"properties":{"osm_id":"8706951488","tag":{"amenity":"waste_basket","colour":"navy","material":"steel","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.370408,51.723787],"type":"Point"},"properties":{"osm_id":"8706979097","tag":{"amenity":"waste_basket","colour":"yellow","material":"steel","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.370747,51.724169],"type":"Point"},"properties":{"osm_id":"8707019427","tag":{"amenity":"waste_basket","colour":"navy","material":"steel","waste":"trash"}},"type":"Feature"}
 ]
 }

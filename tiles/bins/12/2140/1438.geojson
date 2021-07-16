@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[8.164035,47.152736],"type":"Point"},"properties":{"osm_id":"1434634092","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.164035,47.152736],"type":"Point"},"properties":{"osm_id":"1434634092","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:cans":"yes","recycling:clothes":"yes","recycling:cooking_oil":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.115085,47.15758],"type":"Point"},"properties":{"osm_id":"1880981056","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.098876,47.100488],"type":"Point"},"properties":{"name":"Robidog","osm_id":"2322059759","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.094115,47.11637],"type":"Point"},"properties":{"osm_id":"2476537168","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
@@ -11,6 +11,7 @@
 	{"geometry":{"coordinates":[8.129954,47.139733],"type":"Point"},"properties":{"osm_id":"2630205987","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.145742,47.113015],"type":"Point"},"properties":{"osm_id":"3190264903","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.129508,47.138871],"type":"Point"},"properties":{"osm_id":"3505938872","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.170102,47.151999],"type":"Point"},"properties":{"osm_id":"4715617006","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[8.170102,47.151999],"type":"Point"},"properties":{"osm_id":"4715617006","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.088208,47.107322],"type":"Point"},"properties":{"osm_id":"8402879530","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

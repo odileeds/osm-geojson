@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[20.34555,47.795283],"type":"Point"},"properties":{"osm_id":"3446589110","tag":{"addr:street":"Sz\u00c3\u00a9chenyi \u00c3\u00bat \u00c3\u00a9s G\u00c3\u00a1rdonyi \u00c3\u00bat keresztez\u00c5\u0091d\u00c3\u00a9se","amenity":"recycling","source:date":"2011-04-18","url":"http://turistautak.hu/poi.php?id=73257"}},"type":"Feature"},
-	{"geometry":{"coordinates":[20.345461,47.798179],"type":"Point"},"properties":{"osm_id":"3446589111","tag":{"addr:street":"J\u00c3\u00b3kai \u00c3\u00a9s Demj\u00c3\u00a9ni \u00c3\u00bat keresztez\u00c5\u0091d\u00c3\u00a9se","amenity":"recycling","source:date":"2011-04-18","url":"http://turistautak.hu/poi.php?id=73256"}},"type":"Feature"}
+	{"geometry":{"coordinates":[20.34555,47.795283],"type":"Point"},"properties":{"osm_id":"3446589110","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container","source:date":"2011-04-18","url":"http://turistautak.hu/poi.php?id=73257"}},"type":"Feature"},
+	{"geometry":{"coordinates":[20.345461,47.798179],"type":"Point"},"properties":{"osm_id":"3446589111","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container","source:date":"2011-04-18","url":"http://turistautak.hu/poi.php?id=73256"}},"type":"Feature"}
 ]
 }

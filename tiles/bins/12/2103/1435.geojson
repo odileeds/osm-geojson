@@ -2,6 +2,9 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[4.910069,47.3189],"type":"Point"},"properties":{"osm_id":"5007760921","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.916271,47.322918],"type":"Point"},"properties":{"osm_id":"5181516701","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[4.916271,47.322918],"type":"Point"},"properties":{"osm_id":"5181516701","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.911396,47.319721],"type":"Point"},"properties":{"osm_id":"8889623226","tag":{"amenity":"recycling","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.857711,47.308326],"type":"Point"},"properties":{"osm_id":"8892067482","tag":{"amenity":"recycling","operator":"Le Relais","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.857743,47.308274],"type":"Point"},"properties":{"osm_id":"8892067483","tag":{"amenity":"recycling","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

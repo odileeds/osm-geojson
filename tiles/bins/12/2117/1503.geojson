@@ -17,8 +17,8 @@
 	{"geometry":{"coordinates":[6.07565,43.086347],"type":"Point"},"properties":{"osm_id":"1854119998","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.132087,43.119616],"type":"Point"},"properties":{"osm_id":"2317019748","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.120935,43.117319],"type":"Point"},"properties":{"osm_id":"4069151364","tag":{"amenity":"recycling","recycling:cans":"no","recycling:clothes":"no","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:paper":"no","recycling:plastic":"no"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.087699,43.106967],"type":"Point"},"properties":{"osm_id":"4515601145","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.088092,43.106997],"type":"Point"},"properties":{"osm_id":"4515601146","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.087699,43.106967],"type":"Point"},"properties":{"osm_id":"4515601145","tag":{"amenity":"waste_disposal","waste":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.088092,43.106997],"type":"Point"},"properties":{"osm_id":"4515601146","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 08:00-11:45 14:00-16:45","recycling:batteries":"yes","recycling:electrical_appliances":"yes","recycling:green_waste":"yes","recycling:wood":"yes","recycling_type":"centre","website":"https://www.carqueiranne.fr/environnement/gestion-des-dechets/dechetterie-449.html"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.126427,43.121939],"type":"Point"},"properties":{"osm_id":"4854148263","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.126127,43.122528],"type":"Point"},"properties":{"osm_id":"4854148264","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.126567,43.123642],"type":"Point"},"properties":{"osm_id":"4854154497","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
@@ -54,10 +54,11 @@
 	{"geometry":{"coordinates":[6.079582,43.091469],"type":"Point"},"properties":{"osm_id":"5380207945","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.079832,43.091395],"type":"Point"},"properties":{"osm_id":"5380207946","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.069264,43.095503],"type":"Point"},"properties":{"osm_id":"5380207947","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.14484,43.114458],"type":"Point"},"properties":{"osm_id":"6268317886","tag":{"amenity":"recycling","description":"Verre et carton.","location":"overground","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.14484,43.114458],"type":"Point"},"properties":{"osm_id":"6268317886","tag":{"amenity":"recycling","description":"Verre et carton.","location":"overground","recycling:beverage_cartons":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"no","recycling:plastic_bottles":"no","recycling:plastic_packaging":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.123409,43.121204],"type":"Point"},"properties":{"osm_id":"6509595181","tag":{"amenity":"recycling","location":"overground","recycling:cans":"yes","recycling:cartons":"yes","recycling:glass_bottles":"yes","recycling:metal":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.127919,43.121204],"type":"Point"},"properties":{"osm_id":"6515876247","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.127554,43.121012],"type":"Point"},"properties":{"osm_id":"6515906672","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.152331,43.083909],"type":"Point"},"properties":{"osm_id":"6653728545","tag":{"amenity":"recycling","location":"overground","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[6.152331,43.083909],"type":"Point"},"properties":{"osm_id":"6653728545","tag":{"amenity":"recycling","location":"overground","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.141768,43.083001],"type":"Point"},"properties":{"osm_id":"8423844910","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

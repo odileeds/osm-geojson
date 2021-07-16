@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[25.054168,60.190051],"type":"Point"},"properties":{"osm_id":"408775472","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:cardboard":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[25.049825,60.195099],"type":"Point"},"properties":{"osm_id":"442441954","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.129282,60.181498],"type":"Point"},"properties":{"osm_id":"442841569","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.063149,60.176632],"type":"Point"},"properties":{"osm_id":"462371513","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.072231,60.194274],"type":"Point"},"properties":{"osm_id":"465314132","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -22,13 +21,17 @@
 	{"geometry":{"coordinates":[25.056598,60.194376],"type":"Point"},"properties":{"osm_id":"665893771","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.056135,60.172993],"type":"Point"},"properties":{"osm_id":"892544970","tag":{"amenity":"recycling","location":"overground","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.063307,60.163104],"type":"Point"},"properties":{"osm_id":"903426658","tag":{"amenity":"recycling","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[25.059585,60.178139],"type":"Point"},"properties":{"highway":"street_lamp","osm_id":"2916398304","tag":{"amenity":"waste_basket","traffic_sign":"FI:521","traffic_sign:2":"FI:521c[\\]"}},"type":"Feature"},
-	{"geometry":{"coordinates":[25.058489,60.181598],"type":"Point"},"properties":{"osm_id":"2916398380","tag":{"amenity":"waste_basket","traffic_sign":"FI:511"}},"type":"Feature"},
-	{"geometry":{"coordinates":[25.057885,60.182477],"type":"Point"},"properties":{"osm_id":"2916398386","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[25.05792,60.182946],"type":"Point"},"properties":{"osm_id":"2916398388","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[25.053927,60.175762],"type":"Point"},"properties":{"highway":"street_lamp","osm_id":"1713937081","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[25.054101,60.175952],"type":"Point"},"properties":{"highway":"street_lamp","osm_id":"1713937083","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[25.059585,60.178139],"type":"Point"},"properties":{"highway":"street_lamp","osm_id":"2916398304","tag":{"amenity":"waste_basket","check_date":"2021-04-16","traffic_sign":"FI:521","traffic_sign:2":"FI:521c[\\]"}},"type":"Feature"},
+	{"geometry":{"coordinates":[25.058489,60.181598],"type":"Point"},"properties":{"osm_id":"2916398380","tag":{"amenity":"waste_basket","check_date":"2021-04-16","traffic_sign":"FI:511"}},"type":"Feature"},
+	{"geometry":{"coordinates":[25.057885,60.182477],"type":"Point"},"properties":{"osm_id":"2916398386","tag":{"amenity":"waste_basket","check_date":"2021-07-16"}},"type":"Feature"},
+	{"geometry":{"coordinates":[25.05792,60.182946],"type":"Point"},"properties":{"osm_id":"2916398388","tag":{"amenity":"waste_basket","check_date":"2021-04-16"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.050489,60.193478],"type":"Point"},"properties":{"highway":"street_lamp","osm_id":"5643798905","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.052523,60.179063],"type":"Point"},"properties":{"osm_id":"5956325188","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[25.1139,60.195141],"type":"Point"},"properties":{"osm_id":"6742451964","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[25.063011,60.165067],"type":"Point"},"properties":{"osm_id":"7687714951","tag":{"amenity":"waste_disposal","operator":"Helsingin kaupunki","waste":"toilet"}},"type":"Feature"}
+	{"geometry":{"coordinates":[25.063011,60.165067],"type":"Point"},"properties":{"osm_id":"7687714951","tag":{"amenity":"waste_disposal","operator":"Helsingin kaupunki","waste":"toilet"}},"type":"Feature"},
+	{"geometry":{"coordinates":[25.050997,60.180553],"type":"Point"},"properties":{"osm_id":"8550426967","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[25.086982,60.159966],"type":"Point"},"properties":{"osm_id":"8910942550","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

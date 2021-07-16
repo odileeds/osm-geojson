@@ -1,10 +1,10 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[5.330415,50.782308],"type":"Point"},"properties":{"osm_id":"1887922528","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:glass_bottles":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.330415,50.782308],"type":"Point"},"properties":{"osm_id":"1887922528","tag":{"amenity":"recycling","location":"overground","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.284475,50.778632],"type":"Point"},"properties":{"osm_id":"2277559774","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.289771,50.780965],"type":"Point"},"properties":{"osm_id":"2277559788","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.278846,50.767676],"type":"Point"},"properties":{"osm_id":"2277629334","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.278846,50.767676],"type":"Point"},"properties":{"osm_id":"2277629334","tag":{"amenity":"waste_basket","check_date":"2021-06-11"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.293273,50.783477],"type":"Point"},"properties":{"osm_id":"2377885763","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.280098,50.763342],"type":"Point"},"properties":{"osm_id":"2823417137","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.332868,50.758171],"type":"Point"},"properties":{"osm_id":"2840708205","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -23,6 +23,7 @@
 	{"geometry":{"coordinates":[5.276285,50.765458],"type":"Point"},"properties":{"osm_id":"8188281458","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.276225,50.765434],"type":"Point"},"properties":{"osm_id":"8188316656","tag":{"amenity":"recycling","colour":"green","operator":"Vlaams Inzamelcentrum Textiel","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.276257,50.765445],"type":"Point"},"properties":{"osm_id":"8188353717","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.30212,50.746803],"type":"Point"},"properties":{"osm_id":"8223947555","tag":{"amenity":"waste_basket","colour":"green","material":"plastic","operator":"Gemeente Heers","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[5.30212,50.746803],"type":"Point"},"properties":{"osm_id":"8223947555","tag":{"amenity":"waste_basket","colour":"green","material":"plastic","operator":"Gemeente Heers","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.295827,50.791371],"type":"Point"},"properties":{"osm_id":"8809125174","tag":{"amenity":"waste_basket","colour":"green","material":"plastic","waste":"trash"}},"type":"Feature"}
 ]
 }

@@ -1,17 +1,27 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[10.501557,50.037194],"type":"Point"},"properties":{"osm_id":"271196800","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.496221,50.038599],"type":"Point"},"properties":{"name":"Kreisbauhof","osm_id":"298143051","tag":{"addr:city":"Ha\u00c3\u009ffurt","addr:country":"DE","addr:housenumber":"17","addr:postcode":"97437","addr:street":"Uchenhofer Stra\u00c3\u009fe","amenity":"recycling","opening_hours":"Sa 09:00-12:00","operator":"Stadt Ha\u00c3\u009ffurt","phone":"09521/ 27 -712","recycling_type":"centre","website":"https://www.awhas.de/naechstgelegener-wertstoffhof.html"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.501549,50.037191],"type":"Point"},"properties":{"osm_id":"271196800","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.496221,50.038599],"type":"Point"},"properties":{"name":"Kreisbauhof","osm_id":"298143051","tag":{"addr:city":"Ha\u00c3\u009ffurt","addr:country":"DE","addr:housenumber":"17","addr:postcode":"97437","addr:street":"Uchenhofer Stra\u00c3\u009fe","amenity":"recycling","opening_hours":"Sa 09:00-12:00","operator":"Stadt Ha\u00c3\u009ffurt","phone":"+49 9521 27712","recycling_type":"centre","website":"https://www.awhas.de/naechstgelegener-wertstoffhof.html"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.530106,50.027275],"type":"Point"},"properties":{"barrier":"gate","osm_id":"300620441"},"type":"Feature"},
-	{"geometry":{"coordinates":[10.506628,50.033797],"type":"Point"},"properties":{"osm_id":"356320944","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.504171,50.036289],"type":"Point"},"properties":{"osm_id":"920954262","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.506628,50.033797],"type":"Point"},"properties":{"osm_id":"356320944","tag":{"amenity":"recycling","location":"overground","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.504171,50.036289],"type":"Point"},"properties":{"osm_id":"920954262","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.530373,50.0273],"type":"Point"},"properties":{"barrier":"gate","osm_id":"1106770404"},"type":"Feature"},
 	{"geometry":{"coordinates":[10.487549,50.018795],"type":"Point"},"properties":{"osm_id":"1423948552","tag":{"amenity":"recycling","postal_code":"97437"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.468302,50.008553],"type":"Point"},"properties":{"osm_id":"1425114074","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.521218,50.059896],"type":"Point"},"properties":{"osm_id":"4738429710","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.500701,50.031002],"type":"Point"},"properties":{"osm_id":"6489409942","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.461816,50.008859],"type":"Point"},"properties":{"osm_id":"6700772206","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.470064,50.014676],"type":"Point"},"properties":{"osm_id":"6700772241","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[10.470064,50.014676],"type":"Point"},"properties":{"osm_id":"6700772241","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.503789,50.036249],"type":"Point"},"properties":{"osm_id":"8438322578","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.515671,50.040227],"type":"Point"},"properties":{"osm_id":"8541905987","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.51544,50.049331],"type":"Point"},"properties":{"osm_id":"8595241842","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.512692,50.029724],"type":"Point"},"properties":{"osm_id":"8595376500","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.512261,50.029605],"type":"Point"},"properties":{"osm_id":"8595381198","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.512282,50.029652],"type":"Point"},"properties":{"osm_id":"8595395917","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.515268,50.02962],"type":"Point"},"properties":{"osm_id":"8595526737","tag":{"amenity":"recycling","description":"Altglas"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.477504,50.023649],"type":"Point"},"properties":{"osm_id":"8606830271","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.500536,50.031954],"type":"Point"},"properties":{"osm_id":"8615444000","tag":{"amenity":"recycling","description":"Altkleider 2x"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.501271,50.037653],"type":"Point"},"properties":{"osm_id":"8786843757","tag":{"amenity":"waste_basket","description":"mit Hundet\u00c3\u00bcten","waste":"dog_excrement"}},"type":"Feature"}
 ]
 }

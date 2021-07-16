@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[6.224661,49.826969],"type":"Point"},"properties":{"osm_id":"501746305","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.224576,49.826978],"type":"Point"},"properties":{"osm_id":"501746305","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.201492,49.794934],"type":"Point"},"properties":{"osm_id":"821460187","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.21222,49.799625],"type":"Point"},"properties":{"osm_id":"821460428","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.174088,49.799791],"type":"Point"},"properties":{"osm_id":"4874470703","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -24,6 +24,8 @@
 	{"geometry":{"coordinates":[6.156324,49.791215],"type":"Point"},"properties":{"osm_id":"7862630532","tag":{"amenity":"waste_basket","material":"metal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.216526,49.786307],"type":"Point"},"properties":{"osm_id":"7876003126","tag":{"amenity":"waste_basket","material":"wood"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.152845,49.799787],"type":"Point"},"properties":{"osm_id":"7902903964","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.18546,49.782857],"type":"Point"},"properties":{"osm_id":"8176263678","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[6.18546,49.782857],"type":"Point"},"properties":{"osm_id":"8176263678","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.175098,49.825895],"type":"Point"},"properties":{"osm_id":"8297626150","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.218603,49.810982],"type":"Point"},"properties":{"osm_id":"8421586486","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

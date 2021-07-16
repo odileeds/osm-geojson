@@ -1,10 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[4.66191,45.543719],"type":"Point"},"properties":{"highway":"motorway_junction","osm_id":"337237839","ref":"11","tag":{"exit_to":"Rive de Gier; Saint-Martin la Plaine"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.718648,45.552374],"type":"Point"},"properties":{"osm_id":"2229352102","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.72559,45.544187],"type":"Point"},"properties":{"osm_id":"2229381114","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.743824,45.521826],"type":"Point"},"properties":{"osm_id":"2321859225","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.743834,45.521838],"type":"Point"},"properties":{"osm_id":"2321859225","tag":{"amenity":"recycling","recycling:beverage_cartons":"yes","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:magazines":"yes","recycling:newspaper":"yes","recycling:paper":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.662501,45.522468],"type":"Point"},"properties":{"osm_id":"4269538092","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.661262,45.522748],"type":"Point"},"properties":{"osm_id":"4269538102","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:cardboard":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.744438,45.536831],"type":"Point"},"properties":{"osm_id":"4936601823","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -16,6 +15,7 @@
 	{"geometry":{"coordinates":[4.675734,45.539435],"type":"Point"},"properties":{"osm_id":"8210341660","tag":{"amenity":"waste_basket","material":"metal","operator":"Municipalit\u00c3\u00a9 de Tr\u00c3\u00a8ves","waste":"mixed"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.676799,45.539395],"type":"Point"},"properties":{"osm_id":"8213899376","tag":{"access":"yes","amenity":"waste_disposal","operator":"Municipalit\u00c3\u00a9 de Tr\u00c3\u00a8ves","waste":"organic"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.674374,45.53998],"type":"Point"},"properties":{"osm_id":"8213899391","tag":{"amenity":"recycling","opening_hours":"24/7","operator":"Municipalit\u00c3\u00a9 de Tr\u00c3\u00a8ves","recycling:cartons":"yes","recycling:glass":"yes","recycling:magazines":"yes","recycling:newspaper":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.679479,45.537758],"type":"Point"},"properties":{"osm_id":"8275851208","tag":{"amenity":"waste_basket","operator":"Municipalit\u00c3\u00a9 de Tr\u00c3\u00a8ves","waste":"mixed"}},"type":"Feature"}
+	{"geometry":{"coordinates":[4.679479,45.537758],"type":"Point"},"properties":{"osm_id":"8275851208","tag":{"amenity":"waste_basket","operator":"Municipalit\u00c3\u00a9 de Tr\u00c3\u00a8ves","waste":"mixed"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.742539,45.582557],"type":"Point"},"properties":{"osm_id":"8289309919","tag":{"amenity":"recycling","operator":"M\u00c3\u00a9tropole de Lyon","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

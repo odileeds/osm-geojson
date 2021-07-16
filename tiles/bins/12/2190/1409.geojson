@@ -1,8 +1,10 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[12.567045,48.862412],"type":"Point"},"properties":{"osm_id":"290036493","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.567045,48.862412],"type":"Point"},"properties":{"osm_id":"290036493","tag":{"amenity":"recycling","location":"overground","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.565636,48.860414],"type":"Point"},"properties":{"osm_id":"312593523","tag":{"amenity":"recycling","location":"overground","opening_hours":"24/7","opening_hours:covid19":"same","operator":"Zweckverband Abfallwirtschaft Straubing Stadt und Land","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.520703,48.822645],"type":"Point"},"properties":{"osm_id":"1927882887","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.533464,48.82306],"type":"Point"},"properties":{"osm_id":"1929199800","tag":{"amenity":"recycling","opening_hours":"Tu 15:00-17:00; Fr 14:00-17:00; Sa 10:00-12:00","operator":"ZAW-SR","recycling_type":"centre"}},"type":"Feature"}
+	{"geometry":{"coordinates":[12.533464,48.82306],"type":"Point"},"properties":{"osm_id":"1929199800","tag":{"amenity":"recycling","opening_hours":"Tu 15:00-17:00; Fr 14:00-17:00; Sa 10:00-12:00","operator":"ZAW-SR","recycling_type":"centre"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.565189,48.863774],"type":"Point"},"properties":{"osm_id":"8378848756","tag":{"amenity":"recycling","location":"overground","opening_hours":"24/7","opening_hours:covid19":"same","operator":"Zweckverband Abfallwirtschaft Straubing Stadt und Land","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[10.57873,48.777765],"type":"Point"},"properties":{"osm_id":"253458219","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.57873,48.777765],"type":"Point"},"properties":{"osm_id":"253458219","tag":{"amenity":"recycling","location":"overground","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.584134,48.778088],"type":"Point"},"properties":{"name":"Wertstoffhof M\u00c3\u00b6nchsdeggingen","osm_id":"253458220","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.558396,48.79943],"type":"Point"},"properties":{"name":"Gr\u00c3\u00bcnsammelplatz Balgheim","osm_id":"1224500694","tag":{"amenity":"recycling","recycling:green_waste":"yes","recycling:hardcode":"yes","recycling_type":"centre"}},"type":"Feature"}
 ]

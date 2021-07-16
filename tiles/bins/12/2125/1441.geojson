@@ -6,8 +6,8 @@
 	{"geometry":{"coordinates":[6.840138,46.949328],"type":"Point"},"properties":{"osm_id":"469627324","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.824406,46.955409],"type":"Point"},"properties":{"osm_id":"471195319","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.844128,46.944281],"type":"Point"},"properties":{"osm_id":"471608809","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.815036,46.934456],"type":"Point"},"properties":{"osm_id":"1299485862","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.812816,46.92858],"type":"Point"},"properties":{"osm_id":"1299485863","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.815039,46.934346],"type":"Point"},"properties":{"name":"D\u00c3\u00a9chetterie de Bevaix","osm_id":"1299485862","tag":{"addr:city":"Bevaix","addr:housenumber":"9","addr:postcode":"2022","addr:street":"Rue de Monchevaux","amenity":"recycling","operator":"Commune de La Grande B\u00c3\u00a9roche","recycling:aluminium":"yes","recycling:batteries":"yes","recycling:cans":"yes","recycling:cardboard":"yes","recycling:cartons":"yes","recycling:clothes":"yes","recycling:electrical_appliances":"yes","recycling:glass_bottles":"yes","recycling:green_waste":"yes","recycling:paper":"yes","recycling:plastic_bottles":"yes","recycling:scrap_metal":"yes","recycling:wood":"yes","recycling_type":"centre"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.812816,46.92858],"type":"Point"},"properties":{"osm_id":"1299485863","tag":{"amenity":"recycling","location":"overground","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:green_waste":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.817654,46.93258],"type":"Point"},"properties":{"osm_id":"1299485864","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.841154,46.947949],"type":"Point"},"properties":{"name":"D\u00c3\u00a9chetterie intercommunale","osm_id":"1729156800","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.775433,46.959744],"type":"Point"},"properties":{"osm_id":"2712991618","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
@@ -18,6 +18,11 @@
 	{"geometry":{"coordinates":[6.83355,46.948264],"type":"Point"},"properties":{"osm_id":"7813925485","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.83604,46.952056],"type":"Point"},"properties":{"osm_id":"7813925491","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.809255,46.931767],"type":"Point"},"properties":{"osm_id":"7813961454","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.811555,46.930139],"type":"Point"},"properties":{"osm_id":"7813961886","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[6.811555,46.930139],"type":"Point"},"properties":{"osm_id":"7813961886","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.828494,46.959729],"type":"Point"},"properties":{"osm_id":"8640255681","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.810978,46.9274],"type":"Point"},"properties":{"osm_id":"8743870787","tag":{"amenity":"waste_disposal","operator":"Commune de La Grande B\u00c3\u00a9roche"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.809771,46.924098],"type":"Point"},"properties":{"osm_id":"8743870788","tag":{"amenity":"waste_disposal","operator":"Commune de La Grande B\u00c3\u00a9roche"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.81527,46.934346],"type":"Point"},"properties":{"osm_id":"8743870789","tag":{"amenity":"waste_disposal","operator":"Commune de La Grande B\u00c3\u00a9roche"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.812759,46.928771],"type":"Point"},"properties":{"osm_id":"8743884865","tag":{"amenity":"recycling","operator":"Coop","recycling:plastic_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

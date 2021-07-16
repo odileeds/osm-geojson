@@ -1,7 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[6.697267,43.538989],"type":"Point"},"properties":{"name":"Cedre","osm_id":"4686521596","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.697253,43.538962],"type":"Point"},"properties":{"name":"Cedre","osm_id":"4686521597","tag":{"natural":"tree"}},"type":"Feature"}
+	{"geometry":{"coordinates":[6.697267,43.538989],"type":"Point"},"properties":{"osm_id":"4686521596","tag":{"genus":"Cedrus","genus:fr":"C\u00c3\u00a8dre","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.697253,43.538962],"type":"Point"},"properties":{"osm_id":"4686521597","tag":{"genus":"Cedrus","genus:fr":"C\u00c3\u00a8dre","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.688822,43.536067],"type":"Point"},"properties":{"osm_id":"8575330180","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.688828,43.535992],"type":"Point"},"properties":{"osm_id":"8575330181","tag":{"natural":"tree"}},"type":"Feature"}
 ]
 }

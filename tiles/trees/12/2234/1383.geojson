@@ -1,11 +1,14 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[16.354153,50.301714],"type":"Point"},"properties":{"name":"De\u00c5\u00a1tensk\u00c3\u00bd dub","osm_id":"4733812027","tag":{"monument":"yes","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.354153,50.301714],"type":"Point"},"properties":{"name":"De\u00c5\u00a1tensk\u00c3\u00bd dub","osm_id":"4733812027","ref":"101409","tag":{"denotation":"natural_monument","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","taxon":"Quercus petraea","taxon:cs":"Dub zimn\u00c3\u00ad"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.389475,50.333393],"type":"Point"},"properties":{"osm_id":"7847735630","tag":{"denotation":"landmark","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.393235,50.335126],"type":"Point"},"properties":{"osm_id":"7847735655","tag":{"denotation":"landmark","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.390628,50.33053],"type":"Point"},"properties":{"osm_id":"7847735664","tag":{"denotation":"street","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[16.383817,50.33998],"type":"Point"},"properties":{"osm_id":"7847735678","tag":{"denotation":"landmark","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[16.387385,50.336982],"type":"Point"},"properties":{"osm_id":"7847738628","tag":{"natural":"tree"}},"type":"Feature"}
+	{"geometry":{"coordinates":[16.383817,50.33998],"type":"Point"},"properties":{"osm_id":"7847735678","tag":{"denotation":"landmark","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","species:wikidata":"Q156944","species:wikipedia":"pl:Klon jawor"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.387385,50.336982],"type":"Point"},"properties":{"osm_id":"7847738628","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.358658,50.308933],"type":"Point"},"properties":{"name":"Jasan v De\u00c5\u00a1tn\u00c3\u00a9m","osm_id":"8410746641","ref":"101432","tag":{"denotation":"natural_monument","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","taxon":"Fraxinus excelsior","taxon:cs":"Jasan ztepil\u00c3\u00bd"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.36283,50.298333],"type":"Point"},"properties":{"name":"B\u00c5\u0099\u00c3\u00adza v Jedlov\u00c3\u00a9","osm_id":"8410746642","ref":"101431","tag":{"denotation":"natural_monument","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","taxon":"Betula pendula","taxon:cs":"B\u00c5\u0099\u00c3\u00adza b\u00c4\u009blokor\u00c3\u00a1"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.388254,50.338195],"type":"Point"},"properties":{"osm_id":"8823466665","tag":{"natural":"tree"}},"type":"Feature"}
 ]
 }

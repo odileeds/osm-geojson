@@ -94,7 +94,7 @@
 	{"geometry":{"coordinates":[-0.484244,38.348273],"type":"Point"},"properties":{"osm_id":"3684212863","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.484213,38.348284],"type":"Point"},"properties":{"osm_id":"3684212864","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.484179,38.348295],"type":"Point"},"properties":{"osm_id":"3684212865","tag":{"amenity":"waste_disposal","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.483874,38.347152],"type":"Point"},"properties":{"osm_id":"3686791368","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.483863,38.347122],"type":"Point"},"properties":{"osm_id":"3686791368","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.483887,38.347209],"type":"Point"},"properties":{"osm_id":"3686791369","tag":{"amenity":"waste_disposal","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.48027,38.345008],"type":"Point"},"properties":{"osm_id":"3721698926","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.480253,38.345017],"type":"Point"},"properties":{"osm_id":"3721698927","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
@@ -168,6 +168,8 @@
 	{"geometry":{"coordinates":[-0.48903,38.374883],"type":"Point"},"properties":{"osm_id":"7846202040","tag":{"access":"yes","amenity":"waste_disposal","collection_times":"Mo-Su 20:00-23:00","operator":"Inusa","source:data":"2020"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.488998,38.374889],"type":"Point"},"properties":{"osm_id":"7846202041","tag":{"amenity":"recycling","collection_times":"2 veces por semana","operator":"Inusa","recycling:books":"yes","recycling:cartons":"yes","recycling:newspaper":"yes","recycling:paper":"yes","recycling:paper_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.489501,38.373577],"type":"Point"},"properties":{"osm_id":"7847378245","tag":{"amenity":"waste_basket","colour":"blue","operator":"Inusa","source:data":"2020"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.489539,38.375591],"type":"Point"},"properties":{"osm_id":"7884818021","tag":{"amenity":"recycling","operator":"Camacho Recycling","recycling:glass_bottles":"yes","recycling_type":"container","source:data":"2020"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-0.489539,38.375591],"type":"Point"},"properties":{"osm_id":"7884818021","tag":{"amenity":"recycling","operator":"Camacho Recycling","recycling:glass_bottles":"yes","recycling_type":"container","source:data":"2020"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.480752,38.375221],"type":"Point"},"properties":{"osm_id":"8298012661","tag":{"amenity":"waste_disposal","location":"underground"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.480752,38.375199],"type":"Point"},"properties":{"osm_id":"8298012662","tag":{"access":"permissive","amenity":"waste_disposal","location":"underground","source:data":"6/1/2021"}},"type":"Feature"}
 ]
 }

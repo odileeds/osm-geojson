@@ -2,10 +2,10 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[-3.169649,56.207464],"type":"Point"},"properties":{"osm_id":"1588453341","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-3.212606,56.203686],"type":"Point"},"properties":{"osm_id":"2656334298","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.212606,56.203686],"type":"Point"},"properties":{"osm_id":"2656334298","tag":{"amenity":"recycling","location":"overground","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"no","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.169006,56.176828],"type":"Point"},"properties":{"osm_id":"2661664869","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.164539,56.211099],"type":"Point"},"properties":{"osm_id":"4461872472","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-3.184641,56.218418],"type":"Point"},"properties":{"osm_id":"4492494038","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.184641,56.218418],"type":"Point"},"properties":{"osm_id":"4492494038","tag":{"amenity":"recycling","location":"overground","recycling:beverage_cartons":"yes","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:plastic":"no","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.181385,56.211222],"type":"Point"},"properties":{"osm_id":"4562060827","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.242317,56.173583],"type":"Point"},"properties":{"name":"Kinglassie Recycling Point (Main Street)","osm_id":"8265068447","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.233273,56.173011],"type":"Point"},"properties":{"name":"Kinglassie Recycling Point (Lochty Road)","osm_id":"8265068453","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"}

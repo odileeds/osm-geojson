@@ -1,12 +1,15 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[55.332176,-20.948479],"type":"Point"},"properties":{"osm_id":"1824466700","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[55.332176,-20.948479],"type":"Point"},"properties":{"osm_id":"1824466700","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[55.331511,-20.945435],"type":"Point"},"properties":{"name":"CONTAINER A BOUTEILLES","osm_id":"1824467075","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[55.335174,-20.932904],"type":"Point"},"properties":{"osm_id":"2334101432","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[55.334808,-20.956543],"type":"Point"},"properties":{"name":"D\u00c3\u00a9chetterie de Saint-Laurent","osm_id":"3240706805","tag":{"addr:city":"La Possession","addr:postcode":"97419","addr:street":"Rue Pablo Neruda","amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[55.311231,-20.938041],"type":"Point"},"properties":{"name":"D\u00c3\u00a9chetterie de la Zone Artisanale","osm_id":"3240729511","tag":{"addr:city":"Le Port","addr:postcode":"97420","addr:street":"Rue L\u00c3\u00a9onus Corr\u00c3\u00a9","amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[55.292173,-20.945872],"type":"Point"},"properties":{"osm_id":"4617998386","tag":{"amenity":"waste_disposal","waste":"household"}},"type":"Feature"},
-	{"geometry":{"coordinates":[55.292058,-20.945852],"type":"Point"},"properties":{"osm_id":"4618000721","tag":{"amenity":"waste_disposal","waste":"glass"}},"type":"Feature"}
+	{"geometry":{"coordinates":[55.292058,-20.945852],"type":"Point"},"properties":{"osm_id":"4618000721","tag":{"amenity":"waste_disposal","waste":"glass"}},"type":"Feature"},
+	{"geometry":{"coordinates":[55.332903,-20.928661],"type":"Point"},"properties":{"osm_id":"8811948494","tag":{"amenity":"recycling","location":"overground","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[55.33289,-20.928623],"type":"Point"},"properties":{"osm_id":"8811975364","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[55.332999,-20.928577],"type":"Point"},"properties":{"osm_id":"8811990043","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

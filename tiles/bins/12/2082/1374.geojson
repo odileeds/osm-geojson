@@ -1,6 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[3.073613,50.814069],"type":"Point"},"properties":{"osm_id":"340341650","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"}
+	{"geometry":{"coordinates":[3.073613,50.814069],"type":"Point"},"properties":{"osm_id":"340341650","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.073989,50.819919],"type":"Point"},"properties":{"barrier":"gate","osm_id":"8314700704"},"type":"Feature"},
+	{"geometry":{"coordinates":[3.07304,50.811433],"type":"Point"},"properties":{"osm_id":"8533654838","tag":{"amenity":"recycling","operator":"Vlaams Inzamelcentrum Textiel","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.073204,50.812299],"type":"Point"},"properties":{"osm_id":"8533654849","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

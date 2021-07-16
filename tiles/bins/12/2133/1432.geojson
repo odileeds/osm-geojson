@@ -1,10 +1,10 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[7.558026,47.49941],"type":"Point"},"properties":{"osm_id":"614262843","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.558026,47.49941],"type":"Point"},"properties":{"osm_id":"614262843","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.542845,47.479773],"type":"Point"},"properties":{"osm_id":"1760062582","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.554456,47.503392],"type":"Point"},"properties":{"osm_id":"2035556221","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.551997,47.498906],"type":"Point"},"properties":{"osm_id":"2035556225","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.554456,47.503392],"type":"Point"},"properties":{"osm_id":"2035556221","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.551997,47.498906],"type":"Point"},"properties":{"osm_id":"2035556225","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.549737,47.499662],"type":"Point"},"properties":{"osm_id":"2137131425","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.489715,47.500424],"type":"Point"},"properties":{"name":"D\u00c3\u00a9ch\u00c3\u00a8terie\u00c2\u00a0de\u00c2\u00a0Leymen","osm_id":"2877263786","tag":{"amenity":"recycling","operator":"Communaut\u00c3\u00a9\u00c2\u00a0d'Agglom\u00c3\u00a9ration\u00c2\u00a0de\u00c2\u00a0Saint-louis\u00c2\u00a0Agglom\u00c3\u00a9ration","phone":"+33 3 89 68 57 33","recycling_type":"centre","ref:FR:SINOE":"29317","start_date":"2002"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.499057,47.488944],"type":"Point"},"properties":{"osm_id":"3844785245","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -68,10 +68,11 @@
 	{"geometry":{"coordinates":[7.516809,47.47737],"type":"Point"},"properties":{"osm_id":"6329172691","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.557243,47.483265],"type":"Point"},"properties":{"osm_id":"6532546472","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.550436,47.484124],"type":"Point"},"properties":{"osm_id":"6532580414","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.557946,47.505178],"type":"Point"},"properties":{"name":"Labdoo Annahmestelle f\u00c3\u00bcr Laptops","osm_id":"6543053225","tag":{"addr:city":"Therwil","addr:housenumber":"14","addr:postcode":"4106","addr:street":"Im Wilacker","amenity":"recycling","brand":"Labdoo","charity":"yes","description":"Bitte vorher mit Kuorosh Moezzi, kuorosh.moezzi@labdoo.org einen Termin vereinbaren. Er ist an Werktagen zwischen 11 und 17 Uhr erreichbar.","email":"kuorosh.moezzi@labdoo.org","location":"indoor","operator":"Kuorosh Moezzi","recycling:computers":"yes","recycling:mobile_phones":"yes","recycling_type":"centre","website":"https://www.labdoo.org/de/hub?h=16406"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.557946,47.505178],"type":"Point"},"properties":{"osm_id":"6543053225","tag":{"addr:city":"Therwil","addr:housenumber":"14","addr:postcode":"4106","addr:street":"Im Wilacker","amenity":"recycling","brand":"Labdoo","charity":"yes","description":"Annahmestelle f\u00c3\u00bcr Laptops","email":"kuorosh.moezzi@labdoo.org","location":"indoor","operator":"Kuorosh Moezzi","recycling:computers":"yes","recycling:mobile_phones":"yes","recycling_type":"centre","website":"https://www.labdoo.org/de/hub?h=16406"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.545878,47.483608],"type":"Point"},"properties":{"osm_id":"6612196166","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.544695,47.481861],"type":"Point"},"properties":{"osm_id":"6612196169","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.543105,47.481481],"type":"Point"},"properties":{"osm_id":"6612196173","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.543051,47.480338],"type":"Point"},"properties":{"osm_id":"6612196174","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[7.543051,47.480338],"type":"Point"},"properties":{"osm_id":"6612196174","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.528057,47.468406],"type":"Point"},"properties":{"osm_id":"8381770931","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

@@ -66,7 +66,7 @@
 	{"geometry":{"coordinates":[10.966849,49.525799],"type":"Point"},"properties":{"osm_id":"1965856831","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.966009,49.526022],"type":"Point"},"properties":{"osm_id":"1966483578","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.962994,49.524891],"type":"Point"},"properties":{"osm_id":"1968101952","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.937207,49.508509],"type":"Point"},"properties":{"osm_id":"1983600580","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.937207,49.508509],"type":"Point"},"properties":{"osm_id":"1983600580","tag":{"leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.959692,49.50319],"type":"Point"},"properties":{"osm_id":"2372163800","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.959378,49.503123],"type":"Point"},"properties":{"osm_id":"2372163808","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.958233,49.502932],"type":"Point"},"properties":{"osm_id":"2372163815","tag":{"natural":"tree"}},"type":"Feature"},
@@ -113,11 +113,11 @@
 	{"geometry":{"coordinates":[10.920526,49.520509],"type":"Point"},"properties":{"osm_id":"3752843465","tag":{"genus:de":"Linde","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.920499,49.523616],"type":"Point"},"properties":{"osm_id":"3752843466","tag":{"genus:de":"Ahorn","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.93577,49.50321],"type":"Point"},"properties":{"osm_id":"3752843468","tag":{"denotation":"landmark","genus:de":"Eiche","height":"12 (in 2015)","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.938497,49.507331],"type":"Point"},"properties":{"osm_id":"3752843469","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.938497,49.507331],"type":"Point"},"properties":{"osm_id":"3752843469","tag":{"leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.920486,49.523565],"type":"Point"},"properties":{"osm_id":"3752846397","tag":{"genus:de":"Ahorn","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.920341,49.523571],"type":"Point"},"properties":{"osm_id":"3752846398","tag":{"genus:de":"Linde","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.938597,49.507281],"type":"Point"},"properties":{"osm_id":"3752846400","tag":{"leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.938534,49.507414],"type":"Point"},"properties":{"osm_id":"3752846517","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.938534,49.507414],"type":"Point"},"properties":{"osm_id":"3752846517","tag":{"leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.966908,49.510968],"type":"Point"},"properties":{"name":"Pappel","osm_id":"3756238589","tag":{"leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.934096,49.497711],"type":"Point"},"properties":{"osm_id":"3799823353","tag":{"denotation":"avenue","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.963792,49.498232],"type":"Point"},"properties":{"osm_id":"3869115016","tag":{"natural":"tree"}},"type":"Feature"},
@@ -319,6 +319,10 @@
 	{"geometry":{"coordinates":[10.931173,49.508102],"type":"Point"},"properties":{"osm_id":"4693186776","tag":{"genus:de":"Eiche","height":"15","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.960877,49.519214],"type":"Point"},"properties":{"osm_id":"5753735949","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.949011,49.505822],"type":"Point"},"properties":{"osm_id":"5885403786","tag":{"height":"20","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","source:addr":"https://www.mapillary.com/map/im/eWBgv17UDBru6aIe4yz5ag"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.905345,49.529842],"type":"Point"},"properties":{"osm_id":"7298792471","tag":{"natural":"tree"}},"type":"Feature"}
+	{"geometry":{"coordinates":[10.905345,49.529842],"type":"Point"},"properties":{"osm_id":"7298792471","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.924727,49.514175],"type":"Point"},"properties":{"osm_id":"8587402545","tag":{"leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.923988,49.540125],"type":"Point"},"properties":{"osm_id":"8587915411","tag":{"leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.923999,49.539997],"type":"Point"},"properties":{"osm_id":"8587921642","tag":{"leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.924117,49.540191],"type":"Point"},"properties":{"name":"Birkenweiterfeld","osm_id":"8587921654","ref":"12487","tag":{"information":"guidepost","leaf_type":"broadleaved","natural":"tree","operator":"Fr\u00c3\u00a4nkischer Albverein e.V.; Gemeinde Obermichelbach","tourism":"information"}},"type":"Feature"}
 ]
 }

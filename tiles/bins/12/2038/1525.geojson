@@ -5,7 +5,7 @@
 	{"geometry":{"coordinates":[-0.877932,41.654442],"type":"Point"},"properties":{"osm_id":"1776117886","tag":{"amenity":"recycling","location":"underground","recycling:cardboard":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.856617,41.677094],"type":"Point"},"properties":{"name":"Punto Limpio de Cogullada","osm_id":"1797750991","tag":{"addr:city":"Zaragoza","addr:street":"Nuestra Se\u00c3\u00b1ora de Lagunas","amenity":"recycling","contact:phone":"+34 615 812503","recycling_type":"centre","ref:ayto_zaragoza":"recurso-2503","source:date":"2011-11-11T10:48:27Z"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.871788,41.643912],"type":"Point"},"properties":{"osm_id":"2960129018","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.873079,41.644184],"type":"Point"},"properties":{"osm_id":"2960129021","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.873079,41.644184],"type":"Point"},"properties":{"osm_id":"2960129021","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"no","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.873935,41.644271],"type":"Point"},"properties":{"osm_id":"2960129022","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.872611,41.646091],"type":"Point"},"properties":{"osm_id":"2960129535","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.833433,41.672657],"type":"Point"},"properties":{"osm_id":"3874371863","tag":{"amenity":"recycling","operator":"FCC","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -13,14 +13,14 @@
 	{"geometry":{"coordinates":[-0.874629,41.674128],"type":"Point"},"properties":{"osm_id":"4393500758","tag":{"amenity":"recycling","operator":"FCC","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.878131,41.653588],"type":"Point"},"properties":{"osm_id":"4408031380","tag":{"amenity":"recycling","recycling:books":"yes","recycling:cartons":"yes","recycling:foil":"yes","recycling:glass_bottles":"yes","recycling:magazines":"yes","recycling:newspaper":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.878162,41.653604],"type":"Point"},"properties":{"osm_id":"4408031381","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.878712,41.654109],"type":"Point"},"properties":{"osm_id":"4412508274","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.878712,41.654109],"type":"Point"},"properties":{"osm_id":"4412508274","tag":{"amenity":"waste_basket","check_date":"2021-04-06"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.878453,41.655449],"type":"Point"},"properties":{"osm_id":"4418201282","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.87838,41.655563],"type":"Point"},"properties":{"osm_id":"4418201296","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.877053,41.654857],"type":"Point"},"properties":{"osm_id":"4418250004","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.876764,41.655159],"type":"Point"},"properties":{"osm_id":"4418250005","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.876835,41.655365],"type":"Point"},"properties":{"osm_id":"4418250006","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.876667,41.655438],"type":"Point"},"properties":{"osm_id":"4418250007","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.877671,41.651138],"type":"Point"},"properties":{"osm_id":"4483871507","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.877671,41.651138],"type":"Point"},"properties":{"osm_id":"4483871507","tag":{"amenity":"waste_basket","check_date":"2021-03-28"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.864106,41.640969],"type":"Point"},"properties":{"osm_id":"4637731762","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.871547,41.656886],"type":"Point"},"properties":{"osm_id":"4705441404","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.87142,41.656814],"type":"Point"},"properties":{"osm_id":"4705441793","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -38,6 +38,9 @@
 	{"geometry":{"coordinates":[-0.838199,41.669433],"type":"Point"},"properties":{"osm_id":"6271218982","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.875133,41.649285],"type":"Point"},"properties":{"osm_id":"6376776915","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.870118,41.67826],"type":"Point"},"properties":{"osm_id":"7632400540","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.872553,41.640386],"type":"Point"},"properties":{"osm_id":"7902527936","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-0.872553,41.640386],"type":"Point"},"properties":{"osm_id":"7902527936","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.86895,41.687877],"type":"Point"},"properties":{"osm_id":"8661555313","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.865927,41.686127],"type":"Point"},"properties":{"osm_id":"8661580622","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.857491,41.653997],"type":"Point"},"properties":{"osm_id":"8691121833","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
 ]
 }

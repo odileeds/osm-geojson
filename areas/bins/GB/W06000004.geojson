@@ -5,7 +5,7 @@
 "features": [
 { "type": "Feature", "properties": { "osm_id": "742647228", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -3.4488119, 53.2591669 ] } },
 { "type": "Feature", "properties": { "osm_id": "2849668322", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -3.469188, 53.3029762 ] } },
-{ "type": "Feature", "properties": { "osm_id": "4097057369", "other_tags": "\"waste\"=>\"trash\",\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -3.3034655, 53.1599032 ] } },
+{ "type": "Feature", "properties": { "osm_id": "4097057369", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -3.3034655, 53.1599032 ] } },
 { "type": "Feature", "properties": { "osm_id": "4327805047", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -3.4871514, 53.3185506 ] } },
 { "type": "Feature", "properties": { "osm_id": "4346458418", "other_tags": "\"amenity\"=>\"recycling\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -3.3712748, 52.980883 ] } },
 { "type": "Feature", "properties": { "osm_id": "5274430674", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -3.4921322, 53.3198403 ] } },
@@ -25,11 +25,13 @@
 { "type": "Feature", "properties": { "osm_id": "6651324655", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -3.3115055, 53.1524569 ] } },
 { "type": "Feature", "properties": { "osm_id": "6651596725", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -3.3146456, 53.1526571 ] } },
 { "type": "Feature", "properties": { "osm_id": "8094432437", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -3.3552914, 53.2319503 ] } },
-{ "type": "Feature", "properties": { "osm_id": "8254807023", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ -3.3978727, 53.1808111 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8254807022", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ -3.3978463, 53.1808501 ] } },
 { "type": "Feature", "properties": { "osm_id": "8269576259", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ -3.4053279, 53.1812753 ] } },
 { "type": "Feature", "properties": { "osm_id": "8269576260", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ -3.3903126, 53.1819836 ] } },
 { "type": "Feature", "properties": { "osm_id": "8269589334", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -3.396955, 53.1832416 ] } },
-{ "type": "Feature", "properties": { "osm_id": "8270105650", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ -3.4050242, 53.1829508 ] } },
-{ "type": "Feature", "properties": { "osm_id": "8270200348", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -3.4033194, 53.1850077 ] } }
+{ "type": "Feature", "properties": { "osm_id": "8270105650", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -3.4051496, 53.1829689 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8270200348", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -3.4033194, 53.1850077 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8294025424", "other_tags": "\"amenity\"=>\"recycling\",\"recycling:clothes\"=>\"yes\",\"recycling:shoes\"=>\"yes\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -3.4022266, 53.3344485 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8680142688", "barrier": "gate" }, "geometry": { "type": "Point", "coordinates": [ -3.4145341, 53.1899083 ] } }
 ]
 }

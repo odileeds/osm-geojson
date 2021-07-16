@@ -1,10 +1,10 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[11.023813,49.544381],"type":"Point"},"properties":{"osm_id":"302956511","tag":{"amenity":"recycling","opening_hours":"Mo-Fr 08:00-17:00, Sa 08:00-13:00","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.030577,49.552519],"type":"Point"},"properties":{"osm_id":"315859271","tag":{"amenity":"recycling","location":"overground","recycling:clothes":"yes","recycling:glass":"yes","recycling:small_electrical_appliances":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.023813,49.544381],"type":"Point"},"properties":{"osm_id":"302956511","tag":{"amenity":"recycling","opening_hours":"Mo-Fr 08:00-17:00, Sa 08:00-13:00","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:scrap_metal":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.030577,49.552519],"type":"Point"},"properties":{"osm_id":"315859271","tag":{"amenity":"recycling","location":"overground","recycling:clothes":"yes","recycling:glass":"no","recycling:glass_bottles":"yes","recycling:small_electrical_appliances":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.023394,49.552371],"type":"Point"},"properties":{"osm_id":"324781825","tag":{"amenity":"recycling","location":"overground","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.017318,49.551],"type":"Point"},"properties":{"osm_id":"343688553","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.017318,49.551],"type":"Point"},"properties":{"osm_id":"343688553","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:scrap_metal":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.021041,49.553141],"type":"Point"},"properties":{"osm_id":"558527713","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.023622,49.52205],"type":"Point"},"properties":{"name":"Wertstoffhof Boxdorf","osm_id":"600413323","tag":{"addr:city":"N\u00c3\u00bcrnberg","addr:country":"DE","addr:housenumber":"17","addr:postcode":"90427","addr:street":"W\u00c3\u00bcrzburger Stra\u00c3\u009fe","amenity":"recycling","loc_ref":"6","opening_hours":"Tu,Fr 09:30-18:00; Sa 09:30-15:00","recycling_type":"centre","website":"https://www.nuernberg.de/internet/abfallwirtschaft/wertstoffhoefe_adressen.html"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.027808,49.534436],"type":"Point"},"properties":{"osm_id":"701090776","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
@@ -25,9 +25,14 @@
 	{"geometry":{"coordinates":[11.067504,49.526996],"type":"Point"},"properties":{"osm_id":"2583458463","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.001432,49.512239],"type":"Point"},"properties":{"name":"Gebrauchtwarenhof","osm_id":"3898213133","tag":{"addr:housenumber":"14","addr:street":"Industriestra\u00c3\u009fe","amenity":"recycling","description":"Abholung/Annahme/Verkauf gebrauchter und funktionst\u00c3\u00bcchtiger Dinge","opening_hours":"Mo-Fr 09:00-19:00; Sa 09:00-16:00","phone":"+49 911 307320","second_hand":"general","shop":"second_hand","website":"www.gebrauchtwarenhof.de"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.989317,49.552746],"type":"Point"},"properties":{"osm_id":"5120116497","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 07:00-19:00","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.015877,49.549254],"type":"Point"},"properties":{"osm_id":"5681221534","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.015858,49.549203],"type":"Point"},"properties":{"osm_id":"5681221534","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.043795,49.518467],"type":"Point"},"properties":{"osm_id":"6044307567","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.045884,49.518589],"type":"Point"},"properties":{"osm_id":"6049701280","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.045809,49.518416],"type":"Point"},"properties":{"osm_id":"6049701281","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[11.045809,49.518416],"type":"Point"},"properties":{"osm_id":"6049701281","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.052763,49.524748],"type":"Point"},"properties":{"osm_id":"8664005352","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.051821,49.523165],"type":"Point"},"properties":{"osm_id":"8664005353","tag":{"amenity":"waste_basket","board_type":"plants","description":"Kopfweiden","information":"board","tourism":"information","website":"www.lpv.nuernberg.de"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.051546,49.519425],"type":"Point"},"properties":{"osm_id":"8670857236","tag":{"amenity":"waste_basket","colour":"brown"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.051105,49.519278],"type":"Point"},"properties":{"osm_id":"8670857237","tag":{"amenity":"waste_basket","colour":"brown"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.027801,49.515625],"type":"Point"},"properties":{"osm_id":"8857339604","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
 ]
 }

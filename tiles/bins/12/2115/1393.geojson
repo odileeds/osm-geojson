@@ -1,10 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[5.897339,49.772492],"type":"Point"},"properties":{"osm_id":"1687415181","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.889476,49.765026],"type":"Point"},"properties":{"osm_id":"2095556688","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.897339,49.772492],"type":"Point"},"properties":{"osm_id":"1687415181","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.889476,49.765026],"type":"Point"},"properties":{"osm_id":"2095556688","tag":{"amenity":"waste_basket","check_date":"2021-01-24"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.895576,49.765873],"type":"Point"},"properties":{"osm_id":"2095556713","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.895154,49.765911],"type":"Point"},"properties":{"osm_id":"2095556715","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.895174,49.765912],"type":"Point"},"properties":{"highway":"bus_stop","name":"Redange, Schock","osm_id":"2095556716","tag":{"amenity":"waste_basket","bus":"yes","public_transport":"platform","shelter":"no"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.895494,49.768918],"type":"Point"},"properties":{"osm_id":"5852150014","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.942293,49.778723],"type":"Point"},"properties":{"osm_id":"6547161144","tag":{"amenity":"waste_basket"}},"type":"Feature"},

@@ -8,20 +8,18 @@
 { "type": "Feature", "properties": { "osm_id": "1103327761", "barrier": "gate" }, "geometry": { "type": "Point", "coordinates": [ -3.2916337, 57.6483018 ] } },
 { "type": "Feature", "properties": { "osm_id": "1388609238", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -3.3724804, 57.6590686 ] } },
 { "type": "Feature", "properties": { "osm_id": "1875881079", "other_tags": "\"amenity\"=>\"recycling\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -2.8130128, 57.6933597 ] } },
-{ "type": "Feature", "properties": { "osm_id": "3185390083", "other_tags": "\"amenity\"=>\"recycling\",\"recycling_type\"=>\"container\",\"recycling:glass\"=>\"yes\",\"recycling:paper\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -3.5915661, 57.6518686 ] } },
+{ "type": "Feature", "properties": { "osm_id": "3185390083", "other_tags": "\"amenity\"=>\"recycling\",\"recycling:glass\"=>\"yes\",\"recycling:paper\"=>\"yes\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -3.5915661, 57.6518686 ] } },
 { "type": "Feature", "properties": { "osm_id": "3187584080", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -3.612175, 57.6591965 ] } },
 { "type": "Feature", "properties": { "osm_id": "4283993621", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -2.7565816, 57.524678 ] } },
 { "type": "Feature", "properties": { "osm_id": "4638026499", "name": "Archiestown", "other_tags": "\"amenity\"=>\"recycling\",\"recycling_type\"=>\"centre\"" }, "geometry": { "type": "Point", "coordinates": [ -3.2830858, 57.4817859 ] } },
-{ "type": "Feature", "properties": { "osm_id": "6200082712", "name": "ReBOOT Forres", "other_tags": "\"amenity\"=>\"recycling\",\"recycling_type\"=>\"centre\",\"recycling:electrical_appliances\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -3.6359268, 57.6075353 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6200082712", "name": "ReBOOT Forres", "other_tags": "\"amenity\"=>\"recycling\",\"recycling:electrical_appliances\"=>\"yes\",\"recycling_type\"=>\"centre\"" }, "geometry": { "type": "Point", "coordinates": [ -3.6359268, 57.6075353 ] } },
 { "type": "Feature", "properties": { "osm_id": "6200187801", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -3.6133416, 57.6098267 ] } },
 { "type": "Feature", "properties": { "osm_id": "6200187803", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -3.6134005, 57.6098084 ] } },
 { "type": "Feature", "properties": { "osm_id": "7557225773", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.9509966, 57.5383831 ] } },
 { "type": "Feature", "properties": { "osm_id": "7557225774", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.9511029, 57.5385536 ] } },
-{ "type": "Feature", "properties": { "osm_id": "7563797937", "other_tags": "\"waste\"=>\"trash\",\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -3.2329591, 57.4692498 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7563797937", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -3.2329846, 57.4692765 ] } },
 { "type": "Feature", "properties": { "osm_id": "7564332417", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.9527797, 57.5349469 ] } },
-{ "type": "Feature", "properties": { "osm_id": "7567280366", "other_tags": "\"waste\"=>\"trash\",\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -3.2312009, 57.4700835 ] } },
-{ "type": "Feature", "properties": { "osm_id": "7568549073", "other_tags": "\"waste\"=>\"dog_excrement\",\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -3.2295446, 57.4708407 ] } },
-{ "type": "Feature", "properties": { "osm_id": "7861733734", "other_tags": "\"power\"=>\"pole\"" }, "geometry": { "type": "Point", "coordinates": [ -2.8413874, 57.6320059 ] } },
-{ "type": "Feature", "properties": { "osm_id": "7861733974", "other_tags": "\"power\"=>\"pole\"" }, "geometry": { "type": "Point", "coordinates": [ -2.8327614, 57.6784057 ] } }
+{ "type": "Feature", "properties": { "osm_id": "7567280366", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -3.2312009, 57.4700835 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7568549073", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ -3.2295446, 57.4708407 ] } }
 ]
 }

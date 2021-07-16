@@ -1,11 +1,11 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[0.36258,45.037166],"type":"Point"},"properties":{"osm_id":"2767867686","tag":{"natural":"tree","type":"conifer"}},"type":"Feature"},
+	{"geometry":{"coordinates":[0.36258,45.037166],"type":"Point"},"properties":{"osm_id":"2767867686","tag":{"leaf_type":"needleleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.362872,45.037199],"type":"Point"},"properties":{"osm_id":"2767867735","tag":{"natural":"tree","type":"palm"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.362797,45.037215],"type":"Point"},"properties":{"osm_id":"2767867759","tag":{"natural":"tree","type":"palm"}},"type":"Feature"},
-	{"geometry":{"coordinates":[0.362727,45.037223],"type":"Point"},"properties":{"osm_id":"2767867763","tag":{"natural":"tree","type":"conifer"}},"type":"Feature"},
-	{"geometry":{"coordinates":[0.362622,45.037281],"type":"Point"},"properties":{"osm_id":"2767867800","tag":{"natural":"tree","type":"conifer"}},"type":"Feature"},
+	{"geometry":{"coordinates":[0.362727,45.037223],"type":"Point"},"properties":{"osm_id":"2767867763","tag":{"leaf_type":"needleleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[0.362622,45.037281],"type":"Point"},"properties":{"osm_id":"2767867800","tag":{"leaf_type":"needleleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.370347,45.037155],"type":"Point"},"properties":{"osm_id":"2895354170","tag":{"description":"Arbre ancien (120 ans)","height":"21","natural":"tree","species":"Quercus Petraea"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.414554,45.08462],"type":"Point"},"properties":{"osm_id":"4112348345","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.414503,45.084609],"type":"Point"},"properties":{"osm_id":"4112348346","tag":{"natural":"tree"}},"type":"Feature"},
@@ -31,6 +31,7 @@
 	{"geometry":{"coordinates":[0.415689,45.085621],"type":"Point"},"properties":{"osm_id":"6167726148","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.415807,45.085547],"type":"Point"},"properties":{"osm_id":"6167726149","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.415893,45.085591],"type":"Point"},"properties":{"osm_id":"6167726150","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[0.375458,45.034726],"type":"Point"},"properties":{"osm_id":"8195373803","tag":{"natural":"tree"}},"type":"Feature"}
+	{"geometry":{"coordinates":[0.375458,45.034726],"type":"Point"},"properties":{"osm_id":"8195373803","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[0.414103,45.085332],"type":"Point"},"properties":{"osm_id":"8658449405","tag":{"leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"}
 ]
 }

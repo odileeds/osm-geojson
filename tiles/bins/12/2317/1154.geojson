@@ -1,9 +1,8 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[23.6818,61.505338],"type":"Point"},"properties":{"osm_id":"845677190","tag":{"amenity":"recycling","location":"underground","recycling:batteries":"yes","recycling:cardboard":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[23.710187,61.504614],"type":"Point"},"properties":{"osm_id":"851765836","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:scrap_metal":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[23.699164,61.506428],"type":"Point"},"properties":{"osm_id":"852055724","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:cardboard":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[23.699164,61.506428],"type":"Point"},"properties":{"osm_id":"852055724","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:cardboard":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[23.668766,61.508389],"type":"Point"},"properties":{"osm_id":"862428738","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[23.705822,61.503816],"type":"Point"},"properties":{"osm_id":"871279389","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:cardboard":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[23.668817,61.513956],"type":"Point"},"properties":{"osm_id":"903652316","tag":{"amenity":"recycling"}},"type":"Feature"},
@@ -12,7 +11,7 @@
 	{"geometry":{"coordinates":[23.667812,61.505938],"type":"Point"},"properties":{"osm_id":"1738414325","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[23.666285,61.506408],"type":"Point"},"properties":{"osm_id":"1738414333","tag":{"access":"private","amenity":"recycling","recycling:green_waste":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[23.648786,61.502018],"type":"Point"},"properties":{"osm_id":"1759975042","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[23.680481,61.505407],"type":"Point"},"properties":{"osm_id":"1762369358","tag":{"amenity":"waste_basket","backrest":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[23.680481,61.505407],"type":"Point"},"properties":{"osm_id":"1762369358","tag":{"amenity":"waste_basket","backrest":"yes","check_date":"2021-03-19"}},"type":"Feature"},
 	{"geometry":{"coordinates":[23.679895,61.505711],"type":"Point"},"properties":{"osm_id":"1762369409","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[23.670332,61.503007],"type":"Point"},"properties":{"osm_id":"1762412255","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[23.661785,61.502734],"type":"Point"},"properties":{"osm_id":"1762849115","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -33,7 +32,6 @@
 	{"geometry":{"coordinates":[23.726712,61.497694],"type":"Point"},"properties":{"osm_id":"7044630632","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[23.726136,61.496185],"type":"Point"},"properties":{"osm_id":"7044630633","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[23.725535,61.497217],"type":"Point"},"properties":{"osm_id":"7044630634","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[23.722629,61.501137],"type":"Point"},"properties":{"osm_id":"7267190933","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[23.670829,61.514032],"type":"Point"},"properties":{"name":"SPR Kontti - Kierr\u00c3\u00a4tystavaratalo","osm_id":"7867814236","tag":{"addr:housenumber":"3","addr:postcode":"33400","addr:street":"Harjuntausta","amenity":"recycling","name:en":"Flea Market Kontti","name:fi":"SPR Kontti - Kierr\u00c3\u00a4tystavaratalo","name:sv":"Loppmarknad Kontti","opening_hours":"Mo-Fr 09:00-19:00; Sa 10:00-17:00; Su 12:00-17:00","operator":"Suomen Punainen Risti","phone":"+358 40 7379155","recycling:clothes":"yes","recycling_type":"centre","shop":"second_hand","website":"https://kontti.punainenristi.fi/tampere"}},"type":"Feature"}
+	{"geometry":{"coordinates":[23.722629,61.501137],"type":"Point"},"properties":{"osm_id":"7267190933","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

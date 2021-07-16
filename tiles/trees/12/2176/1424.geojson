@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[11.287447,47.942112],"type":"Point"},"properties":{"name":"Naturdenkmal","osm_id":"302729114","tag":{"denotation":"natural_monument","genus":"Tilia","genus:de":"Linde","height":"15","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.287447,47.942112],"type":"Point"},"properties":{"osm_id":"302729114","tag":{"denotation":"natural_monument","genus":"Tilia","genus:de":"Linde","height":"15","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.287225,47.973283],"type":"Point"},"properties":{"osm_id":"383196480","tag":{"height":"15","natural":"tree","type":"oak"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.308655,47.979132],"type":"Point"},"properties":{"osm_id":"383224663","tag":{"genus":"Tilia","genus:de":"Linde","height":"10","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.309818,47.979788],"type":"Point"},"properties":{"osm_id":"383224669","tag":{"genus":"Tilia","genus:de":"Linde","height":"10","natural":"tree"}},"type":"Feature"},
@@ -282,6 +282,11 @@
 	{"geometry":{"coordinates":[11.309688,47.951914],"type":"Point"},"properties":{"osm_id":"6873946911","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.252712,47.983231],"type":"Point"},"properties":{"name":"Drumlin-Buche","osm_id":"7625897965","tag":{"circumference":"4.5","denotation":"landmark","description":"Jahreszeiten-Baum der w\u00c3\u00b6chentlichen BR-Sendung \u00e2\u0080\u009eZwischen Spessart und Karwendel\u00e2\u0080\u009c","genus":"Fagus","genus:de":"Buche","height":"15","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","start_date":"1855"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.281103,47.987701],"type":"Point"},"properties":{"osm_id":"8120240107","tag":{"genus":"Birke","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.281062,47.9877],"type":"Point"},"properties":{"osm_id":"8120240108","tag":{"genus":"Birke","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"}
+	{"geometry":{"coordinates":[11.281062,47.9877],"type":"Point"},"properties":{"osm_id":"8120240108","tag":{"genus":"Birke","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.285929,47.943118],"type":"Point"},"properties":{"name":"Linde","osm_id":"8631985422","tag":{"denotation":"garden","height":"15","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.304675,47.948376],"type":"Point"},"properties":{"osm_id":"8690984125","tag":{"denotation":"natural_monument","genus":"Quercus","genus:de":"Eiche","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.30867,47.941951],"type":"Point"},"properties":{"osm_id":"8878055442","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.308758,47.941801],"type":"Point"},"properties":{"osm_id":"8878055443","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.309189,47.941937],"type":"Point"},"properties":{"osm_id":"8878055444","tag":{"natural":"tree"}},"type":"Feature"}
 ]
 }

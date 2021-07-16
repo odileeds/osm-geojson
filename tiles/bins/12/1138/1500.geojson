@@ -1,8 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-79.934806,43.271134],"type":"Point"},"properties":{"osm_id":"298943597","tag":{"power":"tower"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-79.938473,43.270856],"type":"Point"},"properties":{"name":"Dundas Community Recycling centre","osm_id":"912485187","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-79.918629,43.264636],"type":"Point"},"properties":{"osm_id":"4360322849","tag":{"amenity":"waste_disposal"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-79.938411,43.270842],"type":"Point"},"properties":{"name":"Dundas Community Recycling centre","osm_id":"912485187","tag":{"addr:housenumber":"27","addr:street":"Olympic Drive","amenity":"recycling","opening_hours":"Mo-Sa 08:00-18:00","recycling_type":"centre"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-79.918629,43.264636],"type":"Point"},"properties":{"osm_id":"4360322849","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-79.896715,43.274178],"type":"Point"},"properties":{"osm_id":"8576782710","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-79.896733,43.274176],"type":"Point"},"properties":{"osm_id":"8576782711","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
 ]
 }

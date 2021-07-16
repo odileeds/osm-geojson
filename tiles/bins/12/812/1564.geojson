@@ -2,8 +2,8 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[-108.605896,39.066381],"type":"Point"},"properties":{"osm_id":"2394702480","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-108.566055,39.067218],"type":"Point"},"properties":{"osm_id":"3799754041","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-108.564594,39.067367],"type":"Point"},"properties":{"osm_id":"3799767612","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-108.566055,39.067218],"type":"Point"},"properties":{"osm_id":"3799754041","tag":{"amenity":"waste_basket","check_date":"2020-12-31"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-108.564594,39.067367],"type":"Point"},"properties":{"osm_id":"3799767612","tag":{"amenity":"waste_basket","check_date":"2020-12-31"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-108.564298,39.067212],"type":"Point"},"properties":{"osm_id":"4392891290","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-108.559778,39.0678],"type":"Point"},"properties":{"osm_id":"5103631922","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-108.582214,39.070255],"type":"Point"},"properties":{"name":"Curbside Recycling Indefinitely","osm_id":"5617012603","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
@@ -41,6 +41,8 @@
 	{"geometry":{"coordinates":[-108.562986,39.068471],"type":"Point"},"properties":{"osm_id":"6589753339","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-108.563279,39.068575],"type":"Point"},"properties":{"osm_id":"6589758718","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-108.563276,39.068536],"type":"Point"},"properties":{"osm_id":"6589758733","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-108.55957,39.067423],"type":"Point"},"properties":{"osm_id":"6661636704","tag":{"amenity":"waste_basket","colour":"black","operator":"City of Grand Junction"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-108.55957,39.067423],"type":"Point"},"properties":{"osm_id":"6661636704","tag":{"amenity":"waste_basket","colour":"black","operator":"City of Grand Junction"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-108.560289,39.055003],"type":"Point"},"properties":{"osm_id":"8890966138","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-108.560292,39.054994],"type":"Point"},"properties":{"osm_id":"8890975610","tag":{"amenity":"recycling"}},"type":"Feature"}
 ]
 }

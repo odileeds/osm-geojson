@@ -8,7 +8,7 @@
 	{"geometry":{"coordinates":[4.822922,50.895901],"type":"Point"},"properties":{"osm_id":"1531162246","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.754746,50.89759],"type":"Point"},"properties":{"osm_id":"1895413737","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.794681,50.8659],"type":"Point"},"properties":{"osm_id":"1928640657","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.806755,50.902897],"type":"Point"},"properties":{"osm_id":"1937391337","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.806755,50.902897],"type":"Point"},"properties":{"osm_id":"1937391337","tag":{"amenity":"waste_basket","check_date":"2021-01-17"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.793815,50.871409],"type":"Point"},"properties":{"osm_id":"1989910890","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.768482,50.860981],"type":"Point"},"properties":{"osm_id":"2035706021","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.766203,50.861685],"type":"Point"},"properties":{"osm_id":"2035706029","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -23,7 +23,7 @@
 	{"geometry":{"coordinates":[4.826406,50.847958],"type":"Point"},"properties":{"osm_id":"2164180209","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.783776,50.852631],"type":"Point"},"properties":{"osm_id":"2176280320","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.791747,50.84861],"type":"Point"},"properties":{"osm_id":"2177376878","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.812777,50.896227],"type":"Point"},"properties":{"osm_id":"2492292724","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.812777,50.896227],"type":"Point"},"properties":{"osm_id":"2492292724","tag":{"amenity":"recycling","check_date:recycling":"2021-01-17","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.753888,50.878289],"type":"Point"},"properties":{"name":"glass","osm_id":"2821001057","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:glass_bottles":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.758535,50.886458],"type":"Point"},"properties":{"osm_id":"2984394130","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:glass_bottles":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.747584,50.863886],"type":"Point"},"properties":{"osm_id":"3062595013","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -35,8 +35,8 @@
 	{"geometry":{"coordinates":[4.773537,50.859832],"type":"Point"},"properties":{"osm_id":"3437894919","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.82838,50.897454],"type":"Point"},"properties":{"osm_id":"3445228623","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.810127,50.899654],"type":"Point"},"properties":{"osm_id":"3447162533","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.806795,50.902927],"type":"Point"},"properties":{"osm_id":"3447174018","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.793678,50.899199],"type":"Point"},"properties":{"osm_id":"3450289367","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.806795,50.902927],"type":"Point"},"properties":{"osm_id":"3447174018","tag":{"amenity":"recycling","recycling:cans":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.793678,50.899199],"type":"Point"},"properties":{"osm_id":"3450289367","tag":{"amenity":"waste_basket","check_date":"2021-01-17"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.782724,50.896656],"type":"Point"},"properties":{"osm_id":"3450723217","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.749769,50.894328],"type":"Point"},"properties":{"osm_id":"3455900171","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.772735,50.86423],"type":"Point"},"properties":{"osm_id":"3751343288","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -53,7 +53,9 @@
 	{"geometry":{"coordinates":[4.764566,50.895739],"type":"Point"},"properties":{"osm_id":"6017660197","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.764798,50.895704],"type":"Point"},"properties":{"osm_id":"6017660198","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.76711,50.896239],"type":"Point"},"properties":{"osm_id":"8247215272","tag":{"amenity":"recycling","opening_hours":"24/7","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.767396,50.896183],"type":"Point"},"properties":{"osm_id":"8247215273","tag":{"amenity":"recycling","opening_hours":"24/7","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.767344,50.896243],"type":"Point"},"properties":{"osm_id":"8247215275","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[4.767396,50.896183],"type":"Point"},"properties":{"osm_id":"8247215273","tag":{"amenity":"recycling","opening_hours":"24/7","operator":"www.dekringwinkel.be","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.767344,50.896243],"type":"Point"},"properties":{"osm_id":"8247215275","tag":{"amenity":"waste_basket","material":"plastic","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.767403,50.896179],"type":"Point"},"properties":{"osm_id":"8400023103","tag":{"amenity":"recycling","opening_hours":"24/7","operator":"www.dekringwinkel.be","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.767649,50.895695],"type":"Point"},"properties":{"osm_id":"8400023107","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

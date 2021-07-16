@@ -1,7 +1,8 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[14.004036,49.265901],"type":"Point"},"properties":{"osm_id":"4195898677","tag":{"amenity":"recycling","opening_hours":"We 16:00-18:00, Su 16:00-18:00","recycling:green_waste":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.982137,49.227716],"type":"Point"},"properties":{"osm_id":"7703364154","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[14.004036,49.265901],"type":"Point"},"properties":{"osm_id":"4195898677","tag":{"amenity":"recycling","opening_hours":"We 16:00-18:00, Su 16:00-18:00","recycling:batteries":"yes","recycling:cooking_oil":"yes","recycling:glass":"yes","recycling:green_waste":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:scrap_metal":"yes","recycling:small_electrical_appliances":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.982137,49.227716],"type":"Point"},"properties":{"osm_id":"7703364154","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[14.023864,49.216073],"type":"Point"},"properties":{"osm_id":"8378356938","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
 ]
 }

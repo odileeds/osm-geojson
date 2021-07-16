@@ -1,7 +1,10 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-1.203611,50.593181],"type":"Point"},"properties":{"osm_id":"1486192833","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.203131,50.595764],"type":"Point"},"properties":{"osm_id":"8168509668","tag":{"amenity":"recycling","recycling_type":"container","ref:GB:uprn":"10024247147"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-1.203611,50.593181],"type":"Point"},"properties":{"osm_id":"1486192833","tag":{"amenity":"recycling","location":"overground","opening_hours":"24/7","operator":"Isle of Wight Council","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.203131,50.595764],"type":"Point"},"properties":{"osm_id":"8168509668","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container","ref:GB:uprn":"10024247147"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.18881,50.616886],"type":"Point"},"properties":{"osm_id":"8463901668","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.221736,50.615552],"type":"Point"},"properties":{"osm_id":"8564360595","ref":"0092","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"no","recycling:paper":"no","recycling:scrap_metal":"no","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.221693,50.615511],"type":"Point"},"properties":{"osm_id":"8564360596","tag":{"amenity":"recycling","opening_hours":"24/7","operator":"Isle of Wight Council","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling_type":"container","ref:GB:uprn":"10024247151"}},"type":"Feature"}
 ]
 }

@@ -2,8 +2,8 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[13.373564,53.33109],"type":"Point"},"properties":{"name":"K\u00c3\u00b6hlereiche","osm_id":"893342233","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.439328,53.3363],"type":"Point"},"properties":{"name":"Dorflinde","osm_id":"1925486320","tag":{"natural":"tree","type":"broad_leaved"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.442639,53.338038],"type":"Point"},"properties":{"name":"Dorflinde","osm_id":"1925486321","tag":{"natural":"tree","type":"broad_leaved"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.439328,53.3363],"type":"Point"},"properties":{"name":"Dorflinde","osm_id":"1925486320","tag":{"leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.442639,53.338038],"type":"Point"},"properties":{"name":"Dorflinde","osm_id":"1925486321","tag":{"leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.360189,53.349831],"type":"Point"},"properties":{"osm_id":"5385344518","tag":{"leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.36108,53.349681],"type":"Point"},"properties":{"osm_id":"5385344519","tag":{"leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.361758,53.349637],"type":"Point"},"properties":{"osm_id":"5385344520","tag":{"leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
@@ -235,6 +235,7 @@
 	{"geometry":{"coordinates":[13.424991,53.334236],"type":"Point"},"properties":{"osm_id":"7808296087","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.424809,53.334427],"type":"Point"},"properties":{"osm_id":"7808296088","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.423996,53.333898],"type":"Point"},"properties":{"osm_id":"7808296091","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.423792,53.333944],"type":"Point"},"properties":{"osm_id":"7808296092","tag":{"natural":"tree"}},"type":"Feature"}
+	{"geometry":{"coordinates":[13.423792,53.333944],"type":"Point"},"properties":{"osm_id":"7808296092","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.431964,53.339506],"type":"Point"},"properties":{"osm_id":"8571512851","tag":{"natural":"tree"}},"type":"Feature"}
 ]
 }

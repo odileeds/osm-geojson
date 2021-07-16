@@ -33,7 +33,7 @@
 	{"geometry":{"coordinates":[-6.192817,53.375769],"type":"Point"},"properties":{"osm_id":"5590887367","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-6.181579,53.378762],"type":"Point"},"properties":{"osm_id":"5591294272","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-6.180333,53.379237],"type":"Point"},"properties":{"osm_id":"5591294274","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-6.234368,53.350633],"type":"Point"},"properties":{"osm_id":"5602544005","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-6.234368,53.350633],"type":"Point"},"properties":{"osm_id":"5602544005","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-6.234665,53.350632],"type":"Point"},"properties":{"osm_id":"5602544822","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-6.232348,53.352632],"type":"Point"},"properties":{"osm_id":"5602544825","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-6.23161,53.352948],"type":"Point"},"properties":{"osm_id":"5602544829","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -56,6 +56,9 @@
 	{"geometry":{"coordinates":[-6.239605,53.360253],"type":"Point"},"properties":{"osm_id":"6045037789","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-6.225855,53.369052],"type":"Point"},"properties":{"osm_id":"6045125909","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-6.236702,53.339396],"type":"Point"},"properties":{"osm_id":"6703930486","tag":{"amenity":"waste_basket","colour":"black","material":"metal","operator":"Dublin City Council"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-6.227917,53.344521],"type":"Point"},"properties":{"osm_id":"8071774893","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-6.227917,53.344521],"type":"Point"},"properties":{"osm_id":"8071774893","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-6.214927,53.332021],"type":"Point"},"properties":{"osm_id":"8853942748","tag":{"amenity":"waste_basket","colour":"black","material":"steel","operator":"Dublin City Council","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-6.215322,53.332165],"type":"Point"},"properties":{"osm_id":"8853942756","tag":{"amenity":"waste_basket","colour":"black","material":"steel","operator":"Dublin City Council","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-6.215342,53.332674],"type":"Point"},"properties":{"osm_id":"8853942757","tag":{"amenity":"waste_basket","colour":"blue","material":"steel","operator":"Dublin City Council","waste":"trash"}},"type":"Feature"}
 ]
 }

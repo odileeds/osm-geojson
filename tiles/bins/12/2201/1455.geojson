@@ -1,10 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[13.488203,46.129921],"type":"Point"},"properties":{"osm_id":"2124926130","tag":{"amenity":"recycling","recycling:batteries":"no","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.492184,46.117414],"type":"Point"},"properties":{"osm_id":"2590830166","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.486828,46.11468],"type":"Point"},"properties":{"name":"Ecopiazzola","osm_id":"4709024973","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.486789,46.129343],"type":"Point"},"properties":{"osm_id":"6832249386","tag":{"amenity":"recycling","location":"overground","operator":"Caritas Diocesana","recycling":"clothes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.486789,46.129343],"type":"Point"},"properties":{"osm_id":"6832249386","tag":{"amenity":"recycling","location":"overground","operator":"Caritas Diocesana","recycling":"clothes","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.484125,46.129661],"type":"Point"},"properties":{"osm_id":"6924949020","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.48724,46.127091],"type":"Point"},"properties":{"osm_id":"6924992130","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.487467,46.127066],"type":"Point"},"properties":{"osm_id":"6924992131","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},

@@ -1,11 +1,10 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[4.927876,51.079293],"type":"Point"},"properties":{"osm_id":"2626284674","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.921944,51.087254],"type":"Point"},"properties":{"osm_id":"2626284985","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.948601,51.087719],"type":"Point"},"properties":{"osm_id":"2626285005","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.922829,51.088866],"type":"Point"},"properties":{"osm_id":"2626285045","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.926409,51.089859],"type":"Point"},"properties":{"osm_id":"2626285062","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.926409,51.089859],"type":"Point"},"properties":{"osm_id":"2626285062","tag":{"amenity":"waste_basket","check_date":"2021-06-05"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.005111,51.100658],"type":"Point"},"properties":{"osm_id":"3227980624","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.004237,51.101172],"type":"Point"},"properties":{"osm_id":"3227981466","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.003443,51.105361],"type":"Point"},"properties":{"osm_id":"3237807075","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -24,7 +23,7 @@
 	{"geometry":{"coordinates":[4.977952,51.123769],"type":"Point"},"properties":{"osm_id":"7383420533","tag":{"amenity":"waste_basket","operator":"Stad Geel"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.972099,51.122916],"type":"Point"},"properties":{"osm_id":"7383420565","tag":{"amenity":"waste_basket","colour":"yellow","operator":"Stad Geel"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.972779,51.123104],"type":"Point"},"properties":{"osm_id":"7383420577","tag":{"amenity":"waste_basket","colour":"yellow","operator":"Stad Geel"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.925755,51.105824],"type":"Point"},"properties":{"osm_id":"7482785685","tag":{"amenity":"waste_basket","colour":"Green","material":"steel","survey:date":"2020-05-04","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.925931,51.105873],"type":"Point"},"properties":{"osm_id":"7482785685","tag":{"amenity":"waste_basket","colour":"Green","material":"steel","survey:date":"2020-05-04","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.976577,51.108795],"type":"Point"},"properties":{"osm_id":"7499382557","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.976606,51.108783],"type":"Point"},"properties":{"osm_id":"7499382558","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.977722,51.109609],"type":"Point"},"properties":{"osm_id":"7499456006","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -43,6 +42,7 @@
 	{"geometry":{"coordinates":[4.975099,51.109372],"type":"Point"},"properties":{"osm_id":"8143261768","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.975399,51.109384],"type":"Point"},"properties":{"osm_id":"8143261770","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.975559,51.109413],"type":"Point"},"properties":{"osm_id":"8143261773","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.974189,51.109958],"type":"Point"},"properties":{"osm_id":"8143261775","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"}
+	{"geometry":{"coordinates":[4.974189,51.109958],"type":"Point"},"properties":{"osm_id":"8143261775","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.9564,51.077458],"type":"Point"},"properties":{"osm_id":"8765783238","tag":{"amenity":"waste_basket","colour":"green","material":"plastic","operator":"Gemeente Laakdal","waste":"trash"}},"type":"Feature"}
 ]
 }

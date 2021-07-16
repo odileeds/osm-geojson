@@ -1,6 +1,8 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[11.459195,50.274774],"type":"Point"},"properties":{"osm_id":"844184914","tag":{"amenity":"recycling"}},"type":"Feature"}
+	{"geometry":{"coordinates":[11.459195,50.274774],"type":"Point"},"properties":{"osm_id":"844184914","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 07:00-19:00; Su off; PH off","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.456993,50.275981],"type":"Point"},"properties":{"osm_id":"8294946512","tag":{"amenity":"waste_basket","material":"plastic","waste":"mixed"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.467968,50.270532],"type":"Point"},"properties":{"osm_id":"8714423418","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

@@ -1,9 +1,10 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-0.067075,52.219643],"type":"Point"},"properties":{"osm_id":"32533814","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.067075,52.219643],"type":"Point"},"properties":{"osm_id":"32533814","tag":{"amenity":"recycling","location":"overground","operator":"Morrison's Foundation, The Salvation Army, Textile Recycling Association, Oxfam","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.063225,52.257569],"type":"Point"},"properties":{"osm_id":"132350445","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.07823,52.223353],"type":"Point"},"properties":{"osm_id":"1046609794","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.078183,52.22339],"type":"Point"},"properties":{"osm_id":"1046609847","tag":{"amenity":"recycling"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-0.078183,52.22339],"type":"Point"},"properties":{"osm_id":"1046609847","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.075557,52.218057],"type":"Point"},"properties":{"osm_id":"8883672767","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

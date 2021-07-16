@@ -3,7 +3,7 @@
 "features": [
 	{"geometry":{"coordinates":[9.788963,53.448204],"type":"Point"},"properties":{"name":"Stadtreinigung Hamburg ehemalige Deponie Neu Wulmstof","osm_id":"1821678026","tag":{"amenity":"recycling","operator":"Stadtreinigung Hamburg","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.804558,53.460032],"type":"Point"},"properties":{"osm_id":"2385545736","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.826973,53.470748],"type":"Point"},"properties":{"osm_id":"2969450179","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.826973,53.470748],"type":"Point"},"properties":{"osm_id":"2969450179","tag":{"amenity":"recycling","check_date:recycling":"2021-05-21","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.780801,53.461161],"type":"Point"},"properties":{"osm_id":"3511115627","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.819862,53.471408],"type":"Point"},"properties":{"osm_id":"3511255406","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.807786,53.44721],"type":"Point"},"properties":{"osm_id":"3629403235","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -46,6 +46,10 @@
 	{"geometry":{"coordinates":[9.814998,53.465],"type":"Point"},"properties":{"osm_id":"7326610104","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.814476,53.465485],"type":"Point"},"properties":{"osm_id":"7326610106","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.814329,53.465648],"type":"Point"},"properties":{"osm_id":"7326610107","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.814141,53.465615],"type":"Point"},"properties":{"osm_id":"7326610162","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[9.814141,53.465615],"type":"Point"},"properties":{"osm_id":"7326610162","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.79453,53.45765],"type":"Point"},"properties":{"osm_id":"8712069020","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.781682,53.459975],"type":"Point"},"properties":{"osm_id":"8830467546","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.781621,53.460091],"type":"Point"},"properties":{"osm_id":"8830467550","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.7815,53.459959],"type":"Point"},"properties":{"osm_id":"8830467551","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
 ]
 }

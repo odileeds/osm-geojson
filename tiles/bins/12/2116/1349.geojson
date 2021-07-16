@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[5.984971,52.181585],"type":"Point"},"properties":{"name":"Milieupark Circulus","osm_id":"464737032","tag":{"amenity":"recycling","name:en":"Recycleplein Circulus-Berkel","name:nl":"Recycleplein Circulus-Berkel","operator":"Circulus","phone":"+31 0900 9552","recycling_type":"centre","website":"https://www.circulus-berkel.nl"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.98394,52.181263],"type":"Point"},"properties":{"name":"Recycleplein Circulus-Berkel","osm_id":"464737032","tag":{"amenity":"recycling","name:en":"Recycleplein Circulus-Berkel","name:nl":"Recycleplein Circulus-Berkel","operator":"Circulus","phone":"+31 0900 9552","recycling_type":"centre","website":"https://www.circulus-berkel.nl"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.978089,52.191606],"type":"Point"},"properties":{"osm_id":"692718567","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.98407,52.211781],"type":"Point"},"properties":{"osm_id":"892900196","tag":{"amenity":"recycling","recycling:drinking_cartons":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.985279,52.199708],"type":"Point"},"properties":{"osm_id":"1181572988","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -15,7 +15,7 @@
 	{"geometry":{"coordinates":[6.003524,52.214298],"type":"Point"},"properties":{"osm_id":"4260787767","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.025646,52.212504],"type":"Point"},"properties":{"osm_id":"4796431658","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.006672,52.195045],"type":"Point"},"properties":{"osm_id":"4960071157","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling_type":"centre"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.031821,52.187771],"type":"Point"},"properties":{"osm_id":"4960523676","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.031788,52.187759],"type":"Point"},"properties":{"osm_id":"4960523676","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.005801,52.195599],"type":"Point"},"properties":{"osm_id":"4964331321","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.007792,52.19567],"type":"Point"},"properties":{"osm_id":"4964331324","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.014043,52.197749],"type":"Point"},"properties":{"osm_id":"4966554749","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -82,8 +82,10 @@
 	{"geometry":{"coordinates":[5.989014,52.191436],"type":"Point"},"properties":{"osm_id":"7414528080","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.018227,52.207276],"type":"Point"},"properties":{"osm_id":"7480340658","tag":{"amenity":"waste_basket","colour":"darkblue"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.999467,52.191257],"type":"Point"},"properties":{"osm_id":"7485205871","tag":{"amenity":"waste_basket","colour":"darkblue"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.984891,52.181881],"type":"Point"},"properties":{"name":"Apeldoorn","osm_id":"7734712315","tag":{"amenity":"recycling","operator":"Circulus-Berkel","website":"http://www.circulus-Berkel.nl"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.005885,52.214326],"type":"Point"},"properties":{"osm_id":"7804910177","tag":{"amenity":"recycling","location":"underground","operator":"Circulus-Berkel","recycling:paper":"yes","recycling:plastic":"yes","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.001504,52.194087],"type":"Point"},"properties":{"osm_id":"7942802939","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[6.001504,52.194087],"type":"Point"},"properties":{"osm_id":"7942802939","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.996399,52.189541],"type":"Point"},"properties":{"osm_id":"8503795111","tag":{"amenity":"waste_basket","colour":"darkblue","material":"steel"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.013975,52.210749],"type":"Point"},"properties":{"osm_id":"8701688104","tag":{"amenity":"waste_basket","colour":"darkblue"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.007495,52.211764],"type":"Point"},"properties":{"osm_id":"8701694026","tag":{"amenity":"waste_basket","colour":"darkblue"}},"type":"Feature"}
 ]
 }

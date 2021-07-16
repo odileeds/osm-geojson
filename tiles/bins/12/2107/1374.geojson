@@ -1,9 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[5.195701,50.828602],"type":"Point"},"properties":{"osm_id":"1930545351","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.246854,50.821871],"type":"Point"},"properties":{"osm_id":"3855533195","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.19725,50.830177],"type":"Point"},"properties":{"osm_id":"4418856135","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.195701,50.828602],"type":"Point"},"properties":{"osm_id":"1930545351","tag":{"amenity":"waste_basket","check_date":"2021-01-11"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.246854,50.821871],"type":"Point"},"properties":{"osm_id":"3855533195","tag":{"amenity":"waste_basket","check_date":"2021-01-02"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.19725,50.830177],"type":"Point"},"properties":{"osm_id":"4418856135","tag":{"amenity":"waste_basket","check_date":"2021-01-21"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.216715,50.826153],"type":"Point"},"properties":{"osm_id":"5290104852","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.211317,50.82519],"type":"Point"},"properties":{"osm_id":"5290104858","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.190427,50.822524],"type":"Point"},"properties":{"osm_id":"5290104870","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -14,6 +14,26 @@
 	{"geometry":{"coordinates":[5.258774,50.829247],"type":"Point"},"properties":{"osm_id":"6806365392","tag":{"amenity":"recycling","colour":"red","operator":"Wereldmissiehulp","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.258766,50.829266],"type":"Point"},"properties":{"osm_id":"6806368457","tag":{"amenity":"recycling","colour":"red","operator":"Wereldmissiehulp","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.255651,50.823172],"type":"Point"},"properties":{"osm_id":"7256565975","tag":{"amenity":"recycling","colour":"red","operator":"Wereldmissiehulp","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.255624,50.823165],"type":"Point"},"properties":{"osm_id":"7256611789","tag":{"amenity":"recycling","colour":"red","operator":"Wereldmissiehulp","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[5.255624,50.823165],"type":"Point"},"properties":{"osm_id":"7256611789","tag":{"amenity":"recycling","colour":"red","operator":"Wereldmissiehulp","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.198901,50.805968],"type":"Point"},"properties":{"osm_id":"8752437888","tag":{"amenity":"waste_basket","colour":"yellow;gray"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.198238,50.806538],"type":"Point"},"properties":{"osm_id":"8752451233","tag":{"amenity":"waste_basket","colour":"yellow","material":"metal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.204365,50.802551],"type":"Point"},"properties":{"osm_id":"8756259298","tag":{"amenity":"waste_basket","colour":"yellow","material":"metal","operator":"Stad Sint-Truiden","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.20436,50.802832],"type":"Point"},"properties":{"osm_id":"8756291307","tag":{"amenity":"waste_basket","colour":"yellow","material":"metal","operator":"Stad Sint-Truiden","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.273304,50.844906],"type":"Point"},"properties":{"osm_id":"8775823905","tag":{"amenity":"waste_basket","colour":"grey","material":"metal","operator":"Gemeente Wellen","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.239298,50.809193],"type":"Point"},"properties":{"osm_id":"8796252177","tag":{"amenity":"waste_basket","colour":"brown","material":"plastic","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.228647,50.810316],"type":"Point"},"properties":{"osm_id":"8796263976","tag":{"amenity":"waste_basket","colour":"yellow,grey","material":"plastic","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.228686,50.809615],"type":"Point"},"properties":{"osm_id":"8796306450","tag":{"amenity":"waste_basket","colour":"brown","material":"plastic","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.259614,50.811931],"type":"Point"},"properties":{"osm_id":"8796369009","tag":{"amenity":"waste_basket","colour":"green","material":"plastic","operator":"Stad Borgloon","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.241118,50.808982],"type":"Point"},"properties":{"osm_id":"8796370517","tag":{"amenity":"waste_basket","colour":"green","material":"metal","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.243857,50.81056],"type":"Point"},"properties":{"osm_id":"8796378071","tag":{"amenity":"waste_basket","colour":"grey","material":"metal","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.259291,50.812096],"type":"Point"},"properties":{"osm_id":"8796386197","tag":{"amenity":"waste_basket","colour":"green","material":"plastic","operator":"Stad Borgloon","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.259964,50.812448],"type":"Point"},"properties":{"osm_id":"8796397386","tag":{"amenity":"waste_basket","colour":"green","material":"plastic","operator":"Stad Borgloon","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.260811,50.808101],"type":"Point"},"properties":{"osm_id":"8796399318","tag":{"amenity":"waste_basket","colour":"yellow","material":"metal","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.260122,50.806946],"type":"Point"},"properties":{"osm_id":"8796408528","tag":{"amenity":"waste_basket","colour":"green","material":"plastic","operator":"Stad Borgloon","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.26168,50.808061],"type":"Point"},"properties":{"osm_id":"8796412190","tag":{"amenity":"recycling","operator":"Limburg.net","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.259099,50.807977],"type":"Point"},"properties":{"osm_id":"8796425014","tag":{"amenity":"waste_basket","colour":"yellow","material":"metal","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.261674,50.80809],"type":"Point"},"properties":{"osm_id":"8796431494","tag":{"amenity":"recycling","operator":"Limburg.net","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.25334,50.837423],"type":"Point"},"properties":{"osm_id":"8811515284","tag":{"amenity":"waste_basket","colour":"brown","material":"plastic"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.255707,50.837627],"type":"Point"},"properties":{"osm_id":"8811515289","tag":{"amenity":"waste_basket","colour":"green","material":"metal"}},"type":"Feature"}
 ]
 }

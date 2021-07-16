@@ -9,7 +9,7 @@
 	{"geometry":{"coordinates":[8.620124,49.718557],"type":"Point"},"properties":{"osm_id":"1322602314","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.621227,49.671233],"type":"Point"},"properties":{"osm_id":"1452912454","tag":{"amenity":"recycling","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.624515,49.671862],"type":"Point"},"properties":{"osm_id":"1452912498","tag":{"amenity":"recycling","opening_hours":"Mo-Fr 07:00-20:00; PH off","operator":"TEXAID Deutschland GmbH","phone":"+49 800 7262454","recycling:clothes":"yes","recycling_type":"container","website":"http://texaid.de"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.623621,49.67743],"type":"Point"},"properties":{"osm_id":"1646769388","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.623621,49.67743],"type":"Point"},"properties":{"osm_id":"1646769388","tag":{"amenity":"recycling","location":"overground","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.624851,49.68158],"type":"Point"},"properties":{"osm_id":"1646769613","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.628572,49.674508],"type":"Point"},"properties":{"osm_id":"1646873410","tag":{"amenity":"recycling","mapillary":"6kVt4kluybFC8nmVJhL3ng","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container","survey:date":"2017-06-04"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.636492,49.684282],"type":"Point"},"properties":{"osm_id":"1648257077","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes"}},"type":"Feature"},
@@ -18,8 +18,8 @@
 	{"geometry":{"coordinates":[8.62578,49.675583],"type":"Point"},"properties":{"osm_id":"1693530335","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.624913,49.675759],"type":"Point"},"properties":{"osm_id":"1693530368","tag":{"amenity":"recycling","recycling:green_waste":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.624907,49.675764],"type":"Point"},"properties":{"osm_id":"1693530380","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.623129,49.675988],"type":"Point"},"properties":{"osm_id":"1693530413","tag":{"amenity":"recycling","recycling:green_waste":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.623122,49.675993],"type":"Point"},"properties":{"osm_id":"1693530414","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.623129,49.675988],"type":"Point"},"properties":{"osm_id":"1693530413","tag":{"amenity":"recycling","location":"overground","recycling:green_waste":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.623122,49.675993],"type":"Point"},"properties":{"osm_id":"1693530414","tag":{"amenity":"waste_basket","check_date":"2021-03-14"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.624566,49.676612],"type":"Point"},"properties":{"osm_id":"1693530634","tag":{"amenity":"recycling","recycling:green_waste":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.62456,49.676617],"type":"Point"},"properties":{"osm_id":"1693530636","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.627678,49.673471],"type":"Point"},"properties":{"osm_id":"1773697207","ref":"131722","tag":{"amenity":"recycling","operator":"TEXAID Deutschland GmbH","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -60,6 +60,7 @@
 	{"geometry":{"coordinates":[8.642265,49.679414],"type":"Point"},"properties":{"osm_id":"7420300641","tag":{"amenity":"waste_basket","colour":"green","material":"metal","waste":"mixed"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.672021,49.70288],"type":"Point"},"properties":{"osm_id":"7511559109","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.655136,49.688833],"type":"Point"},"properties":{"osm_id":"7524645399","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.664871,49.71437],"type":"Point"},"properties":{"osm_id":"7645907242","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[8.664877,49.714344],"type":"Point"},"properties":{"osm_id":"7645907242","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.635546,49.692289],"type":"Point"},"properties":{"osm_id":"8805208080","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

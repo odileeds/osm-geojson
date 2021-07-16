@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[4.756996,51.141909],"type":"Point"},"properties":{"osm_id":"291019695","tag":{"amenity":"recycling","recycling:clothes":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.820236,51.173028],"type":"Point"},"properties":{"osm_id":"1243283881","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:scrap_metal":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.754813,51.168424],"type":"Point"},"properties":{"osm_id":"5082608284","tag":{"amenity":"waste_basket","colour":"green","material":"plastic","operator":"Gemeente Grobbendonk","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.75782,51.136648],"type":"Point"},"properties":{"osm_id":"5521092562","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.758865,51.136029],"type":"Point"},"properties":{"osm_id":"5521092585","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -10,7 +9,7 @@
 	{"geometry":{"coordinates":[4.76625,51.148656],"type":"Point"},"properties":{"osm_id":"5576332259","tag":{"amenity":"waste_basket","operator":"Gemeente Herenthout","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.759675,51.138961],"type":"Point"},"properties":{"osm_id":"5948432269","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.747334,51.135548],"type":"Point"},"properties":{"osm_id":"5974750313","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.754411,51.163715],"type":"Point"},"properties":{"osm_id":"6858737446","tag":{"amenity":"recycling","opening_hours":"Mo-Su 08:00-22:00","operator":"IOK Afvalbeheer","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.754411,51.163715],"type":"Point"},"properties":{"osm_id":"6858737446","tag":{"amenity":"recycling","opening_hours":"Mo-Su 08:00-22:00","operator":"IOK Afvalbeheer","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.746329,51.165569],"type":"Point"},"properties":{"osm_id":"7878692179","tag":{"amenity":"waste_basket","material":"wood","operator":"Gemeente Grobbendonk","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.746808,51.164859],"type":"Point"},"properties":{"osm_id":"7878692182","tag":{"amenity":"waste_basket","colour":"green","material":"plastic","operator":"Gemeente Grobbendonk","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.746684,51.164898],"type":"Point"},"properties":{"osm_id":"7878692183","tag":{"amenity":"waste_basket","operator":"Gemeente Grobbendonk"}},"type":"Feature"},
@@ -30,6 +29,11 @@
 	{"geometry":{"coordinates":[4.76791,51.176547],"type":"Point"},"properties":{"osm_id":"8121657393","tag":{"amenity":"waste_basket","colour":"grey-yellow","material":"metal","operator":"De Lijn (Gemeente Grobbendonk)","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.767994,51.176699],"type":"Point"},"properties":{"osm_id":"8121657400","tag":{"amenity":"waste_basket","colour":"grey-yellow","material":"metal","operator":"De Lijn (Gemeente Grobbendonk)","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.767497,51.148863],"type":"Point"},"properties":{"osm_id":"8155684561","tag":{"amenity":"waste_basket","colour":"green","material":"plastic","operator":"Gemeente Herenthou","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.767601,51.148769],"type":"Point"},"properties":{"osm_id":"8155684563","tag":{"amenity":"waste_basket","colour":"green","material":"plastic","operator":"Gemeente Herenthout","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[4.767601,51.148769],"type":"Point"},"properties":{"osm_id":"8155684563","tag":{"amenity":"waste_basket","colour":"green","material":"plastic","operator":"Gemeente Herenthout","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.750542,51.163167],"type":"Point"},"properties":{"osm_id":"8388384113","tag":{"amenity":"recycling","operator":"Gemeente Grobbendonk","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.765113,51.148675],"type":"Point"},"properties":{"osm_id":"8411666678","tag":{"amenity":"waste_basket","operator":"Gemeente Herenthout","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.767929,51.148409],"type":"Point"},"properties":{"osm_id":"8411864177","tag":{"amenity":"waste_basket","colour":"green","operator":"Gemeente Herenthout","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.768353,51.14902],"type":"Point"},"properties":{"osm_id":"8411864179","tag":{"amenity":"waste_basket","colour":"grey","operator":"Gemeente Herenthout","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.768458,51.149525],"type":"Point"},"properties":{"osm_id":"8411864181","tag":{"amenity":"waste_basket","operator":"Gemeente Herenthout","waste":"trash"}},"type":"Feature"}
 ]
 }

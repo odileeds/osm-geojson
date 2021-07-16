@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[13.128224,51.135281],"type":"Point"},"properties":{"osm_id":"1271404504","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.128167,51.135248],"type":"Point"},"properties":{"osm_id":"1271404504","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.102582,51.127272],"type":"Point"},"properties":{"osm_id":"2048755189","tag":{"amenity":"recycling","recycling:paper":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.100038,51.127618],"type":"Point"},"properties":{"osm_id":"2048755190","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.138997,51.125464],"type":"Point"},"properties":{"osm_id":"2346904235","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -10,6 +10,7 @@
 	{"geometry":{"coordinates":[13.096634,51.126428],"type":"Point"},"properties":{"osm_id":"7900593084","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.096893,51.127073],"type":"Point"},"properties":{"osm_id":"7900593085","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.096869,51.126969],"type":"Point"},"properties":{"osm_id":"7900593086","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.097053,51.126787],"type":"Point"},"properties":{"osm_id":"7900593102","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[13.097053,51.126787],"type":"Point"},"properties":{"osm_id":"7900593102","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.117651,51.143199],"type":"Point"},"properties":{"osm_id":"8528504024","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
 ]
 }

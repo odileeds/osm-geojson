@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[8.900943,53.044356],"type":"Point"},"properties":{"osm_id":"167062792","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling:small_appliances":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.900943,53.044356],"type":"Point"},"properties":{"osm_id":"167062792","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"no","recycling:glass_bottles":"yes","recycling:small_appliances":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.907777,53.05364],"type":"Point"},"properties":{"osm_id":"167144394","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.880068,53.066478],"type":"Point"},"properties":{"osm_id":"171358804","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.944468,53.034035],"type":"Point"},"properties":{"osm_id":"175673449","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -34,7 +34,7 @@
 	{"geometry":{"coordinates":[8.888079,53.046219],"type":"Point"},"properties":{"osm_id":"1581098664","ref":"MARSCHSTRASSE/HAHNENSTRASSE","tag":{"amenity":"waste_basket","ref:tour":"HKB_1","waste_basket:excrement_bags":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.952185,53.047851],"type":"Point"},"properties":{"osm_id":"1581098701","ref":"AM GROSSEN KUHKAMP/NEUE HEIMAT","tag":{"amenity":"waste_basket","ref:tour":"HKB_3","waste_basket:excrement_bags":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.89553,53.048612],"type":"Point"},"properties":{"osm_id":"1581098709","ref":"SANDHOFSTRASSE GEG: NR: 29","tag":{"amenity":"waste_basket","ref:tour":"HKB_1","waste_basket:excrement_bags":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.894348,53.052988],"type":"Point"},"properties":{"osm_id":"1581098733","ref":"Br\u00c3\u00bcggeweg/Klausstra\u00c3\u009fe","tag":{"amenity":"waste_basket","ref:tour":"HKB_1","waste_basket:excrement_bags":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.894348,53.052988],"type":"Point"},"properties":{"osm_id":"1581098733","ref":"Br\u00c3\u00bcggeweg/Klausstra\u00c3\u009fe","tag":{"amenity":"waste_basket","check_date":"2021-01-17","ref:tour":"HKB_1","waste_basket:excrement_bags":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.907766,53.053537],"type":"Point"},"properties":{"osm_id":"1581098746","ref":"SAARSTRASSE/SULZBACHER STRASSE","tag":{"amenity":"waste_basket","ref:tour":"HKB_1","waste_basket:excrement_bags":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.892076,53.054943],"type":"Point"},"properties":{"osm_id":"1581098760","ref":"CHRISTERNSTRASSE/KLEINE WESTERHOLZSTRASSE","tag":{"amenity":"waste_basket","ref:tour":"HKB_1","waste_basket:excrement_bags":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.887434,53.057849],"type":"Point"},"properties":{"osm_id":"1581098773","ref":"DIEDRICH-WILKENS-STRASSE","tag":{"amenity":"waste_basket","ref:tour":"HKB_1","waste_basket:excrement_bags":"yes"}},"type":"Feature"},
@@ -51,9 +51,8 @@
 	{"geometry":{"coordinates":[8.916203,53.054932],"type":"Point"},"properties":{"osm_id":"1630548524","ref":"Griesborner Stra\u00c3\u009fe / Labbacher Stra\u00c3\u009fe","tag":{"amenity":"waste_basket","waste_basket:excrement_bags":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.887099,53.055035],"type":"Point"},"properties":{"osm_id":"1630548525","ref":"Westerholzstra\u00c3\u009fe","tag":{"amenity":"waste_basket","waste_basket:excrement_bags":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.912876,53.055592],"type":"Point"},"properties":{"osm_id":"1630548534","ref":"Saarburger Stra\u00c3\u009fe / Schwalbacher Stra\u00c3\u009fe","tag":{"amenity":"waste_basket","waste_basket:excrement_bags":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.878154,53.064442],"type":"Point"},"properties":{"osm_id":"1630548544","ref":"F\u00c3\u00b6hrenstra\u00c3\u009fe / Plattenheide","tag":{"amenity":"waste_basket","waste_basket:excrement_bags":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.878154,53.064442],"type":"Point"},"properties":{"osm_id":"1630548544","ref":"F\u00c3\u00b6hrenstra\u00c3\u009fe / Plattenheide","tag":{"amenity":"waste_basket","check_date":"2021-01-03","waste_basket:excrement_bags":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.895771,53.066754],"type":"Point"},"properties":{"osm_id":"1630548561","ref":"Wilhelm-Wolters-Stra\u00c3\u009fe","tag":{"amenity":"waste_basket","waste_basket:excrement_bags":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.881824,53.061021],"type":"Point"},"properties":{"osm_id":"1856453148","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.92358,53.037641],"type":"Point"},"properties":{"osm_id":"2255965331","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.935831,53.057263],"type":"Point"},"properties":{"osm_id":"2277886132","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.890886,53.058444],"type":"Point"},"properties":{"osm_id":"2513645197","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -61,11 +60,11 @@
 	{"geometry":{"coordinates":[8.930538,53.058902],"type":"Point"},"properties":{"osm_id":"2543561032","tag":{"amenity":"recycling","mapillary":"76jegPe56KluxLtKA4WO5w","recycling:clothes":"yes","recycling_type":"container","survey:date":"2017-04-17"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.899249,53.062884],"type":"Point"},"properties":{"osm_id":"2581346716","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.903737,53.059387],"type":"Point"},"properties":{"osm_id":"2680981468","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.886459,53.059887],"type":"Point"},"properties":{"osm_id":"2865057525","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.886371,53.059911],"type":"Point"},"properties":{"osm_id":"2865057527","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.886459,53.059887],"type":"Point"},"properties":{"osm_id":"2865057525","tag":{"amenity":"waste_basket","check_date":"2021-03-21"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.886371,53.059911],"type":"Point"},"properties":{"osm_id":"2865057527","tag":{"amenity":"waste_basket","check_date":"2021-03-21"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.879843,53.017023],"type":"Point"},"properties":{"osm_id":"2918902290","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.879494,53.017092],"type":"Point"},"properties":{"osm_id":"2918902291","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.885286,53.058578],"type":"Point"},"properties":{"osm_id":"2919165410","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.885286,53.058578],"type":"Point"},"properties":{"osm_id":"2919165410","tag":{"amenity":"waste_basket","check_date":"2021-03-21"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.940936,53.065101],"type":"Point"},"properties":{"osm_id":"2984586834","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.892154,53.056933],"type":"Point"},"properties":{"osm_id":"2986260427","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.904454,53.040531],"type":"Point"},"properties":{"osm_id":"3065261099","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -94,6 +93,6 @@
 	{"geometry":{"coordinates":[8.889572,53.034613],"type":"Point"},"properties":{"osm_id":"5771571358","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.898671,53.034926],"type":"Point"},"properties":{"osm_id":"5771571360","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.887658,53.059494],"type":"Point"},"properties":{"osm_id":"6887031256","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:shoes":"yes","recycling:small_electrical_appliances":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.963962,53.031565],"type":"Point"},"properties":{"osm_id":"7415404448","tag":{"amenity":"recycling","brand":"Deutsches Rotes Kreuz","operator":"Deutsches Rotes Kreuz Kreisverband Verden e.V.","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[8.963962,53.031565],"type":"Point"},"properties":{"osm_id":"7415404448","tag":{"amenity":"recycling","brand":"Deutsches Rotes Kreuz","opening_hours":"24/7","operator":"Deutsches Rotes Kreuz Kreisverband Verden e.V.","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

@@ -2,9 +2,11 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[-2.754407,52.556488],"type":"Point"},"properties":{"osm_id":"2470532659","tag":{"amenity":"bench","natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-2.728779,52.551921],"type":"Point"},"properties":{"name":"The Royal Oak","osm_id":"3769694498","tag":{"description":"This scarlet oak was planted in November 1977 to commemorate the silver jubilee of Her Majesty Queen Elizabeth II","natural":"tree","source:description":"plaque","start_date":"1977-11"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-2.728779,52.551921],"type":"Point"},"properties":{"name":"Royal Oak","osm_id":"3769694498","tag":{"denotation":"natural_monument","description":"This scarlet oak was planted in November 1977 to commemorate the silver jubilee of Her Majesty Queen Elizabeth II","dominant_taxon":"Quercus robur","leaf_cycle":"semi_deciduous","leaf_type":"broadleaved","natural":"tree","source:description":"plaque","start_date":"1977-11","taxon":"Quercus robur","wikidata":"Q1124292","wikipedia":"en:Royal Oak"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.809736,52.547461],"type":"Point"},"properties":{"osm_id":"8044851007","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.80988,52.547304],"type":"Point"},"properties":{"osm_id":"8044851008","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-2.809809,52.547244],"type":"Point"},"properties":{"osm_id":"8044851009","tag":{"natural":"tree"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-2.809809,52.547244],"type":"Point"},"properties":{"osm_id":"8044851009","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-2.752838,52.545302],"type":"Point"},"properties":{"osm_id":"8694280296","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-2.752653,52.54542],"type":"Point"},"properties":{"osm_id":"8694280297","tag":{"natural":"tree"}},"type":"Feature"}
 ]
 }

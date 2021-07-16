@@ -2,8 +2,10 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[16.836123,49.482469],"type":"Point"},"properties":{"osm_id":"2756438992","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[16.855422,49.441427],"type":"Point"},"properties":{"osm_id":"2939811536","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.855422,49.441427],"type":"Point"},"properties":{"osm_id":"2939811536","tag":{"amenity":"recycling","recycling:beverage_cartons":"yes","recycling:cardboard":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:green_waste":"yes","recycling:paper":"yes","recycling:paper_packaging":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.851219,49.445308],"type":"Point"},"properties":{"osm_id":"2939811557","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[16.834861,49.480548],"type":"Point"},"properties":{"osm_id":"2972059442","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[16.834861,49.480548],"type":"Point"},"properties":{"osm_id":"2972059442","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.854669,49.443018],"type":"Point"},"properties":{"osm_id":"8694932048","tag":{"amenity":"recycling","recycling:beverage_cartons":"yes","recycling:cardboard":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:newspaper":"yes","recycling:paper":"yes","recycling:paper_packaging":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.851231,49.445612],"type":"Point"},"properties":{"osm_id":"8694932053","tag":{"amenity":"recycling","recycling:beverage_cartons":"yes","recycling:cardboard":"yes","recycling:cooking_oil":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:green_waste":"yes","recycling:newspaper":"yes","recycling:paper":"yes","recycling:paper_packaging":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

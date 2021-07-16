@@ -1,13 +1,12 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[3.15416,46.998937],"type":"Point"},"properties":{"osm_id":"603169946","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.160589,46.981899],"type":"Point"},"properties":{"osm_id":"2284787797","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.150902,46.987215],"type":"Point"},"properties":{"osm_id":"3964987226","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.150821,46.987295],"type":"Point"},"properties":{"osm_id":"3964987243","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.150767,46.987499],"type":"Point"},"properties":{"osm_id":"3964987760","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.148529,47.019417],"type":"Point"},"properties":{"name":"Emma\u00c3\u00bcs","osm_id":"4139218878","tag":{"addr:city":"Varennes-Vauzelles","addr:postcode":"58640","addr:street":"Boulevard Camille Dagonneau","amenity":"recycling","recycling:cans":"no","recycling:clothes":"yes","recycling:glass":"no","recycling:glass_bottles":"no","recycling:paper":"no","recycling:plastic":"no","recycling_type":"centre"}},"type":"Feature"},
-	{"geometry":{"coordinates":[3.15011,46.990046],"type":"Point"},"properties":{"osm_id":"4266676670","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.15011,46.990046],"type":"Point"},"properties":{"osm_id":"4266676670","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.157421,47.019949],"type":"Point"},"properties":{"name":"Kaps France","osm_id":"4796934819","tag":{"amenity":"recycling","fax":"+33 9 70 32 83 99","phone":"+33 3 86 59 09 72","recycling:printer_cartridges":"yes","website":"https://www.kaps-france.com/"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.158775,47.019463],"type":"Point"},"properties":{"osm_id":"4796936830","tag":{"addr:city":"Varennes-Vauzelles","addr:postcode":"58640","addr:street":"Rue de Verdun","amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.161005,46.982108],"type":"Point"},"properties":{"osm_id":"5105213041","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -38,6 +37,8 @@
 	{"geometry":{"coordinates":[3.159361,47.002909],"type":"Point"},"properties":{"osm_id":"7969443130","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:paper_packaging":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.159359,47.002924],"type":"Point"},"properties":{"osm_id":"7969443131","tag":{"amenity":"recycling","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.159358,47.00294],"type":"Point"},"properties":{"osm_id":"7969443132","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:paper_packaging":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[3.159356,47.002955],"type":"Point"},"properties":{"osm_id":"7969443133","tag":{"amenity":"recycling","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[3.159356,47.002955],"type":"Point"},"properties":{"osm_id":"7969443133","tag":{"amenity":"recycling","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.15977,46.992474],"type":"Point"},"properties":{"osm_id":"8592729540","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.159741,46.99437],"type":"Point"},"properties":{"osm_id":"8604248150","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

@@ -3,10 +3,9 @@
 "name": "points",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "osm_id": "540940208", "name": "Letham Grange Hotel", "other_tags": "\"amenity\"=>\"recycling\",\"tourism\"=>\"hotel\"" }, "geometry": { "type": "Point", "coordinates": [ -2.6130494, 56.6017506 ] } },
-{ "type": "Feature", "properties": { "osm_id": "541238213", "name": "Colliston Inn", "other_tags": "\"phone\"=>\"+44 1241 890232\",\"amenity\"=>\"recycling\",\"tourism\"=>\"hotel\",\"postal_code\"=>\"DD11 3RP\"" }, "geometry": { "type": "Point", "coordinates": [ -2.644064, 56.594042 ] } },
+{ "type": "Feature", "properties": { "osm_id": "541238213", "name": "Colliston Inn", "other_tags": "\"amenity\"=>\"recycling\",\"phone\"=>\"+44 1241 890232\",\"postal_code\"=>\"DD11 3RP\",\"tourism\"=>\"hotel\"" }, "geometry": { "type": "Point", "coordinates": [ -2.644064, 56.594042 ] } },
 { "type": "Feature", "properties": { "osm_id": "1313344930", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -2.6502601, 56.8096011 ] } },
-{ "type": "Feature", "properties": { "osm_id": "1334937243", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -2.7648747, 56.7687851 ] } },
+{ "type": "Feature", "properties": { "osm_id": "1334937243", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -2.7648689, 56.7688104 ] } },
 { "type": "Feature", "properties": { "osm_id": "3903609039", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.7972696, 56.6261825 ] } },
 { "type": "Feature", "properties": { "osm_id": "5279803082", "barrier": "gate" }, "geometry": { "type": "Point", "coordinates": [ -2.8926647, 56.6466974 ] } },
 { "type": "Feature", "properties": { "osm_id": "5284974231", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.7693505, 56.6287917 ] } },
@@ -30,8 +29,11 @@
 { "type": "Feature", "properties": { "osm_id": "5356999534", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.5216948, 56.5898235 ] } },
 { "type": "Feature", "properties": { "osm_id": "5378036382", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -3.0066241, 56.5981928 ] } },
 { "type": "Feature", "properties": { "osm_id": "5809318131", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -3.0026895, 56.6202957 ] } },
-{ "type": "Feature", "properties": { "osm_id": "5809318133", "other_tags": "\"waste\"=>\"trash\",\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -3.0023912, 56.6205231 ] } },
+{ "type": "Feature", "properties": { "osm_id": "5809318133", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -3.0023912, 56.6205231 ] } },
 { "type": "Feature", "properties": { "osm_id": "6896177867", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.7137216, 56.5008117 ] } },
-{ "type": "Feature", "properties": { "osm_id": "8264826064", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.8908412, 56.6446425 ] } }
+{ "type": "Feature", "properties": { "osm_id": "8264826064", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.8908412, 56.6446425 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8279470392", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.6602133, 56.7315486 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8679782524", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ -2.7050434, 56.5002098 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8679782526", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.7057708, 56.5000933 ] } }
 ]
 }

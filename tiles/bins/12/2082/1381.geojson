@@ -1,10 +1,11 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[2.98908,50.419672],"type":"Point"},"properties":{"osm_id":"3343620494","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.98908,50.419672],"type":"Point"},"properties":{"osm_id":"3343620494","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.005998,50.43616],"type":"Point"},"properties":{"osm_id":"6084711022","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.999074,50.437479],"type":"Point"},"properties":{"osm_id":"6084774915","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.06694,50.408543],"type":"Point"},"properties":{"osm_id":"6535282936","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[3.050282,50.410951],"type":"Point"},"properties":{"name":"Composteur Jardin du Champ Fromentin","osm_id":"7943060088","tag":{"access":"customers","amenity":"recycling","operator":"Ajonc","recycling:compost":"yes","recycling:organic":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[3.050282,50.410951],"type":"Point"},"properties":{"name":"Composteur Jardin du Champ Fromentin","osm_id":"7943060088","tag":{"access":"customers","amenity":"recycling","operator":"Ajonc","recycling:compost":"yes","recycling:organic":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.060963,50.446529],"type":"Point"},"properties":{"osm_id":"8428066653","tag":{"amenity":"recycling","recycling:verre":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

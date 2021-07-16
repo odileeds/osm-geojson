@@ -1,8 +1,8 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[11.855012,48.237874],"type":"Point"},"properties":{"osm_id":"413567567","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:cans":"yes","recycling:cardboard":"yes","recycling:clothes":"yes","recycling:electrical_appliances":"no","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:green_waste":"no","recycling:paper":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling:scrap_metal":"no","recycling:shoes":"yes","recycling:small_appliances":"no","recycling:waste":"no","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.841973,48.250745],"type":"Point"},"properties":{"osm_id":"414074205","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:scrap_metal":"no","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.855012,48.237874],"type":"Point"},"properties":{"osm_id":"413567567","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 07:00-12:00,14:00-19:00; Su,PH off","recycling:cans":"yes","recycling:cardboard":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:shoes":"yes","recycling_type":"container","website":"https://www.landkreis-erding.de/abfallwirtschaft/rund-um-die-entsorgung/recyclinghoefe-containerplaetze/"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.841973,48.250745],"type":"Point"},"properties":{"osm_id":"414074205","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:scrap_metal":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.852216,48.271259],"type":"Point"},"properties":{"osm_id":"2300845303","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.823361,48.273381],"type":"Point"},"properties":{"osm_id":"2317249791","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.820896,48.272812],"type":"Point"},"properties":{"osm_id":"2317271044","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -16,6 +16,8 @@
 	{"geometry":{"coordinates":[11.821402,48.242009],"type":"Point"},"properties":{"osm_id":"4790496804","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.799494,48.277431],"type":"Point"},"properties":{"osm_id":"7589586709","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.799102,48.277608],"type":"Point"},"properties":{"osm_id":"7597768464","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.854588,48.273187],"type":"Point"},"properties":{"osm_id":"8258765004","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[11.854588,48.273187],"type":"Point"},"properties":{"osm_id":"8258765004","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.85225,48.24437],"type":"Point"},"properties":{"barrier":"gate","osm_id":"8692679678"},"type":"Feature"},
+	{"geometry":{"coordinates":[11.781011,48.246829],"type":"Point"},"properties":{"osm_id":"8777459812","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 07:00-12:00,14:00-19:00; Su,PH off","recycling:cans":"yes","recycling:cardboard":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:shoes":"yes","recycling_type":"container","website":"https://www.landkreis-erding.de/abfallwirtschaft/rund-um-die-entsorgung/recyclinghoefe-containerplaetze/"}},"type":"Feature"}
 ]
 }

@@ -1,9 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[21.89422,48.933254],"type":"Point"},"properties":{"osm_id":"1699244125","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[21.894123,48.93312],"type":"Point"},"properties":{"osm_id":"1699244545","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[21.939538,48.940168],"type":"Point"},"properties":{"name":"compost","osm_id":"1699250500","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[21.939538,48.940168],"type":"Point"},"properties":{"osm_id":"1699250500","tag":{"amenity":"recycling","recycling:organic":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[21.931642,48.94107],"type":"Point"},"properties":{"osm_id":"1699285984","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[21.906515,48.936475],"type":"Point"},"properties":{"name":"compost","osm_id":"1699292075","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[21.905271,48.939519],"type":"Point"},"properties":{"name":"home appliances","osm_id":"1699294475","tag":{"amenity":"recycling"}},"type":"Feature"},

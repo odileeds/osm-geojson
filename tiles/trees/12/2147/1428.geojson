@@ -1,6 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
+	{"geometry":{"coordinates":[8.709084,47.748958],"type":"Point"},"properties":{"name":"Merzenbrunnen","osm_id":"2060748273","place":"hamlet","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.713982,47.748799],"type":"Point"},"properties":{"osm_id":"2080483467","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.703614,47.751339],"type":"Point"},"properties":{"osm_id":"2100730353","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.703649,47.751436],"type":"Point"},"properties":{"osm_id":"2100730356","tag":{"natural":"tree"}},"type":"Feature"},
@@ -89,7 +90,6 @@
 	{"geometry":{"coordinates":[8.710241,47.75177],"type":"Point"},"properties":{"osm_id":"2151482213","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.710137,47.751895],"type":"Point"},"properties":{"osm_id":"2151482214","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.709647,47.752494],"type":"Point"},"properties":{"osm_id":"2151482215","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.711992,47.75213],"type":"Point"},"properties":{"osm_id":"2151482216","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.709175,47.752699],"type":"Point"},"properties":{"osm_id":"2151482217","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.709208,47.752784],"type":"Point"},"properties":{"osm_id":"2151482218","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.708714,47.752804],"type":"Point"},"properties":{"osm_id":"2151482219","tag":{"natural":"tree"}},"type":"Feature"},
@@ -168,9 +168,8 @@
 	{"geometry":{"coordinates":[8.713272,47.738927],"type":"Point"},"properties":{"osm_id":"2994445276","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.713104,47.738915],"type":"Point"},"properties":{"osm_id":"2994445277","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.712972,47.73904],"type":"Point"},"properties":{"osm_id":"2994445278","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.757196,47.750858],"type":"Point"},"properties":{"osm_id":"3216997786","tag":{"leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.757196,47.750858],"type":"Point"},"properties":{"name":"Linde","osm_id":"3216997786","tag":{"leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.787951,47.738033],"type":"Point"},"properties":{"osm_id":"3376856015","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.70645,47.743972],"type":"Point"},"properties":{"osm_id":"3519595577","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.706284,47.744005],"type":"Point"},"properties":{"osm_id":"3519595578","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.705449,47.744339],"type":"Point"},"properties":{"osm_id":"3519595579","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.705429,47.744425],"type":"Point"},"properties":{"osm_id":"3519595580","tag":{"natural":"tree"}},"type":"Feature"},
@@ -197,8 +196,13 @@
 	{"geometry":{"coordinates":[8.76557,47.72724],"type":"Point"},"properties":{"osm_id":"7678328686","tag":{"denotation":"landmark","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.76403,47.728099],"type":"Point"},"properties":{"osm_id":"7678328687","tag":{"denotation":"landmark","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.757142,47.72685],"type":"Point"},"properties":{"osm_id":"7678328700","tag":{"denotation":"landmark","natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.731991,47.738508],"type":"Point"},"properties":{"osm_id":"7926470290","tag":{"denotation":"natural_monument","natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.729699,47.739137],"type":"Point"},"properties":{"osm_id":"7926470292","tag":{"denotation":"natural_monument","natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.72584,47.73446],"type":"Point"},"properties":{"osm_id":"7926470300","tag":{"denotation":"natural_monument","natural":"tree"}},"type":"Feature"}
+	{"geometry":{"coordinates":[8.731989,47.738468],"type":"Point"},"properties":{"osm_id":"7926470290","tag":{"denotation":"natural_monument","image":"https://commons.wikimedia.org/wiki/File:Naturdenkmal_neben_dem_Kriegerdenkmal_von_1870-71_in_der_Dorfstra%C3%9Fe_in_Bietingen.jpg","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.729699,47.739137],"type":"Point"},"properties":{"osm_id":"7926470292","tag":{"denotation":"natural_monument","image":"https://commons.wikimedia.org/wiki/File:Naturdenkmal_am_Dreieck_von_Romelstra%C3%9Fe_und_Dorfstra%C3%9Fe_in_Bietingen.jpg","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.72584,47.73446],"type":"Point"},"properties":{"osm_id":"7926470300","tag":{"denotation":"natural_monument","image":"https://commons.wikimedia.org/wiki/File:Naturdenkmal_s%C3%BCdlich_von_Bietingen_in_der_N%C3%A4he_des_Grillplatzes_und_Wegkreuzes.jpg","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.709504,47.752515],"type":"Point"},"properties":{"osm_id":"8736788073","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.70936,47.752562],"type":"Point"},"properties":{"osm_id":"8736788074","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.709507,47.752577],"type":"Point"},"properties":{"osm_id":"8736788075","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.709647,47.752628],"type":"Point"},"properties":{"osm_id":"8736788076","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.709804,47.752487],"type":"Point"},"properties":{"osm_id":"8736788077","tag":{"natural":"tree"}},"type":"Feature"}
 ]
 }

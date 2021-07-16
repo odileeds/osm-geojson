@@ -1,16 +1,21 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[6.142298,45.971483],"type":"Point"},"properties":{"osm_id":"1717336555","tag":{"genus":"Ilex","natural":"tree","species":"Ilex Aquifolium","species:fr":"Houx","type":"conifer"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.142125,45.971584],"type":"Point"},"properties":{"osm_id":"1717336563","tag":{"genus":"Abies","natural":"tree","species":"Abies Grandis","species:fr":"Sapin de Vancouver","type":"conifer"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.142346,45.971603],"type":"Point"},"properties":{"osm_id":"1717336590","tag":{"genus":"Fagus","natural":"tree","species":"Fagus Sylvatica","species:fr":"H\u00c3\u00aatre","type":"conifer"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.142298,45.971483],"type":"Point"},"properties":{"osm_id":"1717336555","tag":{"genus":"Ilex","leaf_type":"needleleaved","natural":"tree","species":"Ilex Aquifolium","species:fr":"Houx"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.142125,45.971584],"type":"Point"},"properties":{"osm_id":"1717336563","tag":{"genus":"Abies","leaf_type":"needleleaved","natural":"tree","species":"Abies Grandis","species:fr":"Sapin de Vancouver"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.142346,45.971603],"type":"Point"},"properties":{"osm_id":"1717336590","tag":{"genus":"Fagus","leaf_type":"needleleaved","natural":"tree","species":"Fagus Sylvatica","species:fr":"H\u00c3\u00aatre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.14188,45.971758],"type":"Point"},"properties":{"osm_id":"1717336706","tag":{"genus":"Juniperus","leaf_type":"broadleaved","natural":"tree","species":"Juniperus Communis","species:fr":"Genevrier"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.14196,45.97194],"type":"Point"},"properties":{"osm_id":"1717336906","tag":{"genus":"Pinus","natural":"tree","species":"Pinus Nigra","species:fr":"Pin Noir d'Autriche","type":"conifer"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.14196,45.97194],"type":"Point"},"properties":{"osm_id":"1717336906","tag":{"genus":"Pinus","leaf_type":"needleleaved","natural":"tree","species":"Pinus Nigra","species:fr":"Pin Noir d'Autriche"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.142598,45.972728],"type":"Point"},"properties":{"osm_id":"1717337803","tag":{"genus":"Quercus","leaf_type":"broadleaved","natural":"tree","species":"Quercus robur","species:fr":"Ch\u00c3\u00aane P\u00c3\u00a9doncul\u00c3\u00a9"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.143233,45.97287],"type":"Point"},"properties":{"osm_id":"1717337942","tag":{"genus":"Pinus","natural":"tree","species":"Pinus Strobus","species:fr":"Pin Weymouth","type":"conifer"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.143246,45.972929],"type":"Point"},"properties":{"osm_id":"1717337982","tag":{"natural":"tree","species:fr":"Trou de Pic","type":"conifer"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.143233,45.97287],"type":"Point"},"properties":{"osm_id":"1717337942","tag":{"genus":"Pinus","leaf_type":"needleleaved","natural":"tree","species":"Pinus Strobus","species:fr":"Pin Weymouth"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.143246,45.972929],"type":"Point"},"properties":{"osm_id":"1717337982","tag":{"leaf_type":"needleleaved","natural":"tree","species:fr":"Trou de Pic"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.14326,45.973065],"type":"Point"},"properties":{"osm_id":"1717338056","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.143263,45.973082],"type":"Point"},"properties":{"osm_id":"1717338063","tag":{"genus":"Betula","leaf_type":"broadleaved","natural":"tree","species":"Betula Verrucosa","species:fr":"Bouleau Verruqueux"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.144445,45.953461],"type":"Point"},"properties":{"name":"Le Gros Ch\u00c3\u00aane","osm_id":"4338697671","tag":{"genus":"quercus","natural":"tree"}},"type":"Feature"}
+	{"geometry":{"coordinates":[6.144445,45.953461],"type":"Point"},"properties":{"name":"Le Gros Ch\u00c3\u00aane","osm_id":"4338697671","tag":{"denotation":"natural_monument","diameter":"2,4m","genus":"quercus","height":"22","leaf_cycle":"semi_evergreen","leaf_type":"broadleaved","natural":"tree","species:fr":"Ch\u00c3\u00aane P\u00c3\u00a9doncul\u00c3\u00a9"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.082073,45.961245],"type":"Point"},"properties":{"osm_id":"8495304800","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.081623,45.961383],"type":"Point"},"properties":{"osm_id":"8495304801","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.115936,45.974301],"type":"Point"},"properties":{"osm_id":"8517769501","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.116027,45.974285],"type":"Point"},"properties":{"osm_id":"8517769505","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.115258,45.968938],"type":"Point"},"properties":{"osm_id":"8592857459","tag":{"natural":"tree"}},"type":"Feature"}
 ]
 }

@@ -1,13 +1,12 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-0.522118,45.943211],"type":"Point"},"properties":{"osm_id":"4811298304","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.522171,45.943174],"type":"Point"},"properties":{"osm_id":"4811298304","tag":{"amenity":"recycling","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.524411,45.942267],"type":"Point"},"properties":{"osm_id":"6020547398","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.524023,45.942117],"type":"Point"},"properties":{"osm_id":"6020547399","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.505371,45.950769],"type":"Point"},"properties":{"name":"D\u00c3\u00a9chetterie Saint Jean d'Ang\u00c3\u00a9ly","osm_id":"6684340280","tag":{"amenity":"recycling","opening_hours":"Mo-Fr 09:00-12:30,14:00-17:00; Sa 09:00-12:30,14:00-18:00","operator":"Cyclad","recycling:batteries":"yes","recycling:cans":"yes","recycling:cardboard":"yes","recycling:clothes":"yes","recycling:electrical_appliances":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:green_waste":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling:scrap_metal":"yes","recycling:shoes":"yes","recycling:small_appliances":"yes","recycling:waste":"yes","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.523594,45.943769],"type":"Point"},"properties":{"osm_id":"7071814194","tag":{"amenity":"waste_basket","survey:date":"2019-12-20"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.497378,45.926694],"type":"Point"},"properties":{"osm_id":"8127338776","tag":{"amenity":"recycling","recycling:cartons":"yes","recycling:glass":"yes","recycling:organic":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.506197,45.91132],"type":"Point"},"properties":{"osm_id":"8127344764","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.506197,45.91132],"type":"Point"},"properties":{"osm_id":"8127344764","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.505931,45.89811],"type":"Point"},"properties":{"osm_id":"8164815891","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.522238,45.890669],"type":"Point"},"properties":{"osm_id":"8172418996","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.502944,45.896095],"type":"Point"},"properties":{"osm_id":"8188930815","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
@@ -18,6 +17,8 @@
 	{"geometry":{"coordinates":[-0.509065,45.892623],"type":"Point"},"properties":{"osm_id":"8189019122","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.504556,45.891819],"type":"Point"},"properties":{"osm_id":"8189019124","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.489386,45.90909],"type":"Point"},"properties":{"osm_id":"8196384938","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.521398,45.943728],"type":"Point"},"properties":{"osm_id":"8245917136","tag":{"amenity":"waste_basket","colour":"green","material":"metal"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-0.521398,45.943728],"type":"Point"},"properties":{"osm_id":"8245917136","tag":{"amenity":"waste_basket","colour":"green","material":"metal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.519765,45.930204],"type":"Point"},"properties":{"osm_id":"8366815306","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.522141,45.943167],"type":"Point"},"properties":{"osm_id":"8740364544","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

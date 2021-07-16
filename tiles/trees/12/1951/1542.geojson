@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[-8.446378,40.572892],"type":"Point"},"properties":{"osm_id":"1108365742","tag":{"leaf_type":"broadleaved","natural":"tree","species":"Fraxinus angustifolia"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-8.444057,40.57642],"type":"Point"},"properties":{"osm_id":"1108375358","tag":{"natural":"tree","species":"Cedrus atlantica","type":"conifer"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-8.444057,40.57642],"type":"Point"},"properties":{"osm_id":"1108375358","tag":{"leaf_type":"needleleaved","natural":"tree","species":"Cedrus atlantica"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-8.458829,40.564976],"type":"Point"},"properties":{"osm_id":"1503467505","tag":{"natural":"tree","species":"Pinus pinea"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-8.447002,40.574909],"type":"Point"},"properties":{"name":"Negundo","osm_id":"1698675003","tag":{"natural":"tree","taxon":"Acer negundo"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-8.455124,40.580355],"type":"Point"},"properties":{"name":"Sobreiro","osm_id":"1913411967","tag":{"natural":"tree","taxon":"Quercus suber"}},"type":"Feature"},
@@ -128,7 +128,7 @@
 	{"geometry":{"coordinates":[-8.44811,40.575891],"type":"Point"},"properties":{"name":"Olaia","osm_id":"4756527496","tag":{"denotation":"avenue","leaf_cycle":"deciduous","natural":"tree","taxon":"Cercis siliquastrum"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-8.448119,40.575952],"type":"Point"},"properties":{"name":"Olaia","osm_id":"4756527497","tag":{"denotation":"avenue","leaf_cycle":"deciduous","natural":"tree","taxon":"Cercis siliquastrum"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-8.448119,40.576021],"type":"Point"},"properties":{"name":"Olaia","osm_id":"4756527498","tag":{"denotation":"avenue","leaf_cycle":"deciduous","natural":"tree","taxon":"Cercis siliquastrum"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-8.448122,40.576097],"type":"Point"},"properties":{"name":"Olaia","osm_id":"4756527499","tag":{"denotation":"avenue","leaf_cycle":"deciduous","natural":"tree","taxon":"Cercis siliquastrum"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-8.448122,40.576097],"type":"Point"},"properties":{"osm_id":"4756527499","tag":{"denotation":"avenue","leaf_cycle":"deciduous","name:pt":"Olaia","natural":"tree","taxon":"Cercis siliquastrum"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-8.443421,40.57259],"type":"Point"},"properties":{"osm_id":"4829397632","tag":{"denotation":"urban","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","taxon":"Cercis siliquastrum","taxon:pt":"Olaia"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-8.443328,40.572593],"type":"Point"},"properties":{"osm_id":"4829397633","tag":{"denotation":"urban","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","taxon":"Cercis siliquastrum","taxon:pt":"Olaia"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-8.443242,40.572599],"type":"Point"},"properties":{"osm_id":"4829397634","tag":{"denotation":"urban","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","taxon":"Cercis siliquastrum","taxon:pt":"Olaia"}},"type":"Feature"},
@@ -255,6 +255,16 @@
 	{"geometry":{"coordinates":[-8.448054,40.570984],"type":"Point"},"properties":{"osm_id":"8092023666","tag":{"denotation":"park","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","taxon:pt":"Pl\u00c3\u00a1tano","taxon:species":"Platanus x hispanica"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-8.448236,40.570974],"type":"Point"},"properties":{"osm_id":"8092023667","tag":{"denotation":"park","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","taxon:pt":"Pl\u00c3\u00a1tano","taxon:species":"Platanus x hispanica"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-8.448158,40.570941],"type":"Point"},"properties":{"osm_id":"8092023668","tag":{"denotation":"park","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","taxon:pt":"Pl\u00c3\u00a1tano","taxon:species":"Platanus x hispanica"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-8.448078,40.570915],"type":"Point"},"properties":{"osm_id":"8092023669","tag":{"denotation":"park","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","taxon:pt":"Pl\u00c3\u00a1tano","taxon:species":"Platanus x hispanica"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-8.448078,40.570915],"type":"Point"},"properties":{"osm_id":"8092023669","tag":{"denotation":"park","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","taxon:pt":"Pl\u00c3\u00a1tano","taxon:species":"Platanus x hispanica"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-8.44164,40.575393],"type":"Point"},"properties":{"osm_id":"8308197569","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-8.448259,40.574261],"type":"Point"},"properties":{"osm_id":"8624997492","tag":{"denotation":"urban","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","taxon:species":"Ginkgo biloba"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-8.448278,40.57422],"type":"Point"},"properties":{"osm_id":"8624997493","tag":{"denotation":"urban","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","taxon:species":"Ginkgo biloba"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-8.448304,40.574185],"type":"Point"},"properties":{"osm_id":"8624997494","tag":{"denotation":"urban","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","taxon:species":"Ginkgo biloba"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-8.448331,40.574139],"type":"Point"},"properties":{"osm_id":"8624997495","tag":{"denotation":"urban","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","taxon:species":"Ginkgo biloba"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-8.448354,40.574102],"type":"Point"},"properties":{"osm_id":"8624997496","tag":{"denotation":"urban","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","taxon:species":"Ginkgo biloba"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-8.448384,40.574051],"type":"Point"},"properties":{"osm_id":"8624997497","tag":{"denotation":"urban","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","taxon:species":"Ginkgo biloba"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-8.448426,40.573994],"type":"Point"},"properties":{"osm_id":"8624997498","tag":{"denotation":"urban","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","taxon:species":"Ginkgo biloba"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-8.448459,40.573932],"type":"Point"},"properties":{"osm_id":"8624997499","tag":{"denotation":"urban","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","taxon:species":"Ginkgo biloba"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-8.448492,40.573856],"type":"Point"},"properties":{"osm_id":"8624997500","tag":{"denotation":"urban","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","taxon:species":"Ginkgo biloba"}},"type":"Feature"}
 ]
 }

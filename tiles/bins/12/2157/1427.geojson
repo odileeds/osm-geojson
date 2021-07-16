@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[9.631498,47.81077],"type":"Point"},"properties":{"osm_id":"51893791","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.600479,47.775848],"type":"Point"},"properties":{"osm_id":"292913872","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.600479,47.775848],"type":"Point"},"properties":{"osm_id":"292913872","tag":{"amenity":"recycling","location":"overground","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.616613,47.775646],"type":"Point"},"properties":{"osm_id":"292946433","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:metal":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.620479,47.772579],"type":"Point"},"properties":{"osm_id":"292946525","tag":{"amenity":"recycling","location":"overground","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.65225,47.809817],"type":"Point"},"properties":{"osm_id":"299246710","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
@@ -13,11 +13,11 @@
 	{"geometry":{"coordinates":[9.602626,47.767838],"type":"Point"},"properties":{"osm_id":"427959633","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.607212,47.795587],"type":"Point"},"properties":{"osm_id":"469953565","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.622889,47.770365],"type":"Point"},"properties":{"osm_id":"473152011","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.60941,47.773856],"type":"Point"},"properties":{"osm_id":"522346335","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.60941,47.773856],"type":"Point"},"properties":{"osm_id":"522346335","tag":{"amenity":"recycling","location":"overground","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.613695,47.779571],"type":"Point"},"properties":{"osm_id":"668010210","tag":{"amenity":"recycling","location":"overground","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.60865,47.777101],"type":"Point"},"properties":{"osm_id":"704711715","tag":{"amenity":"recycling","location":"overground","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.624284,47.792712],"type":"Point"},"properties":{"osm_id":"716846777","tag":{"amenity":"recycling","location":"overground","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.637563,47.796296],"type":"Point"},"properties":{"osm_id":"1062033887","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.637563,47.796296],"type":"Point"},"properties":{"osm_id":"1062033887","tag":{"amenity":"recycling","location":"overground","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.610553,47.792657],"type":"Point"},"properties":{"name":"Bausch GmbH","osm_id":"1091140427","tag":{"amenity":"recycling","email":"bausch@bausch-entsorgung.de","fax":"+49 751 363288","opening_hours":"Mo-Fr 07:00-17:00; Sa 07:00-12:00","phone":"+49 751 36322","recycling:batteries":"yes","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:scrap_metal":"yes","recycling_type":"centre","website":"https://www.bausch-entsorgung.de/"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.597041,47.782892],"type":"Point"},"properties":{"osm_id":"1413582158","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.654284,47.774662],"type":"Point"},"properties":{"osm_id":"1609419939","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -51,6 +51,7 @@
 	{"geometry":{"coordinates":[9.605428,47.784236],"type":"Point"},"properties":{"osm_id":"7745298532","tag":{"amenity":"waste_basket","level":"0","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.606006,47.784306],"type":"Point"},"properties":{"osm_id":"7745298552","tag":{"amenity":"waste_basket","covered":"yes","level":"0","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.594257,47.765889],"type":"Point"},"properties":{"osm_id":"7745369610","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.594624,47.765991],"type":"Point"},"properties":{"osm_id":"7745369629","tag":{"amenity":"waste_basket","covered":"yes","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[9.594624,47.765991],"type":"Point"},"properties":{"osm_id":"7745369629","tag":{"amenity":"waste_basket","covered":"yes","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.637692,47.805303],"type":"Point"},"properties":{"osm_id":"8385012541","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

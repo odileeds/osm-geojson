@@ -22,9 +22,9 @@
 	{"geometry":{"coordinates":[7.68028,44.999743],"type":"Point"},"properties":{"osm_id":"3315328064","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.680231,44.999845],"type":"Point"},"properties":{"osm_id":"3315328074","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.646814,45.020639],"type":"Point"},"properties":{"osm_id":"3401446619","tag":{"circumference":"7 m","natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.650647,45.010564],"type":"Point"},"properties":{"name":"Prunus spinosa","osm_id":"3414123083","tag":{"denotation":"urban","natural":"tree","species":"Prunus spinosa","species:it":"Prugno selvatico"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.650703,45.010607],"type":"Point"},"properties":{"name":"Prunus spinosa","osm_id":"3414123084","tag":{"denotation":"urban","natural":"tree","species":"Prunus spinosa","species:it":"Prugno selvatico"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.650767,45.010645],"type":"Point"},"properties":{"name":"Prunus spinosa","osm_id":"3414123085","tag":{"denotation":"urban","natural":"tree","species":"Prunus spinosa","species:it":"Prugno selvatico"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.650647,45.010564],"type":"Point"},"properties":{"name":"Prunus spinosa","osm_id":"3414123083","tag":{"denotation":"urban","natural":"tree","species":"Prunus spinosa","species:de":"Schlehdorn","species:it":"Prugno selvatico"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.650703,45.010607],"type":"Point"},"properties":{"name":"Prunus spinosa","osm_id":"3414123084","tag":{"denotation":"urban","natural":"tree","species":"Prunus spinosa","species:de":"Schlehdorn","species:it":"Prugno selvatico"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.650767,45.010645],"type":"Point"},"properties":{"name":"Prunus spinosa","osm_id":"3414123085","tag":{"denotation":"urban","natural":"tree","species":"Prunus spinosa","species:de":"Schlehdorn","species:it":"Prugno selvatico"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.646523,45.021464],"type":"Point"},"properties":{"osm_id":"3442719708","tag":{"circumference":"7 m","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.696689,44.998136],"type":"Point"},"properties":{"osm_id":"3762185423","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.696585,44.998164],"type":"Point"},"properties":{"osm_id":"3762185425","tag":{"natural":"tree"}},"type":"Feature"},
@@ -39,7 +39,7 @@
 	{"geometry":{"coordinates":[7.681412,44.997383],"type":"Point"},"properties":{"osm_id":"4546301570","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.681391,44.99743],"type":"Point"},"properties":{"osm_id":"4546301571","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.681435,44.997488],"type":"Point"},"properties":{"osm_id":"4546301572","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.677919,44.999303],"type":"Point"},"properties":{"osm_id":"4546301573","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.677936,44.999315],"type":"Point"},"properties":{"osm_id":"4546301573","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.646533,45.024697],"type":"Point"},"properties":{"osm_id":"4713009704","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.646623,45.024677],"type":"Point"},"properties":{"osm_id":"4713009705","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.646706,45.024642],"type":"Point"},"properties":{"osm_id":"4713009706","tag":{"natural":"tree"}},"type":"Feature"},
@@ -251,7 +251,6 @@
 	{"geometry":{"coordinates":[7.648982,45.019525],"type":"Point"},"properties":{"osm_id":"8005977043","tag":{"denotation":"avenue","diameter":"6m","genus":"Pinus","genus:it":"Pino","height":"6","leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.648932,45.019446],"type":"Point"},"properties":{"osm_id":"8005977044","tag":{"denotation":"avenue","diameter":"6m","genus":"Pinus","genus:it":"Pino","height":"6","leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.648898,45.019382],"type":"Point"},"properties":{"osm_id":"8005977045","tag":{"denotation":"avenue","diameter":"6m","genus":"Pinus","genus:it":"Pino","height":"6","leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.648833,45.019285],"type":"Point"},"properties":{"osm_id":"8005977046","tag":{"denotation":"avenue","diameter":"6m","genus":"Pinus","genus:it":"Pino","height":"6","leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.648811,45.019249],"type":"Point"},"properties":{"osm_id":"8005977047","tag":{"denotation":"avenue","diameter":"6m","height":"6","leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.648744,45.019081],"type":"Point"},"properties":{"osm_id":"8005977048","tag":{"denotation":"avenue","diameter":"6m","genus":"Pinus","genus:it":"Pino","height":"6","leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.648697,45.019008],"type":"Point"},"properties":{"osm_id":"8005977049","tag":{"denotation":"avenue","diameter":"6m","genus":"Pinus","genus:it":"Pino","height":"6","leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree"}},"type":"Feature"},
@@ -277,6 +276,7 @@
 	{"geometry":{"coordinates":[7.690182,45.000916],"type":"Point"},"properties":{"osm_id":"8220801548","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.690269,45.000906],"type":"Point"},"properties":{"osm_id":"8220801549","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.690367,45.000892],"type":"Point"},"properties":{"osm_id":"8220801550","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.690605,45.000855],"type":"Point"},"properties":{"osm_id":"8220801551","tag":{"natural":"tree"}},"type":"Feature"}
+	{"geometry":{"coordinates":[7.690605,45.000855],"type":"Point"},"properties":{"osm_id":"8220801551","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.707443,44.975692],"type":"Point"},"properties":{"osm_id":"8696686179","tag":{"natural":"tree"}},"type":"Feature"}
 ]
 }

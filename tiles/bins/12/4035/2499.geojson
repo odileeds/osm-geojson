@@ -9,7 +9,7 @@
 	{"geometry":{"coordinates":[174.702171,-36.879467],"type":"Point"},"properties":{"osm_id":"5812045394","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[174.702045,-36.874288],"type":"Point"},"properties":{"osm_id":"6780108909","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[174.661381,-36.839703],"type":"Point"},"properties":{"osm_id":"6923883637","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[174.661041,-36.839832],"type":"Point"},"properties":{"osm_id":"6923894994","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[174.66106,-36.839808],"type":"Point"},"properties":{"osm_id":"6923894994","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[174.644265,-36.825912],"type":"Point"},"properties":{"osm_id":"7633947061","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[174.646312,-36.825238],"type":"Point"},"properties":{"osm_id":"7877090050","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[174.711449,-36.870674],"type":"Point"},"properties":{"osm_id":"7911790152","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
@@ -25,6 +25,9 @@
 	{"geometry":{"coordinates":[174.726137,-36.811424],"type":"Point"},"properties":{"osm_id":"8014566220","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[174.65652,-36.860821],"type":"Point"},"properties":{"osm_id":"8041528652","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[174.701102,-36.813599],"type":"Point"},"properties":{"osm_id":"8147758961","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[174.672326,-36.870919],"type":"Point"},"properties":{"name":"Future Metals","osm_id":"8221039205","tag":{"industrial":"scrap_yard","landuse":"industrial","phone":"+649 820 0770"}},"type":"Feature"}
+	{"geometry":{"coordinates":[174.672326,-36.870919],"type":"Point"},"properties":{"name":"Future Metals","osm_id":"8221039205","tag":{"amenity":"recycling","phone":"+649 820 0770","recycling:metal":"yes","recycling:scrap_metal":"yes","recycling_type":"centre"}},"type":"Feature"},
+	{"geometry":{"coordinates":[174.661894,-36.835],"type":"Point"},"properties":{"osm_id":"8436649534","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[174.651616,-36.840876],"type":"Point"},"properties":{"osm_id":"8663715954","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[174.703729,-36.876947],"type":"Point"},"properties":{"osm_id":"8869103509","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

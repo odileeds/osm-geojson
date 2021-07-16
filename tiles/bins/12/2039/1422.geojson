@@ -3,7 +3,7 @@
 "features": [
 	{"geometry":{"coordinates":[-0.779358,48.069784],"type":"Point"},"properties":{"osm_id":"282711720","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.788932,48.080102],"type":"Point"},"properties":{"osm_id":"285452870","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.775594,48.064824],"type":"Point"},"properties":{"osm_id":"440947101","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.775515,48.064805],"type":"Point"},"properties":{"osm_id":"440947101","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.773933,48.067189],"type":"Point"},"properties":{"osm_id":"440947102","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.77833,48.066195],"type":"Point"},"properties":{"osm_id":"662622716","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.787944,48.09849],"type":"Point"},"properties":{"osm_id":"956263622","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -33,7 +33,7 @@
 	{"geometry":{"coordinates":[-0.754792,48.073001],"type":"Point"},"properties":{"osm_id":"3892316165","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.755808,48.072352],"type":"Point"},"properties":{"osm_id":"3892316168","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.770374,48.067505],"type":"Point"},"properties":{"osm_id":"4039264002","tag":{"amenity":"waste_basket","check_date":"2020-12-27"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.765455,48.069395],"type":"Point"},"properties":{"osm_id":"4050426706","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.765455,48.069395],"type":"Point"},"properties":{"osm_id":"4050426706","tag":{"amenity":"waste_basket","check_date":"2021-02-17"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.766292,48.068868],"type":"Point"},"properties":{"osm_id":"4050426711","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.7664,48.068935],"type":"Point"},"properties":{"osm_id":"4050426712","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.766376,48.068938],"type":"Point"},"properties":{"osm_id":"4050426713","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
@@ -138,7 +138,7 @@
 	{"geometry":{"coordinates":[-0.753863,48.061646],"type":"Point"},"properties":{"osm_id":"6261475787","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.748315,48.062359],"type":"Point"},"properties":{"osm_id":"6261497785","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.746911,48.050707],"type":"Point"},"properties":{"osm_id":"6614648587","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.744943,48.072347],"type":"Point"},"properties":{"name":"Ding Fring Laval","osm_id":"6695767586","tag":{"amenity":"recycling","charity":"yes","contact:city":"Laval","contact:housenumber":"24","contact:phone":"+33 2 99 04 38 60","contact:postcode":"53000","contact:street":"rue Sainte-M\u00c3\u00a9laine","image":"https://s3-media4.fl.yelpcdn.com/bphoto/m3bOvnvwyf6xn0BSD-LVUQ/l.jpg","operator":"SCOP Le Relais","recycling:clothes":"yes","recycling:shoes":"yes","second_hand":"only","shop":"clothes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.744943,48.072347],"type":"Point"},"properties":{"name":"Ding Fring Laval","osm_id":"6695767586","tag":{"amenity":"recycling","charity":"yes","contact:city":"Laval","contact:housenumber":"24","contact:phone":"+33 2 99 04 38 60","contact:postcode":"53000","contact:street":"rue Sainte-M\u00c3\u00a9laine","contact:website":"https://dingfringlaval.business.site","image":"https://s3-media4.fl.yelpcdn.com/bphoto/m3bOvnvwyf6xn0BSD-LVUQ/l.jpg","operator":"Le Relais","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"centre","ref:FR:SIRET":"41767403300127","second_hand":"only","shop":"clothes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.761613,48.074449],"type":"Point"},"properties":{"osm_id":"6753283188","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.762199,48.074312],"type":"Point"},"properties":{"osm_id":"6753297186","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.761968,48.074646],"type":"Point"},"properties":{"osm_id":"6753297586","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -212,6 +212,15 @@
 	{"geometry":{"coordinates":[-0.767618,48.087488],"type":"Point"},"properties":{"osm_id":"8084636882","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.774077,48.07042],"type":"Point"},"properties":{"osm_id":"8143438692","tag":{"amenity":"waste_basket","colour":"grey"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.750972,48.057735],"type":"Point"},"properties":{"osm_id":"8210245898","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.754591,48.079035],"type":"Point"},"properties":{"osm_id":"8219562923","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-0.754591,48.079035],"type":"Point"},"properties":{"osm_id":"8219562923","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.788224,48.059382],"type":"Point"},"properties":{"osm_id":"8719768051","tag":{"amenity":"waste_basket","operator":"JCDecaux"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.70492,48.073822],"type":"Point"},"properties":{"osm_id":"8750624582","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.773883,48.069526],"type":"Point"},"properties":{"osm_id":"8820637363","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.773405,48.072045],"type":"Point"},"properties":{"osm_id":"8820649915","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.77286,48.069811],"type":"Point"},"properties":{"osm_id":"8820661585","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.772959,48.069835],"type":"Point"},"properties":{"osm_id":"8820661589","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.773369,48.071524],"type":"Point"},"properties":{"osm_id":"8820677783","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.762192,48.090468],"type":"Point"},"properties":{"osm_id":"8835659531","tag":{"amenity":"waste_basket","colour":"gray","operator":"JCDecaux"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.769674,48.07768],"type":"Point"},"properties":{"osm_id":"8836343230","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

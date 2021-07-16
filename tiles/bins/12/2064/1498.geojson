@@ -1,7 +1,11 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[1.431461,43.43363],"type":"Point"},"properties":{"osm_id":"1400208019","tag":{"amenity":"recycling","recycling:glass_bottles":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[1.430219,43.436939],"type":"Point"},"properties":{"osm_id":"1400213985","tag":{"amenity":"recycling","recycling:glass_bottles":"yes"}},"type":"Feature"}
+	{"geometry":{"coordinates":[1.431461,43.43363],"type":"Point"},"properties":{"osm_id":"1400208019","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[1.430219,43.436939],"type":"Point"},"properties":{"osm_id":"1400213985","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[1.440298,43.433484],"type":"Point"},"properties":{"osm_id":"8283085986","tag":{"amenity":"recycling","operator":"Ville de Venerque","recycling":"*","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[1.45258,43.395592],"type":"Point"},"properties":{"osm_id":"8879563934","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[1.44887,43.404076],"type":"Point"},"properties":{"osm_id":"8879651606","tag":{"amenity":"recycling","opening_hours":"24/7","opening_hours:covid19":"24/7","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[1.448833,43.404063],"type":"Point"},"properties":{"osm_id":"8879651607","tag":{"amenity":"recycling","operator":"Le Relais","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

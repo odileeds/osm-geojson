@@ -1,14 +1,15 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[21.4089,48.113467],"type":"Point"},"properties":{"osm_id":"3469931839","tag":{"addr:city":"Tokaj","addr:street":"Tokaji Ferenc utca","amenity":"recycling","source:date":"2011-05-08","url":"http://turistautak.hu/poi.php?id=63018"}},"type":"Feature"},
-	{"geometry":{"coordinates":[21.409167,48.126717],"type":"Point"},"properties":{"osm_id":"3469931850","tag":{"addr:city":"Tokaj","addr:housenumber":"3","addr:postcode":"3910","addr:street":"Szepessy k\u00c3\u00b6z","amenity":"recycling","source:date":"2011-05-08","url":"http://turistautak.hu/poi.php?id=28576"}},"type":"Feature"},
+	{"geometry":{"coordinates":[21.4089,48.113467],"type":"Point"},"properties":{"osm_id":"3469931839","tag":{"addr:city":"Tokaj","addr:street":"Tokaji Ferenc utca","amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container","source:date":"2011-05-08","url":"http://turistautak.hu/poi.php?id=63018"}},"type":"Feature"},
+	{"geometry":{"coordinates":[21.409164,48.126734],"type":"Point"},"properties":{"osm_id":"3469931850","tag":{"addr:city":"Tokaj","addr:housenumber":"3","addr:postcode":"3910","addr:street":"Szepesi k\u00c3\u00b6z","amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container","source:date":"2011-05-08","url":"http://turistautak.hu/poi.php?id=28576"}},"type":"Feature"},
 	{"geometry":{"coordinates":[21.365158,48.163732],"type":"Point"},"properties":{"osm_id":"3469931864","tag":{"addr:street":"Kossuth utca","amenity":"recycling","source:date":"2011-05-08","url":"http://turistautak.hu/poi.php?id=4452"}},"type":"Feature"},
 	{"geometry":{"coordinates":[21.41855,48.116017],"type":"Point"},"properties":{"osm_id":"3485121986","tag":{"addr:street":"Rakamaz, strand","amenity":"recycling","source:date":"2012-12-16","url":"http://turistautak.hu/poi.php?id=64030"}},"type":"Feature"},
-	{"geometry":{"coordinates":[21.417733,48.121917],"type":"Point"},"properties":{"osm_id":"3485121988","tag":{"addr:street":"Rakamaz-Tiszapart","amenity":"recycling","source:date":"2012-12-16","url":"http://turistautak.hu/poi.php?id=64031"}},"type":"Feature"},
+	{"geometry":{"coordinates":[21.417733,48.121917],"type":"Point"},"properties":{"osm_id":"3485121988","tag":{"addr:street":"Rakamaz-Tiszapart","amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container","source:date":"2012-12-16","url":"http://turistautak.hu/poi.php?id=64031"}},"type":"Feature"},
 	{"geometry":{"coordinates":[21.392776,48.10976],"type":"Point"},"properties":{"osm_id":"4251272465","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[21.393398,48.108954],"type":"Point"},"properties":{"osm_id":"4251281036","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[21.411757,48.117213],"type":"Point"},"properties":{"osm_id":"4911033025","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[21.411404,48.116026],"type":"Point"},"properties":{"osm_id":"4911033026","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[21.411757,48.117213],"type":"Point"},"properties":{"osm_id":"4911033025","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[21.411404,48.116026],"type":"Point"},"properties":{"osm_id":"4911033026","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[21.399159,48.121605],"type":"Point"},"properties":{"osm_id":"8756178655","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

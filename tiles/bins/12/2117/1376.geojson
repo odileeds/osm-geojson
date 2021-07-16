@@ -1,7 +1,6 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[6.138313,50.714227],"type":"Point"},"properties":{"osm_id":"565608535","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.146025,50.723153],"type":"Point"},"properties":{"osm_id":"921241244","tag":{"amenity":"recycling","recycling:glass_bottles":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.1214,50.716153],"type":"Point"},"properties":{"osm_id":"970904514","tag":{"amenity":"recycling","location":"overground","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.06486,50.713405],"type":"Point"},"properties":{"osm_id":"1065735717","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes"}},"type":"Feature"},
@@ -16,6 +15,10 @@
 	{"geometry":{"coordinates":[6.152341,50.72159],"type":"Point"},"properties":{"osm_id":"8086394769","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.151827,50.719282],"type":"Point"},"properties":{"osm_id":"8089453426","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.080523,50.7062],"type":"Point"},"properties":{"osm_id":"8222331567","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.15166,50.731942],"type":"Point"},"properties":{"osm_id":"8259698656","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[6.15166,50.731942],"type":"Point"},"properties":{"osm_id":"8259698656","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.075808,50.718407],"type":"Point"},"properties":{"osm_id":"8448996228","tag":{"amenity":"waste_basket","colour":"grau","material":"metal","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.080712,50.711133],"type":"Point"},"properties":{"osm_id":"8804485483","tag":{"amenity":"waste_basket","colour":"green","material":"plastic","operator":"Gemeinde Raeren","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.135911,50.714106],"type":"Point"},"properties":{"osm_id":"8900992864","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.149108,50.69547],"type":"Point"},"properties":{"osm_id":"8909610711","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
 ]
 }

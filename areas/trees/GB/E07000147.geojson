@@ -4,8 +4,8 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "osm_id": "2390305398", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ 1.4624064, 52.7052182 ] } },
-{ "type": "Feature", "properties": { "osm_id": "2582067951", "other_tags": "\"natural\"=>\"tree\",\"leaf_type\"=>\"broadleaved\"" }, "geometry": { "type": "Point", "coordinates": [ 1.3436971, 52.8461952 ] } },
-{ "type": "Feature", "properties": { "osm_id": "2764940982", "other_tags": "\"natural\"=>\"tree\",\"leaf_type\"=>\"broadleaved\"" }, "geometry": { "type": "Point", "coordinates": [ 1.5381043, 52.7096963 ] } },
+{ "type": "Feature", "properties": { "osm_id": "2582067951", "other_tags": "\"leaf_type\"=>\"broadleaved\",\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ 1.3436971, 52.8461952 ] } },
+{ "type": "Feature", "properties": { "osm_id": "2764940982", "other_tags": "\"leaf_type\"=>\"broadleaved\",\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ 1.5381043, 52.7096963 ] } },
 { "type": "Feature", "properties": { "osm_id": "2996154730", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ 0.8051527, 52.9507425 ] } },
 { "type": "Feature", "properties": { "osm_id": "2996154731", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ 0.8057341, 52.950955 ] } },
 { "type": "Feature", "properties": { "osm_id": "2996154732", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ 0.8056244, 52.9508776 ] } },
@@ -281,8 +281,8 @@
 { "type": "Feature", "properties": { "osm_id": "3104244829", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ 0.8019341, 52.9547084 ] } },
 { "type": "Feature", "properties": { "osm_id": "3927548321", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ 1.2979027, 52.8738574 ] } },
 { "type": "Feature", "properties": { "osm_id": "4921579898", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ 1.160038, 52.869477 ] } },
-{ "type": "Feature", "properties": { "osm_id": "5170998532", "other_tags": "\"taxon\"=>\"Quercus cerris\",\"natural\"=>\"tree\",\"taxon:en\"=>\"Turkey Oak\"" }, "geometry": { "type": "Point", "coordinates": [ 1.3448347, 52.917013 ] } },
-{ "type": "Feature", "properties": { "osm_id": "5170998568", "other_tags": "\"taxon\"=>\"Laurus nobilis\",\"natural\"=>\"tree\",\"taxon:en\"=>\"Sweet Laurel\"" }, "geometry": { "type": "Point", "coordinates": [ 1.3271674, 52.9132987 ] } },
+{ "type": "Feature", "properties": { "osm_id": "5170998532", "other_tags": "\"natural\"=>\"tree\",\"taxon\"=>\"Quercus cerris\",\"taxon:en\"=>\"Turkey Oak\"" }, "geometry": { "type": "Point", "coordinates": [ 1.3448347, 52.917013 ] } },
+{ "type": "Feature", "properties": { "osm_id": "5170998568", "other_tags": "\"natural\"=>\"tree\",\"taxon\"=>\"Laurus nobilis\",\"taxon:en\"=>\"Sweet Laurel\"" }, "geometry": { "type": "Point", "coordinates": [ 1.3271674, 52.9132987 ] } },
 { "type": "Feature", "properties": { "osm_id": "5311917952", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ 0.8517033, 52.9531337 ] } },
 { "type": "Feature", "properties": { "osm_id": "5311917954", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ 0.8516563, 52.9530383 ] } },
 { "type": "Feature", "properties": { "osm_id": "5311917955", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ 0.8515558, 52.9529834 ] } },
@@ -299,8 +299,9 @@
 { "type": "Feature", "properties": { "osm_id": "5779444862", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ 1.1282149, 52.8903159 ] } },
 { "type": "Feature", "properties": { "osm_id": "7109099068", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ 1.3758418, 52.7946748 ] } },
 { "type": "Feature", "properties": { "osm_id": "7658384009", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ 0.8725016, 52.8931473 ] } },
-{ "type": "Feature", "properties": { "osm_id": "7667329273", "other_tags": "\"natural\"=>\"tree\",\"leaf_type\"=>\"broadleaved\",\"leaf_cycle\"=>\"deciduous\"" }, "geometry": { "type": "Point", "coordinates": [ 0.8743408, 52.8943366 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7667329273", "other_tags": "\"leaf_cycle\"=>\"deciduous\",\"leaf_type\"=>\"broadleaved\",\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ 0.8743408, 52.8943366 ] } },
 { "type": "Feature", "properties": { "osm_id": "7841313388", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ 1.0879251, 52.9051947 ] } },
-{ "type": "Feature", "properties": { "osm_id": "7845994145", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ 1.2767668, 52.9281158 ] } }
+{ "type": "Feature", "properties": { "osm_id": "7845994145", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ 1.2767668, 52.9281158 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8829201652", "name": "The Handkerchief Tree", "other_tags": "\"denotation\"=>\"landmark\",\"leaf_cycle\"=>\"deciduous\",\"leaf_type\"=>\"broadleaved\",\"natural\"=>\"tree\",\"species\"=>\"Davidia involucrata\",\"species:en\"=>\"handkerchief tree\"" }, "geometry": { "type": "Point", "coordinates": [ 1.177856, 52.9285095 ] } }
 ]
 }

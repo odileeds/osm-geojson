@@ -1,12 +1,12 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[18.019198,46.86049],"type":"Point"},"properties":{"osm_id":"2921686005","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[18.019198,46.86049],"type":"Point"},"properties":{"osm_id":"2921686005","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[18.061083,46.908005],"type":"Point"},"properties":{"osm_id":"2934141283","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"no","recycling:paper":"no"}},"type":"Feature"},
 	{"geometry":{"coordinates":[18.028432,46.899775],"type":"Point"},"properties":{"osm_id":"2943843079","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[18.030549,46.900312],"type":"Point"},"properties":{"osm_id":"2943843083","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[18.022119,46.900967],"type":"Point"},"properties":{"osm_id":"2943843087","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[18.022986,46.901121],"type":"Point"},"properties":{"osm_id":"2943843089","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[18.022986,46.901121],"type":"Point"},"properties":{"osm_id":"2943843089","tag":{"amenity":"waste_basket","check_date":"2021-06-04"}},"type":"Feature"},
 	{"geometry":{"coordinates":[18.020854,46.902039],"type":"Point"},"properties":{"osm_id":"2943843092","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[18.020342,46.90251],"type":"Point"},"properties":{"osm_id":"2943843096","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[18.020435,46.902521],"type":"Point"},"properties":{"osm_id":"2943843098","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -45,18 +45,19 @@
 	{"geometry":{"coordinates":[18.018419,46.898638],"type":"Point"},"properties":{"osm_id":"2955832530","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[18.018266,46.898658],"type":"Point"},"properties":{"osm_id":"2955832536","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[18.028254,46.902476],"type":"Point"},"properties":{"osm_id":"3261467237","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[18.028214,46.902277],"type":"Point"},"properties":{"osm_id":"3261467238","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[18.028214,46.902277],"type":"Point"},"properties":{"osm_id":"3261467238","tag":{"amenity":"waste_basket","check_date":"2021-06-04"}},"type":"Feature"},
 	{"geometry":{"coordinates":[18.017617,46.899908],"type":"Point"},"properties":{"osm_id":"3264882326","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[18.017884,46.899965],"type":"Point"},"properties":{"osm_id":"3264882330","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[18.0788,46.879267],"type":"Point"},"properties":{"osm_id":"3471815198","tag":{"amenity":"recycling","description":"Szelekt\u00c3\u00adv hullad\u00c3\u00a9klerak\u00c3\u00b3","source:date":"2012-10-14","url":"http://turistautak.hu/poi.php?id=64341"}},"type":"Feature"},
 	{"geometry":{"coordinates":[18.04631,46.89338],"type":"Point"},"properties":{"osm_id":"3471815206","tag":{"amenity":"recycling","source:date":"2012-10-22","url":"http://turistautak.hu/poi.php?id=146262"}},"type":"Feature"},
 	{"geometry":{"coordinates":[18.038967,46.895648],"type":"Point"},"properties":{"osm_id":"3471815207","tag":{"addr:street":"Nefelejcs u - K\u00c3\u00bcszhegyi u sarok","amenity":"recycling","source:date":"2012-10-14","url":"http://turistautak.hu/poi.php?id=38008"}},"type":"Feature"},
 	{"geometry":{"coordinates":[18.042655,46.896295],"type":"Point"},"properties":{"osm_id":"3471815208","tag":{"addr:street":"Koch Robert u - K\u00c3\u00bcszhegyi u sarok","amenity":"recycling","source:date":"2012-10-14","url":"http://turistautak.hu/poi.php?id=38007"}},"type":"Feature"},
-	{"geometry":{"coordinates":[18.047487,46.897093],"type":"Point"},"properties":{"osm_id":"3471815210","tag":{"addr:street":"Somogyi u. Reviczky Gy. u. sarok.","amenity":"recycling","source:date":"2012-10-14","url":"http://turistautak.hu/poi.php?id=38061"}},"type":"Feature"},
-	{"geometry":{"coordinates":[18.05068,46.90269],"type":"Point"},"properties":{"osm_id":"3471815214","tag":{"amenity":"recycling","source:date":"2012-10-22","url":"http://turistautak.hu/poi.php?id=146259"}},"type":"Feature"},
-	{"geometry":{"coordinates":[18.05156,46.90284],"type":"Point"},"properties":{"osm_id":"3471815215","tag":{"amenity":"recycling","source:date":"2012-10-22","url":"http://turistautak.hu/poi.php?id=146260"}},"type":"Feature"},
+	{"geometry":{"coordinates":[18.047487,46.897093],"type":"Point"},"properties":{"osm_id":"3471815210","tag":{"addr:street":"Somogyi u. Reviczky Gy. u. sarok.","amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container","source:date":"2012-10-14","url":"http://turistautak.hu/poi.php?id=38061"}},"type":"Feature"},
+	{"geometry":{"coordinates":[18.05068,46.90269],"type":"Point"},"properties":{"osm_id":"3471815214","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container","source:date":"2012-10-22","url":"http://turistautak.hu/poi.php?id=146259"}},"type":"Feature"},
+	{"geometry":{"coordinates":[18.05156,46.90284],"type":"Point"},"properties":{"osm_id":"3471815215","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container","source:date":"2012-10-22","url":"http://turistautak.hu/poi.php?id=146260"}},"type":"Feature"},
 	{"geometry":{"coordinates":[18.06032,46.90536],"type":"Point"},"properties":{"osm_id":"3471815218","tag":{"amenity":"recycling","source:date":"2012-10-22","url":"http://turistautak.hu/poi.php?id=146261"}},"type":"Feature"},
 	{"geometry":{"coordinates":[18.046567,46.908477],"type":"Point"},"properties":{"osm_id":"3471815222","tag":{"addr:city":"Si\u00c3\u00b3fok","addr:street":"Kr\u00c3\u00bady s\u00c3\u00a9t\u00c3\u00a1ny","amenity":"recycling","source:date":"2012-10-14","url":"http://turistautak.hu/poi.php?id=103034"}},"type":"Feature"},
-	{"geometry":{"coordinates":[18.105317,46.915333],"type":"Point"},"properties":{"osm_id":"3471815237","tag":{"addr:street":"M7-Szabadi pihen\u00c5\u0091hely","amenity":"recycling","description":"Az M7 aut\u00c3\u00b3p\u00c3\u00a1lya szabadi pihen\u00c5\u0091j\u00c3\u00a9be kihelyezett hullad\u00c3\u00a9kgy\u00c3\u00bcjt\u00c5\u0091 sziget.","source:date":"2012-12-31","url":"http://turistautak.hu/poi.php?id=78252"}},"type":"Feature"}
+	{"geometry":{"coordinates":[18.105317,46.915333],"type":"Point"},"properties":{"osm_id":"3471815237","tag":{"addr:street":"M7-Szabadi pihen\u00c5\u0091hely","amenity":"recycling","description":"Az M7 aut\u00c3\u00b3p\u00c3\u00a1lya szabadi pihen\u00c5\u0091j\u00c3\u00a9be kihelyezett hullad\u00c3\u00a9kgy\u00c3\u00bcjt\u00c5\u0091 sziget.","recycling:glass_bottles":"yes","recycling_type":"container","source:date":"2012-12-31","url":"http://turistautak.hu/poi.php?id=78252"}},"type":"Feature"},
+	{"geometry":{"coordinates":[18.032,46.900049],"type":"Point"},"properties":{"osm_id":"8733452960","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

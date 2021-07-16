@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[12.09591,54.029535],"type":"Point"},"properties":{"osm_id":"330169999","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"no"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.09591,54.029535],"type":"Point"},"properties":{"osm_id":"330169999","tag":{"amenity":"recycling","recycling":"container","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.063385,54.037615],"type":"Point"},"properties":{"osm_id":"352922007","tag":{"amenity":"recycling","recycling:cans":"no","recycling:clothes":"yes","recycling:glass":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.127934,54.04013],"type":"Point"},"properties":{"osm_id":"406573578","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.126488,54.040469],"type":"Point"},"properties":{"osm_id":"419760547","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -12,6 +12,15 @@
 	{"geometry":{"coordinates":[12.098608,54.013835],"type":"Point"},"properties":{"osm_id":"7590101230","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.116273,54.046579],"type":"Point"},"properties":{"osm_id":"7619441301","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.115037,54.045823],"type":"Point"},"properties":{"osm_id":"7623248550","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.112646,54.04294],"type":"Point"},"properties":{"osm_id":"7756097258","tag":{"access":"private","amenity":"waste_disposal"}},"type":"Feature"}
+	{"geometry":{"coordinates":[12.112646,54.04294],"type":"Point"},"properties":{"osm_id":"7756097258","tag":{"access":"private","amenity":"waste_disposal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.05093,54.055776],"type":"Point"},"properties":{"osm_id":"8420791352","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.050937,54.055792],"type":"Point"},"properties":{"osm_id":"8420791353","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.050944,54.055807],"type":"Point"},"properties":{"osm_id":"8420791354","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.050952,54.055823],"type":"Point"},"properties":{"osm_id":"8420791355","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.050959,54.055838],"type":"Point"},"properties":{"osm_id":"8420791356","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.050966,54.055854],"type":"Point"},"properties":{"osm_id":"8420791357","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.050973,54.055869],"type":"Point"},"properties":{"osm_id":"8420791358","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.05098,54.055885],"type":"Point"},"properties":{"osm_id":"8420791359","tag":{"amenity":"recycling","opening_hours":"24/7","operator":"Deutsches Rotes Kreuz","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.050988,54.0559],"type":"Point"},"properties":{"osm_id":"8420791360","tag":{"amenity":"recycling","opening_hours":"24/7","operator":"Deutsches Rotes Kreuz","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

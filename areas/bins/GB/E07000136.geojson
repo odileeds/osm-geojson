@@ -4,7 +4,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "osm_id": "693533579", "name": "Boston Household Waste Recycling Centre", "other_tags": "\"amenity\"=>\"recycling\",\"disused\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0048574, 52.9540693 ] } },
-{ "type": "Feature", "properties": { "osm_id": "1037058866", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -0.032216, 52.9773992 ] } },
+{ "type": "Feature", "properties": { "osm_id": "1037058866", "other_tags": "\"amenity\"=>\"recycling\",\"location\"=>\"overground\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -0.032216, 52.9773992 ] } },
 { "type": "Feature", "properties": { "osm_id": "1180832591", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0619215, 52.9712559 ] } },
 { "type": "Feature", "properties": { "osm_id": "3247698300", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -0.1690127, 52.9552171 ] } },
 { "type": "Feature", "properties": { "osm_id": "3891835705", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0331175, 52.9796496 ] } },
@@ -14,10 +14,15 @@
 { "type": "Feature", "properties": { "osm_id": "6024348440", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0388949, 52.983272 ] } },
 { "type": "Feature", "properties": { "osm_id": "6024348442", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0387943, 52.9834825 ] } },
 { "type": "Feature", "properties": { "osm_id": "6829905756", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0466694, 52.9908772 ] } },
-{ "type": "Feature", "properties": { "osm_id": "6829905757", "other_tags": "\"waste\"=>\"dog_excrement\",\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0467815, 52.9908849 ] } },
-{ "type": "Feature", "properties": { "osm_id": "7291316626", "name": "Boston Recycling Centre", "other_tags": "\"amenity\"=>\"recycling\",\"source:url\"=>\"https:\/\/www.lincolnshire.gov.uk\/boston-recycling-centre\",\"addr:street\"=>\"Bittern Way\",\"addr:postcode\"=>\"PE21 7RQ\",\"recycling_type\"=>\"centre\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0080412, 52.9584887 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6829905757", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0467815, 52.9908849 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7291316626", "name": "Boston Recycling Centre", "other_tags": "\"addr:postcode\"=>\"PE21 7RQ\",\"addr:street\"=>\"Bittern Way\",\"amenity\"=>\"recycling\",\"recycling_type\"=>\"centre\",\"source:url\"=>\"https:\/\/www.lincolnshire.gov.uk\/boston-recycling-centre\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0080412, 52.9584887 ] } },
 { "type": "Feature", "properties": { "osm_id": "7411298572", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0210343, 52.980064 ] } },
 { "type": "Feature", "properties": { "osm_id": "7411299585", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.021763, 52.9798007 ] } },
-{ "type": "Feature", "properties": { "osm_id": "7411299586", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0217261, 52.9797684 ] } }
+{ "type": "Feature", "properties": { "osm_id": "7411299586", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0217261, 52.9797684 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8779207299", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0187527, 52.9851947 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8779579378", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.022584, 52.9806232 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8783758470", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0264662, 52.9762984 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8788255690", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0268048, 52.9800461 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8803329732", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0259893, 52.9817119 ] } }
 ]
 }

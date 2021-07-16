@@ -3,8 +3,6 @@
 "name": "points",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "osm_id": "69110621", "name": "The Plough", "other_tags": "\"amenity\"=>\"pub\",\"fhrs:id\"=>\"102200\",\"addr:city\"=>\"Blackpool\",\"addr:street\"=>\"Chain Lane\",\"addr:suburb\"=>\"Staining\",\"addr:postcode\"=>\"FY3 0BX\"" }, "geometry": { "type": "Point", "coordinates": [ -2.9904943, 53.8175911 ] } },
-{ "type": "Feature", "properties": { "osm_id": "1574304566", "other_tags": "\"amenity\"=>\"recycling\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -2.8932564, 53.7522541 ] } },
 { "type": "Feature", "properties": { "osm_id": "3451337732", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.9573046, 53.7406173 ] } }
 ]
 }

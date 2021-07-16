@@ -1,22 +1,22 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-1.73053,47.22286],"type":"Point"},"properties":{"osm_id":"362847448","tag":{"amenity":"recycling","recycling:glass_bottles":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.73053,47.22286],"type":"Point"},"properties":{"osm_id":"362847448","tag":{"amenity":"recycling","location":"overground","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.725202,47.21973],"type":"Point"},"properties":{"osm_id":"362847455","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.717502,47.220175],"type":"Point"},"properties":{"osm_id":"362847458","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.691261,47.225907],"type":"Point"},"properties":{"osm_id":"364164483","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.749035,47.240007],"type":"Point"},"properties":{"osm_id":"388090167","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.733886,47.219743],"type":"Point"},"properties":{"osm_id":"996414254","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.673109,47.263537],"type":"Point"},"properties":{"osm_id":"4264573330","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.673109,47.263537],"type":"Point"},"properties":{"osm_id":"4264573330","tag":{"amenity":"waste_basket","check_date":"2021-03-21"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.673368,47.263448],"type":"Point"},"properties":{"osm_id":"4264574893","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.673695,47.263334],"type":"Point"},"properties":{"osm_id":"4264595999","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.673668,47.263131],"type":"Point"},"properties":{"osm_id":"4264596497","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.671792,47.262145],"type":"Point"},"properties":{"osm_id":"4524928693","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.671436,47.262185],"type":"Point"},"properties":{"osm_id":"4524928695","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.671436,47.262185],"type":"Point"},"properties":{"osm_id":"4524928695","tag":{"amenity":"waste_basket","check_date":"2021-01-24"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.673718,47.264158],"type":"Point"},"properties":{"osm_id":"4524942992","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.672907,47.26301],"type":"Point"},"properties":{"osm_id":"4524943690","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.672783,47.262496],"type":"Point"},"properties":{"osm_id":"4524958389","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.671779,47.264039],"type":"Point"},"properties":{"osm_id":"4548100995","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.672783,47.262496],"type":"Point"},"properties":{"osm_id":"4524958389","tag":{"amenity":"waste_basket","check_date":"2021-01-24"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.671779,47.264039],"type":"Point"},"properties":{"osm_id":"4548100995","tag":{"amenity":"waste_basket","check_date":"2021-01-24"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.672354,47.271062],"type":"Point"},"properties":{"osm_id":"5037095724","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.671664,47.270769],"type":"Point"},"properties":{"osm_id":"5037095725","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.672761,47.271448],"type":"Point"},"properties":{"osm_id":"5037151924","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -29,6 +29,12 @@
 	{"geometry":{"coordinates":[-1.709088,47.229975],"type":"Point"},"properties":{"osm_id":"8163472577","tag":{"addr:city":"Cou\u00c3\u00abron","addr:housenumber":"21","addr:postcode":"44220","addr:street":"Route de la Montagne","amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.684712,47.2196],"type":"Point"},"properties":{"osm_id":"8163581455","tag":{"addr:city":"Cou\u00c3\u00abron","addr:housenumber":"31","addr:postcode":"44220","addr:street":"Rue Joliot Curie","amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.7201,47.245162],"type":"Point"},"properties":{"osm_id":"8180116903","tag":{"addr:city":"Cou\u00c3\u00abron","addr:housenumber":"53","addr:postcode":"44220","addr:street":"Route de Saint Etienne de Montluc","amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.690946,47.244994],"type":"Point"},"properties":{"osm_id":"8180133064","tag":{"addr:city":"Cou\u00c3\u00abron","addr:housenumber":"2","addr:postcode":"44220","addr:street":"Route de Sautron","amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-1.690946,47.244994],"type":"Point"},"properties":{"osm_id":"8180133064","tag":{"addr:city":"Cou\u00c3\u00abron","addr:housenumber":"2","addr:postcode":"44220","addr:street":"Route de Sautron","amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.672026,47.262207],"type":"Point"},"properties":{"osm_id":"8787188716","tag":{"amenity":"waste_basket","operator":"JCDecaux"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.672929,47.262522],"type":"Point"},"properties":{"osm_id":"8787319683","tag":{"amenity":"waste_basket","operator":"JCDecaux"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.677369,47.263303],"type":"Point"},"properties":{"osm_id":"8787319700","tag":{"amenity":"waste_basket","operator":"JCDecaux"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.68047,47.264251],"type":"Point"},"properties":{"osm_id":"8787337118","tag":{"amenity":"waste_basket","operator":"JCDecaux"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.683635,47.265377],"type":"Point"},"properties":{"osm_id":"8787337126","tag":{"amenity":"waste_basket","operator":"JCDecaux"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.670361,47.257357],"type":"Point"},"properties":{"osm_id":"8873565388","tag":{"amenity":"waste_disposal"}},"type":"Feature"}
 ]
 }

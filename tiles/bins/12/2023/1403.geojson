@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-2.113787,49.185377],"type":"Point"},"properties":{"name":"Esplanade car park","osm_id":"1780002768","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-2.113818,49.185281],"type":"Point"},"properties":{"name":"Esplanade Recycling","osm_id":"1780002768","tag":{"access":"yes","addr:city":"Saint Helier","addr:place":"Esplanade Car Park","amenity":"recycling","description":"Public recycling collection point","location":"overground","opening_hours":"24/7","recycling:batteries":"yes","recycling:beverage_cartons":"no","recycling:cans":"yes","recycling:clothes":"yes","recycling:paper":"yes","recycling:plastic":"no","recycling:plastic_bags":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"no","recycling:shoes":"yes","recycling_type":"container","short_name":"Esplanade","source:access":"survey","source:addr":"survey","source:opening_hours":"survey","source:recycling":"survey","source:recycling_type":"survey","website":"http://www.gov.je/recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.170367,49.187316],"type":"Point"},"properties":{"osm_id":"5704676018","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.170656,49.187235],"type":"Point"},"properties":{"osm_id":"5704678910","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.170658,49.187288],"type":"Point"},"properties":{"osm_id":"5704678912","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -9,6 +9,8 @@
 	{"geometry":{"coordinates":[-2.170026,49.18742],"type":"Point"},"properties":{"osm_id":"5704686687","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.170098,49.187405],"type":"Point"},"properties":{"osm_id":"5704686691","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.170065,49.187653],"type":"Point"},"properties":{"osm_id":"5704686973","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-2.169728,49.186256],"type":"Point"},"properties":{"osm_id":"5705901192","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-2.169728,49.186256],"type":"Point"},"properties":{"osm_id":"5705901192","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-2.113008,49.173334],"type":"Point"},"properties":{"osm_id":"8487488404","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-2.110623,49.187647],"type":"Point"},"properties":{"osm_id":"8839347798","tag":{"amenity":"waste_basket","check_date":"2021-06-16","ele:ellipsoid":"56.000","ele:geoid":"6.862","note:ele":"geoid correction 49.138","source:ele":"survey","source:waste":"survey","survey:date":"2021-06-16","waste":"cigarettes;trash"}},"type":"Feature"}
 ]
 }

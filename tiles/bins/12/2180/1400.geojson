@@ -1,6 +1,8 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[11.675376,49.370508],"type":"Point"},"properties":{"osm_id":"373482357","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:scrap_metal":"no"}},"type":"Feature"}
+	{"geometry":{"coordinates":[11.675376,49.370508],"type":"Point"},"properties":{"osm_id":"373482357","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:scrap_metal":"no"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.606248,49.361265],"type":"Point"},"properties":{"osm_id":"8908401689","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.606172,49.361313],"type":"Point"},"properties":{"osm_id":"8908401690","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

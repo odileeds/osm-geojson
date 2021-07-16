@@ -1,9 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[10.237845,50.209518],"type":"Point"},"properties":{"osm_id":"272440391","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.236324,50.218174],"type":"Point"},"properties":{"osm_id":"272440393","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.224702,50.203744],"type":"Point"},"properties":{"name":"Gr\u00c3\u00bcngutlager / H\u00c3\u00a4ckselplatz","osm_id":"311318910","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.237845,50.209518],"type":"Point"},"properties":{"osm_id":"272440391","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.236146,50.21841],"type":"Point"},"properties":{"osm_id":"272440393","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.224428,50.203842],"type":"Point"},"properties":{"osm_id":"311318910","tag":{"amenity":"recycling","description":"Gr\u00c3\u00bcngutlager / H\u00c3\u00a4ckselplatz","recycling:green_waste":"yes","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.239489,50.210969],"type":"Point"},"properties":{"osm_id":"7775652004","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.279136,50.184684],"type":"Point"},"properties":{"osm_id":"7775652073","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.279486,50.184503],"type":"Point"},"properties":{"osm_id":"7775652082","tag":{"amenity":"waste_basket"}},"type":"Feature"},

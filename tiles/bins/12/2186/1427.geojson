@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[12.149172,47.778496],"type":"Point"},"properties":{"osm_id":"436616893","tag":{"addr:city":"Neubeuern","addr:country":"DE","addr:postcode":"83115","addr:street":"Hiererweg","amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.172057,47.799684],"type":"Point"},"properties":{"osm_id":"703411069","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.172057,47.799684],"type":"Point"},"properties":{"osm_id":"703411069","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.132289,47.787966],"type":"Point"},"properties":{"barrier":"gate","osm_id":"838019839"},"type":"Feature"},
 	{"geometry":{"coordinates":[12.184486,47.812993],"type":"Point"},"properties":{"osm_id":"886692204","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.191661,47.77446],"type":"Point"},"properties":{"osm_id":"1042605883","tag":{"amenity":"recycling","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -13,6 +13,7 @@
 	{"geometry":{"coordinates":[12.139395,47.775691],"type":"Point"},"properties":{"osm_id":"1403481699","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.139205,47.776251],"type":"Point"},"properties":{"osm_id":"1403481957","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.195654,47.810155],"type":"Point"},"properties":{"osm_id":"3126692834","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"no","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.142896,47.777471],"type":"Point"},"properties":{"osm_id":"3460163088","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[12.142896,47.777471],"type":"Point"},"properties":{"osm_id":"3460163088","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.164587,47.797321],"type":"Point"},"properties":{"osm_id":"8355529619","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

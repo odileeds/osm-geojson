@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[-119.862094,34.4163],"type":"Point"},"properties":{"osm_id":"5382161078","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-119.838801,34.437563],"type":"Point"},"properties":{"osm_id":"6070199583","tag":{"addr:city":"Santa Barbara","addr:housenumber":"20","addr:postcode":"93117","addr:street":"David Love Place","amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-119.838801,34.437563],"type":"Point"},"properties":{"name":"Marborg Recycling Center","osm_id":"6070199583","tag":{"addr:city":"Santa Barbara","addr:housenumber":"20","addr:postcode":"93117","addr:state":"CA","addr:street":"David Love Place","amenity":"recycling","operator":"Marborg","recycling_type":"centre","website":"https://www.marborg.com/marborg-goleta-recycling-center"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-119.82609,34.442093],"type":"Point"},"properties":{"osm_id":"6256945670","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-119.825442,34.442052],"type":"Point"},"properties":{"osm_id":"6257205112","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-119.850558,34.432955],"type":"Point"},"properties":{"osm_id":"6466094170","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
@@ -14,6 +14,7 @@
 	{"geometry":{"coordinates":[-119.87818,34.423645],"type":"Point"},"properties":{"osm_id":"7499362292","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-119.862055,34.409705],"type":"Point"},"properties":{"osm_id":"7695937544","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-119.847847,34.415276],"type":"Point"},"properties":{"osm_id":"8250597700","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-119.84805,34.41497],"type":"Point"},"properties":{"osm_id":"8250597708","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-119.84805,34.41497],"type":"Point"},"properties":{"osm_id":"8250597708","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-119.851561,34.40788],"type":"Point"},"properties":{"osm_id":"8312481835","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
 ]
 }

@@ -1,6 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[12.431587,55.827111],"type":"Point"},"properties":{"osm_id":"4057286118","tag":{"amenity":"recycling","operator":"Rudersdal Kommune","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[12.431587,55.827111],"type":"Point"},"properties":{"osm_id":"4057286118","tag":{"amenity":"recycling","operator":"Rudersdal Kommune","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.445672,55.826383],"type":"Point"},"properties":{"osm_id":"8804882470","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.434027,55.828315],"type":"Point"},"properties":{"osm_id":"8829697208","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.433483,55.828868],"type":"Point"},"properties":{"osm_id":"8829724919","tag":{"amenity":"waste_disposal"}},"type":"Feature"}
 ]
 }

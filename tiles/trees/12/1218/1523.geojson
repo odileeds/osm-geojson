@@ -1,8 +1,10 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-72.884797,41.835547],"type":"Point"},"properties":{"name":"6' white oak","osm_id":"3924647399","tag":{"description":"Jay Kaplan says this tree is more than 300 years old.","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-72.884797,41.835547],"type":"Point"},"properties":{"osm_id":"3924647399","tag":{"description":"Jay Kaplan says this tree is more than 300 years old.","natural":"tree","species:en":"white oak"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-72.923546,41.810682],"type":"Point"},"properties":{"osm_id":"7531525307","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-72.923569,41.810766],"type":"Point"},"properties":{"osm_id":"7531525308","tag":{"natural":"tree"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-72.923569,41.810766],"type":"Point"},"properties":{"osm_id":"7531525308","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-72.921866,41.822236],"type":"Point"},"properties":{"osm_id":"8753078759","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-72.92178,41.822362],"type":"Point"},"properties":{"osm_id":"8753078760","tag":{"natural":"tree"}},"type":"Feature"}
 ]
 }

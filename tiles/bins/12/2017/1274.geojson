@@ -1,7 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-2.70272,56.051835],"type":"Point"},"properties":{"name":"North Berwick Recycling Centre","osm_id":"1607737460","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-2.697492,56.053239],"type":"Point"},"properties":{"osm_id":"1673717845","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-2.697492,56.053239],"type":"Point"},"properties":{"osm_id":"1673717845","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-2.702506,56.052018],"type":"Point"},"properties":{"barrier":"gate","osm_id":"2031856614"},"type":"Feature"},
+	{"geometry":{"coordinates":[-2.702853,56.051674],"type":"Point"},"properties":{"barrier":"gate","osm_id":"2031856615"},"type":"Feature"},
+	{"geometry":{"coordinates":[-2.719218,56.051627],"type":"Point"},"properties":{"osm_id":"8888378762","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

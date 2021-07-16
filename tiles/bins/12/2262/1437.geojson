@@ -1,9 +1,12 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[18.824643,47.181217],"type":"Point"},"properties":{"osm_id":"3454479319","tag":{"amenity":"recycling","source:date":"2011-10-05","url":"http://turistautak.hu/poi.php?id=112217"}},"type":"Feature"},
-	{"geometry":{"coordinates":[18.823393,47.183665],"type":"Point"},"properties":{"osm_id":"3454479320","tag":{"amenity":"recycling","source:date":"2011-10-05","url":"http://turistautak.hu/poi.php?id=112216"}},"type":"Feature"},
-	{"geometry":{"coordinates":[18.82436,47.18583],"type":"Point"},"properties":{"osm_id":"3454479323","tag":{"amenity":"recycling","source:date":"2011-10-05","url":"http://turistautak.hu/poi.php?id=119713"}},"type":"Feature"},
-	{"geometry":{"coordinates":[18.825471,47.162078],"type":"Point"},"properties":{"osm_id":"3978675756","tag":{"amenity":"recycling","operator":"Vertik\u00c3\u00a1l Zrt.","recycling:clothes":"no","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[18.824643,47.181217],"type":"Point"},"properties":{"osm_id":"3454479319","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container","source:date":"2011-10-05","url":"http://turistautak.hu/poi.php?id=112217"}},"type":"Feature"},
+	{"geometry":{"coordinates":[18.823393,47.183665],"type":"Point"},"properties":{"osm_id":"3454479320","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container","survey:date":"2018","url":"http://turistautak.hu/poi.php?id=112216"}},"type":"Feature"},
+	{"geometry":{"coordinates":[18.82436,47.18583],"type":"Point"},"properties":{"osm_id":"3454479323","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container","source:date":"2011-10-05","url":"http://turistautak.hu/poi.php?id=119713"}},"type":"Feature"},
+	{"geometry":{"coordinates":[18.825471,47.162078],"type":"Point"},"properties":{"osm_id":"3978675756","tag":{"amenity":"recycling","operator":"Vertik\u00c3\u00a1l Zrt.","recycling:clothes":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[18.823978,47.183727],"type":"Point"},"properties":{"osm_id":"8740401808","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[18.824444,47.18366],"type":"Point"},"properties":{"osm_id":"8740401810","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[18.823098,47.183778],"type":"Point"},"properties":{"osm_id":"8740403193","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

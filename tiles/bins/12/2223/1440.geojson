@@ -5,11 +5,10 @@
 	{"geometry":{"coordinates":[15.454566,47.022567],"type":"Point"},"properties":{"osm_id":"834760649","tag":{"amenity":"recycling","recycling:cans":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.444657,46.996677],"type":"Point"},"properties":{"osm_id":"991667711","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.444629,46.996537],"type":"Point"},"properties":{"osm_id":"991667782","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[15.444648,46.996634],"type":"Point"},"properties":{"osm_id":"991667793","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.444637,46.996585],"type":"Point"},"properties":{"osm_id":"991667800","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.44469,46.996726],"type":"Point"},"properties":{"osm_id":"991667816","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.417548,47.034534],"type":"Point"},"properties":{"osm_id":"1756758581","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[15.430792,47.039669],"type":"Point"},"properties":{"osm_id":"1765438586","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[15.430792,47.039669],"type":"Point"},"properties":{"osm_id":"1765438586","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.39045,46.999143],"type":"Point"},"properties":{"osm_id":"1781425834","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.392538,47.000256],"type":"Point"},"properties":{"osm_id":"1781425835","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.423072,47.033184],"type":"Point"},"properties":{"osm_id":"2092243695","tag":{"amenity":"recycling","recycling:aluminium":"yes","recycling:batteries":"yes","recycling:cardboard":"yes","recycling:glass":"yes","recycling:low_energy_bulbs":"yes","recycling:mobile_phones":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -35,7 +34,6 @@
 	{"geometry":{"coordinates":[15.390395,47.026942],"type":"Point"},"properties":{"osm_id":"5427452471","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.385016,47.029684],"type":"Point"},"properties":{"osm_id":"5427452472","tag":{"amenity":"waste_basket","amenity_1":"vending_machine","fee":"no","payment:none":"yes","vending":"excrement_bags"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.386818,47.036611],"type":"Point"},"properties":{"osm_id":"5640449546","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[15.43182,47.032941],"type":"Point"},"properties":{"name":"Spar","osm_id":"5713866806","tag":{"addr:city":"Graz","addr:housenumber":"1","addr:postcode":"8055","addr:street":"Brauquartier","amenity":"recycling","brand":"Spar","brand:wikidata":"Q610492","brand:wikipedia":"en:Spar (retailer)","contact:phone":"+43 316 243 713","level":"0","opening_hours":"Mo-Fr 07:15-19:30; Sa 07:15-18:00; PH closed","opening_hours:covid19":"Mo-Fr 07:40-19:00; Sa 07:40-18:00","recycling:cooking_oil":"yes","recycling_type":"station","shop":"supermarket","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.41523,47.031541],"type":"Point"},"properties":{"osm_id":"5760746771","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.467059,47.026905],"type":"Point"},"properties":{"osm_id":"5872321410","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.467024,47.027365],"type":"Point"},"properties":{"osm_id":"5872321411","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -77,6 +75,11 @@
 	{"geometry":{"coordinates":[15.446887,47.034529],"type":"Point"},"properties":{"osm_id":"8262117108","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.395523,47.028012],"type":"Point"},"properties":{"osm_id":"8264869728","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.41145,47.035509],"type":"Point"},"properties":{"osm_id":"8264869766","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[15.432267,47.038102],"type":"Point"},"properties":{"osm_id":"8271997468","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[15.432267,47.038102],"type":"Point"},"properties":{"osm_id":"8271997468","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[15.451854,47.021122],"type":"Point"},"properties":{"osm_id":"8330136973","tag":{"amenity":"waste_disposal","waste":"recycling;glass;cans"}},"type":"Feature"},
+	{"geometry":{"coordinates":[15.455124,47.014205],"type":"Point"},"properties":{"osm_id":"8511579034","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[15.453784,47.003891],"type":"Point"},"properties":{"osm_id":"8511588542","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[15.406495,47.029471],"type":"Point"},"properties":{"osm_id":"8656336793","tag":{"amenity":"recycling","recycling:aluminium":"yes","recycling:bio":"yes","recycling:bio_waste":"yes","recycling:cartons":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:metal":"yes","recycling:metal_packaging":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling:trash":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[15.402716,47.027259],"type":"Point"},"properties":{"osm_id":"8656358286","tag":{"access":"private","amenity":"recycling","covered":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

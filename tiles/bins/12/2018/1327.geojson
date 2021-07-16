@@ -1,10 +1,13 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-2.6273,53.381678],"type":"Point"},"properties":{"osm_id":"538888200","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.582284,53.371524],"type":"Point"},"properties":{"osm_id":"3964007804","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.583305,53.373756],"type":"Point"},"properties":{"name":"Morrisons","osm_id":"4552463353","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.5784,53.368062],"type":"Point"},"properties":{"name":"Stockton Heath Recylcing Centre","osm_id":"5316916732","tag":{"addr:postcode":"WA4 2AY","amenity":"recycling","opening_hours":"Mo-Su 08:00-16:00","recycling_type":"centre","website":"https://www.warrington.gov.uk/tip"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-2.583144,53.37186],"type":"Point"},"properties":{"osm_id":"7239441907","tag":{"amenity":"recycling","description":"Now little there, mainly cardboard","recycling_type":"centre"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-2.583144,53.37186],"type":"Point"},"properties":{"osm_id":"7239441907","tag":{"amenity":"recycling","description":"Now little there, mainly cardboard","recycling_type":"centre"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-2.632285,53.365355],"type":"Point"},"properties":{"osm_id":"8848142911","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-2.587917,53.365445],"type":"Point"},"properties":{"osm_id":"8887219577","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-2.626828,53.381624],"type":"Point"},"properties":{"barrier":"gate","osm_id":"8905680986"},"type":"Feature"},
+	{"geometry":{"coordinates":[-2.627912,53.382025],"type":"Point"},"properties":{"barrier":"height_restrictor","osm_id":"8905680987"},"type":"Feature"}
 ]
 }

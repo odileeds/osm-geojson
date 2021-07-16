@@ -1,6 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[4.851063,52.704563],"type":"Point"},"properties":{"osm_id":"5907451704","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[4.851063,52.704563],"type":"Point"},"properties":{"osm_id":"5907451704","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.850451,52.704577],"type":"Point"},"properties":{"osm_id":"8653752483","tag":{"amenity":"recycling","location":"underground","recycling:cartons":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.850513,52.704576],"type":"Point"},"properties":{"osm_id":"8653752484","tag":{"amenity":"recycling","location":"underground","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.850482,52.704576],"type":"Point"},"properties":{"osm_id":"8653752485","tag":{"amenity":"recycling","location":"underground","recycling:textiles":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

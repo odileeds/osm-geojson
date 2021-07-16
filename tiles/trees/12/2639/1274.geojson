@@ -2,9 +2,9 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[52.005072,56.060644],"type":"Point"},"properties":{"osm_id":"2398368383","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[51.999712,56.063712],"type":"Point"},"properties":{"osm_id":"2398512327","tag":{"natural":"tree","type":"broad_leaved"}},"type":"Feature"},
-	{"geometry":{"coordinates":[51.99482,56.068001],"type":"Point"},"properties":{"osm_id":"2398512632","tag":{"natural":"tree","type":"broad_leaved"}},"type":"Feature"},
-	{"geometry":{"coordinates":[51.993399,56.060377],"type":"Point"},"properties":{"osm_id":"2398512696","tag":{"natural":"tree","type":"broad_leaved"}},"type":"Feature"},
+	{"geometry":{"coordinates":[51.999712,56.063712],"type":"Point"},"properties":{"osm_id":"2398512327","tag":{"leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[51.99482,56.068001],"type":"Point"},"properties":{"osm_id":"2398512632","tag":{"leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[51.993399,56.060377],"type":"Point"},"properties":{"osm_id":"2398512696","tag":{"leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[52.005025,56.071362],"type":"Point"},"properties":{"osm_id":"2992226170","tag":{"natural":"tree"}},"type":"Feature"}
 ]
 }

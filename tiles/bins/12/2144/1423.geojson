@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[8.456354,48.046914],"type":"Point"},"properties":{"osm_id":"1092556001","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.456354,48.046914],"type":"Point"},"properties":{"osm_id":"1092556001","tag":{"amenity":"recycling","location":"overground","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.453454,48.048164],"type":"Point"},"properties":{"osm_id":"1092556042","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.523952,48.02711],"type":"Point"},"properties":{"osm_id":"1372966936","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.52507,48.044332],"type":"Point"},"properties":{"osm_id":"5679682323","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -12,12 +12,13 @@
 	{"geometry":{"coordinates":[8.473296,48.031375],"type":"Point"},"properties":{"osm_id":"6253430748","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.475706,48.034201],"type":"Point"},"properties":{"osm_id":"6253450753","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.472391,48.036475],"type":"Point"},"properties":{"osm_id":"6253476224","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.468388,48.011379],"type":"Point"},"properties":{"osm_id":"6253554388","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.466589,48.011047],"type":"Point"},"properties":{"osm_id":"6253570384","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.471084,48.008008],"type":"Point"},"properties":{"osm_id":"6253711430","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.468388,48.011379],"type":"Point"},"properties":{"osm_id":"6253554388","tag":{"amenity":"recycling","check_date:recycling":"2021-06-22","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.466627,48.011037],"type":"Point"},"properties":{"osm_id":"6253570384","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.471084,48.008008],"type":"Point"},"properties":{"osm_id":"6253711430","tag":{"amenity":"recycling","check_date:recycling":"2021-06-22","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.455669,48.011275],"type":"Point"},"properties":{"osm_id":"6473984288","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.475788,48.033831],"type":"Point"},"properties":{"osm_id":"7441756000","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.505871,48.040925],"type":"Point"},"properties":{"osm_id":"7441756033","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.466416,48.042361],"type":"Point"},"properties":{"name":"Gr\u00c3\u00bcnguthof Villingen","osm_id":"8235560011","tag":{"amenity":"recycling"}},"type":"Feature"}
+	{"geometry":{"coordinates":[8.466416,48.042361],"type":"Point"},"properties":{"name":"Kompostanlage Villingen","osm_id":"8235560011","tag":{"amenity":"recycling","recycling:green_waste":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.466679,48.011116],"type":"Point"},"properties":{"name":"Altkleider Sammelbeh\u00c3\u00a4lter","osm_id":"8612275246","tag":{"amenity":"recycling","description":"Altkleider Sammelbeh\u00c3\u00a4lter","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

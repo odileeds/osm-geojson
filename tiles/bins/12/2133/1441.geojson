@@ -3,13 +3,13 @@
 "features": [
 	{"geometry":{"coordinates":[7.483292,46.955741],"type":"Point"},"properties":{"osm_id":"452940481","tag":{"amenity":"recycling","location":"overground","recycling:cans":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.481154,46.939067],"type":"Point"},"properties":{"osm_id":"537538873","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.472208,46.944984],"type":"Point"},"properties":{"osm_id":"538193875","tag":{"addr:city":"Bern","addr:country":"CH","addr:postcode":"3006","addr:street":"Freudenbergerplatz","amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.473269,46.94495],"type":"Point"},"properties":{"osm_id":"538193875","tag":{"amenity":"recycling","location":"overground","opening_hours":"Mo-Sa 07:00-20:00; Su,PH off","operator":"Stadt Bern","operator:type":"public","recycling:aluminium":"yes","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:small_metal":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.480469,46.955206],"type":"Point"},"properties":{"osm_id":"663653129","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.503076,46.925899],"type":"Point"},"properties":{"osm_id":"932195672","tag":{"amenity":"recycling","recycling:electronics":"yes","recycling:nespresso":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.475278,46.932983],"type":"Point"},"properties":{"osm_id":"1218735269","tag":{"amenity":"waste_basket","brand":"Robidog","vending":"excrement_bags"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.472995,46.930281],"type":"Point"},"properties":{"osm_id":"1218735274","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.477951,46.929955],"type":"Point"},"properties":{"osm_id":"1218735283","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.475131,46.93434],"type":"Point"},"properties":{"osm_id":"1219387126","tag":{"amenity":"waste_basket","brand":"Robidog","vending":"excrement_bags"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.475125,46.934356],"type":"Point"},"properties":{"osm_id":"1219387126","tag":{"amenity":"waste_basket","brand":"Robidog","vending":"excrement_bags"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.477788,46.930867],"type":"Point"},"properties":{"osm_id":"1219387130","tag":{"amenity":"waste_basket","brand":"Robidog","vending":"excrement_bags"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.497549,46.974088],"type":"Point"},"properties":{"osm_id":"2004126796","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.4975,46.969868],"type":"Point"},"properties":{"osm_id":"2101701699","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -82,6 +82,9 @@
 	{"geometry":{"coordinates":[7.541231,46.971438],"type":"Point"},"properties":{"osm_id":"8119120441","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.540798,46.971541],"type":"Point"},"properties":{"osm_id":"8119120443","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.531939,46.967642],"type":"Point"},"properties":{"osm_id":"8119120461","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.471762,46.940383],"type":"Point"},"properties":{"osm_id":"8201177568","tag":{"amenity":"recycling","operator":"Madame Frigo","recycling:food":"yes","website":"https://www.madamefrigo.ch/de/standorte/"}},"type":"Feature"}
+	{"geometry":{"coordinates":[7.471762,46.940383],"type":"Point"},"properties":{"osm_id":"8201177568","tag":{"amenity":"recycling","operator":"Madame Frigo","recycling:food":"yes","website":"https://www.madamefrigo.ch/de/standorte/"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.533966,46.929998],"type":"Point"},"properties":{"osm_id":"8867484892","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.477897,46.959298],"type":"Point"},"properties":{"osm_id":"8901978182","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.477919,46.959401],"type":"Point"},"properties":{"osm_id":"8901978183","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

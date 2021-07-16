@@ -1,8 +1,8 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[7.582601,47.440549],"type":"Point"},"properties":{"osm_id":"356316011","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.589121,47.441631],"type":"Point"},"properties":{"osm_id":"356441016","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.582601,47.440549],"type":"Point"},"properties":{"osm_id":"356316011","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"centre"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.589121,47.441631],"type":"Point"},"properties":{"osm_id":"356441016","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.618823,47.405658],"type":"Point"},"properties":{"name":"Robidog","osm_id":"2558185485","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.605524,47.403315],"type":"Point"},"properties":{"name":"Robidog","osm_id":"2558185731","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.594162,47.408605],"type":"Point"},"properties":{"name":"Robidog","osm_id":"2558185845","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},

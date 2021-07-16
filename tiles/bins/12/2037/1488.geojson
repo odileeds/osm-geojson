@@ -1,6 +1,17 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-0.913238,44.035398],"type":"Point"},"properties":{"osm_id":"7457014690","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-0.913238,44.035398],"type":"Point"},"properties":{"osm_id":"7457014690","tag":{"amenity":"recycling","operator":"Syndicat d'Elimination des D\u00c3\u00a9chets de la Haute Lande","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.911438,44.032947],"type":"Point"},"properties":{"osm_id":"8393692844","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.911768,44.033807],"type":"Point"},"properties":{"osm_id":"8393705261","tag":{"amenity":"recycling","operator":"Syndicat d'Elimination des D\u00c3\u00a9chets de la Haute Lande","recycling:cardboard":"yes","recycling:newspaper":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.912582,44.033326],"type":"Point"},"properties":{"osm_id":"8393833300","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.910669,44.033099],"type":"Point"},"properties":{"osm_id":"8393850548","tag":{"amenity":"waste_basket","operator":"mairie de Morcenx"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.910229,44.033156],"type":"Point"},"properties":{"osm_id":"8393871268","tag":{"amenity":"waste_basket","operator":"mairie de Morcenx","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.9117,44.033442],"type":"Point"},"properties":{"osm_id":"8394305556","tag":{"amenity":"waste_basket","colour":"verte","material":"metal","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.911819,44.033542],"type":"Point"},"properties":{"osm_id":"8394392679","tag":{"access":"yes","amenity":"waste_disposal","operator":"SEDHL","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.91744,44.025623],"type":"Point"},"properties":{"osm_id":"8709571752","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.91272,44.037386],"type":"Point"},"properties":{"osm_id":"8718460504","tag":{"amenity":"recycling","operator":"Syndicat d'Elimination des D\u00c3\u00a9chets de la Haute Lande","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.914116,44.02801],"type":"Point"},"properties":{"osm_id":"8718466895","tag":{"amenity":"recycling","operator":"Syndicat d'Elimination des D\u00c3\u00a9chets de la Haute Lande","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.909271,44.03931],"type":"Point"},"properties":{"osm_id":"8718475188","tag":{"amenity":"recycling","operator":"Syndicat d'Elimination des D\u00c3\u00a9chets de la Haute Lande","recycling:glass":"yes","recycling:paper":"Yes","recycling:plastic":"yes"}},"type":"Feature"}
 ]
 }

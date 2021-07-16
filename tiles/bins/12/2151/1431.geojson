@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[9.073068,47.533648],"type":"Point"},"properties":{"osm_id":"81321510","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.097634,47.569702],"type":"Point"},"properties":{"name":"Werkhof Weinfelden","osm_id":"292316533","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.097634,47.569702],"type":"Point"},"properties":{"name":"Entsorgungshof","osm_id":"292316533","tag":{"amenity":"recycling","opening_hours":"Mo-Fr 13:30-17:00; PH closed","operator":"Werkhof Weinfelden","recycling:aluminium":"yes","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"centre","wheelchair":"limited"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.117066,47.563757],"type":"Point"},"properties":{"osm_id":"292354884","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.081891,47.565526],"type":"Point"},"properties":{"osm_id":"294925968","tag":{"amenity":"recycling","recycling:green_waste":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.105717,47.56369],"type":"Point"},"properties":{"osm_id":"1323716544","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -26,6 +26,15 @@
 	{"geometry":{"coordinates":[9.110478,47.567736],"type":"Point"},"properties":{"osm_id":"5975124027","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.087347,47.549012],"type":"Point"},"properties":{"osm_id":"7392109353","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.103911,47.566959],"type":"Point"},"properties":{"osm_id":"7984277578","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.104607,47.566991],"type":"Point"},"properties":{"osm_id":"7984277579","tag":{"amenity":"waste_basket","waste":"cigarettes"}},"type":"Feature"}
+	{"geometry":{"coordinates":[9.104607,47.566991],"type":"Point"},"properties":{"osm_id":"7984277579","tag":{"amenity":"waste_basket","waste":"cigarettes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.096048,47.569898],"type":"Point"},"properties":{"osm_id":"8817362101","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.106837,47.56636],"type":"Point"},"properties":{"osm_id":"8817733794","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.106549,47.566498],"type":"Point"},"properties":{"osm_id":"8817733802","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.101289,47.568444],"type":"Point"},"properties":{"osm_id":"8900705329","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.101655,47.568488],"type":"Point"},"properties":{"osm_id":"8900705332","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.103582,47.567454],"type":"Point"},"properties":{"osm_id":"8900705336","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.101449,47.568505],"type":"Point"},"properties":{"osm_id":"8900705338","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.101743,47.568111],"type":"Point"},"properties":{"osm_id":"8900705339","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.101257,47.568294],"type":"Point"},"properties":{"osm_id":"8900705344","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
 ]
 }

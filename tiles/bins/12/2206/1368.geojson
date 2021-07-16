@@ -1,9 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[13.901162,51.139016],"type":"Point"},"properties":{"osm_id":"248715024","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.901437,51.139104],"type":"Point"},"properties":{"osm_id":"248715024","tag":{"amenity":"recycling","location":"overground","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.913636,51.141332],"type":"Point"},"properties":{"osm_id":"267348638","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.91608,51.136843],"type":"Point"},"properties":{"osm_id":"267884517","tag":{"amenity":"waste_disposal","shop":"outdoor","tourism":"caravan_site"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.91608,51.136843],"type":"Point"},"properties":{"osm_id":"267884517","tag":{"access":"customers","amenity":"waste_disposal","operator":"Radeberger Reisempobile","shop":"outdoor","tourism":"caravan_site","waste":"trash;toilet;grey_water"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.919917,51.130264],"type":"Point"},"properties":{"osm_id":"271320399","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.933117,51.12471],"type":"Point"},"properties":{"osm_id":"281676741","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.915723,51.128941],"type":"Point"},"properties":{"osm_id":"347632943","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
@@ -22,6 +22,7 @@
 	{"geometry":{"coordinates":[13.901372,51.157194],"type":"Point"},"properties":{"osm_id":"5794143501","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.900699,51.158291],"type":"Point"},"properties":{"osm_id":"5794143502","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.902579,51.158136],"type":"Point"},"properties":{"osm_id":"5794143511","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.901161,51.157963],"type":"Point"},"properties":{"osm_id":"5795264605","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[13.901161,51.157963],"type":"Point"},"properties":{"osm_id":"5795264605","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.966721,51.151747],"type":"Point"},"properties":{"osm_id":"8638087427","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
 ]
 }

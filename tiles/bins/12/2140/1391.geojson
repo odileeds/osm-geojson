@@ -2,9 +2,8 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[8.170349,49.848188],"type":"Point"},"properties":{"osm_id":"251869304","tag":{"amenity":"recycling","recycling:glass_bottles":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.119233,49.846143],"type":"Point"},"properties":{"osm_id":"268287072","tag":{"amenity":"recycling","location":"overground","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.119233,49.846143],"type":"Point"},"properties":{"osm_id":"268287072","tag":{"amenity":"recycling","location":"overground","opening_hours":"Mo-Sa 08:00-18:00","opening_hours:covid19":"same","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.145874,49.87224],"type":"Point"},"properties":{"osm_id":"268630583","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.1379,49.866671],"type":"Point"},"properties":{"osm_id":"268836876","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.157114,49.875924],"type":"Point"},"properties":{"osm_id":"270121142","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.122051,49.851907],"type":"Point"},"properties":{"osm_id":"280500373","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.159999,49.881348],"type":"Point"},"properties":{"osm_id":"283198062","tag":{"amenity":"recycling"}},"type":"Feature"},
@@ -31,7 +30,7 @@
 	{"geometry":{"coordinates":[8.146153,49.871428],"type":"Point"},"properties":{"osm_id":"2832260523","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.145743,49.871455],"type":"Point"},"properties":{"osm_id":"2832260524","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.139166,49.867483],"type":"Point"},"properties":{"osm_id":"2838440187","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.137916,49.866627],"type":"Point"},"properties":{"osm_id":"2838440188","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.137857,49.866618],"type":"Point"},"properties":{"osm_id":"2838440188","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.139446,49.869603],"type":"Point"},"properties":{"osm_id":"2838440189","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.113227,49.838398],"type":"Point"},"properties":{"osm_id":"2923293550","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.112996,49.838569],"type":"Point"},"properties":{"osm_id":"2923293551","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -48,6 +47,10 @@
 	{"geometry":{"coordinates":[8.131633,49.861968],"type":"Point"},"properties":{"osm_id":"3389936042","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.112071,49.845928],"type":"Point"},"properties":{"name":"Kayser GmbH Containerdienst","osm_id":"3623691125","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.117692,49.84217],"type":"Point"},"properties":{"osm_id":"4097608135","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.105237,49.844269],"type":"Point"},"properties":{"osm_id":"8022649194","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[8.105237,49.844269],"type":"Point"},"properties":{"osm_id":"8022649194","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.112803,49.844288],"type":"Point"},"properties":{"osm_id":"8612109341","tag":{"amenity":"recycling","opening_hours":"24/7","opening_hours:covid19":"same","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.091992,49.84517],"type":"Point"},"properties":{"osm_id":"8612129883","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 08:00-18:00","opening_hours:covid19":"same","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.111238,49.847263],"type":"Point"},"properties":{"osm_id":"8612133397","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 08:00-18:00","opening_hours:covid19":"same","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.088048,49.849572],"type":"Point"},"properties":{"osm_id":"8623190248","tag":{"amenity":"waste_basket","material":"steel","waste":"trash"}},"type":"Feature"}
 ]
 }

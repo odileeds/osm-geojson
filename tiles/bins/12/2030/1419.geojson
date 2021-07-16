@@ -2,12 +2,15 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[-1.57439,48.277329],"type":"Point"},"properties":{"osm_id":"304005731","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:clothes":"yes","recycling:glass":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.560523,48.243341],"type":"Point"},"properties":{"osm_id":"765995534","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.564691,48.236853],"type":"Point"},"properties":{"osm_id":"765995610","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.564683,48.236823],"type":"Point"},"properties":{"osm_id":"765995610","tag":{"amenity":"recycling","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.516126,48.253275],"type":"Point"},"properties":{"osm_id":"2216844096","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.517932,48.25331],"type":"Point"},"properties":{"osm_id":"2216844104","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.516776,48.254122],"type":"Point"},"properties":{"osm_id":"2216844123","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.511919,48.251784],"type":"Point"},"properties":{"osm_id":"2217106464","tag":{"amenity":"recycling","recycling:cans":"no","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.562784,48.268278],"type":"Point"},"properties":{"osm_id":"7044786366","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-1.562784,48.268278],"type":"Point"},"properties":{"osm_id":"7044786366","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.57043,48.225239],"type":"Point"},"properties":{"osm_id":"8354205099","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.560505,48.243308],"type":"Point"},"properties":{"osm_id":"8486252041","tag":{"amenity":"recycling","operator":"Le Relais","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.564656,48.236832],"type":"Point"},"properties":{"osm_id":"8791637208","tag":{"amenity":"recycling","operator":"Le Relais","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.564629,48.236847],"type":"Point"},"properties":{"osm_id":"8791637209","tag":{"amenity":"recycling","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

@@ -1,23 +1,26 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[11.982818,48.403154],"type":"Point"},"properties":{"osm_id":"255583235","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.997402,48.400392],"type":"Point"},"properties":{"osm_id":"255583237","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.95407,48.437737],"type":"Point"},"properties":{"osm_id":"324836524","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.971544,48.425459],"type":"Point"},"properties":{"osm_id":"495235415","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.960816,48.424049],"type":"Point"},"properties":{"osm_id":"502263938","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.962693,48.403284],"type":"Point"},"properties":{"osm_id":"632300710","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.982818,48.403154],"type":"Point"},"properties":{"osm_id":"255583235","tag":{"amenity":"recycling","location":"overground","opening_hours":"Mo-Sa 07:00-12:00,14:00-19:00; Su,PH off","recycling:cans":"yes","recycling:cardboard":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:shoes":"yes","recycling_type":"container","website":"https://www.landkreis-erding.de/abfallwirtschaft/rund-um-die-entsorgung/recyclinghoefe-containerplaetze/"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.997288,48.400389],"type":"Point"},"properties":{"osm_id":"255583237","tag":{"amenity":"recycling","location":"overground","opening_hours":"Mo-Sa 07:00-12:00,14:00-19:00; Su,PH off","recycling:cans":"yes","recycling:cardboard":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:shoes":"yes","recycling_type":"container","website":"https://www.landkreis-erding.de/abfallwirtschaft/rund-um-die-entsorgung/recyclinghoefe-containerplaetze/"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.95407,48.437737],"type":"Point"},"properties":{"osm_id":"324836524","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.960816,48.424049],"type":"Point"},"properties":{"osm_id":"502263938","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 07:00-12:00,14:00-19:00; Su,PH off","recycling:cans":"yes","recycling:cardboard":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:shoes":"yes","recycling_type":"container","website":"https://www.landkreis-erding.de/abfallwirtschaft/rund-um-die-entsorgung/recyclinghoefe-containerplaetze/"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.962693,48.403284],"type":"Point"},"properties":{"osm_id":"632300710","tag":{"amenity":"recycling","location":"overground","opening_hours":"Mo-Sa 07:00-12:00,14:00-19:00; Su,PH off","recycling:cans":"yes","recycling:cardboard":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container","website":"https://www.landkreis-erding.de/abfallwirtschaft/rund-um-die-entsorgung/recyclinghoefe-containerplaetze/"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.000026,48.402581],"type":"Point"},"properties":{"osm_id":"698934248","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.034034,48.449195],"type":"Point"},"properties":{"osm_id":"6357618706","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.990653,48.452437],"type":"Point"},"properties":{"osm_id":"7678468347","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.029835,48.452333],"type":"Point"},"properties":{"osm_id":"7685867347","tag":{"amenity":"waste_basket","material":"metal"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.99915,48.443576],"type":"Point"},"properties":{"osm_id":"7808249785","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.999152,48.443578],"type":"Point"},"properties":{"osm_id":"7808249785","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.996226,48.402146],"type":"Point"},"properties":{"osm_id":"7869348226","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.962177,48.402637],"type":"Point"},"properties":{"osm_id":"8267319199","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.960969,48.402279],"type":"Point"},"properties":{"osm_id":"8267319208","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.96063,48.402145],"type":"Point"},"properties":{"osm_id":"8267319210","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.959999,48.401923],"type":"Point"},"properties":{"osm_id":"8267319213","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.959073,48.401616],"type":"Point"},"properties":{"osm_id":"8267347220","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.957526,48.405878],"type":"Point"},"properties":{"osm_id":"8267564877","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[11.957526,48.405878],"type":"Point"},"properties":{"osm_id":"8267564877","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.987066,48.407903],"type":"Point"},"properties":{"osm_id":"8521387807","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.989698,48.452649],"type":"Point"},"properties":{"osm_id":"8664065524","tag":{"amenity":"recycling","check_date":"2021-07-14","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:paper":"no","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.989519,48.452424],"type":"Point"},"properties":{"osm_id":"8664104217","tag":{"amenity":"waste_basket","check_date":"2021-07-14","colour":"silver","material":"steel","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.038628,48.445519],"type":"Point"},"properties":{"osm_id":"8712961865","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

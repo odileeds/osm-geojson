@@ -2,8 +2,8 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[-1.305808,47.100188],"type":"Point"},"properties":{"osm_id":"3507346016","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.306475,47.100527],"type":"Point"},"properties":{"osm_id":"3507346054","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.306853,47.100929],"type":"Point"},"properties":{"osm_id":"3507346086","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.306475,47.100527],"type":"Point"},"properties":{"osm_id":"3507346054","tag":{"amenity":"waste_basket","check_date":"2021-05-02"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.306853,47.100929],"type":"Point"},"properties":{"osm_id":"3507346086","tag":{"amenity":"waste_basket","check_date":"2021-05-02"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.304084,47.10117],"type":"Point"},"properties":{"osm_id":"3507346398","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.303957,47.101628],"type":"Point"},"properties":{"osm_id":"3507346422","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.282072,47.139384],"type":"Point"},"properties":{"osm_id":"4228338389","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -14,6 +14,11 @@
 	{"geometry":{"coordinates":[-1.302798,47.10139],"type":"Point"},"properties":{"osm_id":"7886603270","tag":{"amenity":"waste_disposal","authentication:membership_card":"yes","authentication:none":"no","fee":"yes","location":"underground","mapillary":"7aJ31ryOJrT8_sqOPtOGJg","opening_hours":"24/7","operator":"Clisson S\u00c3\u00a8vre et Maine Agglo"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.302777,47.101387],"type":"Point"},"properties":{"osm_id":"7886603271","tag":{"amenity":"waste_disposal","authentication:membership_card":"yes","authentication:none":"no","fee":"yes","location":"underground","mapillary":"7aJ31ryOJrT8_sqOPtOGJg","opening_hours":"24/7","operator":"Clisson S\u00c3\u00a8vre et Maine Agglo"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.30265,47.101369],"type":"Point"},"properties":{"osm_id":"7886603272","tag":{"amenity":"recycling","fee":"no","location":"underground","mapillary":"3KaldP_sFKayS5xcGTY_gQ","opening_hours":"24/7","operator":"Clisson S\u00c3\u00a8vre et Maine Agglo","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.302675,47.101373],"type":"Point"},"properties":{"osm_id":"7886603273","tag":{"amenity":"recycling","fee":"no","location":"underground","mapillary":"3KaldP_sFKayS5xcGTY_gQ","opening_hours":"24/7","operator":"Clisson S\u00c3\u00a8vre et Maine Agglo","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-1.302675,47.101373],"type":"Point"},"properties":{"osm_id":"7886603273","tag":{"amenity":"recycling","fee":"no","location":"underground","mapillary":"3KaldP_sFKayS5xcGTY_gQ","opening_hours":"24/7","operator":"Clisson S\u00c3\u00a8vre et Maine Agglo","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.253115,47.10074],"type":"Point"},"properties":{"name":"Verre","osm_id":"8402581111","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.253108,47.100697],"type":"Point"},"properties":{"osm_id":"8402619444","tag":{"amenity":"recycling","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.310715,47.100805],"type":"Point"},"properties":{"osm_id":"8729019530","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.310714,47.100827],"type":"Point"},"properties":{"osm_id":"8729019531","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.310706,47.100852],"type":"Point"},"properties":{"osm_id":"8729019532","tag":{"amenity":"recycling","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

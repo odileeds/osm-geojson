@@ -13,7 +13,7 @@
 	{"geometry":{"coordinates":[8.973068,48.924564],"type":"Point"},"properties":{"osm_id":"3225036770","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.994022,48.975606],"type":"Point"},"properties":{"osm_id":"3254062243","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.02766,48.924945],"type":"Point"},"properties":{"osm_id":"3717467162","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.026877,48.924574],"type":"Point"},"properties":{"osm_id":"3717482173","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.026877,48.924574],"type":"Point"},"properties":{"osm_id":"3717482173","tag":{"amenity":"waste_basket","check_date":"2021-01-05"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.977758,48.923773],"type":"Point"},"properties":{"osm_id":"3718635989","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.973036,48.929316],"type":"Point"},"properties":{"osm_id":"3721458307","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.050327,48.931929],"type":"Point"},"properties":{"osm_id":"3898067386","tag":{"amenity":"recycling","recycling:green_waste":"yes"}},"type":"Feature"},
@@ -39,6 +39,12 @@
 	{"geometry":{"coordinates":[8.966915,48.930361],"type":"Point"},"properties":{"osm_id":"5844413603","tag":{"amenity":"recycling","operator":"DRK","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.968027,48.971259],"type":"Point"},"properties":{"barrier":"entrance","osm_id":"6279966000","tag":{"foot":"yes","motorcar":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.967471,48.97088],"type":"Point"},"properties":{"barrier":"entrance","osm_id":"6279966001","tag":{"foot":"yes","motorcar":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.967531,48.930398],"type":"Point"},"properties":{"osm_id":"7679804702","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[8.967531,48.930398],"type":"Point"},"properties":{"osm_id":"7679804702","tag":{"amenity":"recycling","operator":"Deutsches Rotes Kreuz","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.02495,48.953857],"type":"Point"},"properties":{"osm_id":"8320822032","tag":{"amenity":"waste_basket","material":"plastic","operator":"Gemeinde Sersheim","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.96805,48.9308],"type":"Point"},"properties":{"osm_id":"8528724494","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.969403,48.976905],"type":"Point"},"properties":{"osm_id":"8911958783","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.980967,48.979062],"type":"Point"},"properties":{"osm_id":"8913010797","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.978305,48.979985],"type":"Point"},"properties":{"osm_id":"8913010801","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.988128,48.978967],"type":"Point"},"properties":{"osm_id":"8913013835","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }
