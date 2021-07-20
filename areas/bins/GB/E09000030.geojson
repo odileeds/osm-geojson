@@ -21,7 +21,7 @@
 { "type": "Feature", "properties": { "osm_id": "283839286", "other_tags": "\"amenity\"=>\"recycling\",\"recycling:clothes\"=>\"yes\",\"recycling:glass\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0666872, 51.5079941 ] } },
 { "type": "Feature", "properties": { "osm_id": "348197431", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -0.057078, 51.5125498 ] } },
 { "type": "Feature", "properties": { "osm_id": "409227663", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0056976, 51.5121682 ] } },
-{ "type": "Feature", "properties": { "osm_id": "433435189", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0216447, 51.5304505 ] } },
+{ "type": "Feature", "properties": { "osm_id": "433435189", "other_tags": "\"amenity\"=>\"recycling\",\"location\"=>\"overground\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0216447, 51.5304505 ] } },
 { "type": "Feature", "properties": { "osm_id": "647023512", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0337382, 51.5116233 ] } },
 { "type": "Feature", "properties": { "osm_id": "746560302", "other_tags": "\"amenity\"=>\"recycling\",\"location\"=>\"overground\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0341088, 51.50897 ] } },
 { "type": "Feature", "properties": { "osm_id": "1118877104", "name": "Globe Town Community Recycling Centre", "other_tags": "\"amenity\"=>\"recycling\",\"location\"=>\"overground\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0476629, 51.5235393 ] } },
@@ -333,6 +333,8 @@
 { "type": "Feature", "properties": { "osm_id": "8815206562", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0217494, 51.5350162 ] } },
 { "type": "Feature", "properties": { "osm_id": "8848425117", "other_tags": "\"amenity\"=>\"waste_basket\",\"survey:date\"=>\"2021-06-19\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0362366, 51.5419786 ] } },
 { "type": "Feature", "properties": { "osm_id": "8848591416", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0037039, 51.5169713 ] } },
-{ "type": "Feature", "properties": { "osm_id": "8848639617", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0040936, 51.5163427 ] } }
+{ "type": "Feature", "properties": { "osm_id": "8848639617", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0040936, 51.5163427 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8930397017", "other_tags": "\"amenity\"=>\"waste_basket\",\"survey:date\"=>\"2021-07-18\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0355924, 51.5220696 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8930397117", "other_tags": "\"amenity\"=>\"waste_basket\",\"survey:date\"=>\"2021-07-18\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0361187, 51.5228259 ] } }
 ]
 }

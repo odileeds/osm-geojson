@@ -164,12 +164,12 @@
 	{"geometry":{"coordinates":[13.454085,52.454534],"type":"Point"},"properties":{"osm_id":"3811297500","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.453592,52.455475],"type":"Point"},"properties":{"osm_id":"3811297501","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.469033,52.463402],"type":"Point"},"properties":{"osm_id":"3851450091","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.510187,52.454509],"type":"Point"},"properties":{"osm_id":"3865071202","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.510187,52.454509],"type":"Point"},"properties":{"osm_id":"3865071202","tag":{"amenity":"waste_basket","colour":"black","material":"steel","operator":"s-Bahn Berlin","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.510394,52.454616],"type":"Point"},"properties":{"osm_id":"3865071207","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.509862,52.45472],"type":"Point"},"properties":{"osm_id":"3865071214","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.510046,52.454836],"type":"Point"},"properties":{"osm_id":"3865071223","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.510046,52.454836],"type":"Point"},"properties":{"osm_id":"3865071223","tag":{"amenity":"waste_basket","colour":"grey","material":"metal","operator":"S-Bahn Berlin","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.509676,52.454837],"type":"Point"},"properties":{"osm_id":"3865071224","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.509859,52.45496],"type":"Point"},"properties":{"osm_id":"3865071233","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.509859,52.45496],"type":"Point"},"properties":{"osm_id":"3865071233","tag":{"amenity":"waste_basket","colour":"grey","material":"metal","operator":"S-Bahn Berlin","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.509256,52.455112],"type":"Point"},"properties":{"osm_id":"3865071242","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.509461,52.455222],"type":"Point"},"properties":{"osm_id":"3865071247","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.508805,52.455402],"type":"Point"},"properties":{"osm_id":"3865071249","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -375,7 +375,7 @@
 	{"geometry":{"coordinates":[13.523719,52.478923],"type":"Point"},"properties":{"osm_id":"6171061487","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.520814,52.477904],"type":"Point"},"properties":{"osm_id":"6171061497","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.53055,52.481538],"type":"Point"},"properties":{"osm_id":"6171087334","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.525355,52.48016],"type":"Point"},"properties":{"osm_id":"6171087335","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.525402,52.480157],"type":"Point"},"properties":{"osm_id":"6171087335","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.532348,52.477533],"type":"Point"},"properties":{"osm_id":"6171087337","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.534157,52.47674],"type":"Point"},"properties":{"osm_id":"6171087338","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.532237,52.47612],"type":"Point"},"properties":{"osm_id":"6171087339","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
@@ -655,6 +655,7 @@
 	{"geometry":{"coordinates":[13.474271,52.479075],"type":"Point"},"properties":{"osm_id":"8919911083","tag":{"amenity":"waste_basket","colour":"orange","material":"steel","operator":"BSR","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.474252,52.479089],"type":"Point"},"properties":{"osm_id":"8919911084","tag":{"amenity":"waste_basket","colour":"orange;grey","material":"steel","operator":"BSR","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.523665,52.446915],"type":"Point"},"properties":{"osm_id":"8920186827","tag":{"amenity":"waste_basket","colour":"grey","material":"steel","operator":"S-Bahn Berlin","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.524148,52.446627],"type":"Point"},"properties":{"osm_id":"8920333658","tag":{"amenity":"waste_basket","colour":"grey","material":"steel","operator":"S-Bahn Berlin","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[13.524148,52.446627],"type":"Point"},"properties":{"osm_id":"8920333658","tag":{"amenity":"waste_basket","colour":"grey","material":"steel","operator":"S-Bahn Berlin","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.509955,52.454896],"type":"Point"},"properties":{"osm_id":"8926670708","tag":{"amenity":"waste_basket","colour":"grey","material":"metal","operator":"S-Bahn Berlin","waste":"trash"}},"type":"Feature"}
 ]
 }

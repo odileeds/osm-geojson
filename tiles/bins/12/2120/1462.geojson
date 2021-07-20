@@ -1,10 +1,10 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[6.385458,45.676204],"type":"Point"},"properties":{"osm_id":"824876564","tag":{"amenity":"recycling","recycling:cans":"no","recycling:clothes":"no","recycling:glass":"yes","recycling:paper":"no"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.385458,45.676204],"type":"Point"},"properties":{"osm_id":"824876564","tag":{"amenity":"recycling","location":"overground","recycling:cans":"no","recycling:clothes":"no","recycling:glass":"yes","recycling:paper":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.408623,45.689582],"type":"Point"},"properties":{"osm_id":"1480461594","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.40335,45.687176],"type":"Point"},"properties":{"osm_id":"1480474867","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.390849,45.676336],"type":"Point"},"properties":{"osm_id":"3721262747","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.390849,45.676336],"type":"Point"},"properties":{"osm_id":"3721262747","tag":{"amenity":"waste_basket","check_date":"2021-07-18"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.374116,45.667995],"type":"Point"},"properties":{"osm_id":"4247306263","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.370176,45.667842],"type":"Point"},"properties":{"osm_id":"7944209585","tag":{"amenity":"waste_basket","survey:date":"2020-09-26"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.370206,45.667851],"type":"Point"},"properties":{"osm_id":"7944209685","tag":{"amenity":"waste_basket","survey:date":"2020-09-26"}},"type":"Feature"},
@@ -41,6 +41,10 @@
 	{"geometry":{"coordinates":[6.372966,45.64803],"type":"Point"},"properties":{"osm_id":"8731537318","tag":{"amenity":"waste_basket","survey:date":"2021-05-14"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.372956,45.647914],"type":"Point"},"properties":{"osm_id":"8731537319","tag":{"amenity":"waste_basket","survey:date":"2021-05-14"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.372784,45.648195],"type":"Point"},"properties":{"osm_id":"8731537417","tag":{"amenity":"waste_basket","survey:date":"2021-05-14"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.37322,45.647857],"type":"Point"},"properties":{"osm_id":"8731537517","tag":{"amenity":"waste_basket","survey:date":"2021-05-14"}},"type":"Feature"}
+	{"geometry":{"coordinates":[6.37322,45.647857],"type":"Point"},"properties":{"osm_id":"8731537517","tag":{"amenity":"waste_basket","survey:date":"2021-05-14"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.392018,45.675738],"type":"Point"},"properties":{"osm_id":"8929018817","tag":{"amenity":"waste_basket","survey:date":"2021-07-17"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.390234,45.676337],"type":"Point"},"properties":{"osm_id":"8929018818","tag":{"amenity":"waste_basket","survey:date":"2021-07-17"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.390006,45.676141],"type":"Point"},"properties":{"osm_id":"8929025917","tag":{"amenity":"waste_basket","survey:date":"2021-07-17"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.389345,45.675608],"type":"Point"},"properties":{"osm_id":"8929026518","tag":{"amenity":"waste_basket","survey:date":"2021-07-17"}},"type":"Feature"}
 ]
 }
