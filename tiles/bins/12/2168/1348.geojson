@@ -20,7 +20,7 @@
 	{"geometry":{"coordinates":[10.576975,52.234128],"type":"Point"},"properties":{"osm_id":"616996784","tag":{"amenity":"recycling","operator":"ALBA Braunschweig GmbH","recycling:cans":"no","recycling:clothes":"yes","recycling:composites":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"no","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.581992,52.239756],"type":"Point"},"properties":{"osm_id":"617008471","tag":{"amenity":"recycling","location":"overground","recycling:composites":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.568949,52.218003],"type":"Point"},"properties":{"osm_id":"705480204","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.564802,52.222075],"type":"Point"},"properties":{"osm_id":"1196546098","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.564802,52.222075],"type":"Point"},"properties":{"osm_id":"1196546098","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.558868,52.255268],"type":"Point"},"properties":{"osm_id":"1415939831","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.559775,52.25529],"type":"Point"},"properties":{"osm_id":"1415939832","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.556667,52.255516],"type":"Point"},"properties":{"osm_id":"1415939840","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -80,7 +80,7 @@
 	{"geometry":{"coordinates":[10.554342,52.255124],"type":"Point"},"properties":{"osm_id":"3347025115","tag":{"amenity":"recycling","operator":"ALBA Braunschweig GmbH","recycling:cans":"no","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.58662,52.262126],"type":"Point"},"properties":{"osm_id":"3491344894","tag":{"amenity":"waste_basket","check_date":"2021-01-23"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.586407,52.262783],"type":"Point"},"properties":{"osm_id":"3491344895","tag":{"amenity":"waste_basket","operator":"Stadt Braunschweig"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.56333,52.224816],"type":"Point"},"properties":{"osm_id":"3599079688","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:shoes":"yes","recycling:small_electrical_appliances":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.56333,52.224816],"type":"Point"},"properties":{"osm_id":"3599079688","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:small_electrical_appliances":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.618499,52.215353],"type":"Point"},"properties":{"osm_id":"3614518659","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.620814,52.214442],"type":"Point"},"properties":{"osm_id":"3614518660","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.550001,52.226128],"type":"Point"},"properties":{"osm_id":"5137964976","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -139,6 +139,19 @@
 	{"geometry":{"coordinates":[10.549786,52.232044],"type":"Point"},"properties":{"osm_id":"8910234396","tag":{"amenity":"waste_basket","mapillary":"848386776073994","material":"steel","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.550064,52.232466],"type":"Point"},"properties":{"osm_id":"8910234412","tag":{"amenity":"waste_basket","mapillary":"210457284295173","material":"steel","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.550118,52.232379],"type":"Point"},"properties":{"osm_id":"8910234413","tag":{"amenity":"waste_basket","mapillary":"318021859980250","material":"steel","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.550066,52.232612],"type":"Point"},"properties":{"osm_id":"8910269929","tag":{"amenity":"waste_basket","mapillary":"793955794658851","material":"steel","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[10.550066,52.232612],"type":"Point"},"properties":{"osm_id":"8910269929","tag":{"amenity":"waste_basket","mapillary":"793955794658851","material":"steel","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.568187,52.225609],"type":"Point"},"properties":{"osm_id":"8938494417","tag":{"amenity":"waste_basket","survey:date":"2021-07-21"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.56707,52.226101],"type":"Point"},"properties":{"osm_id":"8938509217","tag":{"amenity":"waste_basket","colour":"gray","material":"metal","survey:date":"2021-07-21","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.564722,52.224554],"type":"Point"},"properties":{"osm_id":"8938522417","tag":{"amenity":"waste_basket","survey:date":"2021-07-21"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.564021,52.223824],"type":"Point"},"properties":{"osm_id":"8938592417","tag":{"amenity":"waste_basket","survey:date":"2021-07-21"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.565329,52.221627],"type":"Point"},"properties":{"osm_id":"8938634924","tag":{"amenity":"waste_basket","colour":"gray","material":"plastic","survey:date":"2021-07-21","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.568231,52.225388],"type":"Point"},"properties":{"osm_id":"8938718718","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container","survey:date":"2021-07-21"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.569214,52.223995],"type":"Point"},"properties":{"osm_id":"8938720017","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container","survey:date":"2021-07-21"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.566323,52.247738],"type":"Point"},"properties":{"osm_id":"8938859624","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"no","recycling:paper":"no","recycling:plastic":"no","recycling_type":"container","survey:date":"2021-07-21"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.566323,52.247738],"type":"Point"},"properties":{"osm_id":"8938859624","tag":{"amenity":"recycling","operator":"Lorenz Wittmann GmbH","recycling:clothes":"yes","recycling:glass_bottles":"no","recycling:paper":"no","recycling:plastic":"no","recycling_type":"container","survey:date":"2021-07-21"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.563939,52.225284],"type":"Point"},"properties":{"osm_id":"8939902113","tag":{"amenity":"waste_basket","material":"steel","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.563815,52.225453],"type":"Point"},"properties":{"osm_id":"8939906820","tag":{"amenity":"waste_basket","material":"steel","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.563377,52.225307],"type":"Point"},"properties":{"osm_id":"8939906832","tag":{"amenity":"waste_basket","material":"steel","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.56326,52.225217],"type":"Point"},"properties":{"osm_id":"8939906838","tag":{"amenity":"waste_basket","material":"steel","waste":"trash"}},"type":"Feature"}
 ]
 }
