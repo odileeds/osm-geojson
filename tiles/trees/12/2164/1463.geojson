@@ -1,9 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[10.255837,45.616485],"type":"Point"},"properties":{"osm_id":"1718224777","tag":{"denotation":"natural_monument","natural":"tree","species:it":"Carpino bianco"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.210794,45.584799],"type":"Point"},"properties":{"name":"Il Platano del Conte","osm_id":"1722262150","tag":{"circumference":"6.9","denotation":"natural_monument","height":"35","loc_name":"El Piant\u00c3\u00b9 del Cont","natural":"tree","species":"Platanus orientalis","species:it":"Platano","start_date":"C16"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.25483,45.61807],"type":"Point"},"properties":{"osm_id":"2565548195","tag":{"denotation":"natural_monument","natural":"tree","species:it":"Castagno"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.255837,45.616485],"type":"Point"},"properties":{"osm_id":"1718224777","tag":{"denotation":"natural_monument","natural":"tree","species:it":"Carpino bianco","survey:date":"2018-10-24"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.210794,45.584799],"type":"Point"},"properties":{"name":"Il Platano del Conte","osm_id":"1722262150","tag":{"circumference":"6.9","denotation":"natural_monument","height":"35","loc_name":"El Piant\u00c3\u00b9 del Cont","natural":"tree","species":"Platanus orientalis","species:it":"Platano","start_date":"C16","survey:date":"2020-11-21","website":"https://it.wikipedia.org/wiki/Alberi_monumentali_della_Lombardia#Provincia_di_Brescia"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.25483,45.61807],"type":"Point"},"properties":{"osm_id":"2565548195","tag":{"denotation":"natural_monument","natural":"tree","species:it":"Castagno","survey:date":"2018-10-24"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.208465,45.61776],"type":"Point"},"properties":{"osm_id":"2580068639","tag":{"leaf_type":"needleleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.231481,45.639979],"type":"Point"},"properties":{"osm_id":"2776198443","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.245915,45.592967],"type":"Point"},"properties":{"osm_id":"2961483977","tag":{"natural":"tree"}},"type":"Feature"},
@@ -108,7 +108,7 @@
 	{"geometry":{"coordinates":[10.219296,45.637316],"type":"Point"},"properties":{"osm_id":"3838212366","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.209665,45.632571],"type":"Point"},"properties":{"osm_id":"3839111039","tag":{"natural":"tree","species:it":"Ontano"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.214493,45.635015],"type":"Point"},"properties":{"osm_id":"3841718890","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.218245,45.633863],"type":"Point"},"properties":{"name":"Ruer Verda","osm_id":"3856485372","tag":{"denotation":"natural_monument","natural":"tree","species":"Quercus crenata","species:it":"Cerrosughera","species:wikidata":"Q3927687","species:wikipedia":"it:Quercus crenata","survey:date":"2016-03-26"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.218245,45.633863],"type":"Point"},"properties":{"name":"Ruer Verda","osm_id":"3856485372","tag":{"denotation":"rare","natural":"tree","species":"Quercus crenata","species:it":"Cerrosughera","species:wikidata":"Q3927687","species:wikipedia":"it:Quercus crenata","survey:date":"2016-03-26"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.227877,45.634008],"type":"Point"},"properties":{"osm_id":"3874735562","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.228057,45.634018],"type":"Point"},"properties":{"osm_id":"3874735563","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.227963,45.63402],"type":"Point"},"properties":{"osm_id":"3874735564","tag":{"natural":"tree"}},"type":"Feature"},
@@ -970,7 +970,7 @@
 	{"geometry":{"coordinates":[10.279429,45.612186],"type":"Point"},"properties":{"osm_id":"4419522959","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.279436,45.612229],"type":"Point"},"properties":{"osm_id":"4419522962","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.279416,45.612274],"type":"Point"},"properties":{"osm_id":"4419522963","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.23314,45.639565],"type":"Point"},"properties":{"osm_id":"4462504769","tag":{"denotation":"natural_monument","natural":"tree","species:it":"Faggio"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.233131,45.639577],"type":"Point"},"properties":{"osm_id":"4462504769","tag":{"denotation":"natural_monument","natural":"tree","species:it":"Faggio"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.264152,45.608616],"type":"Point"},"properties":{"osm_id":"4466264128","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.264169,45.608668],"type":"Point"},"properties":{"osm_id":"4466264129","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.264123,45.608738],"type":"Point"},"properties":{"osm_id":"4466264130","tag":{"natural":"tree"}},"type":"Feature"},
@@ -999,6 +999,7 @@
 	{"geometry":{"coordinates":[10.199971,45.626121],"type":"Point"},"properties":{"osm_id":"8717748003","tag":{"leaf_type":"needleleaved","natural":"tree","species:it":"Cipresso"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.200056,45.626136],"type":"Point"},"properties":{"osm_id":"8717748004","tag":{"leaf_type":"needleleaved","natural":"tree","species:it":"Cipresso"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.200175,45.626157],"type":"Point"},"properties":{"osm_id":"8717748005","tag":{"leaf_type":"needleleaved","natural":"tree","species:it":"Cipresso"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.200326,45.626183],"type":"Point"},"properties":{"osm_id":"8717748006","tag":{"leaf_type":"needleleaved","natural":"tree","species:it":"Cipresso"}},"type":"Feature"}
+	{"geometry":{"coordinates":[10.200326,45.626183],"type":"Point"},"properties":{"osm_id":"8717748006","tag":{"leaf_type":"needleleaved","natural":"tree","species:it":"Cipresso"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.270309,45.622731],"type":"Point"},"properties":{"osm_id":"8939694469","tag":{"denotation":"natural_monument","natural":"tree","species:it":"Sorbo"}},"type":"Feature"}
 ]
 }
