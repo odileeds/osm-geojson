@@ -128,7 +128,7 @@
 	{"geometry":{"coordinates":[-123.02031,49.226463],"type":"Point"},"properties":{"osm_id":"8152088017","tag":{"amenity":"waste_basket","survey:date":"2020-11-22"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-123.018948,49.222687],"type":"Point"},"properties":{"osm_id":"8152088018","tag":{"amenity":"waste_basket","survey:date":"2020-11-22"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-123.008022,49.231366],"type":"Point"},"properties":{"osm_id":"8166660724","tag":{"amenity":"waste_basket","survey:date":"2020-11-25"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-123.007995,49.231357],"type":"Point"},"properties":{"osm_id":"8166660725","tag":{"amenity":"recycling","location":"overground","recycling_type":"container","survey:date":"2020-11-25"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-123.007995,49.231357],"type":"Point"},"properties":{"osm_id":"8166660725","tag":{"amenity":"recycling","location":"overground","recycling:beverage_cartons":"no","recycling:cans":"yes","recycling:paper":"yes","recycling:plastic":"no","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"no","recycling_type":"container","survey:date":"2020-11-25"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-123.015702,49.234611],"type":"Point"},"properties":{"osm_id":"8282157717","tag":{"amenity":"waste_basket","survey:date":"2021-01-01"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-123.014683,49.235062],"type":"Point"},"properties":{"osm_id":"8282157917","tag":{"amenity":"waste_basket","survey:date":"2021-01-01"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-122.996307,49.221823],"type":"Point"},"properties":{"name":"Metrotown Return-It Depot","osm_id":"8303467027","tag":{"amenity":"recycling","opening_hours":"Mo-Su 10:00-17:00; PH off","phone":"+1-604-451-8888","recycling_type":"centre","website":"https://www.return-it.ca/locations/metrotown-return-it-centre"}},"type":"Feature"},
@@ -178,6 +178,8 @@
 	{"geometry":{"coordinates":[-123.012862,49.242852],"type":"Point"},"properties":{"osm_id":"8917029719","tag":{"amenity":"waste_basket","survey:date":"2021-07-13","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-122.974573,49.248555],"type":"Point"},"properties":{"osm_id":"8937224317","tag":{"amenity":"waste_disposal","survey:date":"2021-07-20"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-122.97517,49.245904],"type":"Point"},"properties":{"osm_id":"8937224318","tag":{"amenity":"waste_disposal","survey:date":"2021-07-20"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-122.974836,49.243981],"type":"Point"},"properties":{"osm_id":"8937224517","tag":{"amenity":"waste_basket","survey:date":"2021-07-20"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-122.974836,49.243981],"type":"Point"},"properties":{"osm_id":"8937224517","tag":{"amenity":"waste_basket","survey:date":"2021-07-20"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-123.01047,49.232195],"type":"Point"},"properties":{"osm_id":"8944504617","tag":{"amenity":"waste_basket","survey:date":"2021-07-23"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-123.005059,49.23046],"type":"Point"},"properties":{"osm_id":"8944509517","tag":{"amenity":"waste_basket","survey:date":"2021-07-23"}},"type":"Feature"}
 ]
 }

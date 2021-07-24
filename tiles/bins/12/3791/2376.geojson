@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[153.220687,-27.730601],"type":"Point"},"properties":{"name":"Recycling Developments","osm_id":"745974512","tag":{"amenity":"recycling","recycling:hardcore":"yes","recycling_type":"centre"}},"type":"Feature"},
+	{"geometry":{"coordinates":[153.220687,-27.730601],"type":"Point"},"properties":{"name":"Recycling Developments","osm_id":"745974512","tag":{"amenity":"recycling","opening_hours:signed":"no","recycling:hardcore":"yes","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[153.206042,-27.708671],"type":"Point"},"properties":{"osm_id":"2591069260","tag":{"amenity":"waste_basket","check_date":"2021-07-17"}},"type":"Feature"},
 	{"geometry":{"coordinates":[153.193628,-27.737639],"type":"Point"},"properties":{"osm_id":"3005787810","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[153.203226,-27.708576],"type":"Point"},"properties":{"osm_id":"3751334629","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -17,6 +17,7 @@
 	{"geometry":{"coordinates":[153.202811,-27.717238],"type":"Point"},"properties":{"osm_id":"6925981373","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[153.202857,-27.717623],"type":"Point"},"properties":{"osm_id":"6925981379","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[153.202996,-27.717595],"type":"Point"},"properties":{"osm_id":"6925981380","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[153.201203,-27.716551],"type":"Point"},"properties":{"osm_id":"6926038606","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[153.201203,-27.716551],"type":"Point"},"properties":{"osm_id":"6926038606","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[153.220437,-27.727207],"type":"Point"},"properties":{"osm_id":"8942948827","tag":{"amenity":"waste_basket","waste":"dog_excrement;trash"}},"type":"Feature"}
 ]
 }
