@@ -35,6 +35,6 @@
 	{"geometry":{"coordinates":[-8.72893,40.641519],"type":"Point"},"properties":{"osm_id":"7313911498","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-8.747338,40.643716],"type":"Point"},"properties":{"osm_id":"7441664087","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-8.746226,40.64009],"type":"Point"},"properties":{"osm_id":"7673986412","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-8.746248,40.640093],"type":"Point"},"properties":{"osm_id":"7673986413","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-8.746248,40.640093],"type":"Point"},"properties":{"osm_id":"7673986413","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

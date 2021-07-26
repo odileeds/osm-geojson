@@ -1,8 +1,8 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[5.491231,52.493936],"type":"Point"},"properties":{"osm_id":"2834269071","tag":{"amenity":"recycling","description":"Plastic collection","recycling:plastic":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.491275,52.493937],"type":"Point"},"properties":{"osm_id":"2834276190","tag":{"amenity":"recycling","description":"Plastic collection","recycling:plastic":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.491231,52.493936],"type":"Point"},"properties":{"osm_id":"2834269071","tag":{"amenity":"recycling","description":"Plastic collection","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.491275,52.493937],"type":"Point"},"properties":{"osm_id":"2834276190","tag":{"amenity":"recycling","description":"Plastic collection","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.491426,52.493928],"type":"Point"},"properties":{"osm_id":"2834279012","tag":{"amenity":"recycling","description":"Glass collection","opening_hours":"24/7","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.491447,52.494188],"type":"Point"},"properties":{"name":"Clothes collection","osm_id":"2834282201","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.451935,52.491528],"type":"Point"},"properties":{"osm_id":"3094834257","tag":{"amenity":"waste_disposal","underground":"yes"}},"type":"Feature"},
