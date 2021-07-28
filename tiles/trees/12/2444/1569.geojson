@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[34.847298,38.719263],"type":"Point"},"properties":{"osm_id":"316173173","tag":{"height":"10","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[34.847298,38.719263],"type":"Point"},"properties":{"osm_id":"316173173","tag":{"natural":"tree","tourism":"artwork"}},"type":"Feature"},
 	{"geometry":{"coordinates":[34.842812,38.716716],"type":"Point"},"properties":{"osm_id":"330852494","tag":{"height":"10","natural":"tree","species":"Salix spp.","species:en":"Willow"}},"type":"Feature"},
 	{"geometry":{"coordinates":[34.843008,38.716782],"type":"Point"},"properties":{"osm_id":"330852529","tag":{"height":"10","natural":"tree","species":"Salix spp.","species:en":"Willow"}},"type":"Feature"},
 	{"geometry":{"coordinates":[34.846202,38.727484],"type":"Point"},"properties":{"osm_id":"331453878","tag":{"height":"20","name:botanical":"Juglans","natural":"tree","type":"walnut"}},"type":"Feature"},
@@ -49,7 +49,7 @@
 	{"geometry":{"coordinates":[34.843217,38.71681],"type":"Point"},"properties":{"osm_id":"3270323496","tag":{"height":"10","natural":"tree","species":"Salix spp.","species:en":"Willow"}},"type":"Feature"},
 	{"geometry":{"coordinates":[34.847206,38.71897],"type":"Point"},"properties":{"osm_id":"3270323500","tag":{"height":"10","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[34.847217,38.719121],"type":"Point"},"properties":{"osm_id":"3270323502","tag":{"height":"10","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[34.842375,38.717657],"type":"Point"},"properties":{"osm_id":"3441070410","tag":{"height":"12","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[34.842375,38.717657],"type":"Point"},"properties":{"osm_id":"3441070410","tag":{"genus":"morus","height":"12","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[34.847308,38.719031],"type":"Point"},"properties":{"osm_id":"5022178327","tag":{"height":"10","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[34.847338,38.719081],"type":"Point"},"properties":{"osm_id":"5022178328","tag":{"height":"10","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[34.847346,38.719133],"type":"Point"},"properties":{"osm_id":"5022178331","tag":{"height":"10","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
@@ -63,6 +63,9 @@
 	{"geometry":{"coordinates":[34.848302,38.719364],"type":"Point"},"properties":{"osm_id":"6063190510","tag":{"leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[34.848485,38.719425],"type":"Point"},"properties":{"osm_id":"6063190511","tag":{"leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[34.84692,38.718228],"type":"Point"},"properties":{"osm_id":"6342539460","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[34.847003,38.718256],"type":"Point"},"properties":{"osm_id":"6342539461","tag":{"natural":"tree"}},"type":"Feature"}
+	{"geometry":{"coordinates":[34.847003,38.718256],"type":"Point"},"properties":{"osm_id":"6342539461","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[34.843983,38.716941],"type":"Point"},"properties":{"osm_id":"8953520573","tag":{"height":"10","natural":"tree","species":"Salix spp.","species:en":"Willow"}},"type":"Feature"},
+	{"geometry":{"coordinates":[34.84382,38.716882],"type":"Point"},"properties":{"osm_id":"8953520574","tag":{"height":"10","natural":"tree","species":"Salix spp.","species:en":"Willow"}},"type":"Feature"},
+	{"geometry":{"coordinates":[34.843694,38.716862],"type":"Point"},"properties":{"osm_id":"8953520575","tag":{"height":"10","natural":"tree","species":"Salix spp.","species:en":"Willow"}},"type":"Feature"}
 ]
 }

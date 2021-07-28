@@ -143,7 +143,7 @@
 	{"geometry":{"coordinates":[7.146673,51.278397],"type":"Point"},"properties":{"osm_id":"2602366637","tag":{"amenity":"waste_basket","check_date":"2021-05-02"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.142547,51.278673],"type":"Point"},"properties":{"osm_id":"2602366649","tag":{"amenity":"waste_basket","sport":"table_tennis"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.136181,51.249718],"type":"Point"},"properties":{"osm_id":"2618747739","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.197733,51.272619],"type":"Point"},"properties":{"osm_id":"2627200653","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.197733,51.272619],"type":"Point"},"properties":{"osm_id":"2627200653","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:electrical_items":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.166703,51.27911],"type":"Point"},"properties":{"osm_id":"2628756036","tag":{"amenity":"recycling","operator":"AWG","recycling:books":"yes","recycling:cardboard":"yes","recycling:cartons":"yes","recycling:clothes":"no","recycling:glass_bottles":"yes","recycling:magazines":"yes","recycling:newspaper":"yes","recycling:paper":"yes","recycling:shoes":"no","recycling:small_electrical_appliances":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.172043,51.281797],"type":"Point"},"properties":{"osm_id":"2631105833","tag":{"amenity":"recycling","operator":"Abfallwirtschaftsgesellschaft Wuppertal","operator:abbr":"AWG","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:small_electrical_appliances":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.193247,51.239394],"type":"Point"},"properties":{"osm_id":"2643716589","tag":{"amenity":"recycling","operator":"AWG","recycling:books":"yes","recycling:cardboard":"yes","recycling:cartons":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:magazines":"yes","recycling:newspaper":"yes","recycling:paper":"yes","recycling:shoes":"yes","recycling:small_electrical_appliances":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -349,7 +349,7 @@
 	{"geometry":{"coordinates":[7.166531,51.254363],"type":"Point"},"properties":{"osm_id":"5353305960","tag":{"amenity":"waste_basket","check_date":"2018-01-15"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.166383,51.254344],"type":"Point"},"properties":{"osm_id":"5353305961","tag":{"amenity":"waste_basket","check_date":"2018-01-15"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.186649,51.2733],"type":"Point"},"properties":{"osm_id":"5357267964","tag":{"amenity":"waste_basket","check_date":"2018-01-22"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.188339,51.276315],"type":"Point"},"properties":{"osm_id":"5357442721","tag":{"amenity":"recycling","operator":"Abfallwirtschaftsgesellschaft Wuppertal","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:small_electrical_appliances":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.188339,51.276315],"type":"Point"},"properties":{"osm_id":"5357442721","tag":{"amenity":"recycling","operator":"Abfallwirtschaftsgesellschaft Wuppertal","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.192896,51.27398],"type":"Point"},"properties":{"osm_id":"5370298497","tag":{"amenity":"recycling","operator":"Abfallwirtschaftsgesellschaft Wuppertal","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:small_electrical_appliances":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.187734,51.28384],"type":"Point"},"properties":{"osm_id":"5401407544","tag":{"amenity":"recycling","operator":"Abfallwirtschaftsgesellschaft Wuppertal","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:small_electrical_appliances":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.154852,51.251156],"type":"Point"},"properties":{"osm_id":"5409780913","tag":{"amenity":"waste_basket","ashtray":"no","check_date":"2018-02-13"}},"type":"Feature"},
@@ -564,6 +564,13 @@
 	{"geometry":{"coordinates":[7.194877,51.285421],"type":"Point"},"properties":{"osm_id":"8931399249","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.198798,51.286061],"type":"Point"},"properties":{"osm_id":"8931399252","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.182542,51.259526],"type":"Point"},"properties":{"name":"M\u00c3\u00bclleimer","osm_id":"8948657040"},"type":"Feature"},
-	{"geometry":{"coordinates":[7.182542,51.259526],"type":"Point"},"properties":{"name":"M\u00c3\u00bclleimer","osm_id":"8948657040","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[7.199549,51.27466],"type":"Point"},"properties":{"osm_id":"8951848883","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.183748,51.259974],"type":"Point"},"properties":{"osm_id":"8954576409","tag":{"amenity":"waste_basket","operator":"Stadt Wuppertal","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.18414,51.259688],"type":"Point"},"properties":{"osm_id":"8954576411","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.183779,51.259677],"type":"Point"},"properties":{"osm_id":"8954576412","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.183903,51.259581],"type":"Point"},"properties":{"osm_id":"8954576413","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.184335,51.259301],"type":"Point"},"properties":{"osm_id":"8954576414","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.184595,51.259487],"type":"Point"},"properties":{"osm_id":"8954606519","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.184712,51.259222],"type":"Point"},"properties":{"osm_id":"8954606520","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }
