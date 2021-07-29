@@ -3,7 +3,7 @@
 "features": [
 	{"geometry":{"coordinates":[16.82851,46.83688],"type":"Point"},"properties":{"osm_id":"514999662","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.827541,46.836487],"type":"Point"},"properties":{"osm_id":"514999670","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[16.83278,46.837134],"type":"Point"},"properties":{"osm_id":"514999728","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.83278,46.837134],"type":"Point"},"properties":{"osm_id":"514999728","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.849281,46.842439],"type":"Point"},"properties":{"osm_id":"3479941997","tag":{"amenity":"recycling","source:date":"2012-04-26","url":"http://turistautak.hu/poi.php?id=137775"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.851683,46.844933],"type":"Point"},"properties":{"osm_id":"3479942001","tag":{"addr:city":"Zalaegerszeg","addr:housenumber":"1","addr:postcode":"8900","addr:street":"Stadion utca","amenity":"recycling","source:date":"2012-01-20","url":"http://turistautak.hu/poi.php?id=6681"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.79849,46.853893],"type":"Point"},"properties":{"osm_id":"3479942023","tag":{"amenity":"recycling","source:date":"2012-08-26","url":"http://turistautak.hu/poi.php?id=143852"}},"type":"Feature"},
@@ -101,6 +101,7 @@
 	{"geometry":{"coordinates":[16.847501,46.84804],"type":"Point"},"properties":{"osm_id":"8935609937","tag":{"amenity":"waste_basket","colour":"green","material":"metal","waste":"litter"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.847129,46.845181],"type":"Point"},"properties":{"osm_id":"8935609940","tag":{"amenity":"waste_basket","colour":"green","material":"metal","waste":"litter"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.846021,46.845037],"type":"Point"},"properties":{"osm_id":"8935609941","tag":{"amenity":"waste_basket","colour":"copper","material":"metal","waste":"litter"}},"type":"Feature"},
-	{"geometry":{"coordinates":[16.848073,46.844788],"type":"Point"},"properties":{"osm_id":"8935609942","tag":{"amenity":"waste_basket","colour":"green","material":"metal","waste":"litter"}},"type":"Feature"}
+	{"geometry":{"coordinates":[16.848073,46.844788],"type":"Point"},"properties":{"osm_id":"8935609942","tag":{"amenity":"waste_basket","colour":"green","material":"metal","waste":"litter"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.832899,46.836846],"type":"Point"},"properties":{"osm_id":"8957247778","tag":{"amenity":"waste_basket","color":"green","material":"metal"}},"type":"Feature"}
 ]
 }

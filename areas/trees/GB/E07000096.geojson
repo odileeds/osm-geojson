@@ -1051,7 +1051,7 @@
 { "type": "Feature", "properties": { "osm_id": "6021950079", "other_tags": "\"denotation\"=>\"natural_monument\",\"leaf_cycle\"=>\"deciduous\",\"leaf_type\"=>\"broadleaved\",\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -0.592027, 51.7929983 ] } },
 { "type": "Feature", "properties": { "osm_id": "6262794064", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -0.5789897, 51.7626533 ] } },
 { "type": "Feature", "properties": { "osm_id": "6262794065", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -0.5788086, 51.7626201 ] } },
-{ "type": "Feature", "properties": { "osm_id": "6262794066", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -0.5795154, 51.7627438 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6262794066", "other_tags": "\"natural\"=>\"tree\",\"species\"=>\"Larix decidua\"" }, "geometry": { "type": "Point", "coordinates": [ -0.5795154, 51.7627438 ] } },
 { "type": "Feature", "properties": { "osm_id": "6262794067", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -0.5781971, 51.7623703 ] } },
 { "type": "Feature", "properties": { "osm_id": "6262794074", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -0.5753419, 51.7624375 ] } },
 { "type": "Feature", "properties": { "osm_id": "6262794083", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -0.5740571, 51.7632019 ] } },
@@ -1285,7 +1285,7 @@
 { "type": "Feature", "properties": { "osm_id": "7693240945", "other_tags": "\"natural\"=>\"tree\",\"species\"=>\"Tilia x europaea\"" }, "geometry": { "type": "Point", "coordinates": [ -0.580603, 51.7632725 ] } },
 { "type": "Feature", "properties": { "osm_id": "7693240946", "other_tags": "\"natural\"=>\"tree\",\"species\"=>\"Betula pendula\"" }, "geometry": { "type": "Point", "coordinates": [ -0.5787657, 51.7616514 ] } },
 { "type": "Feature", "properties": { "osm_id": "7697611198", "other_tags": "\"natural\"=>\"tree\",\"species\"=>\"Fagus sylvatica f. purpurea\"" }, "geometry": { "type": "Point", "coordinates": [ -0.5747096, 51.7628463 ] } },
-{ "type": "Feature", "properties": { "osm_id": "7703792093", "other_tags": "\"natural\"=>\"tree\",\"species\"=>\"Fagus sylvatica f. purpurea\"" }, "geometry": { "type": "Point", "coordinates": [ -0.5753888, 51.7620079 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7703792093", "other_tags": "\"natural\"=>\"tree\",\"species\"=>\"Fagus sylvatica f. purpurea\"" }, "geometry": { "type": "Point", "coordinates": [ -0.5753781, 51.7620228 ] } },
 { "type": "Feature", "properties": { "osm_id": "7703792159", "other_tags": "\"natural\"=>\"tree\",\"species\"=>\"Sorbus aucuparia\"" }, "geometry": { "type": "Point", "coordinates": [ -0.5745728, 51.7616365 ] } },
 { "type": "Feature", "properties": { "osm_id": "7703792160", "other_tags": "\"natural\"=>\"tree\",\"species\"=>\"Sorbus aucuparia\"" }, "geometry": { "type": "Point", "coordinates": [ -0.5744809, 51.7616103 ] } },
 { "type": "Feature", "properties": { "osm_id": "7703792161", "other_tags": "\"natural\"=>\"tree\",\"species\"=>\"Sorbus aucuparia\"" }, "geometry": { "type": "Point", "coordinates": [ -0.5743951, 51.7615771 ] } },
@@ -1406,6 +1406,17 @@
 { "type": "Feature", "properties": { "osm_id": "8843033881", "other_tags": "\"natural\"=>\"tree\",\"species\"=>\"Sorbus aucuparia\"" }, "geometry": { "type": "Point", "coordinates": [ -0.5660343, 51.7590517 ] } },
 { "type": "Feature", "properties": { "osm_id": "8843033884", "other_tags": "\"natural\"=>\"tree\",\"species\"=>\"Tilia x europaea\"" }, "geometry": { "type": "Point", "coordinates": [ -0.5674267, 51.758556 ] } },
 { "type": "Feature", "properties": { "osm_id": "8905754043", "other_tags": "\"genus\"=>\"Tilea\",\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -0.5789215, 51.7631077 ] } },
-{ "type": "Feature", "properties": { "osm_id": "8905754044", "other_tags": "\"natural\"=>\"tree\",\"species\"=>\"Sequoiadendron giganteum\"" }, "geometry": { "type": "Point", "coordinates": [ -0.5787684, 51.7630725 ] } }
+{ "type": "Feature", "properties": { "osm_id": "8905754044", "other_tags": "\"natural\"=>\"tree\",\"species\"=>\"Sequoiadendron giganteum\"" }, "geometry": { "type": "Point", "coordinates": [ -0.5787684, 51.7630725 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8958333910", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -0.580076, 51.7609259 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8958419517", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -0.5799861, 51.7608927 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8958419524", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -0.579738, 51.7611824 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8958419525", "other_tags": "\"natural\"=>\"tree\",\"species\"=>\"Eucalyptus\"" }, "geometry": { "type": "Point", "coordinates": [ -0.5796133, 51.7629363 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8958419526", "other_tags": "\"natural\"=>\"tree\",\"species\"=>\"Platanus × acerifolia\"" }, "geometry": { "type": "Point", "coordinates": [ -0.5795637, 51.761751 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8958419527", "other_tags": "\"natural\"=>\"tree\",\"species\"=>\"Acer platanoides\"" }, "geometry": { "type": "Point", "coordinates": [ -0.5801377, 51.761917 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8958419528", "other_tags": "\"natural\"=>\"tree\",\"species\"=>\"Acer platanoides\"" }, "geometry": { "type": "Point", "coordinates": [ -0.5805507, 51.762296 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8958419529", "other_tags": "\"natural\"=>\"tree\",\"species\"=>\"Acer platanoides\"" }, "geometry": { "type": "Point", "coordinates": [ -0.5803898, 51.7621503 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8958419530", "other_tags": "\"natural\"=>\"tree\",\"species\"=>\"Tilia x europaea\"" }, "geometry": { "type": "Point", "coordinates": [ -0.5803549, 51.7627421 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8958419531", "other_tags": "\"natural\"=>\"tree\",\"species\"=>\"Betula pendula\"" }, "geometry": { "type": "Point", "coordinates": [ -0.5761036, 51.7623188 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8958419532", "other_tags": "\"natural\"=>\"tree\",\"species\"=>\"Juglans regia\"" }, "geometry": { "type": "Point", "coordinates": [ -0.5757335, 51.7622349 ] } }
 ]
 }
