@@ -1,10 +1,13 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[0.868225,48.751397],"type":"Point"},"properties":{"osm_id":"8951547660","tag":{"amenity":"recycling","operator":"Interco Normandie Sud Eure","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[0.868234,48.751401],"type":"Point"},"properties":{"osm_id":"8951547660","tag":{"amenity":"recycling","operator":"Interco Normandie Sud Eure","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.848679,48.789267],"type":"Point"},"properties":{"osm_id":"8951547678","tag":{"amenity":"recycling","operator":"Interco Normandie Sud Eure","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.809624,48.767594],"type":"Point"},"properties":{"osm_id":"8951547683","tag":{"amenity":"recycling","operator":"Interco Normandie Sud Eure","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.809674,48.76759],"type":"Point"},"properties":{"osm_id":"8951547684","tag":{"amenity":"recycling","operator":"Interco Normandie Sud Eure","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[0.799754,48.789849],"type":"Point"},"properties":{"osm_id":"8951547685","tag":{"amenity":"recycling","operator":"Interco Normandie Sud Eure","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[0.799754,48.789849],"type":"Point"},"properties":{"osm_id":"8951547685","tag":{"amenity":"recycling","operator":"Interco Normandie Sud Eure","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[0.868223,48.751396],"type":"Point"},"properties":{"osm_id":"8960570972","tag":{"amenity":"recycling","operator":"Interco Normandie Sud Eure","recycling:cardboard":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[0.868208,48.751392],"type":"Point"},"properties":{"osm_id":"8960570973","tag":{"amenity":"recycling","operator":"Interco Normandie Sud Eure","recycling:cartons":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[0.853225,48.788759],"type":"Point"},"properties":{"osm_id":"8960570977","tag":{"amenity":"recycling","operator":"Interco Normandie Sud Eure","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }
