@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[17.883812,46.855718],"type":"Point"},"properties":{"osm_id":"1280171597","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[17.883812,46.855718],"type":"Point"},"properties":{"osm_id":"1280171597","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[17.900579,46.856728],"type":"Point"},"properties":{"osm_id":"2939829715","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[17.898982,46.85892],"type":"Point"},"properties":{"osm_id":"2939829748","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[17.898734,46.859095],"type":"Point"},"properties":{"osm_id":"2939829756","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -17,6 +17,7 @@
 	{"geometry":{"coordinates":[17.877481,46.847456],"type":"Point"},"properties":{"osm_id":"6178417809","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[17.865193,46.845564],"type":"Point"},"properties":{"osm_id":"6178418146","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
 	{"geometry":{"coordinates":[17.867222,46.846644],"type":"Point"},"properties":{"osm_id":"6178418151","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[17.86329,46.846818],"type":"Point"},"properties":{"name":"Kutya illemhely","osm_id":"6988313288","tag":{"amenity":"waste_basket","mapillary":"l7IxMlZ8558EHby5TDpXJA","waste":"dog_excrement"}},"type":"Feature"}
+	{"geometry":{"coordinates":[17.86329,46.846818],"type":"Point"},"properties":{"name":"Kutya illemhely","osm_id":"6988313288","tag":{"amenity":"waste_basket","mapillary":"l7IxMlZ8558EHby5TDpXJA","waste":"dog_excrement"}},"type":"Feature"},
+	{"geometry":{"coordinates":[17.879708,46.85409],"type":"Point"},"properties":{"osm_id":"8968753928","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }
