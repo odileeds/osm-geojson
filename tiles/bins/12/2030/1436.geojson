@@ -81,7 +81,7 @@
 	{"geometry":{"coordinates":[-1.575675,47.2267],"type":"Point"},"properties":{"osm_id":"1942645855","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.532248,47.226759],"type":"Point"},"properties":{"osm_id":"1942645856","tag":{"amenity":"waste_basket","check_date":"2021-01-24"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.518685,47.226931],"type":"Point"},"properties":{"osm_id":"1942645859","tag":{"amenity":"waste_basket","check_date":"2021-03-21"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.542818,47.227138],"type":"Point"},"properties":{"osm_id":"1942645860","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.542818,47.227138],"type":"Point"},"properties":{"osm_id":"1942645860","tag":{"amenity":"waste_basket","check_date":"2021-08-01"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.542732,47.227238],"type":"Point"},"properties":{"osm_id":"1942645861","tag":{"amenity":"waste_basket","check_date":"2021-02-27"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.542342,47.227487],"type":"Point"},"properties":{"osm_id":"1942645868","tag":{"amenity":"waste_basket","check_date":"2021-02-13"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.575529,47.227501],"type":"Point"},"properties":{"osm_id":"1942645870","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -95,7 +95,7 @@
 	{"geometry":{"coordinates":[-1.533319,47.22866],"type":"Point"},"properties":{"osm_id":"1942645957","tag":{"amenity":"waste_basket","check_date":"2021-02-13"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.532924,47.228703],"type":"Point"},"properties":{"osm_id":"1942645958","ref":"1954 006","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.577269,47.228685],"type":"Point"},"properties":{"osm_id":"1942645961","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.542592,47.228749],"type":"Point"},"properties":{"osm_id":"1942645962","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.542592,47.228749],"type":"Point"},"properties":{"osm_id":"1942645962","tag":{"amenity":"waste_basket","check_date":"2021-08-01"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.543036,47.22885],"type":"Point"},"properties":{"osm_id":"1942645965","tag":{"amenity":"waste_basket","check_date":"2021-06-16"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.575028,47.228963],"type":"Point"},"properties":{"osm_id":"1942645968","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.575696,47.229013],"type":"Point"},"properties":{"osm_id":"1942645971","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -606,7 +606,7 @@
 	{"geometry":{"coordinates":[-1.527483,47.227307],"type":"Point"},"properties":{"osm_id":"5574245190","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.521665,47.226339],"type":"Point"},"properties":{"osm_id":"5574292696","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.519751,47.238947],"type":"Point"},"properties":{"osm_id":"5839722179","tag":{"amenity":"recycling","opening_hours":"Tu 10:00-17:00","recycling:organic":"yes","recycling_type":"container","url":"http://www.compostri.fr/compost/60b/"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.581126,47.225872],"type":"Point"},"properties":{"osm_id":"5843387816","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.581126,47.225872],"type":"Point"},"properties":{"osm_id":"5843387816","tag":{"amenity":"recycling","location":"overground","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.518643,47.226202],"type":"Point"},"properties":{"osm_id":"5844009900","tag":{"amenity":"recycling","contact:website":"http://www.compostri.fr/compost/forges-on-taime/","opening_hours":"Sa 11:00-12:00","recycling:organic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.562913,47.224826],"type":"Point"},"properties":{"osm_id":"5846318486","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.563123,47.225302],"type":"Point"},"properties":{"osm_id":"5846318511","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -1070,6 +1070,11 @@
 	{"geometry":{"coordinates":[-1.510864,47.233429],"type":"Point"},"properties":{"osm_id":"8893365182","tag":{"amenity":"waste_basket","colour":"lightgrey","operator":"JCDecaux"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.519918,47.238398],"type":"Point"},"properties":{"osm_id":"8920080839","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.513492,47.257096],"type":"Point"},"properties":{"osm_id":"8946723016","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.535009,47.241079],"type":"Point"},"properties":{"osm_id":"8968998860","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-1.535009,47.241079],"type":"Point"},"properties":{"osm_id":"8968998860","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.540843,47.235843],"type":"Point"},"properties":{"osm_id":"8972792130","tag":{"amenity":"waste_basket","colour":"lightgray","operator":"JCDecaux"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.542526,47.232259],"type":"Point"},"properties":{"osm_id":"8972792147","tag":{"amenity":"waste_basket","colour":"lightgray","operator":"JCDecaux"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.533923,47.243025],"type":"Point"},"properties":{"osm_id":"8972867050","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.537417,47.239487],"type":"Point"},"properties":{"osm_id":"8972867058","tag":{"amenity":"waste_basket","colour":"lightgray","operator":"JCDecaux"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.53803,47.239296],"type":"Point"},"properties":{"osm_id":"8972867061","tag":{"amenity":"waste_basket","colour":"lightgray","material":"metal","operator":"JCDecaux"}},"type":"Feature"}
 ]
 }

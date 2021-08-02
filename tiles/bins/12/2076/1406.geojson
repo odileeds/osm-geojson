@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[2.470066,49.028303],"type":"Point"},"properties":{"osm_id":"206241756","tag":{"amenity":"recycling","location":"overground","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.470066,49.028303],"type":"Point"},"properties":{"osm_id":"206241756","tag":{"amenity":"recycling","location":"overground","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.475161,49.036006],"type":"Point"},"properties":{"osm_id":"247775654","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.462027,49.034516],"type":"Point"},"properties":{"osm_id":"249564851","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.462872,49.035802],"type":"Point"},"properties":{"osm_id":"249564854","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"},
@@ -43,6 +43,8 @@
 	{"geometry":{"coordinates":[2.48573,49.000063],"type":"Point"},"properties":{"osm_id":"3106354407","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.467151,48.999417],"type":"Point"},"properties":{"osm_id":"3108744331","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.462244,49.031058],"type":"Point"},"properties":{"osm_id":"6614737343","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[2.500752,49.025701],"type":"Point"},"properties":{"name":"Bioviva","osm_id":"7798294922","tag":{"addr:city":"Roissy-en-France","addr:housenumber":"10","addr:postcode":"95700","addr:street":"Lieu-dit La Fosse Oline","amenity":"recycling","operator:type":"private","phone":"+33 6 20 31 60 45","recycling:organic_waste":"yes","recycling:wood":"yes","recycling_type":"centre","website":"https://bioviva.org"}},"type":"Feature"}
+	{"geometry":{"coordinates":[2.500752,49.025701],"type":"Point"},"properties":{"name":"Bioviva","osm_id":"7798294922","tag":{"addr:city":"Roissy-en-France","addr:housenumber":"10","addr:postcode":"95700","addr:street":"Lieu-dit La Fosse Oline","amenity":"recycling","operator:type":"private","phone":"+33 6 20 31 60 45","recycling:organic_waste":"yes","recycling:wood":"yes","recycling_type":"centre","website":"https://bioviva.org"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.4653,49.022622],"type":"Point"},"properties":{"osm_id":"8972473784","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.471538,49.020998],"type":"Point"},"properties":{"osm_id":"8972473805","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }
