@@ -118,7 +118,7 @@
 	{"geometry":{"coordinates":[10.858243,48.381672],"type":"Point"},"properties":{"osm_id":"889958769","tag":{"amenity":"recycling","check_date":"2016-07-16","operator":"Aktion Hoffnung","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.858302,48.381662],"type":"Point"},"properties":{"osm_id":"889958778","tag":{"amenity":"recycling","check_date":"2016-07-16","operator":"REMONDIS","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.847594,48.395141],"type":"Point"},"properties":{"osm_id":"889958798","tag":{"amenity":"recycling","operator":"Aktion Hoffnung","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.849371,48.391452],"type":"Point"},"properties":{"osm_id":"898024259","ref":"Wildtaubenweg","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.849371,48.391452],"type":"Point"},"properties":{"osm_id":"898024259","ref":"Wildtaubenweg","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:shoes":"yes","recycling:small_electrical_appliances":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.842869,48.358101],"type":"Point"},"properties":{"osm_id":"905326989","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.884079,48.394063],"type":"Point"},"properties":{"osm_id":"914309211","tag":{"amenity":"recycling","operator":"REMONDIS","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.884082,48.39409],"type":"Point"},"properties":{"osm_id":"914309238","tag":{"amenity":"recycling","operator":"Aktion Hoffnung","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -507,7 +507,6 @@
 	{"geometry":{"coordinates":[10.896253,48.367396],"type":"Point"},"properties":{"osm_id":"8865899907","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.894408,48.371719],"type":"Point"},"properties":{"osm_id":"8865902731","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.895979,48.369897],"type":"Point"},"properties":{"osm_id":"8865902732","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.829521,48.363063],"type":"Point"},"properties":{"osm_id":"8977100707","tag":{"vending":"excrement_bags"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.829521,48.363063],"type":"Point"},"properties":{"osm_id":"8977100707","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[10.829521,48.363063],"type":"Point"},"properties":{"osm_id":"8977100707","tag":{"vending":"excrement_bags"}},"type":"Feature"}
 ]
 }

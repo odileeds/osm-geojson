@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[11.367778,50.33673],"type":"Point"},"properties":{"name":"Erle","osm_id":"2090821949","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.367778,50.33673],"type":"Point"},"properties":{"osm_id":"2090821949","tag":{"genus":"Alnus","genus:de":"Erle","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.362566,50.327858],"type":"Point"},"properties":{"osm_id":"2090822459","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.362026,50.328402],"type":"Point"},"properties":{"osm_id":"2090822471","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.364038,50.328406],"type":"Point"},"properties":{"osm_id":"2090822472","tag":{"natural":"tree"}},"type":"Feature"},
@@ -9,7 +9,7 @@
 	{"geometry":{"coordinates":[11.364409,50.328801],"type":"Point"},"properties":{"osm_id":"2090822476","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.362579,50.329462],"type":"Point"},"properties":{"osm_id":"2090822479","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.363206,50.330307],"type":"Point"},"properties":{"osm_id":"2090822492","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.360498,50.337026],"type":"Point"},"properties":{"name":"Fichte","osm_id":"2090835268","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.360498,50.337026],"type":"Point"},"properties":{"osm_id":"2090835268","tag":{"genus":"Picea","genus:de":"Fichte","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.360365,50.337616],"type":"Point"},"properties":{"osm_id":"2090835328","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.351208,50.321499],"type":"Point"},"properties":{"osm_id":"2090844951","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.349584,50.319062],"type":"Point"},"properties":{"osm_id":"2095552142","tag":{"natural":"tree"}},"type":"Feature"},
@@ -27,6 +27,6 @@
 	{"geometry":{"coordinates":[11.35554,50.294563],"type":"Point"},"properties":{"osm_id":"2198881842","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.36138,50.326365],"type":"Point"},"properties":{"osm_id":"2422301257","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.361571,50.326614],"type":"Point"},"properties":{"osm_id":"2422301258","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.385939,50.327773],"type":"Point"},"properties":{"name":"Dienesch Linde","osm_id":"6763341691","tag":{"denotation":"natural_monument","image":"https://commons.wikimedia.org/wiki/File:Dieneschlinde_bei_Hesselbach.jpg","natural":"tree"}},"type":"Feature"}
+	{"geometry":{"coordinates":[11.385939,50.327773],"type":"Point"},"properties":{"name":"Dienesch Linde","osm_id":"6763341691","tag":{"denotation":"natural_monument","genus":"Tilia","genus:de":"Linde","image":"https://commons.wikimedia.org/wiki/File:Dieneschlinde_bei_Hesselbach.jpg","natural":"tree"}},"type":"Feature"}
 ]
 }
