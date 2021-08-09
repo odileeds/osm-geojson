@@ -61,9 +61,9 @@
 	{"geometry":{"coordinates":[13.39895,52.38581],"type":"Point"},"properties":{"osm_id":"5002937067","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.401514,52.384302],"type":"Point"},"properties":{"osm_id":"5002937068","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.428911,52.424829],"type":"Point"},"properties":{"osm_id":"5180482254","tag":{"amenity":"recycling","operator":"Deutsches Rotes Kreuz","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.428881,52.424227],"type":"Point"},"properties":{"osm_id":"5180482255","tag":{"amenity":"recycling","check_date":"2021-05-25","operator":"Deutsches Rotes Kreuz","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.427017,52.421309],"type":"Point"},"properties":{"osm_id":"5180482257","tag":{"amenity":"recycling","operator":"Karl Meyer Rohstoffverwertung","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.425898,52.420953],"type":"Point"},"properties":{"osm_id":"5180482258","tag":{"amenity":"recycling","operator":"Deutsches Rotes Kreuz","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.428881,52.424227],"type":"Point"},"properties":{"osm_id":"5180482255","tag":{"amenity":"recycling","check_date":"2021-05-25","operator":"Deutsches Rotes Kreuz","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.427017,52.421309],"type":"Point"},"properties":{"osm_id":"5180482257","tag":{"amenity":"recycling","check_date:recycling":"2021-08-08","operator":"Karl Meyer Rohstoffverwertung","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.425898,52.420953],"type":"Point"},"properties":{"osm_id":"5180482258","tag":{"amenity":"recycling","check_date:recycling":"2021-08-08","operator":"Deutsches Rotes Kreuz","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.425986,52.420554],"type":"Point"},"properties":{"osm_id":"5180482259","tag":{"amenity":"recycling","check_date:recycling":"2021-08-03","operator":"Karl Meyer Rohstoffverwertung","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.405044,52.380691],"type":"Point"},"properties":{"osm_id":"5300643313","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.405907,52.37998],"type":"Point"},"properties":{"osm_id":"5300764690","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
@@ -153,6 +153,7 @@
 	{"geometry":{"coordinates":[13.418782,52.423837],"type":"Point"},"properties":{"osm_id":"8812051814","tag":{"amenity":"waste_basket","check_date":"2021-05-25","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.418132,52.423638],"type":"Point"},"properties":{"osm_id":"8812072899","tag":{"amenity":"waste_basket","check_date":"2021-05-25","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.361827,52.413031],"type":"Point"},"properties":{"osm_id":"8918282994","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.361655,52.413508],"type":"Point"},"properties":{"osm_id":"8918297456","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[13.361655,52.413508],"type":"Point"},"properties":{"osm_id":"8918297456","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.436358,52.42411],"type":"Point"},"properties":{"osm_id":"8989104531","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }
