@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-122.030027,36.974402],"type":"Point"},"properties":{"osm_id":"419856628","tag":{"amenity":"recycling","location":"overground","recycling:batteries":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-122.030027,36.974402],"type":"Point"},"properties":{"osm_id":"419856628","tag":{"amenity":"recycling","location":"overground","opening_hours":"24/7","opening_hours:covid19":"same","recycling:batteries":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-122.026425,36.974743],"type":"Point"},"properties":{"osm_id":"675490183","tag":{"amenity":"recycling","location":"overground","recycling_type":"container","solar_powered":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-122.026505,36.975027],"type":"Point"},"properties":{"osm_id":"879878660","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-122.026616,36.975416],"type":"Point"},"properties":{"osm_id":"879878667","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -287,7 +287,7 @@
 	{"geometry":{"coordinates":[-122.051033,36.953327],"type":"Point"},"properties":{"osm_id":"8228962778","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-122.041016,36.968266],"type":"Point"},"properties":{"osm_id":"8249890140","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-122.041214,36.967891],"type":"Point"},"properties":{"osm_id":"8250099829","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-122.041153,36.967872],"type":"Point"},"properties":{"osm_id":"8250101246","tag":{"access":"private","amenity":"recycling","operator":"City of Santa Cruz","recycling:green_waste":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-122.041153,36.967872],"type":"Point"},"properties":{"osm_id":"8250101246","tag":{"access":"permit","amenity":"recycling","colour":"green","covered":"no","opening_hours":"24/7","opening_hours:covid19":"same","operator":"City of Santa Cruz","recycling:green_waste":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-122.020692,36.985421],"type":"Point"},"properties":{"osm_id":"8252437379","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-122.021483,36.985392],"type":"Point"},"properties":{"osm_id":"8253192480","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-122.021377,36.98515],"type":"Point"},"properties":{"osm_id":"8253192481","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
@@ -302,6 +302,7 @@
 	{"geometry":{"coordinates":[-122.022742,36.963042],"type":"Point"},"properties":{"osm_id":"8957833943","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-122.021946,36.963364],"type":"Point"},"properties":{"osm_id":"8957833944","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-122.020973,36.963758],"type":"Point"},"properties":{"osm_id":"8957833955","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-122.030747,36.95194],"type":"Point"},"properties":{"osm_id":"8988128425","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-122.030747,36.95194],"type":"Point"},"properties":{"osm_id":"8988128425","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-122.030314,36.974212],"type":"Point"},"properties":{"osm_id":"8991609075","tag":{"access":"permit","amenity":"recycling","colour":"green","covered":"no","opening_hours":"24/7","opening_hours:covid19":"same","operator":"City of Santa Cruz","recycling:green_waste":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }
