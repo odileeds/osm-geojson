@@ -233,7 +233,7 @@
 	{"geometry":{"coordinates":[19.975096,50.094595],"type":"Point"},"properties":{"osm_id":"5335026115","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.999381,50.081325],"type":"Point"},"properties":{"osm_id":"5431910571","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.977568,50.083449],"type":"Point"},"properties":{"osm_id":"5431919816","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"no","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[19.996629,50.083834],"type":"Point"},"properties":{"osm_id":"5431927280","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.996629,50.083834],"type":"Point"},"properties":{"osm_id":"5431927280","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.976014,50.076966],"type":"Point"},"properties":{"osm_id":"5435691862","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.983889,50.075808],"type":"Point"},"properties":{"osm_id":"5502082682","tag":{"addr:city":"Krak\u00c3\u00b3w","addr:housenumber":"38A","addr:postcode":"31-455","addr:street":"U\u00c5\u0082an\u00c3\u00b3w","amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.998978,50.098262],"type":"Point"},"properties":{"osm_id":"5610236104","tag":{"amenity":"recycling","opening_hours":"24/7","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container","wheelchair":"no"}},"type":"Feature"},
@@ -447,6 +447,8 @@
 	{"geometry":{"coordinates":[19.98202,50.094253],"type":"Point"},"properties":{"osm_id":"8917821852","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.994837,50.089466],"type":"Point"},"properties":{"osm_id":"8978596217","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.993838,50.089132],"type":"Point"},"properties":{"osm_id":"8978596243","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[19.965011,50.088699],"type":"Point"},"properties":{"osm_id":"8980773904","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[19.965011,50.088699],"type":"Point"},"properties":{"osm_id":"8980773904","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.999276,50.093897],"type":"Point"},"properties":{"osm_id":"8999691311","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.998978,50.093964],"type":"Point"},"properties":{"osm_id":"8999693627","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
 ]
 }
