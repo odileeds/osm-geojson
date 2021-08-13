@@ -2,7 +2,8 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[3.325726,43.63937],"type":"Point"},"properties":{"osm_id":"1768228937","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[3.317184,43.618454],"type":"Point"},"properties":{"osm_id":"7640121885","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[3.317186,43.618452],"type":"Point"},"properties":{"name":"Colonnes de tri s\u00c3\u00a9lectif","osm_id":"7640177743","tag":{"amenity":"waste_disposal"}},"type":"Feature"}
+	{"geometry":{"coordinates":[3.317184,43.618454],"type":"Point"},"properties":{"osm_id":"7640121885","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.317186,43.618452],"type":"Point"},"properties":{"name":"Colonnes de tri s\u00c3\u00a9lectif","osm_id":"7640177743","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.317297,43.618446],"type":"Point"},"properties":{"osm_id":"9001027541","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }
