@@ -294,7 +294,7 @@
 	{"geometry":{"coordinates":[24.872093,60.264189],"type":"Point"},"properties":{"osm_id":"7794406349","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[24.853312,60.255614],"type":"Point"},"properties":{"osm_id":"7923868024","tag":{"access":"private","amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[24.85147,60.255837],"type":"Point"},"properties":{"osm_id":"7923868072","tag":{"access":"private","amenity":"waste_disposal"}},"type":"Feature"},
-	{"geometry":{"coordinates":[24.851483,60.256108],"type":"Point"},"properties":{"osm_id":"7923896518","tag":{"access":"private","amenity":"waste_disposal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[24.851483,60.256108],"type":"Point"},"properties":{"osm_id":"7923896518","tag":{"access":"private","amenity":"waste_disposal","waste":"household"}},"type":"Feature"},
 	{"geometry":{"coordinates":[24.853004,60.255995],"type":"Point"},"properties":{"osm_id":"7923959932","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[24.851868,60.256232],"type":"Point"},"properties":{"osm_id":"7923959937","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[24.852786,60.256703],"type":"Point"},"properties":{"osm_id":"7923974309","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -315,12 +315,12 @@
 	{"geometry":{"coordinates":[24.854681,60.258613],"type":"Point"},"properties":{"osm_id":"7930913627","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[24.853906,60.259967],"type":"Point"},"properties":{"name":"SER-kierr\u00c3\u00a4tys Tokmanni Myyrmanni","osm_id":"7947280423","tag":{"access":"yes","amenity":"recycling","description":"Tokmannin sis\u00c3\u00a4\u00c3\u00a4ntulon aulassa oikealla. Ei tarvitse menn\u00c3\u00a4 sis\u00c3\u00a4\u00c3\u00a4n kauppaan.","level":"1","operator":"Tokmanni","recycling:batteries":"yes","recycling:beverage_cartons":"no","recycling:cans":"no","recycling:cardboard":"no","recycling:clothes":"no","recycling:glass":"no","recycling:glass_bottles":"no","recycling:low_energy_bulbs":"yes","recycling:mobile_phones":"yes","recycling:small_appliances":"yes","recycling:small_electrical_appliances":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[24.851019,60.256582],"type":"Point"},"properties":{"osm_id":"7967050463","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[24.851066,60.256767],"type":"Point"},"properties":{"osm_id":"7967050493","tag":{"access":"private","amenity":"waste_disposal"}},"type":"Feature"},
-	{"geometry":{"coordinates":[24.851117,60.256767],"type":"Point"},"properties":{"osm_id":"7967050494","tag":{"access":"private","amenity":"waste_disposal"}},"type":"Feature"},
-	{"geometry":{"coordinates":[24.851169,60.256767],"type":"Point"},"properties":{"osm_id":"7967050495","tag":{"access":"private","amenity":"waste_disposal"}},"type":"Feature"},
-	{"geometry":{"coordinates":[24.851169,60.256749],"type":"Point"},"properties":{"osm_id":"7967050496","tag":{"access":"private","amenity":"waste_disposal"}},"type":"Feature"},
-	{"geometry":{"coordinates":[24.851117,60.256749],"type":"Point"},"properties":{"osm_id":"7967050497","tag":{"access":"private","amenity":"waste_disposal"}},"type":"Feature"},
-	{"geometry":{"coordinates":[24.851066,60.256749],"type":"Point"},"properties":{"osm_id":"7967050498","tag":{"access":"private","amenity":"waste_disposal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[24.851066,60.256767],"type":"Point"},"properties":{"osm_id":"7967050493","tag":{"access":"private","amenity":"waste_disposal","waste":"household"}},"type":"Feature"},
+	{"geometry":{"coordinates":[24.851117,60.256767],"type":"Point"},"properties":{"osm_id":"7967050494","tag":{"access":"private","amenity":"waste_disposal","waste":"household"}},"type":"Feature"},
+	{"geometry":{"coordinates":[24.851169,60.256767],"type":"Point"},"properties":{"osm_id":"7967050495","tag":{"access":"private","amenity":"waste_disposal","waste":"household"}},"type":"Feature"},
+	{"geometry":{"coordinates":[24.851169,60.256749],"type":"Point"},"properties":{"osm_id":"7967050496","tag":{"access":"private","amenity":"waste_disposal","waste":"household"}},"type":"Feature"},
+	{"geometry":{"coordinates":[24.851117,60.256749],"type":"Point"},"properties":{"osm_id":"7967050497","tag":{"access":"private","amenity":"waste_disposal","waste":"household"}},"type":"Feature"},
+	{"geometry":{"coordinates":[24.851066,60.256749],"type":"Point"},"properties":{"osm_id":"7967050498","tag":{"access":"private","amenity":"waste_disposal","waste":"household"}},"type":"Feature"},
 	{"geometry":{"coordinates":[24.851866,60.256746],"type":"Point"},"properties":{"osm_id":"7973351043","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[24.852105,60.256971],"type":"Point"},"properties":{"osm_id":"7973351066","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[24.852412,60.257417],"type":"Point"},"properties":{"osm_id":"7973445472","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -359,6 +359,8 @@
 	{"geometry":{"coordinates":[24.864142,60.255032],"type":"Point"},"properties":{"osm_id":"8972484162","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[24.864722,60.254517],"type":"Point"},"properties":{"osm_id":"8972484163","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[24.865241,60.254123],"type":"Point"},"properties":{"osm_id":"8972484164","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[24.850072,60.25678],"type":"Point"},"properties":{"osm_id":"8974815610","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[24.850072,60.25678],"type":"Point"},"properties":{"osm_id":"8974815610","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[24.851646,60.256689],"type":"Point"},"properties":{"osm_id":"9007571662","tag":{"access":"private","amenity":"waste_disposal","waste":"household"}},"type":"Feature"},
+	{"geometry":{"coordinates":[24.851636,60.25672],"type":"Point"},"properties":{"osm_id":"9007571662","tag":{"access":"private","amenity":"waste_disposal","waste":"household"}},"type":"Feature"}
 ]
 }
