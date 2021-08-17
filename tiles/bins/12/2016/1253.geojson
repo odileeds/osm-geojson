@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[-2.776756,57.076098],"type":"Point"},"properties":{"osm_id":"1128859059","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-2.779749,57.076118],"type":"Point"},"properties":{"osm_id":"2304949368","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-2.779749,57.076118],"type":"Point"},"properties":{"osm_id":"2304949368","tag":{"amenity":"recycling","location":"overground","recycling:beverage_cartons":"no","recycling:cans":"yes","recycling:plastic":"no","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-2.792447,57.074223],"type":"Point"},"properties":{"osm_id":"6725079685","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

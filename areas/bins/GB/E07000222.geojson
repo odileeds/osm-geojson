@@ -3,7 +3,7 @@
 "name": "points",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "osm_id": "632291003", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5702609, 52.3809059 ] } },
+{ "type": "Feature", "properties": { "osm_id": "632291003", "other_tags": "\"amenity\"=>\"recycling\",\"location\"=>\"overground\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5702609, 52.3809059 ] } },
 { "type": "Feature", "properties": { "osm_id": "758789768", "other_tags": "\"amenity\"=>\"waste_disposal\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4668181, 52.2754995 ] } },
 { "type": "Feature", "properties": { "osm_id": "1364117949", "other_tags": "\"amenity\"=>\"waste_basket\",\"operator\"=>\"Warwick District Council\",\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5281905, 52.268832 ] } },
 { "type": "Feature", "properties": { "osm_id": "1368728475", "barrier": "gate" }, "geometry": { "type": "Point", "coordinates": [ -1.5477393, 52.2859304 ] } },

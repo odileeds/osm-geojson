@@ -3,7 +3,7 @@
 "features": [
 	{"geometry":{"coordinates":[8.281079,48.825202],"type":"Point"},"properties":{"osm_id":"302390381","tag":{"amenity":"recycling","operator":"Johanniter-Unfall-Hilfe","recycling:clothes":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.281184,48.826207],"type":"Point"},"properties":{"osm_id":"302390383","tag":{"amenity":"recycling","operator":"Deutsches Rotes Kreuz","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.283499,48.834297],"type":"Point"},"properties":{"osm_id":"325229701","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.283499,48.834297],"type":"Point"},"properties":{"osm_id":"325229701","tag":{"amenity":"recycling","capacity":"2","lastcheck":"2021-08-16","operator":"Deutsches Rotes Kreuz","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.306416,48.8562],"type":"Point"},"properties":{"name":"Entsorgungsanlage Hintere Dollert","osm_id":"446287716","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.263192,48.828809],"type":"Point"},"properties":{"osm_id":"2036740557","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.293593,48.827889],"type":"Point"},"properties":{"barrier":"gate","osm_id":"2297687105"},"type":"Feature"},
@@ -23,6 +23,7 @@
 	{"geometry":{"coordinates":[8.277282,48.82837],"type":"Point"},"properties":{"osm_id":"7003721004","tag":{"amenity":"recycling","capacity":"1","lastcheck":"2019-11-23","operator":"MA Textilrecycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.298126,48.847676],"type":"Point"},"properties":{"osm_id":"8402252559","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.29805,48.84775],"type":"Point"},"properties":{"osm_id":"8402252560","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.266933,48.82841],"type":"Point"},"properties":{"osm_id":"8911015541","tag":{"amenity":"recycling","recycling:beverage_cartons":"no","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[8.266933,48.82841],"type":"Point"},"properties":{"osm_id":"8911015541","tag":{"amenity":"recycling","recycling:beverage_cartons":"no","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.284156,48.837838],"type":"Point"},"properties":{"osm_id":"9010919738","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

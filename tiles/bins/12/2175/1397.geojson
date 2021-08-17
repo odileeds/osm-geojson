@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[11.232407,49.496981],"type":"Point"},"properties":{"osm_id":"371523672","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.163846,49.525986],"type":"Point"},"properties":{"osm_id":"1412545752","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.163846,49.525986],"type":"Point"},"properties":{"osm_id":"1412545752","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.204602,49.53329],"type":"Point"},"properties":{"osm_id":"2582758465","tag":{"amenity":"recycling","location":"overground","opening_hours":"Mo-Fr 09:00-19:00; ph off","recycling:glass":"yes","recycling:scrap_metal":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.217493,49.531834],"type":"Point"},"properties":{"osm_id":"2583069442","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.244592,49.497298],"type":"Point"},"properties":{"osm_id":"3669162549","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
