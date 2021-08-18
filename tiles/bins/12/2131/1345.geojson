@@ -1,6 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[7.296914,52.392566],"type":"Point"},"properties":{"osm_id":"1041166812","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[7.296914,52.392566],"type":"Point"},"properties":{"osm_id":"1041166812","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.305976,52.386113],"type":"Point"},"properties":{"osm_id":"9014100656","tag":{"amenity":"waste_basket","colour":"grey","material":"metal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.311137,52.389136],"type":"Point"},"properties":{"osm_id":"9014100662","tag":{"amenity":"recycling","recycling:glass_bottles":"yes/no","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.311133,52.389111],"type":"Point"},"properties":{"osm_id":"9014100663","tag":{"amenity":"recycling","operator":"DLRG","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }
