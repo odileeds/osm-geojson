@@ -80,7 +80,7 @@
 { "type": "Feature", "properties": { "osm_id": "855327734", "name": "Rockingham Street", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0970318, 51.4956636 ] } },
 { "type": "Feature", "properties": { "osm_id": "864568963", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0662192, 51.4672129 ] } },
 { "type": "Feature", "properties": { "osm_id": "864568966", "other_tags": "\"amenity\"=>\"recycling\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0795503, 51.5048415 ] } },
-{ "type": "Feature", "properties": { "osm_id": "864568970", "other_tags": "\"amenity\"=>\"recycling\",\"location\"=>\"overground\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0831485, 51.5048013 ] } },
+{ "type": "Feature", "properties": { "osm_id": "864568970", "other_tags": "\"amenity\"=>\"recycling\",\"location\"=>\"overground\",\"recycling:cans\"=>\"yes\",\"recycling:glass_bottles\"=>\"yes\",\"recycling:paper\"=>\"yes\",\"recycling:plastic\"=>\"yes\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0831485, 51.5048013 ] } },
 { "type": "Feature", "properties": { "osm_id": "864965868", "other_tags": "\"amenity\"=>\"recycling\",\"location\"=>\"overground\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0697006, 51.4725816 ] } },
 { "type": "Feature", "properties": { "osm_id": "864965893", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0697467, 51.4715733 ] } },
 { "type": "Feature", "properties": { "osm_id": "868239264", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0693391, 51.4702682 ] } },
@@ -255,6 +255,6 @@
 { "type": "Feature", "properties": { "osm_id": "8242807026", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0752623, 51.4452231 ] } },
 { "type": "Feature", "properties": { "osm_id": "8658531508", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0878194, 51.5064083 ] } },
 { "type": "Feature", "properties": { "osm_id": "8758161788", "other_tags": "\"amenity\"=>\"waste_basket\",\"colour\"=>\"green\",\"material\"=>\"metal\",\"waste\"=>\"trash;dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0869059, 51.4599497 ] } },
-{ "type": "Feature", "properties": { "osm_id": "9008513560", "other_tags": "\"amenity\"=>\"recycling\",\"operator\"=>\"Scope\",\"recycling:clothes_and_shoes\"=>\"yes\",\"recycling_type\"=>\"container\",\"waste\"=>\"shoes\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0813523, 51.4966972 ] } }
+{ "type": "Feature", "properties": { "osm_id": "9008513560", "other_tags": "\"amenity\"=>\"recycling\",\"operator\"=>\"Scope\",\"recycling:clothes\"=>\"yes\",\"recycling:shoes\"=>\"yes\",\"recycling_type\"=>\"container\",\"waste\"=>\"shoes\"" }, "geometry": { "type": "Point", "coordinates": [ -0.0813523, 51.4966972 ] } }
 ]
 }
