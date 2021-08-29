@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[11.109949,51.729363],"type":"Point"},"properties":{"name":"Alte Eiche","osm_id":"301356367","tag":{"natural":"tree","type":"Deutsche Eiche"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.10648,51.738134],"type":"Point"},"properties":{"name":"Sch\u00c3\u00a4fereiche","osm_id":"1221857755","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.10648,51.738134],"type":"Point"},"properties":{"name":"Sch\u00c3\u00a4fereiche","osm_id":"1221857755","ref":"ND 0080QLB","tag":{"denotation":"natural_monument","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.095909,51.749763],"type":"Point"},"properties":{"osm_id":"2018961558","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.089805,51.737242],"type":"Point"},"properties":{"name":"Hirschk\u00c3\u00a4fereiche","osm_id":"2394144219","tag":{"natural":"tree","type":"Eiche"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.088041,51.732483],"type":"Point"},"properties":{"osm_id":"2465171084","tag":{"natural":"tree"}},"type":"Feature"},
@@ -315,6 +315,10 @@
 	{"geometry":{"coordinates":[11.150141,51.72984],"type":"Point"},"properties":{"osm_id":"4797351090","tag":{"leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.149284,51.72933],"type":"Point"},"properties":{"osm_id":"4797351091","tag":{"leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.151764,51.729111],"type":"Point"},"properties":{"osm_id":"4797351094","tag":{"leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.077258,51.729103],"type":"Point"},"properties":{"name":"Stotbuche","osm_id":"7319935936","tag":{"denotation":"natural_monument","leaf_cycle":"decidous","leaf_type":"broadleaved","natural":"tree","species":"Fagus sylvatica","species:de":"Rotbuche"}},"type":"Feature"}
+	{"geometry":{"coordinates":[11.077258,51.729103],"type":"Point"},"properties":{"name":"Stotbuche","osm_id":"7319935936","tag":{"denotation":"natural_monument","leaf_cycle":"decidous","leaf_type":"broadleaved","natural":"tree","species":"Fagus sylvatica","species:de":"Rotbuche"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.141264,51.774319],"type":"Point"},"properties":{"name":"Moorberg-Eichen","osm_id":"9026658699","ref":"ND 0059QLB","tag":{"denotation":"natural_monument","description":"Es handelt sich um insgesamt 4 Eichen","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.141451,51.77427],"type":"Point"},"properties":{"osm_id":"9026658703","tag":{"denotation":"natural_monument","description":"Es handelt sich um insgesamt 4 Eichen","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.141334,51.774392],"type":"Point"},"properties":{"osm_id":"9026658704","tag":{"denotation":"natural_monument","description":"Es handelt sich um insgesamt 4 Eichen","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.141514,51.774345],"type":"Point"},"properties":{"osm_id":"9026658705","tag":{"denotation":"natural_monument","description":"Es handelt sich um insgesamt 4 Eichen","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"}
 ]
 }

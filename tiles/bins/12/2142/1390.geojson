@@ -1,14 +1,14 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[8.33815,49.92147],"type":"Point"},"properties":{"osm_id":"641118996","tag":{"amenity":"recycling","recycling:glass_bottles":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.33815,49.92147],"type":"Point"},"properties":{"osm_id":"641118996","tag":{"amenity":"recycling","location":"overground","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.341815,49.918265],"type":"Point"},"properties":{"osm_id":"641120758","tag":{"amenity":"recycling","location":"overground","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.340703,49.910011],"type":"Point"},"properties":{"osm_id":"648820474","tag":{"amenity":"recycling","recycling:glass_bottles":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.30162,49.900944],"type":"Point"},"properties":{"osm_id":"707069225","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.32535,49.926703],"type":"Point"},"properties":{"name":"Glascontainer","osm_id":"1411276802","tag":{"amenity":"recycling","recycling:glass_bottles":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.303619,49.902114],"type":"Point"},"properties":{"osm_id":"2136062388","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.277559,49.90132],"type":"Point"},"properties":{"osm_id":"3750383154","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.307013,49.933008],"type":"Point"},"properties":{"osm_id":"3826542734","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.307268,49.933097],"type":"Point"},"properties":{"osm_id":"3826542734","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:shoes":"yes","recycling_type":"container","survey:date":"2021-08-22"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.312558,49.90423],"type":"Point"},"properties":{"osm_id":"4433947036","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.334683,49.919575],"type":"Point"},"properties":{"osm_id":"4440289691","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.339168,49.918476],"type":"Point"},"properties":{"osm_id":"4441585887","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -22,6 +22,8 @@
 	{"geometry":{"coordinates":[8.342678,49.935535],"type":"Point"},"properties":{"osm_id":"8000363627","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.345277,49.920914],"type":"Point"},"properties":{"osm_id":"8000363631","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.265468,49.919305],"type":"Point"},"properties":{"osm_id":"8734070618","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"no","recycling:paper":"no","recycling:plastic":"no","recycling_type":"container","survey:date":"2021-05-15"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.340319,49.898592],"type":"Point"},"properties":{"osm_id":"8946496917","tag":{"amenity":"waste_basket","material":"metal","survey:date":"2021-07-24","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[8.340319,49.898592],"type":"Point"},"properties":{"osm_id":"8946496917","tag":{"amenity":"waste_basket","material":"metal","survey:date":"2021-07-24","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.33555,49.924737],"type":"Point"},"properties":{"osm_id":"9026702818","tag":{"amenity":"waste_basket","material":"metal","survey:date":"2021-08-22","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.338371,49.921645],"type":"Point"},"properties":{"osm_id":"9026709818","tag":{"amenity":"waste_basket","material":"plastic","survey:date":"2021-08-22","waste":"trash"}},"type":"Feature"}
 ]
 }

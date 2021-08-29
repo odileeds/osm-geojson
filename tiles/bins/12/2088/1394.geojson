@@ -1,6 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[3.524482,49.680531],"type":"Point"},"properties":{"name":"Verre","osm_id":"1745647779","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[3.524464,49.680511],"type":"Point"},"properties":{"osm_id":"1745647779","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.521041,49.678243],"type":"Point"},"properties":{"osm_id":"9023606396","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.524438,49.680132],"type":"Point"},"properties":{"osm_id":"9023606400","tag":{"amenity":"waste_basket","material":"metal","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.560847,49.692852],"type":"Point"},"properties":{"osm_id":"9023828485","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
 ]
 }

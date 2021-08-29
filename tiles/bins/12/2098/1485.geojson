@@ -1,6 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[4.480494,44.272517],"type":"Point"},"properties":{"osm_id":"7710078726","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[4.480494,44.272517],"type":"Point"},"properties":{"osm_id":"7710078726","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.457136,44.239031],"type":"Point"},"properties":{"osm_id":"9031385334","tag":{"amenity":"recycling","recycling:green_waste":"yes","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.457294,44.238828],"type":"Point"},"properties":{"osm_id":"9031872146","tag":{"amenity":"waste_disposal","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.457311,44.238822],"type":"Point"},"properties":{"osm_id":"9031872147","tag":{"amenity":"recycling","recycling:PET":"yes","recycling:cans":"yes","recycling:cardboard":"yes","recycling:coffee_capsules":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling:waste":"yes","recycling_type":"container","waste":"trash;plastic"}},"type":"Feature"}
 ]
 }

@@ -52,7 +52,7 @@
 	{"geometry":{"coordinates":[9.395628,48.889458],"type":"Point"},"properties":{"osm_id":"2312150785","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.401764,48.902319],"type":"Point"},"properties":{"osm_id":"2313466831","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.349127,48.871167],"type":"Point"},"properties":{"osm_id":"3439831540","tag":{"amenity":"recycling","operator":"Deutsches Rotes Kreuz","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.386602,48.870438],"type":"Point"},"properties":{"osm_id":"3994011739","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.386602,48.870438],"type":"Point"},"properties":{"osm_id":"3994011739","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 07:00-20:00; PH,Su closed","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:shoes":"yes","recycling_type":"container","wheelchair":"limited"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.383502,48.866272],"type":"Point"},"properties":{"osm_id":"3997349931","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.346546,48.86493],"type":"Point"},"properties":{"osm_id":"4749154881","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.338551,48.865728],"type":"Point"},"properties":{"osm_id":"4749162830","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -134,6 +134,9 @@
 	{"geometry":{"coordinates":[9.38809,48.865426],"type":"Point"},"properties":{"osm_id":"8261563140","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.396367,48.882978],"type":"Point"},"properties":{"osm_id":"8311096717","tag":{"amenity":"waste_basket","material":"metal","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.320666,48.888326],"type":"Point"},"properties":{"osm_id":"8449494261","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.403494,48.886228],"type":"Point"},"properties":{"osm_id":"8613278414","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[9.403494,48.886228],"type":"Point"},"properties":{"osm_id":"8613278414","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.386839,48.871812],"type":"Point"},"properties":{"osm_id":"9026291404","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.386724,48.872418],"type":"Point"},"properties":{"osm_id":"9026313623","tag":{"amenity":"recycling","opening_hours":"24/7","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.389159,48.870624],"type":"Point"},"properties":{"osm_id":"9026326865","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"}
 ]
 }

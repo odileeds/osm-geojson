@@ -1,8 +1,8 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[18.328362,47.345454],"type":"Point"},"properties":{"osm_id":"2913026417","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[18.324403,47.349303],"type":"Point"},"properties":{"osm_id":"3295586318","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[18.328009,47.349747],"type":"Point"},"properties":{"osm_id":"3474939362","tag":{"addr:city":"Cs\u00c3\u00a1kber\u00c3\u00a9ny","addr:street":"Kossuth Lajos utca","amenity":"recycling","source:date":"2011-03-31","url":"http://turistautak.hu/poi.php?id=89766"}},"type":"Feature"}
+	{"geometry":{"coordinates":[18.328362,47.345454],"type":"Point"},"properties":{"osm_id":"2913026417","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[18.324403,47.349303],"type":"Point"},"properties":{"osm_id":"3295586318","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[18.328009,47.349747],"type":"Point"},"properties":{"osm_id":"3474939362","tag":{"addr:city":"Cs\u00c3\u00a1kber\u00c3\u00a9ny","addr:street":"Kossuth Lajos utca","amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container","source:date":"2011-03-31","url":"http://turistautak.hu/poi.php?id=89766"}},"type":"Feature"}
 ]
 }

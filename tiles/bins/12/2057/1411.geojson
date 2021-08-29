@@ -1,12 +1,12 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[0.840738,48.729431],"type":"Point"},"properties":{"osm_id":"2999675585","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[0.840738,48.729431],"type":"Point"},"properties":{"osm_id":"2999675585","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.838946,48.728146],"type":"Point"},"properties":{"osm_id":"2999675588","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.841054,48.731391],"type":"Point"},"properties":{"osm_id":"2999698340","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[0.844101,48.728674],"type":"Point"},"properties":{"osm_id":"2999698341","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[0.844064,48.73097],"type":"Point"},"properties":{"osm_id":"2999698342","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[0.84313,48.727782],"type":"Point"},"properties":{"osm_id":"2999698343","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[0.844101,48.728674],"type":"Point"},"properties":{"osm_id":"2999698341","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[0.844064,48.73097],"type":"Point"},"properties":{"osm_id":"2999698342","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[0.84313,48.727782],"type":"Point"},"properties":{"osm_id":"2999698343","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.841124,48.726175],"type":"Point"},"properties":{"osm_id":"2999801437","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.837095,48.726643],"type":"Point"},"properties":{"osm_id":"2999822703","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.835701,48.729714],"type":"Point"},"properties":{"osm_id":"2999822704","tag":{"amenity":"recycling"}},"type":"Feature"},
@@ -21,6 +21,9 @@
 	{"geometry":{"coordinates":[0.877884,48.736219],"type":"Point"},"properties":{"osm_id":"8951547691","tag":{"amenity":"recycling","operator":"Interco Normandie Sud Eure","recycling:cardboard":"yes","recycling:paper":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.877872,48.736204],"type":"Point"},"properties":{"osm_id":"8960570974","tag":{"amenity":"recycling","operator":"Interco Normandie Sud Eure","recycling:cardboard":"yes","recycling:paper":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[0.849776,48.716904],"type":"Point"},"properties":{"osm_id":"8960570975","tag":{"amenity":"recycling","operator":"Interco Normandie Sud Eure","recycling:cardboard":"yes","recycling:paper":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[0.84976,48.7169],"type":"Point"},"properties":{"osm_id":"8960570976","tag":{"amenity":"recycling","operator":"Interco Normandie Sud Eure","recycling:cardboard":"yes","recycling:paper":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[0.84976,48.7169],"type":"Point"},"properties":{"osm_id":"8960570976","tag":{"amenity":"recycling","operator":"Interco Normandie Sud Eure","recycling:cardboard":"yes","recycling:paper":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[0.845415,48.729589],"type":"Point"},"properties":{"osm_id":"9034966686","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[0.845308,48.730308],"type":"Point"},"properties":{"osm_id":"9034966687","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[0.844547,48.730637],"type":"Point"},"properties":{"osm_id":"9035052738","tag":{"amenity":"waste_disposal"}},"type":"Feature"}
 ]
 }
