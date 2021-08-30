@@ -26,7 +26,7 @@
 	{"geometry":{"coordinates":[-1.562175,47.226413],"type":"Point"},"properties":{"osm_id":"303824305","tag":{"amenity":"recycling","check_date:recycling":"2021-03-16","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container","ref:FR:NM":"VE0315"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.559259,47.225273],"type":"Point"},"properties":{"osm_id":"306572098","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.563629,47.230463],"type":"Point"},"properties":{"osm_id":"306572107","tag":{"amenity":"recycling","details":"verre, Rue Paul Bellamy","location":"overground","mapillary":"34BRasjimD7CNnLOpLGA2w","recycling:glass_bottles":"yes","recycling_type":"container","ref:FR:NM":"VE0313","survey:date":"2018-04-20"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.523044,47.230705],"type":"Point"},"properties":{"osm_id":"310599052","tag":{"amenity":"recycling","recycling:glass":"no","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container","ref:FR:NM":"VE0465"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.523044,47.230705],"type":"Point"},"properties":{"osm_id":"310599052","tag":{"amenity":"recycling","check_date:recycling":"2021-08-29","recycling:glass":"no","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container","ref:FR:NM":"VE0465"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.571959,47.229705],"type":"Point"},"properties":{"osm_id":"311399700","tag":{"amenity":"recycling","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container","ref:FR:NM":"VE0292"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.569763,47.230959],"type":"Point"},"properties":{"osm_id":"311399701","tag":{"amenity":"recycling","recycling:glass":"no","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container","ref:FR:NM":"VE0473"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.523538,47.254016],"type":"Point"},"properties":{"name":"\u00c3\u0089copoint de la Beaujoire","osm_id":"311423696","tag":{"addr:housenumber":"29","addr:street":"Avenue de la Gare de Saint-Joseph","amenity":"recycling","opening_hours":"Tu-Sa 10:00-17:30","phone":"+33 2 40496267","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"centre","ref:FR:NM":"VE0466"}},"type":"Feature"},
@@ -358,7 +358,7 @@
 	{"geometry":{"coordinates":[-1.533208,47.239134],"type":"Point"},"properties":{"osm_id":"3406329135","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.534036,47.239432],"type":"Point"},"properties":{"osm_id":"3406329136","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.518633,47.227222],"type":"Point"},"properties":{"osm_id":"3407497137","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.523728,47.230278],"type":"Point"},"properties":{"osm_id":"3407497138","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.523728,47.230278],"type":"Point"},"properties":{"osm_id":"3407497138","tag":{"amenity":"waste_basket","check_date":"2021-08-29"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.5195,47.235789],"type":"Point"},"properties":{"osm_id":"3407497139","tag":{"amenity":"waste_basket","check_date":"2021-04-01"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.518714,47.236203],"type":"Point"},"properties":{"osm_id":"3407497140","tag":{"amenity":"waste_basket","check_date":"2021-04-01"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.522174,47.237913],"type":"Point"},"properties":{"osm_id":"3407497141","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -1075,6 +1075,8 @@
 	{"geometry":{"coordinates":[-1.542526,47.232259],"type":"Point"},"properties":{"osm_id":"8972792147","tag":{"amenity":"waste_basket","colour":"lightgray","operator":"JCDecaux"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.533923,47.243025],"type":"Point"},"properties":{"osm_id":"8972867050","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-1.537417,47.239487],"type":"Point"},"properties":{"osm_id":"8972867058","tag":{"amenity":"waste_basket","colour":"lightgray","operator":"JCDecaux"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.53803,47.239296],"type":"Point"},"properties":{"osm_id":"8972867061","tag":{"amenity":"waste_basket","colour":"lightgray","material":"metal","operator":"JCDecaux"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-1.53803,47.239296],"type":"Point"},"properties":{"osm_id":"8972867061","tag":{"amenity":"waste_basket","colour":"lightgray","material":"metal","operator":"JCDecaux"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.521553,47.270256],"type":"Point"},"properties":{"osm_id":"9045101705","tag":{"access":"yes","amenity":"waste_disposal","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-1.521562,47.270239],"type":"Point"},"properties":{"osm_id":"9045101706","tag":{"access":"yes","amenity":"waste_disposal","waste":"trash"}},"type":"Feature"}
 ]
 }

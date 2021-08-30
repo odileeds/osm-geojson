@@ -1,8 +1,8 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[23.817668,62.649475],"type":"Point"},"properties":{"osm_id":"1539428009","tag":{"crown_type":"H","estimated_age":"50","health":"5","height":"15","leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree","species":"Picea abies"}},"type":"Feature"},
-	{"geometry":{"coordinates":[23.817426,62.649495],"type":"Point"},"properties":{"osm_id":"1539428978","tag":{"leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree","species":"Pinus sylvestris"}},"type":"Feature"},
+	{"geometry":{"coordinates":[23.817668,62.649475],"type":"Point"},"properties":{"osm_id":"1539428009","tag":{"crown_type":"H","estimated_age":"50","health":"5","height":"15","leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree","species":"Picea abies","species:fi":"Mets\u00c3\u00a4kuusi"}},"type":"Feature"},
+	{"geometry":{"coordinates":[23.817426,62.649495],"type":"Point"},"properties":{"osm_id":"1539428978","tag":{"leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree","species":"Pinus sylvestris","species:fi":"Mets\u00c3\u00a4m\u00c3\u00a4nty"}},"type":"Feature"},
 	{"geometry":{"coordinates":[23.81748,62.649762],"type":"Point"},"properties":{"osm_id":"1539434670","tag":{"denotation":"urban","leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[23.818032,62.643134],"type":"Point"},"properties":{"osm_id":"2029598648","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[23.817253,62.649313],"type":"Point"},"properties":{"osm_id":"2080436297","tag":{"description":"omenapuu","estimated_age":"10","health":"5","height":"3","natural":"tree"}},"type":"Feature"},
@@ -17,7 +17,7 @@
 	{"geometry":{"coordinates":[23.815363,62.634867],"type":"Point"},"properties":{"osm_id":"2909190123","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[23.817262,62.636726],"type":"Point"},"properties":{"osm_id":"2909190126","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[23.814913,62.634881],"type":"Point"},"properties":{"osm_id":"2909190127","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[23.817644,62.649183],"type":"Point"},"properties":{"osm_id":"2911140144","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[23.817644,62.649183],"type":"Point"},"properties":{"osm_id":"2911140144","tag":{"denotation":"urban","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[23.818074,62.644859],"type":"Point"},"properties":{"osm_id":"2912408523","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[23.818155,62.644854],"type":"Point"},"properties":{"osm_id":"2912408525","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[23.815636,62.645343],"type":"Point"},"properties":{"osm_id":"2912411601","tag":{"natural":"tree"}},"type":"Feature"},
@@ -39,9 +39,9 @@
 	{"geometry":{"coordinates":[23.817709,62.639568],"type":"Point"},"properties":{"osm_id":"4302400661","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[23.817747,62.639524],"type":"Point"},"properties":{"osm_id":"4302400662","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[23.817795,62.639475],"type":"Point"},"properties":{"osm_id":"4302400663","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[23.81767,62.649492],"type":"Point"},"properties":{"osm_id":"5998695445","tag":{"leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree","species":"Pinus sylvestris"}},"type":"Feature"},
-	{"geometry":{"coordinates":[23.817515,62.649646],"type":"Point"},"properties":{"osm_id":"6848393995","tag":{"leaf_cycle":"semi_evergreen","leaf_type":"needleleaved","natural":"tree","species":"Larix decidua"}},"type":"Feature"},
-	{"geometry":{"coordinates":[23.817493,62.649538],"type":"Point"},"properties":{"osm_id":"6848393996","tag":{"denotation":"agricultural","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","species":"Malus domestica"}},"type":"Feature"},
-	{"geometry":{"coordinates":[23.81751,62.649569],"type":"Point"},"properties":{"osm_id":"6848393997","tag":{"denotation":"agricultural","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","species":"Malus domestica"}},"type":"Feature"}
+	{"geometry":{"coordinates":[23.81767,62.649492],"type":"Point"},"properties":{"osm_id":"5998695445","tag":{"leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree","species":"Pinus sylvestris","species:fi":"Mets\u00c3\u00a4m\u00c3\u00a4nty"}},"type":"Feature"},
+	{"geometry":{"coordinates":[23.817515,62.649646],"type":"Point"},"properties":{"osm_id":"6848393995","tag":{"denotation":"park","leaf_cycle":"semi_evergreen","leaf_type":"needleleaved","natural":"tree","species":"Larix sibirica","species:fi":"Siperianlehtikuusi","species:wikidata":"Q754765","species:wikipedia":"fi:Siperianlehtikuusi"}},"type":"Feature"},
+	{"geometry":{"coordinates":[23.817493,62.649538],"type":"Point"},"properties":{"osm_id":"6848393996","tag":{"denotation":"agricultural","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","species":"Malus domestica","species:fi":"Tarhaomenapuu","species:wikidata":"Q18674606","species:wikipedia":"fi:Tarhaomenapuu"}},"type":"Feature"},
+	{"geometry":{"coordinates":[23.81751,62.649569],"type":"Point"},"properties":{"osm_id":"6848393997","tag":{"denotation":"agricultural","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree","species":"Malus domestica","species:fi":"Tarhaomenapuu","species:wikidata":"Q18674606","species:wikipedia":"fi:Tarhaomenapuu"}},"type":"Feature"}
 ]
 }

@@ -93,7 +93,7 @@
 	{"geometry":{"coordinates":[24.894161,60.261481],"type":"Point"},"properties":{"osm_id":"8645027582","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[24.894014,60.261429],"type":"Point"},"properties":{"osm_id":"8645027583","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[24.894,60.261439],"type":"Point"},"properties":{"osm_id":"8645027584","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[24.890709,60.262296],"type":"Point"},"properties":{"osm_id":"8671931637","tag":{"access":"private","amenity":"waste_disposal","operator":"As. Oy Helsingin Fanny"}},"type":"Feature"},
+	{"geometry":{"coordinates":[24.890709,60.262296],"type":"Point"},"properties":{"osm_id":"8671931637","tag":{"access":"private","amenity":"waste_disposal","operator":"As. Oy Helsingin Fanny","waste":"household"}},"type":"Feature"},
 	{"geometry":{"coordinates":[24.890607,60.26248],"type":"Point"},"properties":{"osm_id":"8672092534","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[24.887827,60.262727],"type":"Point"},"properties":{"osm_id":"8689965784","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[24.89161,60.26233],"type":"Point"},"properties":{"osm_id":"8689965794","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -104,7 +104,7 @@
 	{"geometry":{"coordinates":[24.888713,60.257864],"type":"Point"},"properties":{"osm_id":"8709910713","tag":{"amenity":"waste_basket","description":"Syv\u00c3\u00a4ker\u00c3\u00a4yss\u00c3\u00a4ili\u00c3\u00b6, 800 litraa, molok city-kita"}},"type":"Feature"},
 	{"geometry":{"coordinates":[24.889195,60.257838],"type":"Point"},"properties":{"osm_id":"8709910714","tag":{"amenity":"waste_basket","description":"Syv\u00c3\u00a4ker\u00c3\u00a4yss\u00c3\u00a4ili\u00c3\u00b6, 800 litraa, molok city-kita"}},"type":"Feature"},
 	{"geometry":{"coordinates":[24.886209,60.258546],"type":"Point"},"properties":{"osm_id":"8709919704","tag":{"amenity":"waste_basket","description":"HKI - H2, 600 litraa, syv\u00c3\u00a4s\u00c3\u00a4ili\u00c3\u00b6n ulkokuori"}},"type":"Feature"},
-	{"geometry":{"coordinates":[24.889919,60.262395],"type":"Point"},"properties":{"osm_id":"8710643669","tag":{"access":"private","amenity":"waste_disposal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[24.889919,60.262395],"type":"Point"},"properties":{"osm_id":"8710643669","tag":{"access":"private","amenity":"waste_disposal","waste":"household"}},"type":"Feature"},
 	{"geometry":{"coordinates":[24.902024,60.271462],"type":"Point"},"properties":{"osm_id":"8710729672","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[24.891871,60.269566],"type":"Point"},"properties":{"osm_id":"8710729673","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[24.890888,60.261764],"type":"Point"},"properties":{"osm_id":"8710734148","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -136,6 +136,9 @@
 	{"geometry":{"coordinates":[24.88082,60.270044],"type":"Point"},"properties":{"osm_id":"9042543812","tag":{"amenity":"waste_basket","waste_basket":"molok"}},"type":"Feature"},
 	{"geometry":{"coordinates":[24.880232,60.269702],"type":"Point"},"properties":{"osm_id":"9042543814","tag":{"amenity":"waste_basket","waste_basket":"molok"}},"type":"Feature"},
 	{"geometry":{"coordinates":[24.882941,60.276979],"type":"Point"},"properties":{"osm_id":"9044217900","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[24.882892,60.277006],"type":"Point"},"properties":{"osm_id":"9044217901","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[24.882892,60.277006],"type":"Point"},"properties":{"osm_id":"9044217901","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[24.885303,60.262827],"type":"Point"},"properties":{"name":"Vaatekierr\u00c3\u00a4tys","osm_id":"9045902839","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[24.892303,60.261922],"type":"Point"},"properties":{"osm_id":"9046101301","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[24.891465,60.26204],"type":"Point"},"properties":{"osm_id":"9046107064","tag":{"access":"private","amenity":"waste_disposal","operator":"As. Oy Helsingin Venny","waste":"household"}},"type":"Feature"}
 ]
 }

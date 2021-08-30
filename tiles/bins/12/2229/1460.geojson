@@ -144,7 +144,7 @@
 	{"geometry":{"coordinates":[15.972418,45.807549],"type":"Point"},"properties":{"osm_id":"2187329945","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.969314,45.810779],"type":"Point"},"properties":{"osm_id":"2187407796","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.969394,45.806934],"type":"Point"},"properties":{"osm_id":"2187416976","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[15.969703,45.812709],"type":"Point"},"properties":{"osm_id":"2188595137","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[15.969703,45.812709],"type":"Point"},"properties":{"osm_id":"2188595137","tag":{"amenity":"waste_basket","check_date":"2021-08-29"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.970291,45.798515],"type":"Point"},"properties":{"osm_id":"2199475209","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.9703,45.798066],"type":"Point"},"properties":{"osm_id":"2199476110","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.970494,45.796434],"type":"Point"},"properties":{"osm_id":"2199479496","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -582,6 +582,6 @@
 	{"geometry":{"coordinates":[15.94752,45.798868],"type":"Point"},"properties":{"osm_id":"8828201715","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.944135,45.806752],"type":"Point"},"properties":{"osm_id":"8832062555","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.954795,45.777615],"type":"Point"},"properties":{"osm_id":"8880429233","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[15.95979,45.791486],"type":"Point"},"properties":{"osm_id":"8939562235","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[15.95979,45.791486],"type":"Point"},"properties":{"osm_id":"8939562235","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }
