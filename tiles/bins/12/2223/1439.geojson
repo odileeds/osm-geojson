@@ -266,7 +266,7 @@
 	{"geometry":{"coordinates":[15.430468,47.079852],"type":"Point"},"properties":{"osm_id":"1686100792","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:magazines":"yes","recycling:newspaper":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.455943,47.073685],"type":"Point"},"properties":{"osm_id":"1688884045","tag":{"amenity":"recycling","operator":"Holding Graz","recycling:cans":"yes","recycling:clothes":"yes","recycling:clothes:count":"2","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"no","recycling:plastic_packaging":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.44476,47.045889],"type":"Point"},"properties":{"osm_id":"1718484188","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[15.442133,47.049222],"type":"Point"},"properties":{"osm_id":"1718484511","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[15.442133,47.049222],"type":"Point"},"properties":{"osm_id":"1718484511","tag":{"access":"private","amenity":"recycling","location":"overground","locked":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.440914,47.051159],"type":"Point"},"properties":{"osm_id":"1718484551","tag":{"amenity":"recycling","check_date":"2021-08-04","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.441816,47.078213],"type":"Point"},"properties":{"osm_id":"1720250850","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"no","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.443892,47.063444],"type":"Point"},"properties":{"osm_id":"1721211721","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -1513,6 +1513,7 @@
 	{"geometry":{"coordinates":[15.468668,47.066803],"type":"Point"},"properties":{"osm_id":"9043599070","tag":{"amenity":"waste_basket","material":"metal","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.426173,47.084543],"type":"Point"},"properties":{"osm_id":"9043642455","tag":{"Operator":"Stadt Graz","amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[15.426607,47.084162],"type":"Point"},"properties":{"osm_id":"9043660928","tag":{"amenity":"waste_basket","operator":"Stadt Graz"}},"type":"Feature"},
-	{"geometry":{"coordinates":[15.426319,47.084416],"type":"Point"},"properties":{"osm_id":"9043660929","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[15.426319,47.084416],"type":"Point"},"properties":{"osm_id":"9043660929","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[15.438817,47.051905],"type":"Point"},"properties":{"osm_id":"9048670860","tag":{"amenity":"waste_basket","material":"metal","waste":"trash"}},"type":"Feature"}
 ]
 }
