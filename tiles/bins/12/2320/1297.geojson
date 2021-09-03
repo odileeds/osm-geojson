@@ -126,7 +126,7 @@
 	{"geometry":{"coordinates":[23.962761,54.925193],"type":"Point"},"properties":{"osm_id":"4190004334","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[23.940185,54.924976],"type":"Point"},"properties":{"osm_id":"4219885222","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[23.940147,54.924977],"type":"Point"},"properties":{"osm_id":"4219885223","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
-	{"geometry":{"coordinates":[23.933196,54.925378],"type":"Point"},"properties":{"osm_id":"4223936856","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[23.933196,54.925378],"type":"Point"},"properties":{"osm_id":"4223936856","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:green_waste":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[23.933137,54.925379],"type":"Point"},"properties":{"osm_id":"4223936857","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[23.954479,54.919129],"type":"Point"},"properties":{"name":"Kaunakiemis","osm_id":"4231464089","tag":{"amenity":"recycling","recycling:electrical_appliances":"yes","recycling:scrap_metal":"yes","recycling:small_appliances":"yes","recycling_type":"centre","website":"https://www.kaunakiemis.lt/"}},"type":"Feature"},
 	{"geometry":{"coordinates":[23.9499,54.890786],"type":"Point"},"properties":{"osm_id":"4377865989","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"no","recycling:plastic_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -178,6 +178,6 @@
 	{"geometry":{"coordinates":[23.981413,54.903343],"type":"Point"},"properties":{"name":"Atliek\u00c5\u00b3 pri\u00c4\u0097mimo aik\u00c5\u00a1tel\u00c4\u0097","osm_id":"8816483217","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[23.927279,54.896546],"type":"Point"},"properties":{"osm_id":"8927759952","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
 	{"geometry":{"coordinates":[23.934101,54.925381],"type":"Point"},"properties":{"osm_id":"9023577206","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
-	{"geometry":{"coordinates":[23.934165,54.925382],"type":"Point"},"properties":{"osm_id":"9023577207","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[23.934165,54.925382],"type":"Point"},"properties":{"osm_id":"9023577207","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:green_waste":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }
