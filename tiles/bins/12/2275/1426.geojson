@@ -3,10 +3,10 @@
 "features": [
 	{"geometry":{"coordinates":[20.009844,47.870939],"type":"Point"},"properties":{"osm_id":"2615661555","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[20.006566,47.871654],"type":"Point"},"properties":{"osm_id":"2615661580","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[19.971642,47.824237],"type":"Point"},"properties":{"osm_id":"3468117429","tag":{"amenity":"recycling","source:date":"2013-06-22","url":"http://turistautak.hu/poi.php?id=129103"}},"type":"Feature"},
-	{"geometry":{"coordinates":[19.964784,47.8303],"type":"Point"},"properties":{"osm_id":"3468117433","tag":{"amenity":"recycling","source:date":"2013-09-16","url":"http://turistautak.hu/poi.php?id=159426"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.971642,47.824237],"type":"Point"},"properties":{"osm_id":"3468117429","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container","source:date":"2013-06-22","url":"http://turistautak.hu/poi.php?id=129103"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.964784,47.8303],"type":"Point"},"properties":{"osm_id":"3468117433","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container","source:date":"2013-09-16","url":"http://turistautak.hu/poi.php?id=159426"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.958267,47.842962],"type":"Point"},"properties":{"osm_id":"3468117442","tag":{"amenity":"recycling","description":"Szelekt\u00c3\u00adv hullad\u00c3\u00a9kgy\u00c5\u00b1jt\u00c5\u0091 kont\u00c3\u00a9nerek.","source:date":"2013-06-22","url":"http://turistautak.hu/poi.php?id=148844"}},"type":"Feature"},
-	{"geometry":{"coordinates":[19.965959,47.83072],"type":"Point"},"properties":{"osm_id":"3724265396","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.965959,47.83072],"type":"Point"},"properties":{"osm_id":"3724265396","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.958797,47.842146],"type":"Point"},"properties":{"osm_id":"3790273275","tag":{"amenity":"recycling"}},"type":"Feature"}
 ]
 }

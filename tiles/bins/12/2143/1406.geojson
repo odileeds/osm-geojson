@@ -70,7 +70,7 @@
 	{"geometry":{"coordinates":[8.415428,49.010963],"type":"Point"},"properties":{"osm_id":"29949097","tag":{"amenity":"recycling","operator":"ALBA","recycling:glass_bottles":"yes","recycling:others":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.409824,49.007469],"type":"Point"},"properties":{"osm_id":"29949102","tag":{"amenity":"recycling","recycling:glass_bottles":"green;white","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.412274,49.006598],"type":"Point"},"properties":{"osm_id":"29990257","tag":{"amenity":"recycling","location":"overground","recycling:batteries":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.413287,49.007067],"type":"Point"},"properties":{"osm_id":"29990258","tag":{"amenity":"recycling","capacity":"3000l","check_date":"2018-02","location":"overground","manufacturer":"Kinshofer Technik","opening_hours":"24/7","operator":"Stadt Karlsruhe","operator:type":"public","recycling:clothes":"yes","recycling:others":"no","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.41315,49.007035],"type":"Point"},"properties":{"osm_id":"29990258","tag":{"amenity":"recycling","capacity":"3000l","check_date":"2018-02","location":"overground","manufacturer":"Kinshofer Technik","opening_hours":"24/7","operator":"Stadt Karlsruhe","operator:type":"public","recycling:clothes":"yes","recycling:others":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.394152,49.008175],"type":"Point"},"properties":{"osm_id":"29990268","tag":{"amenity":"recycling","capacity":"9600l","capacity:brown":"3200l","capacity:green":"3200l","capacity:white":"3200l","check_date":"2019-01-02","description":"je 1 Container f\u00c3\u00bcr Wei\u00c3\u009f-, Braun- und Gr\u00c3\u00bcnglas","location":"overground","manufacturer":"SSI Sch\u00c3\u00a4fer AG","model":"System Grumbach","opening_hours":"Mo-Sa 07:00-19:00;Su,PH off","operator":"Knettenbrech + Gurdulic Rhein-Neckar GmbH","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:glass_bottles:colour":"white;green;brown","recycling:others":"no","recycling_type":"container","start_date":"2018-01"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.386599,49.020962],"type":"Point"},"properties":{"osm_id":"29991299","tag":{"amenity":"recycling","location":"overground","recycling:batteries":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.387669,49.025297],"type":"Point"},"properties":{"osm_id":"29991300","tag":{"amenity":"recycling","location":"overground","operator":"Stadt Karlsruhe","recycling:batteries":"yes","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -535,8 +535,8 @@
 	{"geometry":{"coordinates":[8.381441,49.007765],"type":"Point"},"properties":{"osm_id":"3938570567","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.38131,49.00786],"type":"Point"},"properties":{"osm_id":"3938570568","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.423036,49.011297],"type":"Point"},"properties":{"osm_id":"3964871726","tag":{"amenity":"waste_basket","check_date":"2021-01-29","operator":"Verkehrsbetriebe Karlsruhe GmbH","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.427649,49.005723],"type":"Point"},"properties":{"osm_id":"3966682845","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.427905,49.006309],"type":"Point"},"properties":{"osm_id":"3966682851","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.427649,49.005723],"type":"Point"},"properties":{"osm_id":"3966682845","tag":{"amenity":"waste_basket","material":"metal","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.427905,49.006309],"type":"Point"},"properties":{"osm_id":"3966682851","tag":{"amenity":"waste_basket","material":"metal","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.410631,48.996805],"type":"Point"},"properties":{"osm_id":"3977833863","tag":{"amenity":"waste_basket","check_date":"2020-12-22","operator":"Verkehrsbetriebe Karlsruhe GmbH","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.394639,49.004782],"type":"Point"},"properties":{"osm_id":"3977833997","tag":{"amenity":"waste_basket","operator":"Verkehrsbetriebe Karlsruhe GmbH","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.394502,49.004787],"type":"Point"},"properties":{"osm_id":"3977833998","tag":{"amenity":"waste_basket","operator":"Verkehrsbetriebe Karlsruhe GmbH","waste":"trash"}},"type":"Feature"},
@@ -999,6 +999,8 @@
 	{"geometry":{"coordinates":[8.401564,48.998634],"type":"Point"},"properties":{"osm_id":"9005235898","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.360709,49.032212],"type":"Point"},"properties":{"osm_id":"9007744409","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.417333,49.006678],"type":"Point"},"properties":{"osm_id":"9008682183","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.416239,49.00683],"type":"Point"},"properties":{"osm_id":"9008684743","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[8.416239,49.00683],"type":"Point"},"properties":{"osm_id":"9008684743","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.398179,49.001131],"type":"Point"},"properties":{"osm_id":"9064097459","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.398032,49.000573],"type":"Point"},"properties":{"osm_id":"9064097462","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
 ]
 }

@@ -1,7 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-44.196373,-2.577638],"type":"Point"},"properties":{"osm_id":"9006639743","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-44.196293,-2.577638],"type":"Point"},"properties":{"osm_id":"9006639744","tag":{"natural":"tree"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-44.196373,-2.577638],"type":"Point"},"properties":{"osm_id":"9006639743","tag":{"denotation":"natural_monument","genus":"Ceiba","leaf_type":"lanceolada","natural":"tree","species":"Ceiba pentandra"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-44.196293,-2.577638],"type":"Point"},"properties":{"osm_id":"9006639744","tag":{"denotation":"natural_monument","genus":"Ceiba","leaf_type":"lanceolada","natural":"tree","species":"C. pentandra"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-44.195324,-2.57768],"type":"Point"},"properties":{"osm_id":"9060921411","tag":{"denotation":"urban","genus":"Syzygium","leaf_cycle":"evergreen","leaf_type":"lanceolada","natural":"tree","species":"Syzygium cumini"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-44.195476,-2.5775],"type":"Point"},"properties":{"osm_id":"9060921412","tag":{"denotation":"urban","genus":"Terminalia","leaf_cycle":"evergreen","leaf_type":"broadleaved","natural":"tree","species":"Terminalia catappa"}},"type":"Feature"}
 ]
 }

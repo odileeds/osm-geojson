@@ -43,7 +43,7 @@
 	{"geometry":{"coordinates":[13.555654,52.513297],"type":"Point"},"properties":{"osm_id":"4078023052","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.597041,52.521492],"type":"Point"},"properties":{"osm_id":"4108069557","tag":{"amenity":"waste_basket","check_date":"2021-04-16"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.606299,52.524187],"type":"Point"},"properties":{"osm_id":"4108069562","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.559879,52.534125],"type":"Point"},"properties":{"highway":"bus_stop","name":"Elisabethstra\u00c3\u009fe/Oberfeldstra\u00c3\u009fe","osm_id":"4108069580","tag":{"amenity":"waste_basket","shelter":"no"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.559879,52.534125],"type":"Point"},"properties":{"highway":"bus_stop","name":"Elisabethstra\u00c3\u009fe/Oberfeldstra\u00c3\u009fe","osm_id":"4108069580","tag":{"amenity":"waste_basket","bench":"no","shelter":"no"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.593344,52.515939],"type":"Point"},"properties":{"osm_id":"4108132389","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.614894,52.511024],"type":"Point"},"properties":{"osm_id":"4109040678","tag":{"amenity":"waste_basket","check_date":"2020-12-22"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.6148,52.511046],"type":"Point"},"properties":{"osm_id":"4109040680","tag":{"amenity":"waste_basket","check_date":"2020-12-22"}},"type":"Feature"},
@@ -116,7 +116,7 @@
 	{"geometry":{"coordinates":[13.543733,52.530345],"type":"Point"},"properties":{"osm_id":"6739052670","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.575968,52.524026],"type":"Point"},"properties":{"osm_id":"6742079429","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.576055,52.524959],"type":"Point"},"properties":{"osm_id":"6742079431","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.555589,52.513307],"type":"Point"},"properties":{"osm_id":"6829912899","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.555589,52.513307],"type":"Point"},"properties":{"osm_id":"6829912899","tag":{"amenity":"recycling","operator":"Deutsches Rotes Kreuz","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.620316,52.529821],"type":"Point"},"properties":{"osm_id":"7454365760","tag":{"amenity":"recycling","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.622054,52.532985],"type":"Point"},"properties":{"osm_id":"7454366420","tag":{"amenity":"recycling","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.567323,52.486756],"type":"Point"},"properties":{"osm_id":"7572237848","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
@@ -163,7 +163,7 @@
 	{"geometry":{"coordinates":[13.554392,52.53384],"type":"Point"},"properties":{"osm_id":"8483674248","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.562472,52.535176],"type":"Point"},"properties":{"osm_id":"8524773529","tag":{"amenity":"recycling","operator":"Humana","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.559879,52.534117],"type":"Point"},"properties":{"osm_id":"8525571750","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.559125,52.534022],"type":"Point"},"properties":{"highway":"bus_stop","name":"Elisabethstra\u00c3\u009fe/Oberfeldstra\u00c3\u009fe","osm_id":"8525571753","tag":{"amenity":"waste_basket","shelter":"no"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.559125,52.534022],"type":"Point"},"properties":{"highway":"bus_stop","name":"Elisabethstra\u00c3\u009fe/Oberfeldstra\u00c3\u009fe","osm_id":"8525571753","tag":{"amenity":"waste_basket","bench":"no","shelter":"no"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.567032,52.528937],"type":"Point"},"properties":{"osm_id":"8564619891","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.57106,52.528499],"type":"Point"},"properties":{"osm_id":"8564619903","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.577249,52.527785],"type":"Point"},"properties":{"osm_id":"8564619919","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -262,6 +262,8 @@
 	{"geometry":{"coordinates":[13.572371,52.52328],"type":"Point"},"properties":{"osm_id":"9027628495","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.572681,52.524126],"type":"Point"},"properties":{"osm_id":"9027628518","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.570561,52.526008],"type":"Point"},"properties":{"osm_id":"9032883654","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.569095,52.526052],"type":"Point"},"properties":{"osm_id":"9032883656","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[13.569095,52.526052],"type":"Point"},"properties":{"osm_id":"9032883656","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.558267,52.510063],"type":"Point"},"properties":{"osm_id":"9062096081","tag":{"amenity":"waste_basket","waste":"dog_excrement;trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.557602,52.51002],"type":"Point"},"properties":{"osm_id":"9062096082","tag":{"amenity":"waste_basket","waste":"dog_excrement;trash"}},"type":"Feature"}
 ]
 }
