@@ -2,13 +2,14 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[12.008937,47.983002],"type":"Point"},"properties":{"name":"Wertstoffhof","osm_id":"283538588","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
-	{"geometry":{"coordinates":[12.006946,47.933101],"type":"Point"},"properties":{"osm_id":"1783929570","tag":{"amenity":"recycling","location":"overground","opening_hours":"Mo-Sa 07:00-20:00; PH off","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.006946,47.933101],"type":"Point"},"properties":{"osm_id":"1783929570","tag":{"amenity":"recycling","location":"overground","opening_hours":"Mo-Sa 07:00-20:00; PH off","recycling:glass_bottles":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.040218,47.943526],"type":"Point"},"properties":{"osm_id":"3522114930","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.026096,47.938127],"type":"Point"},"properties":{"osm_id":"3561638623","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[12.040936,47.942488],"type":"Point"},"properties":{"osm_id":"4128241550","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.993623,47.988743],"type":"Point"},"properties":{"osm_id":"6356800727","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.993551,47.988938],"type":"Point"},"properties":{"osm_id":"6356800729","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.993363,47.989447],"type":"Point"},"properties":{"osm_id":"6356800730","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.973349,47.931974],"type":"Point"},"properties":{"osm_id":"7155728278","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[11.973349,47.931974],"type":"Point"},"properties":{"osm_id":"7155728278","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[12.006527,47.933192],"type":"Point"},"properties":{"osm_id":"9075395284","tag":{"amenity":"recycling","location":"overground","opening_hours":"Mo-Sa 07:00-20:00; PH off","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }
