@@ -207,7 +207,7 @@
 	{"geometry":{"coordinates":[19.115176,50.320291],"type":"Point"},"properties":{"osm_id":"7056304421","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.114496,50.320966],"type":"Point"},"properties":{"osm_id":"7056304422","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.114498,50.320959],"type":"Point"},"properties":{"osm_id":"7056304423","tag":{"access":"private","amenity":"waste_disposal"}},"type":"Feature"},
-	{"geometry":{"coordinates":[19.115587,50.320756],"type":"Point"},"properties":{"osm_id":"7056304424","tag":{"access":"private","amenity":"waste_disposal","operator":"Wsp\u00c3\u00b3lnota Mieszkaniowa \u00c5\u009amigielskiego 7a"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.115587,50.320756],"type":"Point"},"properties":{"osm_id":"7056304424","tag":{"access":"private","amenity":"waste_disposal","operator":"Wsp\u00c3\u00b3lnota Mieszkaniowa \u00c5\u009amigielskiego 7a","waste":"plastic;mixed;glass"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.116485,50.320485],"type":"Point"},"properties":{"osm_id":"7056318686","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.116481,50.320502],"type":"Point"},"properties":{"osm_id":"7056318687","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.132945,50.319841],"type":"Point"},"properties":{"osm_id":"7056318688","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
@@ -1356,6 +1356,18 @@
 	{"geometry":{"coordinates":[19.119321,50.324817],"type":"Point"},"properties":{"osm_id":"9064907620","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.154017,50.323188],"type":"Point"},"properties":{"osm_id":"9064910153","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[19.120378,50.32968],"type":"Point"},"properties":{"osm_id":"9072754572","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[19.123757,50.332001],"type":"Point"},"properties":{"osm_id":"9072948681","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[19.123757,50.332001],"type":"Point"},"properties":{"osm_id":"9072948681","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.121213,50.322313],"type":"Point"},"properties":{"osm_id":"9080653520","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.120956,50.322247],"type":"Point"},"properties":{"osm_id":"9080653521","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.12861,50.320168],"type":"Point"},"properties":{"osm_id":"9080653529","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.133006,50.31879],"type":"Point"},"properties":{"osm_id":"9081517060","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.116072,50.315392],"type":"Point"},"properties":{"osm_id":"9081551786","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.115453,50.320723],"type":"Point"},"properties":{"osm_id":"9081960363","tag":{"access":"private","amenity":"waste_basket","material":"stone","operator":"Wsp\u00c3\u00b3lnota Mieszkaniowa \u00c5\u009amigielskiego 7a","waste":"mixed"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.136716,50.303536],"type":"Point"},"properties":{"osm_id":"9082914148","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.151665,50.320344],"type":"Point"},"properties":{"osm_id":"9083456499","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.151675,50.320337],"type":"Point"},"properties":{"osm_id":"9083456500","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.153952,50.313264],"type":"Point"},"properties":{"osm_id":"9092414113","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.155086,50.313142],"type":"Point"},"properties":{"osm_id":"9092414114","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[19.155137,50.313155],"type":"Point"},"properties":{"osm_id":"9092414115","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

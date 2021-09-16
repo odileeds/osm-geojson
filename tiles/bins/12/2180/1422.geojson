@@ -136,7 +136,7 @@
 	{"geometry":{"coordinates":[11.67285,48.100659],"type":"Point"},"properties":{"osm_id":"3523399904","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.64631,48.0564],"type":"Point"},"properties":{"osm_id":"3609154554","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.620741,48.076216],"type":"Point"},"properties":{"osm_id":"3629527684","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.640618,48.103107],"type":"Point"},"properties":{"osm_id":"3639872153","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.640618,48.103107],"type":"Point"},"properties":{"osm_id":"3639872153","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.640648,48.103117],"type":"Point"},"properties":{"osm_id":"3639872154","tag":{"amenity":"recycling","contact:email":"awm@muenchen.de","contact:phone":"+49 89 233 96200","contact:website":"http://awm-muenchen.de","operator":"Abfallwirtschaftsbetrieb M\u00c3\u00bcnchen","operator:short":"AWM","operator:type":"public","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.604627,48.067869],"type":"Point"},"properties":{"osm_id":"3645077397","tag":{"amenity":"recycling","recycling:cans":"no","recycling:clothes":"no","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling:waste":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.652962,48.105306],"type":"Point"},"properties":{"osm_id":"3656718325","tag":{"amenity":"recycling","contact:email":"awm@muenchen.de","contact:phone":"+49 89 233 96200","contact:website":"http://awm-muenchen.de","operator":"Abfallwirtschaftsbetrieb M\u00c3\u00bcnchen","operator:short":"AWM","operator:type":"public","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -253,7 +253,7 @@
 	{"geometry":{"coordinates":[11.613076,48.070933],"type":"Point"},"properties":{"osm_id":"5626778066","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.612967,48.070775],"type":"Point"},"properties":{"osm_id":"5626778067","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.613035,48.071328],"type":"Point"},"properties":{"osm_id":"5626778069","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.657705,48.10358],"type":"Point"},"properties":{"osm_id":"5866608871","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.657705,48.10358],"type":"Point"},"properties":{"osm_id":"5866608871","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.656151,48.105911],"type":"Point"},"properties":{"osm_id":"5869514100","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.66104,48.103552],"type":"Point"},"properties":{"osm_id":"5910306143","tag":{"amenity":"recycling","operator":"Bayerisches Rotes Kreuz","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.619599,48.058698],"type":"Point"},"properties":{"osm_id":"6358110246","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
@@ -616,6 +616,10 @@
 	{"geometry":{"coordinates":[11.610673,48.074364],"type":"Point"},"properties":{"osm_id":"9074638419","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.612271,48.058834],"type":"Point"},"properties":{"osm_id":"9074638426","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.611264,48.089898],"type":"Point"},"properties":{"osm_id":"9074670640","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.607408,48.088561],"type":"Point"},"properties":{"osm_id":"9074670643","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[11.607408,48.088561],"type":"Point"},"properties":{"osm_id":"9074670643","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.66762,48.070809],"type":"Point"},"properties":{"osm_id":"9079941493","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.663966,48.073281],"type":"Point"},"properties":{"osm_id":"9082049658","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.669725,48.07331],"type":"Point"},"properties":{"osm_id":"9082250349","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.666667,48.074457],"type":"Point"},"properties":{"osm_id":"9082338006","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

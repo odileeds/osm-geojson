@@ -28,7 +28,7 @@
 	{"geometry":{"coordinates":[4.431272,45.895536],"type":"Point"},"properties":{"osm_id":"6168559737","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.442818,45.89088],"type":"Point"},"properties":{"osm_id":"6171015124","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.442819,45.890866],"type":"Point"},"properties":{"osm_id":"6171015125","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.442819,45.890851],"type":"Point"},"properties":{"osm_id":"6171015126","tag":{"amenity":"recycling","recycling:beverage_carton":"yes","recycling:metal":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.442819,45.890851],"type":"Point"},"properties":{"osm_id":"6171015126","tag":{"amenity":"recycling","recycling:aluminium":"yes","recycling:beverage_carton":"yes","recycling:cans":"yes","recycling:cardboard":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.435158,45.890281],"type":"Point"},"properties":{"osm_id":"6173462460","tag":{"amenity":"recycling","recycling:beverage_cartons":"yes","recycling:metal":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.435156,45.890255],"type":"Point"},"properties":{"osm_id":"6173462461","tag":{"amenity":"recycling","recycling:beverage_cartons":"yes","recycling:metal":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.435156,45.890224],"type":"Point"},"properties":{"osm_id":"6173462462","tag":{"amenity":"recycling","recycling:beverage_cartons":"yes","recycling:metal":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -47,6 +47,11 @@
 	{"geometry":{"coordinates":[4.434957,45.894289],"type":"Point"},"properties":{"osm_id":"6363208132","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.441613,45.892216],"type":"Point"},"properties":{"osm_id":"6363208138","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.445969,45.890463],"type":"Point"},"properties":{"osm_id":"6710496751","tag":{"amenity":"recycling","material":"plastic","recycling:cans":"yes","recycling:cardboard":"yes","recycling:paper":"yes","recycling:plastic_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.445956,45.890489],"type":"Point"},"properties":{"osm_id":"6710496752","tag":{"amenity":"recycling","material":"plastic","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[4.445956,45.890489],"type":"Point"},"properties":{"osm_id":"6710496752","tag":{"amenity":"recycling","material":"plastic","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.441499,45.892223],"type":"Point"},"properties":{"osm_id":"9079733251","tag":{"amenity":"recycling","recycling:aluminium":"yes","recycling:cans":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling_type":"container","wheelchair":"limited"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.44154,45.892254],"type":"Point"},"properties":{"osm_id":"9079733262","tag":{"amenity":"waste_disposal","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.441454,45.892185],"type":"Point"},"properties":{"osm_id":"9079733264","tag":{"amenity":"recycling","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.441518,45.892239],"type":"Point"},"properties":{"osm_id":"9079733271","tag":{"amenity":"waste_disposal","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.441474,45.892201],"type":"Point"},"properties":{"osm_id":"9079733274","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container","wheelchair":"limited"}},"type":"Feature"}
 ]
 }
