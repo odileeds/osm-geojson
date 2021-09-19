@@ -161,7 +161,7 @@
 	{"geometry":{"coordinates":[8.630297,50.137919],"type":"Point"},"properties":{"osm_id":"5711709721","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.654468,50.158398],"type":"Point"},"properties":{"osm_id":"6051131874","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.654914,50.163848],"type":"Point"},"properties":{"osm_id":"6052309314","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.671792,50.135315],"type":"Point"},"properties":{"osm_id":"6116879972","tag":{"amenity":"recycling","opening_hours":"24/7","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.671792,50.135315],"type":"Point"},"properties":{"osm_id":"6116879972","tag":{"amenity":"recycling","check_date:recycling":"2021-09-18","opening_hours":"24/7","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.697873,50.170152],"type":"Point"},"properties":{"osm_id":"6180532903","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.69953,50.139477],"type":"Point"},"properties":{"osm_id":"6180687554","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.699812,50.139373],"type":"Point"},"properties":{"osm_id":"6180687556","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -259,7 +259,7 @@
 	{"geometry":{"coordinates":[8.693444,50.151941],"type":"Point"},"properties":{"osm_id":"6587069777","tag":{"amenity":"recycling","location":"overground","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.699348,50.153413],"type":"Point"},"properties":{"osm_id":"6587076658","tag":{"amenity":"recycling","location":"overground","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.697512,50.153002],"type":"Point"},"properties":{"osm_id":"6587089103","tag":{"amenity":"recycling","location":"overground","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.671413,50.136931],"type":"Point"},"properties":{"osm_id":"6589666226","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.671413,50.136931],"type":"Point"},"properties":{"osm_id":"6589666226","tag":{"amenity":"recycling","check_date:recycling":"2021-09-18","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.670549,50.139031],"type":"Point"},"properties":{"osm_id":"6589674835","tag":{"amenity":"recycling","opening_hours":"24/7","operator":"kath. Arbeitnehmerbewegung","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.616512,50.128231],"type":"Point"},"properties":{"osm_id":"6597515766","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 07:00-19:00; PH closed","recycling:glass_bottles":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.616347,50.129315],"type":"Point"},"properties":{"osm_id":"6613131754","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 07:00-20:00; PH closed","operator":"TEXAID","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container","wheelchair":"no"}},"type":"Feature"},
@@ -427,6 +427,7 @@
 	{"geometry":{"coordinates":[8.625604,50.134065],"type":"Point"},"properties":{"osm_id":"9071148023","tag":{"amenity":"recycling","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.625622,50.134044],"type":"Point"},"properties":{"osm_id":"9071148024","tag":{"amenity":"recycling","operator":"Deutsches Rotes Kreuz e.V.","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.628807,50.133124],"type":"Point"},"properties":{"osm_id":"9071244596","tag":{"amenity":"recycling","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.628777,50.133112],"type":"Point"},"properties":{"osm_id":"9071244598","tag":{"amenity":"recycling","operator":"Deutsches Rotes Kreuz e.V.","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[8.628777,50.133112],"type":"Point"},"properties":{"osm_id":"9071244598","tag":{"amenity":"recycling","operator":"Deutsches Rotes Kreuz e.V.","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.671004,50.12438],"type":"Point"},"properties":{"osm_id":"9103830710","tag":{"amenity":"recycling","opening_hours":"Mo-Fr 07:00-19:00; PH closed","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"}
 ]
 }
