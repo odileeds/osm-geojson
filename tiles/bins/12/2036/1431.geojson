@@ -1,6 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-1.033583,47.568552],"type":"Point"},"properties":{"osm_id":"6925085368","tag":{"amenity":"recycling"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-1.033583,47.568552],"type":"Point"},"properties":{"osm_id":"6925085368","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.972061,47.568454],"type":"Point"},"properties":{"osm_id":"9105911454","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.972049,47.568488],"type":"Point"},"properties":{"osm_id":"9105911455","tag":{"amenity":"recycling","recycling:beverage_cartons":"yes","recycling:cans":"yes","recycling:paper_packaging":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.972041,47.56852],"type":"Point"},"properties":{"osm_id":"9105911456","tag":{"amenity":"recycling","recycling:magazines":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

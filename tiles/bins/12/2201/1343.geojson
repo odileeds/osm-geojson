@@ -245,7 +245,7 @@
 	{"geometry":{"coordinates":[13.468262,52.522385],"type":"Point"},"properties":{"osm_id":"3398791094","tag":{"addr:city":"Berlin","addr:country":"DE","addr:housenumber":"46","addr:postcode":"10249","addr:street":"Hermann-Blankenstein-Stra\u00c3\u009fe","amenity":"recycling","check_date:recycling":"2021-06-25","recycling:cans":"no","recycling:clothes":"yes","recycling:glass":"no","recycling:paper":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.451041,52.491917],"type":"Point"},"properties":{"osm_id":"3442681734","tag":{"amenity":"waste_basket","check_date":"2021-02-27"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.449214,52.488263],"type":"Point"},"properties":{"osm_id":"3442706156","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.450685,52.491689],"type":"Point"},"properties":{"osm_id":"3442706177","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.450685,52.491689],"type":"Point"},"properties":{"osm_id":"3442706177","tag":{"amenity":"recycling","check_date":"2021-09-18","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.449643,52.48848],"type":"Point"},"properties":{"osm_id":"3442706394","tag":{"amenity":"recycling","description":"Altkleider-Sammelstelle","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.503138,52.506792],"type":"Point"},"properties":{"osm_id":"3524460200","tag":{"amenity":"waste_basket","check_date":"2020-12-15","waste":"trash;cigarettes;dog_excrement"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.506083,52.508747],"type":"Point"},"properties":{"osm_id":"3524470276","tag":{"amenity":"waste_basket","check_date":"2020-12-12","waste":"trash;cigarettes;dog_excrement"}},"type":"Feature"},
@@ -1275,7 +1275,7 @@
 	{"geometry":{"coordinates":[13.497352,52.495621],"type":"Point"},"properties":{"osm_id":"8848151414","tag":{"amenity":"waste_basket","waste":"dog_excrement;trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.49475,52.497299],"type":"Point"},"properties":{"osm_id":"8848151416","tag":{"amenity":"waste_basket","waste":"dog_excrement;trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.498082,52.495264],"type":"Point"},"properties":{"osm_id":"8848170117","tag":{"amenity":"waste_basket","waste":"dog_excrement;trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.44878,52.490461],"type":"Point"},"properties":{"osm_id":"8849936972","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.448801,52.490476],"type":"Point"},"properties":{"osm_id":"8849936972","tag":{"amenity":"waste_basket","check_date":"2021-09-18","support":"traffic_sign","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.471984,52.515098],"type":"Point"},"properties":{"osm_id":"8856473264","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.483134,52.525849],"type":"Point"},"properties":{"osm_id":"8859489334","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.459305,52.510708],"type":"Point"},"properties":{"osm_id":"8860255272","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -1336,6 +1336,8 @@
 	{"geometry":{"coordinates":[13.455692,52.503097],"type":"Point"},"properties":{"osm_id":"9095303647","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.456258,52.502662],"type":"Point"},"properties":{"osm_id":"9095303654","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.455608,52.502845],"type":"Point"},"properties":{"osm_id":"9095303655","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.456561,52.502665],"type":"Point"},"properties":{"osm_id":"9095303657","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[13.456561,52.502665],"type":"Point"},"properties":{"osm_id":"9095303657","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.450428,52.491353],"type":"Point"},"properties":{"osm_id":"9106142203","tag":{"amenity":"waste_basket","check_date":"2021-09-18","support":"traffic_sign","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.450387,52.491556],"type":"Point"},"properties":{"osm_id":"9106184666","tag":{"amenity":"waste_basket","check_date":"2021-09-18","support":"traffic_sign","waste":"trash"}},"type":"Feature"}
 ]
 }
