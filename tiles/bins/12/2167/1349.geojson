@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[10.519033,52.165345],"type":"Point"},"properties":{"osm_id":"272800472","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.519033,52.170194],"type":"Point"},"properties":{"osm_id":"272800654","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.519033,52.170194],"type":"Point"},"properties":{"osm_id":"272800654","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.509057,52.206942],"type":"Point"},"properties":{"osm_id":"280562465","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.507054,52.204342],"type":"Point"},"properties":{"osm_id":"280562519","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.502992,52.204109],"type":"Point"},"properties":{"osm_id":"280562552","tag":{"amenity":"recycling","operator":"ALBA Braunschweig GmbH","recycling:cans":"no","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
