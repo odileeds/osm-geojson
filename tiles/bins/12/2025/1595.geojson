@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[-2.005914,36.879716],"type":"Point"},"properties":{"osm_id":"256462669","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-1.93688,36.94089],"type":"Point"},"properties":{"name":"Agua Amarga","osm_id":"301765125","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-1.93688,36.94089],"type":"Point"},"properties":{"name":"Agua Amarga","osm_id":"301765125","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }
