@@ -1,6 +1,10 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[-6.176915,53.527187],"type":"Point"},"properties":{"osm_id":"1606667997","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-6.176915,53.527187],"type":"Point"},"properties":{"osm_id":"1606667997","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-6.157279,53.528331],"type":"Point"},"properties":{"osm_id":"9118314976","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-6.157997,53.528226],"type":"Point"},"properties":{"osm_id":"9118314977","tag":{"amenity":"waste_basket","material":"steel","operator":"Fingal County Council","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-6.158272,53.528147],"type":"Point"},"properties":{"osm_id":"9118314978","tag":{"amenity":"waste_basket","material":"steel","operator":"Fingal County Council","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-6.160685,53.5242],"type":"Point"},"properties":{"osm_id":"9118343997","tag":{"amenity":"waste_basket","material":"steel","operator":"Fingal County Council","waste":"trash"}},"type":"Feature"}
 ]
 }

@@ -5,7 +5,7 @@
 	{"geometry":{"coordinates":[13.18857,52.747546],"type":"Point"},"properties":{"osm_id":"308910525","tag":{"amenity":"recycling","recycling:clothes":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.246964,52.736281],"type":"Point"},"properties":{"osm_id":"452387097","tag":{"amenity":"recycling","location":"overground","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.246765,52.702081],"type":"Point"},"properties":{"osm_id":"687714973","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.265311,52.740523],"type":"Point"},"properties":{"osm_id":"1139350937","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 07:00-13:00, 15:00-20:00","recycling:clothes":"yes","recycling:glass":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.265311,52.740523],"type":"Point"},"properties":{"osm_id":"1139350937","tag":{"amenity":"recycling","location":"overground","opening_hours":"Mo-Sa 07:00-13:00, 15:00-20:00","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.227747,52.723604],"type":"Point"},"properties":{"osm_id":"2061404803","tag":{"amenity":"recycling","check_date":"2020-09-29","contact:phone":"+49 3304 376-0","contact:website":"https://www.awu-oberhavel.de/","opening_hours":"Mo-Sa 07:00-13:00,15:00-20:00; Su off; PH off","operator":"AWU","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container","wheelchair":"no"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.188303,52.746436],"type":"Point"},"properties":{"osm_id":"2110333680","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.267325,52.713697],"type":"Point"},"properties":{"osm_id":"3016543181","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -21,6 +21,7 @@
 	{"geometry":{"coordinates":[13.250174,52.706279],"type":"Point"},"properties":{"osm_id":"7967150485","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.253524,52.707283],"type":"Point"},"properties":{"osm_id":"7967150486","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[13.264237,52.745101],"type":"Point"},"properties":{"osm_id":"9081211153","tag":{"amenity":"waste_basket","colour":"#2d394b","material":"metal","waste":"mixed"}},"type":"Feature"},
-	{"geometry":{"coordinates":[13.264661,52.745115],"type":"Point"},"properties":{"osm_id":"9081211157","tag":{"amenity":"waste_basket","colour":"#2d394b","material":"metal","waste":"mixed"}},"type":"Feature"}
+	{"geometry":{"coordinates":[13.264661,52.745115],"type":"Point"},"properties":{"osm_id":"9081211157","tag":{"amenity":"waste_basket","colour":"#2d394b","material":"metal","waste":"mixed"}},"type":"Feature"},
+	{"geometry":{"coordinates":[13.246,52.728725],"type":"Point"},"properties":{"osm_id":"9119512490","tag":{"amenity":"recycling","operator":"Versero","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

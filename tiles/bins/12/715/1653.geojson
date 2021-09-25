@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[-117.155173,32.749465],"type":"Point"},"properties":{"osm_id":"316541540","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-117.133954,32.753648],"type":"Point"},"properties":{"osm_id":"320388014","tag":{"amenity":"recycling","recycling:batteries":"no","recycling:books":"no","recycling:cans":"yes","recycling:cardboard":"yes","recycling:cartons":"no","recycling:clothes":"no","recycling:electrical_appliances":"no","recycling:glass":"no","recycling:glass_bottles":"yes","recycling:green_waste":"no","recycling:magazines":"yes","recycling:newspaper":"yes","recycling:paper":"yes","recycling:paper_packaging":"yes","recycling:plastic":"no","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"no","recycling:scrap_metal":"no","recycling:small_appliances":"no","recycling:waste":"no","recycling:wood":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-117.124829,32.714454],"type":"Point"},"properties":{"name":"San Diego CRV Center","osm_id":"597165916","tag":{"addr:city":"San Diego","addr:country":"US","addr:housenumber":"855","addr:postcode":"92102","addr:street":"32nd Street","amenity":"recycling","opening_hours":"Mo-Sa 08:30-17:00","phone":"+16195013008","recycling:cans":"yes","recycling:cardboard":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:newspaper":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"centre","website":"http://www.sandiegorecyclingleaders.com/"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-117.152929,32.750481],"type":"Point"},"properties":{"osm_id":"2134410937","tag":{"amenity":"waste_disposal","waste":"pet_waste"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-117.153479,32.750268],"type":"Point"},"properties":{"osm_id":"2134410938","tag":{"amenity":"waste_disposal","waste":"pet_waste"}},"type":"Feature"},
@@ -46,6 +45,8 @@
 	{"geometry":{"coordinates":[-117.102389,32.754105],"type":"Point"},"properties":{"osm_id":"6821286480","tag":{"access":"private","amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-117.140775,32.715761],"type":"Point"},"properties":{"osm_id":"7275656248","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-117.150203,32.765129],"type":"Point"},"properties":{"osm_id":"9015585945","tag":{"amenity":"waste_basket","covered":"yes","indoor":"no"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-117.13934,32.735245],"type":"Point"},"properties":{"osm_id":"9089591900","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-117.13934,32.735245],"type":"Point"},"properties":{"osm_id":"9089591900","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-117.135019,32.752317],"type":"Point"},"properties":{"osm_id":"9119574734","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-117.135019,32.752311],"type":"Point"},"properties":{"osm_id":"9119574735","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }
