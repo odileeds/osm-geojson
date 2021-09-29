@@ -11,7 +11,7 @@
 	{"geometry":{"coordinates":[6.147449,46.193568],"type":"Point"},"properties":{"osm_id":"471558107","tag":{"addr:city":"Gen\u00c3\u00a8ve","addr:housenumber":"81","addr:street":"Boulevard de la Cluse","amenity":"recycling","operator":"Ville de Geneve","recycling:aluminium_cans":"yes","recycling:compost":"yes","recycling:glass_brown":"yes","recycling:glass_white":"yes","recycling:nespresso_capsule":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.141335,46.188062],"type":"Point"},"properties":{"osm_id":"479551219","tag":{"amenity":"recycling","location":"underground","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.119372,46.166953],"type":"Point"},"properties":{"osm_id":"556051436","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.123284,46.167179],"type":"Point"},"properties":{"osm_id":"556051452","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.123284,46.167179],"type":"Point"},"properties":{"osm_id":"556051452","tag":{"amenity":"recycling","location":"underground","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.121942,46.168899],"type":"Point"},"properties":{"osm_id":"556051539","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.143031,46.175236],"type":"Point"},"properties":{"name":"Point de recyclage La Tambourine","osm_id":"582817933","tag":{"addr:street":"Rue de La-Tambourine","amenity":"recycling","recycling:batteries":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.120513,46.192335],"type":"Point"},"properties":{"osm_id":"628810742","tag":{"amenity":"recycling"}},"type":"Feature"},
@@ -972,6 +972,7 @@
 	{"geometry":{"coordinates":[6.114387,46.177825],"type":"Point"},"properties":{"osm_id":"8823741429","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.113748,46.174396],"type":"Point"},"properties":{"osm_id":"8823969667","tag":{"amenity":"waste_basket","operator":"R\u00c3\u00a9gie/priv\u00c3\u00a9","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.113882,46.174287],"type":"Point"},"properties":{"osm_id":"8823969668","tag":{"amenity":"waste_basket","operator":"R\u00c3\u00a9gie/priv\u00c3\u00a9","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.114046,46.174152],"type":"Point"},"properties":{"osm_id":"8823969669","tag":{"amenity":"waste_basket","operator":"R\u00c3\u00a9gie/priv\u00c3\u00a9","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[6.114046,46.174152],"type":"Point"},"properties":{"osm_id":"8823969669","tag":{"amenity":"waste_basket","operator":"R\u00c3\u00a9gie/priv\u00c3\u00a9","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.14036,46.150424],"type":"Point"},"properties":{"osm_id":"9126507281","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

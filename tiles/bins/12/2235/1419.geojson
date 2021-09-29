@@ -175,7 +175,7 @@
 	{"geometry":{"coordinates":[16.504628,48.238084],"type":"Point"},"properties":{"osm_id":"4101045393","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.439395,48.248547],"type":"Point"},"properties":{"osm_id":"4227817889","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.43859,48.248697],"type":"Point"},"properties":{"osm_id":"4228816091","tag":{"amenity":"waste_disposal","operator":"Mistplatz Meissauergasse"}},"type":"Feature"},
-	{"geometry":{"coordinates":[16.438534,48.248817],"type":"Point"},"properties":{"name":"Mistplatz f. Mei\u00c3\u009fauergasse 2a","osm_id":"4248050689","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.438534,48.248817],"type":"Point"},"properties":{"name":"Mistplatz f. Mei\u00c3\u009fauergasse 2a","osm_id":"4248050689","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.449952,48.242549],"type":"Point"},"properties":{"osm_id":"4633576657","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.448574,48.243078],"type":"Point"},"properties":{"osm_id":"4633576662","tag":{"amenity":"recycling","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.438562,48.258689],"type":"Point"},"properties":{"osm_id":"4820935996","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -313,6 +313,9 @@
 	{"geometry":{"coordinates":[16.461552,48.257621],"type":"Point"},"properties":{"osm_id":"8993365005","tag":{"amenity":"recycling","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.459927,48.258156],"type":"Point"},"properties":{"osm_id":"8993380295","tag":{"amenity":"recycling","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.460963,48.257987],"type":"Point"},"properties":{"osm_id":"8993380296","tag":{"amenity":"recycling","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[16.46185,48.257432],"type":"Point"},"properties":{"osm_id":"8993380297","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[16.46185,48.257432],"type":"Point"},"properties":{"osm_id":"8993380297","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.475518,48.277194],"type":"Point"},"properties":{"osm_id":"9124563683","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.475544,48.277239],"type":"Point"},"properties":{"osm_id":"9124563684","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.460333,48.279657],"type":"Point"},"properties":{"osm_id":"9124608446","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[11.469106,47.837603],"type":"Point"},"properties":{"osm_id":"1781358932","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.473272,47.869881],"type":"Point"},"properties":{"osm_id":"1912665015","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.473272,47.869881],"type":"Point"},"properties":{"osm_id":"1912665015","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.476631,47.81919],"type":"Point"},"properties":{"name":"Wertstoffhof","osm_id":"2685457857","tag":{"amenity":"recycling","opening_hours":"Tu 14:00-18:00; Fr 16:00-18:00; Sa 09:00-11:00","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"centre","wheelchair":"limited"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.482014,47.861348],"type":"Point"},"properties":{"osm_id":"6261196838","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]

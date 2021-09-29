@@ -4,7 +4,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "osm_id": "262832339", "other_tags": "\"amenity\"=>\"waste_disposal\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0881584, 53.6467725 ] } },
-{ "type": "Feature", "properties": { "osm_id": "1862476648", "name": "Spring Vale Recycling Centre", "other_tags": "\"addr:city\"=>\"Rochdale\",\"addr:street\"=>\"Chichester Street\",\"amenity\"=>\"recycling\",\"recycling_type\"=>\"centre\"" }, "geometry": { "type": "Point", "coordinates": [ -2.1914702, 53.5498704 ] } },
+{ "type": "Feature", "properties": { "osm_id": "1862476648", "name": "Spring Vale Recycling Centre", "other_tags": "\"addr:city\"=>\"Rochdale\",\"addr:street\"=>\"Chichester Street\",\"amenity\"=>\"recycling\",\"operator\"=>\"Suez\",\"operator:type\"=>\"private\",\"owner\"=>\"GMCA\",\"ownership\"=>\"municipal\",\"recycling_type\"=>\"centre\",\"website\"=>\"https:\/\/recycleforgreatermanchester.com\/recycle-centre\/spring-vale-recycling-centre\/\",\"wikidata\"=>\"Q106093242\"" }, "geometry": { "type": "Point", "coordinates": [ -2.1914702, 53.5498704 ] } },
 { "type": "Feature", "properties": { "osm_id": "2116631998", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -2.1338222, 53.6128891 ] } },
 { "type": "Feature", "properties": { "osm_id": "2116959258", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.1448817, 53.6152775 ] } },
 { "type": "Feature", "properties": { "osm_id": "6541906180", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.1548338, 53.6195 ] } }

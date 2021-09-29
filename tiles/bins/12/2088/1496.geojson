@@ -2,10 +2,11 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[3.555095,43.553846],"type":"Point"},"properties":{"osm_id":"710279922","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[3.527979,43.557647],"type":"Point"},"properties":{"osm_id":"960135201","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.527979,43.557647],"type":"Point"},"properties":{"osm_id":"960135201","tag":{"amenity":"recycling","recycling:beverage_cartons":"yes","recycling:books":"yes","recycling:cardboard":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:magazines":"yes","recycling:newspaper":"yes","recycling:paper":"yes","recycling:paper_packaging":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.561026,43.579063],"type":"Point"},"properties":{"osm_id":"1945780153","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.525846,43.561719],"type":"Point"},"properties":{"name":"Collecte Recyclage","osm_id":"3902906160","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[3.562272,43.579799],"type":"Point"},"properties":{"osm_id":"7006183311","tag":{"amenity":"waste_basket","material":"wood"}},"type":"Feature"},
-	{"geometry":{"coordinates":[3.518511,43.522696],"type":"Point"},"properties":{"osm_id":"8688416183","tag":{"amenity":"waste_basket","colour":"green","material":"metal"}},"type":"Feature"}
+	{"geometry":{"coordinates":[3.518511,43.522696],"type":"Point"},"properties":{"osm_id":"8688416183","tag":{"amenity":"waste_basket","colour":"green","material":"metal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[3.527175,43.55869],"type":"Point"},"properties":{"osm_id":"9126706917","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

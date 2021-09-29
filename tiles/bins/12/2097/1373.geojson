@@ -1008,7 +1008,7 @@
 	{"geometry":{"coordinates":[4.349488,50.870875],"type":"Point"},"properties":{"osm_id":"5722849658","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.344029,50.871003],"type":"Point"},"properties":{"osm_id":"5722873080","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.343615,50.870893],"type":"Point"},"properties":{"osm_id":"5722873089","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.32365,50.879182],"type":"Point"},"properties":{"osm_id":"5749010449","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.32365,50.879182],"type":"Point"},"properties":{"osm_id":"5749010449","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.323618,50.879166],"type":"Point"},"properties":{"osm_id":"5749010450","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.344965,50.851362],"type":"Point"},"properties":{"osm_id":"5753830290","tag":{"amenity":"recycling","operator":"Oliobox","recycling:cooking_oil":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.344307,50.890728],"type":"Point"},"properties":{"osm_id":"5777519991","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -2265,6 +2265,10 @@
 	{"geometry":{"coordinates":[4.352798,50.860598],"type":"Point"},"properties":{"osm_id":"9119806704","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.350113,50.857807],"type":"Point"},"properties":{"osm_id":"9119996786","tag":{"amenity":"recycling","location":"overground","operator":"Les Petits Riens - Spullenhulp","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[4.350185,50.857783],"type":"Point"},"properties":{"osm_id":"9119996787","tag":{"amenity":"recycling","location":"overground","operator":"Oliobox","recycling:cooking_oil":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[4.350149,50.857795],"type":"Point"},"properties":{"osm_id":"9119996788","tag":{"amenity":"recycling","location":"overground","operator":"Bruxelles-Propret\u00c3\u00a9 - Net Brussel","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[4.350149,50.857795],"type":"Point"},"properties":{"osm_id":"9119996788","tag":{"amenity":"recycling","location":"overground","operator":"Bruxelles-Propret\u00c3\u00a9 - Net Brussel","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.322632,50.873682],"type":"Point"},"properties":{"osm_id":"9123205728","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.322673,50.873873],"type":"Point"},"properties":{"osm_id":"9123205729","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.311576,50.886427],"type":"Point"},"properties":{"osm_id":"9123212581","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[4.311378,50.886562],"type":"Point"},"properties":{"osm_id":"9123212582","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

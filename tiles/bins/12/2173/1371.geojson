@@ -44,7 +44,7 @@
 	{"geometry":{"coordinates":[10.995053,51.010347],"type":"Point"},"properties":{"osm_id":"676838972","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.995632,51.010208],"type":"Point"},"properties":{"osm_id":"676838975","tag":{"amenity":"recycling","recycling:clothes":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.996384,51.011528],"type":"Point"},"properties":{"osm_id":"677558390","tag":{"amenity":"recycling","recycling:clothes":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.000956,51.009581],"type":"Point"},"properties":{"osm_id":"694099853","tag":{"access":"private","amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.000956,51.009581],"type":"Point"},"properties":{"osm_id":"694099853","tag":{"access":"private","amenity":"waste_disposal","recycling:clothes":"no","recycling:glass":"no","recycling:paper":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling:waste":"yes","waste":"mixed"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.061442,50.972084],"type":"Point"},"properties":{"osm_id":"796692250","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.0228,50.987318],"type":"Point"},"properties":{"osm_id":"929511623","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.027855,50.982152],"type":"Point"},"properties":{"osm_id":"946964705","tag":{"amenity":"recycling","operator":"Stadtwerke Erfurt","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -344,6 +344,7 @@
 	{"geometry":{"coordinates":[11.026628,50.99501],"type":"Point"},"properties":{"osm_id":"8717813244","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.99627,51.011866],"type":"Point"},"properties":{"osm_id":"8831141184","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.06908,50.986067],"type":"Point"},"properties":{"osm_id":"8911880373","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.027676,50.972719],"type":"Point"},"properties":{"osm_id":"9013642778","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[11.027676,50.972719],"type":"Point"},"properties":{"osm_id":"9013642778","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.000956,51.009581],"type":"Point"},"properties":{"osm_id":"9127888567","tag":{"access":"private","amenity":"recycling","covered":"no","indoor":"no","material":"steel","recycling:cans":"no","recycling:cardboard":"no","recycling:clothes":"no","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:paper":"no","recycling:plastic":"no","recycling:plastic_bottles":"no","recycling:plastic_packaging":"no","recycling:waste":"no","recycling_type":"container"}},"type":"Feature"}
 ]
 }

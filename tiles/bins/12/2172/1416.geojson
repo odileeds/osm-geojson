@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[10.914393,48.401618],"type":"Point"},"properties":{"osm_id":"664446131","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.910742,48.402465],"type":"Point"},"properties":{"osm_id":"1629981853","tag":{"amenity":"recycling","operator":"Remondis","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.910742,48.402465],"type":"Point"},"properties":{"osm_id":"1629981853","tag":{"amenity":"recycling","operator":"Remondis","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.914973,48.40493],"type":"Point"},"properties":{"osm_id":"1629981914","tag":{"amenity":"recycling","operator":"Remondis","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.91078,48.402392],"type":"Point"},"properties":{"osm_id":"1823778060","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 07:00-12:00,14:00-20:00; PH off","operator":"Stadt Augsburg (AWS)","recycling:small_appliances":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.910746,48.402425],"type":"Point"},"properties":{"osm_id":"1823778077","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},

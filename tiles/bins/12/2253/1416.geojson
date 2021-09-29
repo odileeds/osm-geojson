@@ -1,6 +1,8 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[18.094457,48.410684],"type":"Point"},"properties":{"osm_id":"4398426036","tag":{"amenity":"recycling"}},"type":"Feature"}
+	{"geometry":{"coordinates":[18.094457,48.410684],"type":"Point"},"properties":{"osm_id":"4398426036","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[18.027882,48.451954],"type":"Point"},"properties":{"osm_id":"9122876529","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[18.027859,48.451933],"type":"Point"},"properties":{"osm_id":"9122876530","tag":{"amenity":"recycling","operator":"Humana","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

@@ -8,7 +8,7 @@
 	{"geometry":{"coordinates":[9.37408,48.562822],"type":"Point"},"properties":{"osm_id":"419844827","tag":{"amenity":"recycling","operator":"Deutsches Rotes Kreuz","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.331752,48.557394],"type":"Point"},"properties":{"highway":"bus_stop","name":"Metzinger Stra\u00c3\u009fe","osm_id":"457577837","tag":{"amenity":"recycling","bus_lines":"172;180;192;199","recycling:glass":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.369865,48.518448],"type":"Point"},"properties":{"osm_id":"606282003","tag":{"amenity":"recycling","location":"overground","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.378325,48.559404],"type":"Point"},"properties":{"osm_id":"687965792","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.378325,48.559404],"type":"Point"},"properties":{"osm_id":"687965792","tag":{"amenity":"recycling","check_date:recycling":"2021-09-25","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.392398,48.573483],"type":"Point"},"properties":{"name":"Recyclinghof Beuren","osm_id":"791494554","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.374313,48.564521],"type":"Point"},"properties":{"barrier":"gate","osm_id":"1239834417","tag":{"access":"private"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.37596,48.53414],"type":"Point"},"properties":{"osm_id":"2929042500","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -33,6 +33,7 @@
 	{"geometry":{"coordinates":[9.396824,48.566],"type":"Point"},"properties":{"osm_id":"4417894775","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.39708,48.565768],"type":"Point"},"properties":{"osm_id":"4517205103","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.374781,48.555375],"type":"Point"},"properties":{"osm_id":"4582780098","tag":{"amenity":"waste_basket","check_date":"2021-01-02"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.40039,48.574169],"type":"Point"},"properties":{"name":"Recyclinghof Beuren","osm_id":"8665511750","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling_type":"centre"}},"type":"Feature"}
+	{"geometry":{"coordinates":[9.40039,48.574169],"type":"Point"},"properties":{"name":"Recyclinghof Beuren","osm_id":"8665511750","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling_type":"centre"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.396071,48.565592],"type":"Point"},"properties":{"osm_id":"9122052093","tag":{"access":"customers","amenity":"recycling","recycling:green_waste":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }
