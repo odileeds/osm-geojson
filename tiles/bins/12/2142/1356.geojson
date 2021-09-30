@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[8.327427,51.789518],"type":"Point"},"properties":{"osm_id":"289328123","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.318227,51.817229],"type":"Point"},"properties":{"osm_id":"369715286","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.318227,51.817229],"type":"Point"},"properties":{"osm_id":"369715286","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.322699,51.831877],"type":"Point"},"properties":{"osm_id":"425890519","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:electrical_appliances":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.315168,51.781746],"type":"Point"},"properties":{"osm_id":"567781825","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.318499,51.828191],"type":"Point"},"properties":{"name":"Elektroschrott","osm_id":"935944803","tag":{"amenity":"recycling","recycling:small_appliances":"yes","recycling_type":"container"}},"type":"Feature"},
