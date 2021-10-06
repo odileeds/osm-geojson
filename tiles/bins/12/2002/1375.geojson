@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[-3.979501,50.743056],"type":"Point"},"properties":{"name":"Okehampton Recycling Centre","osm_id":"269916149","tag":{"addr:city":"Okehampton","addr:postcode":"EX20 1UD","addr:street":"Exeter Road Industrial Estate","amenity":"recycling","operator":"Devon County Council","operator:type":"government","recycling_type":"centre"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-4.003529,50.741211],"type":"Point"},"properties":{"osm_id":"332580315","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-4.003529,50.741211],"type":"Point"},"properties":{"osm_id":"332580315","tag":{"amenity":"recycling","recycling:beverage_cartons":"no","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"no","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"no","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

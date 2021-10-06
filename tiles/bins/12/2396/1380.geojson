@@ -172,7 +172,7 @@
 	{"geometry":{"coordinates":[30.639037,50.472467],"type":"Point"},"properties":{"osm_id":"9005992868","tag":{"amenity":"waste_disposal","operator":"\u00d0\u009a\u00d0\u00b8\u00d1\u0097\u00d0\u00b2\u00d0\u00ba\u00d0\u00be\u00d0\u00bc\u00d1\u0083\u00d0\u00bd\u00d1\u0081\u00d0\u00b5\u00d1\u0080\u00d0\u00b2\u00d1\u0096\u00d1\u0081","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[30.625616,50.476032],"type":"Point"},"properties":{"osm_id":"9007443472","tag":{"amenity":"waste_disposal","operator":"\u00d0\u009a\u00d0\u00b8\u00d1\u0097\u00d0\u00b2\u00d0\u00ba\u00d0\u00be\u00d0\u00bc\u00d1\u0083\u00d0\u00bd\u00d1\u0081\u00d0\u00b5\u00d1\u0080\u00d0\u00b2\u00d1\u0096\u00d1\u0081","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[30.616127,50.472997],"type":"Point"},"properties":{"osm_id":"9007457634","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[30.632178,50.479793],"type":"Point"},"properties":{"osm_id":"9012054773","tag":{"amenity":"recycling","operator":"\u00d0\u009a\u00d0\u00b8\u00d1\u0097\u00d0\u00b2\u00d0\u00ba\u00d0\u00be\u00d0\u00bc\u00d1\u0083\u00d0\u00bd\u00d1\u0081\u00d0\u00b5\u00d1\u0080\u00d0\u00b2\u00d1\u0096\u00d1\u0081"}},"type":"Feature"},
+	{"geometry":{"coordinates":[30.632178,50.479793],"type":"Point"},"properties":{"osm_id":"9012054773","tag":{"amenity":"recycling","location":"overground","operator":"\u00d0\u009a\u00d0\u00b8\u00d1\u0097\u00d0\u00b2\u00d0\u00ba\u00d0\u00be\u00d0\u00bc\u00d1\u0083\u00d0\u00bd\u00d1\u0081\u00d0\u00b5\u00d1\u0080\u00d0\u00b2\u00d1\u0096\u00d1\u0081","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[30.656242,50.468648],"type":"Point"},"properties":{"osm_id":"9012082249","tag":{"amenity":"recycling","contact:website":"batareiky.in.ua/leroymerlin","description":"accept up to 50 units per person","operator":"\u00d0\u0091\u00d0\u00b0\u00d1\u0082\u00d0\u00b0\u00d1\u0080\u00d0\u00b5\u00d0\u00b9\u00d0\u00ba\u00d0\u00b8, \u00d0\u00b7\u00d0\u00b4\u00d0\u00b0\u00d0\u00b2\u00d0\u00b0\u00d0\u00b9\u00d1\u0082\u00d0\u00b5\u00d1\u0081\u00d1\u008f!"}},"type":"Feature"},
 	{"geometry":{"coordinates":[30.63247,50.479836],"type":"Point"},"properties":{"osm_id":"9012082253","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[30.632462,50.48153],"type":"Point"},"properties":{"osm_id":"9012096291","tag":{"amenity":"recycling","recycling:plastic_bottles":"yes"}},"type":"Feature"},
@@ -203,6 +203,9 @@
 	{"geometry":{"coordinates":[30.629535,50.46868],"type":"Point"},"properties":{"osm_id":"9099317780","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[30.624782,50.482799],"type":"Point"},"properties":{"osm_id":"9104287601","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[30.626275,50.483212],"type":"Point"},"properties":{"osm_id":"9104365325","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
-	{"geometry":{"coordinates":[30.626072,50.482085],"type":"Point"},"properties":{"osm_id":"9104379190","tag":{"amenity":"waste_disposal"}},"type":"Feature"}
+	{"geometry":{"coordinates":[30.626072,50.482085],"type":"Point"},"properties":{"osm_id":"9104379190","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[30.634575,50.486783],"type":"Point"},"properties":{"osm_id":"9139004672","tag":{"amenity":"waste_disposal","waste":"mixed"}},"type":"Feature"},
+	{"geometry":{"coordinates":[30.635211,50.486963],"type":"Point"},"properties":{"osm_id":"9139004673","tag":{"amenity":"waste_disposal","waste":"mixed"}},"type":"Feature"},
+	{"geometry":{"coordinates":[30.636477,50.487524],"type":"Point"},"properties":{"osm_id":"9139009893","tag":{"amenity":"waste_disposal","waste":"organic;plastic;glass"}},"type":"Feature"}
 ]
 }

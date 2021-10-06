@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[17.696594,59.82075],"type":"Point"},"properties":{"osm_id":"801155636","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[17.696594,59.82075],"type":"Point"},"properties":{"osm_id":"801155636","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"no","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[17.703411,59.814817],"type":"Point"},"properties":{"osm_id":"1273117957","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[17.7163,59.81931],"type":"Point"},"properties":{"osm_id":"2573481017","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[17.696645,59.809865],"type":"Point"},"properties":{"osm_id":"4805825146","tag":{"addr:city":"Uppsala","addr:country":"SE","addr:housenumber":"23","addr:postcode":"75754","addr:street":"Gotlandsresan","amenity":"recycling","entrance":"yes","recycling:batteries":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"},

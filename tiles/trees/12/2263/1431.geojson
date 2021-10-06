@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[18.939317,47.533178],"type":"Point"},"properties":{"osm_id":"1933549701","tag":{"natural":"tree","species":"Malus sylvestris","type":"apple"}},"type":"Feature"},
+	{"geometry":{"coordinates":[18.939317,47.533178],"type":"Point"},"properties":{"osm_id":"1933549701","tag":{"genus":"Malus","natural":"tree","species":"Malus sylvestris"}},"type":"Feature"},
 	{"geometry":{"coordinates":[18.984062,47.540016],"type":"Point"},"properties":{"osm_id":"2696709606","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[18.941773,47.558161],"type":"Point"},"properties":{"osm_id":"3622941099","tag":{"natural":"tree","taxon:en":"mulberry","taxon:genus":"Morus","taxon:hu":"eperfa"}},"type":"Feature"},
 	{"geometry":{"coordinates":[18.959748,47.57453],"type":"Point"},"properties":{"osm_id":"3623245359","tag":{"natural":"tree","taxon:en":"mulberry","taxon:genus":"Morus","taxon:hu":"eperfa"}},"type":"Feature"},
@@ -170,6 +170,9 @@
 	{"geometry":{"coordinates":[18.979077,47.54352],"type":"Point"},"properties":{"osm_id":"7169767705","tag":{"leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[18.979576,47.543377],"type":"Point"},"properties":{"osm_id":"7169767706","tag":{"leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[18.980788,47.543042],"type":"Point"},"properties":{"osm_id":"7169767707","tag":{"leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[18.980888,47.542883],"type":"Point"},"properties":{"osm_id":"7169767708","tag":{"leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree"}},"type":"Feature"}
+	{"geometry":{"coordinates":[18.980888,47.542883],"type":"Point"},"properties":{"osm_id":"7169767708","tag":{"leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[18.95807,47.562682],"type":"Point"},"properties":{"osm_id":"9139651669","tag":{"denotation":"avenue","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[18.957621,47.562461],"type":"Point"},"properties":{"osm_id":"9139651670","tag":{"denotation":"urban","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[18.958411,47.562439],"type":"Point"},"properties":{"osm_id":"9139651671","tag":{"denotation":"avenue","leaf_cycle":"deciduous","leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"}
 ]
 }

@@ -2,10 +2,11 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[-0.189074,45.223287],"type":"Point"},"properties":{"osm_id":"441120377","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.18413,45.222484],"type":"Point"},"properties":{"osm_id":"441120386","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.183965,45.222426],"type":"Point"},"properties":{"osm_id":"441120386","tag":{"amenity":"recycling","recycling:beverage_cartons":"yes","recycling:cans":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:magazines":"yes","recycling:newspaper":"yes","recycling:paper":"yes","recycling:paper_packaging":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.251349,45.271436],"type":"Point"},"properties":{"osm_id":"5717912289","tag":{"amenity":"recycling","recycling:cartons":"yes","recycling:glass_bottles":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.251341,45.271507],"type":"Point"},"properties":{"osm_id":"5717912290","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.184527,45.21583],"type":"Point"},"properties":{"osm_id":"8794620318","tag":{"amenity":"recycling","recycling_type":"container","survey:date":"2021-06-03"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.178826,45.21841],"type":"Point"},"properties":{"osm_id":"8984304725","tag":{"amenity":"recycling","opening_hours":"24/7","opening_hours:covid19":"same","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-0.178826,45.21841],"type":"Point"},"properties":{"osm_id":"8984304725","tag":{"amenity":"recycling","opening_hours":"24/7","opening_hours:covid19":"same","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.184026,45.218112],"type":"Point"},"properties":{"osm_id":"9140699361","tag":{"amenity":"recycling","opening_hours":"24/7","recycling:beverage_cartons":"yes","recycling:cans":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:magazines":"yes","recycling:newspaper":"yes","recycling:paper":"yes","recycling:paper_packaging":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

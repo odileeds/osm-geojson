@@ -8,7 +8,7 @@
 { "type": "Feature", "properties": { "osm_id": "258350460", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -4.0199779, 55.852321 ] } },
 { "type": "Feature", "properties": { "osm_id": "258350542", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -4.0192518, 55.8616479 ] } },
 { "type": "Feature", "properties": { "osm_id": "258350556", "other_tags": "\"amenity\"=>\"recycling\",\"recycling:clothes\"=>\"yes\",\"recycling:glass\"=>\"yes\",\"recycling:paper\"=>\"yes\",\"recycling:plastic\"=>\"yes\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -4.0209031, 55.8580292 ] } },
-{ "type": "Feature", "properties": { "osm_id": "258350897", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -4.027644, 55.8592441 ] } },
+{ "type": "Feature", "properties": { "osm_id": "258350897", "name": "Coatbridge Waste disposal and recycling centre", "other_tags": "\"amenity\"=>\"recycling\",\"owner\"=>\"North Lanarkshire Council\",\"ownership\"=>\"municipal\",\"recycling_type\"=>\"centre\",\"wikidata\"=>\"Q106085837\"" }, "geometry": { "type": "Point", "coordinates": [ -4.027644, 55.8592441 ] } },
 { "type": "Feature", "properties": { "osm_id": "286057188", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -4.0265625, 55.86033 ] } },
 { "type": "Feature", "properties": { "osm_id": "359090749", "other_tags": "\"amenity\"=>\"recycling\",\"recycling:glass\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -4.0237473, 55.9482421 ] } },
 { "type": "Feature", "properties": { "osm_id": "376037427", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -4.0239515, 55.9539006 ] } },
@@ -16,11 +16,11 @@
 { "type": "Feature", "properties": { "osm_id": "571777364", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -3.9609176, 55.968505 ] } },
 { "type": "Feature", "properties": { "osm_id": "795828103", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -3.7590082, 55.8597528 ] } },
 { "type": "Feature", "properties": { "osm_id": "1398827892", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -3.9777393, 55.8209085 ] } },
-{ "type": "Feature", "properties": { "osm_id": "1593914249", "other_tags": "\"amenity\"=>\"recycling\",\"recycling_type\"=>\"centre\",\"wikidata\"=>\"Q106085838\"" }, "geometry": { "type": "Point", "coordinates": [ -4.016775, 55.8226139 ] } },
+{ "type": "Feature", "properties": { "osm_id": "1593914249", "name": "Bellshill Waste Disposal and Recycling Centre", "other_tags": "\"amenity\"=>\"recycling\",\"owner\"=>\"North Lanarkshire Council\",\"ownership\"=>\"municipal\",\"recycling_type\"=>\"centre\",\"wikidata\"=>\"Q106085838\"" }, "geometry": { "type": "Point", "coordinates": [ -4.016775, 55.8226139 ] } },
 { "type": "Feature", "properties": { "osm_id": "1705099936", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -4.0529585, 55.8964719 ] } },
 { "type": "Feature", "properties": { "osm_id": "1841700989", "other_tags": "\"amenity\"=>\"recycling\",\"recycling:clothes\"=>\"yes\",\"recycling:glass\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -3.789708, 55.8190088 ] } },
 { "type": "Feature", "properties": { "osm_id": "1841744139", "other_tags": "\"amenity\"=>\"recycling\",\"recycling:clothes\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -3.8061726, 55.8189771 ] } },
-{ "type": "Feature", "properties": { "osm_id": "1860322830", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -3.9589955, 55.9673792 ] } },
+{ "type": "Feature", "properties": { "osm_id": "1860322830", "name": "Cumbernauld Wardpark Waste disposal and recycling centre", "other_tags": "\"amenity\"=>\"recycling\",\"owner\"=>\"North Lanarkshire Council\",\"ownership\"=>\"municipal\",\"recycling_type\"=>\"centre\",\"wikidata\"=>\"Q106085841\"" }, "geometry": { "type": "Point", "coordinates": [ -3.9603124, 55.968111 ] } },
 { "type": "Feature", "properties": { "osm_id": "1939880575", "other_tags": "\"amenity\"=>\"waste_disposal\"" }, "geometry": { "type": "Point", "coordinates": [ -4.1428583, 55.8845931 ] } },
 { "type": "Feature", "properties": { "osm_id": "3621915033", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -3.9107964, 55.7716415 ] } },
 { "type": "Feature", "properties": { "osm_id": "3630090958", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -3.9109824, 55.7688529 ] } },
@@ -52,6 +52,7 @@
 { "type": "Feature", "properties": { "osm_id": "9095726061", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -3.975216, 55.8170143 ] } },
 { "type": "Feature", "properties": { "osm_id": "9095726065", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -3.9813099, 55.8150552 ] } },
 { "type": "Feature", "properties": { "osm_id": "9126298378", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -4.0049803, 55.8169378 ] } },
-{ "type": "Feature", "properties": { "osm_id": "9126315363", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -3.9931443, 55.8204985 ] } }
+{ "type": "Feature", "properties": { "osm_id": "9126315363", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -3.9931443, 55.8204985 ] } },
+{ "type": "Feature", "properties": { "osm_id": "9148157285", "name": "Netherton Waste disposal and recycling centre", "other_tags": "\"amenity\"=>\"recycling\",\"owner\"=>\"North Lanarkshire Council\",\"ownership\"=>\"municipal\",\"recycling_type\"=>\"centre\",\"wikidata\"=>\"Q106085836\"" }, "geometry": { "type": "Point", "coordinates": [ -3.9437133, 55.7705842 ] } }
 ]
 }

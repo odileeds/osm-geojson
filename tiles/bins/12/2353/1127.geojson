@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[26.819895,62.624437],"type":"Point"},"properties":{"osm_id":"1198386712","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[26.838985,62.619222],"type":"Point"},"properties":{"osm_id":"5903665795","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[26.83911,62.619267],"type":"Point"},"properties":{"osm_id":"5903665795","tag":{"amenity":"recycling","recycling:cardboard":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[26.833062,62.622384],"type":"Point"},"properties":{"osm_id":"5903665907","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[26.831799,62.622837],"type":"Point"},"properties":{"osm_id":"5903665915","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[26.831078,62.622846],"type":"Point"},"properties":{"osm_id":"5903665918","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -11,6 +11,13 @@
 	{"geometry":{"coordinates":[26.830574,62.622716],"type":"Point"},"properties":{"osm_id":"5903665935","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[26.833332,62.620802],"type":"Point"},"properties":{"osm_id":"9130171711","tag":{"amenity":"waste_basket","covered":"no","indoor":"no","operator":"Rautalammin kunta"}},"type":"Feature"},
 	{"geometry":{"coordinates":[26.832846,62.621],"type":"Point"},"properties":{"osm_id":"9130185648","tag":{"amenity":"waste_basket","covered":"no","indoor":"no","operator":"Rautalammin kunta"}},"type":"Feature"},
-	{"geometry":{"coordinates":[26.833111,62.62056],"type":"Point"},"properties":{"osm_id":"9130185663","tag":{"amenity":"waste_basket","operator":"Rautalammin kunta"}},"type":"Feature"}
+	{"geometry":{"coordinates":[26.833111,62.62056],"type":"Point"},"properties":{"osm_id":"9130185663","tag":{"amenity":"waste_basket","operator":"Rautalammin kunta"}},"type":"Feature"},
+	{"geometry":{"coordinates":[26.84034,62.619317],"type":"Point"},"properties":{"osm_id":"9139941561","tag":{"amenity":"waste_basket","colour":"blue","covered":"no","indoor":"no","material":"metal","operator":"Osuuskauppa Pee\u00c3\u0084ss\u00c3\u00a4"}},"type":"Feature"},
+	{"geometry":{"coordinates":[26.84102,62.618703],"type":"Point"},"properties":{"osm_id":"9139941567","tag":{"amenity":"waste_basket","colour":"black","indoor":"no","material":"metal","operator":"Rautalammin kunta"}},"type":"Feature"},
+	{"geometry":{"coordinates":[26.840215,62.619362],"type":"Point"},"properties":{"osm_id":"9139941573","tag":{"amenity":"waste_basket","colour":"blue","covered":"no","indoor":"no","material":"metal","operator":"Osuuskauppa Pee\u00c3\u0084ss\u00c3\u00a4"}},"type":"Feature"},
+	{"geometry":{"coordinates":[26.841265,62.619058],"type":"Point"},"properties":{"osm_id":"9139941577","tag":{"amenity":"waste_basket","colour":"black","covered":"no","indoor":"no","material":"metal","operator":"Rautalammin kunta"}},"type":"Feature"},
+	{"geometry":{"coordinates":[26.8408,62.619202],"type":"Point"},"properties":{"osm_id":"9139974582","tag":{"amenity":"waste_basket","colour":"green","covered":"no","indoor":"no","material":"metal","operator":"Rautalammin kunta"}},"type":"Feature"},
+	{"geometry":{"coordinates":[26.843166,62.613828],"type":"Point"},"properties":{"name":"Pikkukukko-j\u00c3\u00a4teasema Rautalampi","osm_id":"9140427585","tag":{"amenity":"recycling","operator":"J\u00c3\u00a4tekukko Oy","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[26.836775,62.621792],"type":"Point"},"properties":{"osm_id":"9144830812","tag":{"amenity":"recycling","recycling:cans":"no","recycling:cardboard":"no","recycling:clothes":"no","recycling:glass":"no","recycling:glass_bottles":"no","recycling:paper":"yes","recycling:plastic":"no","recycling:plastic_bottles":"no","recycling:plastic_packaging":"no","recycling:waste":"no","recycling_type":"container"}},"type":"Feature"}
 ]
 }

@@ -7,8 +7,8 @@
 	{"geometry":{"coordinates":[37.409386,55.730934],"type":"Point"},"properties":{"osm_id":"500670304","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[37.42258,55.732862],"type":"Point"},"properties":{"osm_id":"614925934","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[37.422365,55.731805],"type":"Point"},"properties":{"osm_id":"614926085","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[37.417029,55.729619],"type":"Point"},"properties":{"osm_id":"692949340","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[37.415291,55.731503],"type":"Point"},"properties":{"osm_id":"692949341","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[37.417029,55.729619],"type":"Point"},"properties":{"osm_id":"692949340","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[37.415291,55.731503],"type":"Point"},"properties":{"osm_id":"692949341","tag":{"amenity":"recycling","location":"overground","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[37.434784,55.727346],"type":"Point"},"properties":{"osm_id":"1112781055","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[37.430255,55.776143],"type":"Point"},"properties":{"osm_id":"1396539204","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[37.407651,55.728962],"type":"Point"},"properties":{"osm_id":"1469845355","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -136,6 +136,6 @@
 	{"geometry":{"coordinates":[37.406947,55.753034],"type":"Point"},"properties":{"osm_id":"8023190117","tag":{"amenity":"waste_basket","colour":"black"}},"type":"Feature"},
 	{"geometry":{"coordinates":[37.404194,55.739439],"type":"Point"},"properties":{"osm_id":"8038390914","tag":{"amenity":"recycling","colour":"yellow","operator":"\u00d0\u009c\u00d0\u009a\u00d0\u009c \u00d0\u009b\u00d0\u00be\u00d0\u00b3\u00d0\u00b8\u00d1\u0081\u00d1\u0082\u00d0\u00b8\u00d0\u00ba\u00d0\u00b0","phone":"+7 495 7263993","recycling:plastic":"yes","recycling:scrap_metal":"yes","recycling_type":"container","website":"http://mkmlogistics.ru"}},"type":"Feature"},
 	{"geometry":{"coordinates":[37.404198,55.739458],"type":"Point"},"properties":{"osm_id":"8038390915","tag":{"amenity":"recycling","colour":"blue","operator":"\u00d0\u009c\u00d0\u009a\u00d0\u009c \u00d0\u009b\u00d0\u00be\u00d0\u00b3\u00d0\u00b8\u00d1\u0081\u00d1\u0082\u00d0\u00b8\u00d0\u00ba\u00d0\u00b0","phone":"+7 495 7263993","recycling:cartons":"yes","recycling_type":"container","website":"http://mkmlogistics.ru"}},"type":"Feature"},
-	{"geometry":{"coordinates":[37.404188,55.739421],"type":"Point"},"properties":{"osm_id":"8038390916","tag":{"amenity":"recycling","colour":"green","operator":"\u00d0\u009c\u00d0\u009a\u00d0\u009c \u00d0\u009b\u00d0\u00be\u00d0\u00b3\u00d0\u00b8\u00d1\u0081\u00d1\u0082\u00d0\u00b8\u00d0\u00ba\u00d0\u00b0","phone":"+7 495 7263993","recycling:glass":"yes","recycling_type":"container","website":"http://mkmlogistics.ru"}},"type":"Feature"}
+	{"geometry":{"coordinates":[37.404188,55.739421],"type":"Point"},"properties":{"osm_id":"8038390916","tag":{"amenity":"recycling","colour":"green","operator":"\u00d0\u009c\u00d0\u009a\u00d0\u009c \u00d0\u009b\u00d0\u00be\u00d0\u00b3\u00d0\u00b8\u00d1\u0081\u00d1\u0082\u00d0\u00b8\u00d0\u00ba\u00d0\u00b0","phone":"+7 495 7263993","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container","website":"http://mkmlogistics.ru"}},"type":"Feature"}
 ]
 }

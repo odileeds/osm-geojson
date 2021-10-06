@@ -4,11 +4,12 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "osm_id": "921157858", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -2.4412213, 59.3564381 ] } },
-{ "type": "Feature", "properties": { "osm_id": "3179229245", "name": "St Margaret's Hope Recycling Site", "other_tags": "\"amenity\"=>\"recycling\",\"recycling_type\"=>\"centre\",\"wikidata\"=>\"Q106085845\"" }, "geometry": { "type": "Point", "coordinates": [ -2.955254, 58.8209142 ] } },
-{ "type": "Feature", "properties": { "osm_id": "3584473372", "name": "Stromness Recycling Centre", "other_tags": "\"amenity\"=>\"recycling\",\"recycling_type\"=>\"centre\"" }, "geometry": { "type": "Point", "coordinates": [ -3.2834044, 58.967641 ] } },
+{ "type": "Feature", "properties": { "osm_id": "3179229245", "name": "St Margaret's Hope Recycling Site", "other_tags": "\"amenity\"=>\"recycling\",\"owner\"=>\"Orkney Islands Council\",\"ownership\"=>\"municipal\",\"recycling_type\"=>\"centre\",\"wikidata\"=>\"Q106085845\"" }, "geometry": { "type": "Point", "coordinates": [ -2.955254, 58.8209142 ] } },
+{ "type": "Feature", "properties": { "osm_id": "3584473372", "name": "Garson Recycling Centre", "other_tags": "\"amenity\"=>\"recycling\",\"owner\"=>\"Orkney Islands Council\",\"ownership\"=>\"municipal\",\"recycling_type\"=>\"centre\"" }, "geometry": { "type": "Point", "coordinates": [ -3.2834044, 58.967641 ] } },
 { "type": "Feature", "properties": { "osm_id": "4529338444", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -2.5987564, 59.1410429 ] } },
 { "type": "Feature", "properties": { "osm_id": "5931441409", "name": "Recycling Centre", "other_tags": "\"amenity\"=>\"recycling\",\"recycling_type\"=>\"centre\"" }, "geometry": { "type": "Point", "coordinates": [ -2.5500754, 59.2546742 ] } },
 { "type": "Feature", "properties": { "osm_id": "6535013624", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -3.2968483, 58.9631343 ] } },
-{ "type": "Feature", "properties": { "osm_id": "6545701760", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -3.3302347, 58.9570977 ] } }
+{ "type": "Feature", "properties": { "osm_id": "6545701760", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -3.3302347, 58.9570977 ] } },
+{ "type": "Feature", "properties": { "osm_id": "9140169556", "name": "Cursiter Recycling Centre", "other_tags": "\"addr:city\"=>\"Orkney\",\"addr:housename\"=>\"OIC Cursiter CASite\",\"addr:street\"=>\"Cursiter Quarry\",\"amenity\"=>\"recycling\",\"owner\"=>\"Orkney Islands Council\",\"ownership\"=>\"municipal\",\"recycling_type\"=>\"centre\",\"wikidata\"=>\"Q106085844\"" }, "geometry": { "type": "Point", "coordinates": [ -3.0858152, 58.995109 ] } }
 ]
 }
