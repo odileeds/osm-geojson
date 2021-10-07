@@ -2,13 +2,14 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[-6.068951,56.620778],"type":"Point"},"properties":{"osm_id":"9062334140","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-6.068917,56.620776],"type":"Point"},"properties":{"osm_id":"9062334141","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-6.068961,56.620764],"type":"Point"},"properties":{"osm_id":"9062334142","tag":{"amenity":"waste_basket","waste":"bottles"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-6.068907,56.620771],"type":"Point"},"properties":{"osm_id":"9062334141","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-6.068912,56.620754],"type":"Point"},"properties":{"osm_id":"9062334142","tag":{"amenity":"recycling","recycling:plastic_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-6.068921,56.620759],"type":"Point"},"properties":{"osm_id":"9062334143","tag":{"amenity":"waste_basket","waste":"bottles"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-6.068965,56.620745],"type":"Point"},"properties":{"osm_id":"9062334144","tag":{"amenity":"waste_basket","waste":"cans"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-6.068915,56.620735],"type":"Point"},"properties":{"osm_id":"9062334144","tag":{"amenity":"recycling","recycling:cans":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-6.068931,56.620742],"type":"Point"},"properties":{"osm_id":"9062334145","tag":{"amenity":"waste_basket","waste":"cans"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-6.097488,56.625867],"type":"Point"},"properties":{"name":"Glengorm Recycling Centre","osm_id":"9140501130","tag":{"amenity":"recycling","owner":"Argyll and Bute Council","ownership":"municipal","recycling_type":"centre","wikidata":"Q106085687"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-6.064657,56.623088],"type":"Point"},"properties":{"osm_id":"9142564421","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-6.068432,56.622671],"type":"Point"},"properties":{"osm_id":"9142564548","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-6.068432,56.622671],"type":"Point"},"properties":{"osm_id":"9142564548","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-6.075953,56.62049],"type":"Point"},"properties":{"osm_id":"9153300416","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

@@ -87,10 +87,10 @@
 { "type": "Feature", "properties": { "osm_id": "9050827671", "other_tags": "\"amenity\"=>\"waste_basket\",\"material\"=>\"plastic\",\"waste\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -6.1874187, 56.5899219 ] } },
 { "type": "Feature", "properties": { "osm_id": "9050827672", "other_tags": "\"amenity\"=>\"waste_basket\",\"material\"=>\"plastic\",\"waste\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -6.1874398, 56.5899315 ] } },
 { "type": "Feature", "properties": { "osm_id": "9062334140", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -6.0689518, 56.6207783 ] } },
-{ "type": "Feature", "properties": { "osm_id": "9062334141", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -6.0689177, 56.6207762 ] } },
-{ "type": "Feature", "properties": { "osm_id": "9062334142", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"bottles\"" }, "geometry": { "type": "Point", "coordinates": [ -6.0689616, 56.6207644 ] } },
+{ "type": "Feature", "properties": { "osm_id": "9062334141", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -6.068907, 56.6207718 ] } },
+{ "type": "Feature", "properties": { "osm_id": "9062334142", "other_tags": "\"amenity\"=>\"recycling\",\"recycling:plastic_bottles\"=>\"yes\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -6.068912, 56.6207548 ] } },
 { "type": "Feature", "properties": { "osm_id": "9062334143", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"bottles\"" }, "geometry": { "type": "Point", "coordinates": [ -6.0689214, 56.6207598 ] } },
-{ "type": "Feature", "properties": { "osm_id": "9062334144", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"cans\"" }, "geometry": { "type": "Point", "coordinates": [ -6.0689652, 56.6207453 ] } },
+{ "type": "Feature", "properties": { "osm_id": "9062334144", "other_tags": "\"amenity\"=>\"recycling\",\"recycling:cans\"=>\"yes\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -6.0689156, 56.6207357 ] } },
 { "type": "Feature", "properties": { "osm_id": "9062334145", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"cans\"" }, "geometry": { "type": "Point", "coordinates": [ -6.0689319, 56.6207422 ] } },
 { "type": "Feature", "properties": { "osm_id": "9083818737", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -5.9449156, 56.5172257 ] } },
 { "type": "Feature", "properties": { "osm_id": "9083818738", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -5.9449452, 56.517228 ] } },
@@ -98,6 +98,7 @@
 { "type": "Feature", "properties": { "osm_id": "9140501129", "name": "Westlands Transfer Station and Civic Amenity Site", "other_tags": "\"addr:city\"=>\"Isle of Bute\",\"addr:postcode\"=>\"PA20 0RA\",\"addr:street\"=>\"Westland Road\",\"amenity\"=>\"recycling\",\"operator\"=>\"Shanks\",\"owner\"=>\"Argyll and Bute Council\",\"ownership\"=>\"municipal\",\"recycling_type\"=>\"centre\"" }, "geometry": { "type": "Point", "coordinates": [ -5.0752568, 55.8377589 ] } },
 { "type": "Feature", "properties": { "osm_id": "9140501130", "name": "Glengorm Recycling Centre", "other_tags": "\"amenity\"=>\"recycling\",\"owner\"=>\"Argyll and Bute Council\",\"ownership\"=>\"municipal\",\"recycling_type\"=>\"centre\",\"wikidata\"=>\"Q106085687\"" }, "geometry": { "type": "Point", "coordinates": [ -6.0974887, 56.6258673 ] } },
 { "type": "Feature", "properties": { "osm_id": "9142564421", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -6.0646573, 56.6230887 ] } },
-{ "type": "Feature", "properties": { "osm_id": "9142564548", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -6.0684322, 56.6226718 ] } }
+{ "type": "Feature", "properties": { "osm_id": "9142564548", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -6.0684322, 56.6226718 ] } },
+{ "type": "Feature", "properties": { "osm_id": "9153300416", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -6.0759531, 56.6204908 ] } }
 ]
 }

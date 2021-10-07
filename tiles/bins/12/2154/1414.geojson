@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[9.325579,48.574475],"type":"Point"},"properties":{"osm_id":"327322507","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.373934,48.554349],"type":"Point"},"properties":{"osm_id":"354700301","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.373934,48.554349],"type":"Point"},"properties":{"osm_id":"354700301","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.369907,48.52217],"type":"Point"},"properties":{"osm_id":"413591285","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.377077,48.523624],"type":"Point"},"properties":{"osm_id":"413591286","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.37408,48.562822],"type":"Point"},"properties":{"osm_id":"419844827","tag":{"amenity":"recycling","operator":"Deutsches Rotes Kreuz","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -34,6 +34,7 @@
 	{"geometry":{"coordinates":[9.39708,48.565768],"type":"Point"},"properties":{"osm_id":"4517205103","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.374781,48.555375],"type":"Point"},"properties":{"osm_id":"4582780098","tag":{"amenity":"waste_basket","check_date":"2021-01-02"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.40039,48.574169],"type":"Point"},"properties":{"name":"Recyclinghof Beuren","osm_id":"8665511750","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling_type":"centre"}},"type":"Feature"},
-	{"geometry":{"coordinates":[9.396071,48.565592],"type":"Point"},"properties":{"osm_id":"9122052093","tag":{"access":"customers","amenity":"recycling","recycling:green_waste":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[9.396071,48.565592],"type":"Point"},"properties":{"osm_id":"9122052093","tag":{"access":"customers","amenity":"recycling","recycling:green_waste":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[9.374394,48.564589],"type":"Point"},"properties":{"barrier":"gate","osm_id":"9152138064","tag":{"access":"private"}},"type":"Feature"}
 ]
 }

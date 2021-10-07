@@ -4,7 +4,7 @@
 	{"geometry":{"coordinates":[18.841688,50.269237],"type":"Point"},"properties":{"osm_id":"1487211947","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[18.841646,50.268974],"type":"Point"},"properties":{"osm_id":"1487218525","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[18.8752,50.272183],"type":"Point"},"properties":{"osm_id":"1646658455","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[18.872278,50.272921],"type":"Point"},"properties":{"osm_id":"1669811029","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:plastic":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[18.872278,50.272921],"type":"Point"},"properties":{"osm_id":"1669811029","tag":{"amenity":"waste_disposal","recycling:glass":"yes","recycling:plastic":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[18.88035,50.270585],"type":"Point"},"properties":{"osm_id":"1695711448","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[18.873275,50.274103],"type":"Point"},"properties":{"osm_id":"1773572691","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:scrap_metal":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[18.893438,50.237944],"type":"Point"},"properties":{"osm_id":"1874208958","tag":{"amenity":"recycling"}},"type":"Feature"},
@@ -42,6 +42,7 @@
 	{"geometry":{"coordinates":[18.860964,50.264108],"type":"Point"},"properties":{"osm_id":"6753361618","tag":{"amenity":"recycling","operator":"Polski Czerwony Krzy\u00c5\u00bc","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[18.886806,50.265079],"type":"Point"},"properties":{"osm_id":"6781602638","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[18.892941,50.264134],"type":"Point"},"properties":{"osm_id":"6781602639","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[18.828609,50.243764],"type":"Point"},"properties":{"osm_id":"8853923329","tag":{"access":"private","amenity":"waste_disposal"}},"type":"Feature"}
+	{"geometry":{"coordinates":[18.828609,50.243764],"type":"Point"},"properties":{"osm_id":"8853923329","tag":{"access":"private","amenity":"waste_disposal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[18.871225,50.273961],"type":"Point"},"properties":{"osm_id":"9150928339","tag":{"amenity":"waste_disposal","description":"Wiata \u00c5\u009amietnikowa","waste":"trash;mixed;recycling"}},"type":"Feature"}
 ]
 }
