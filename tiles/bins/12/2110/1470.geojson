@@ -1,11 +1,12 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[5.482138,45.206667],"type":"Point"},"properties":{"osm_id":"1014521617","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.482098,45.206666],"type":"Point"},"properties":{"osm_id":"1014521617","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:cardboard":"yes","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling:magazines":"yes","recycling:newspaper":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.465039,45.20613],"type":"Point"},"properties":{"osm_id":"1014521640","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.46489,45.20352],"type":"Point"},"properties":{"osm_id":"1014521642","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.533324,45.163721],"type":"Point"},"properties":{"osm_id":"2150349301","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[5.535603,45.168011],"type":"Point"},"properties":{"osm_id":"3381862843","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.458342,45.209927],"type":"Point"},"properties":{"osm_id":"4874646984","tag":{"amenity":"waste_disposal"}},"type":"Feature"}
+	{"geometry":{"coordinates":[5.458342,45.209927],"type":"Point"},"properties":{"osm_id":"4874646984","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.464708,45.205962],"type":"Point"},"properties":{"osm_id":"9157475833","tag":{"amenity":"recycling","recycling:beverage_cartons":"yes","recycling:cans":"yes","recycling:cardboard":"yes","recycling:paper":"yes","recycling:paper_packaging":"yes","recycling:plastic":"yes","recycling:plastic_packaging":"yes","recycling_type":"centre"}},"type":"Feature"}
 ]
 }

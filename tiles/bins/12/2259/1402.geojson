@@ -1,6 +1,10 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[18.592615,49.211709],"type":"Point"},"properties":{"osm_id":"907117377","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"}
+	{"geometry":{"coordinates":[18.592615,49.211709],"type":"Point"},"properties":{"osm_id":"907117377","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[18.556322,49.228382],"type":"Point"},"properties":{"osm_id":"9161669154","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[18.556284,49.22837],"type":"Point"},"properties":{"osm_id":"9161669155","tag":{"amenity":"recycling","operator":"ASEKOL SK","recycling:electrical_appliances":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[18.556515,49.228089],"type":"Point"},"properties":{"osm_id":"9161669181","tag":{"amenity":"recycling","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[18.557719,49.226425],"type":"Point"},"properties":{"osm_id":"9161669250","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

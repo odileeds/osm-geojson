@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[11.37796,45.677434],"type":"Point"},"properties":{"name":"Ecocento comunale San Vito di Leguzzano","osm_id":"1387232809","tag":{"amenity":"recycling","check_date:opening_hours":"2021-06-19","opening_hours":"Tu 09:00-13:00, Sa 09:00-13:00","recycling_type":"centre"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.413011,45.657674],"type":"Point"},"properties":{"osm_id":"2207905890","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.413011,45.657674],"type":"Point"},"properties":{"osm_id":"2207905890","tag":{"amenity":"recycling","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.415133,45.657767],"type":"Point"},"properties":{"osm_id":"2287770165","tag":{"amenity":"recycling","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.410537,45.660063],"type":"Point"},"properties":{"osm_id":"2287910085","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.374724,45.689364],"type":"Point"},"properties":{"osm_id":"2339789025","tag":{"amenity":"recycling","recycling:beverage_cartons":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -154,7 +154,7 @@
 	{"geometry":{"coordinates":[11.377305,45.680671],"type":"Point"},"properties":{"osm_id":"6789046961","tag":{"amenity":"recycling","recycling:green_waste":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.376711,45.679996],"type":"Point"},"properties":{"osm_id":"6789051080","tag":{"amenity":"recycling","recycling:diapers":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.376717,45.67999],"type":"Point"},"properties":{"osm_id":"6789051082","tag":{"amenity":"recycling","recycling:green_waste":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.376228,45.681395],"type":"Point"},"properties":{"osm_id":"6789059557","tag":{"amenity":"recycling","recycling:green_waste":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.37627,45.68134],"type":"Point"},"properties":{"osm_id":"6789059557","tag":{"amenity":"recycling","recycling:green_waste":"yes","recycling:organic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.374847,45.681394],"type":"Point"},"properties":{"osm_id":"6789066999","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.374322,45.681436],"type":"Point"},"properties":{"osm_id":"6789069531","tag":{"amenity":"recycling","recycling:green_waste":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.374326,45.681432],"type":"Point"},"properties":{"osm_id":"6789069532","tag":{"amenity":"recycling","recycling:diapers":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -350,6 +350,8 @@
 	{"geometry":{"coordinates":[11.369984,45.690345],"type":"Point"},"properties":{"osm_id":"9074465458","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.369271,45.696015],"type":"Point"},"properties":{"osm_id":"9084189674","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.372791,45.687036],"type":"Point"},"properties":{"osm_id":"9088564121","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.372974,45.688003],"type":"Point"},"properties":{"osm_id":"9088597970","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[11.372974,45.688003],"type":"Point"},"properties":{"osm_id":"9088597970","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.41304,45.657671],"type":"Point"},"properties":{"osm_id":"9165273443","tag":{"amenity":"recycling","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.412987,45.657673],"type":"Point"},"properties":{"osm_id":"9165273444","tag":{"amenity":"recycling","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }

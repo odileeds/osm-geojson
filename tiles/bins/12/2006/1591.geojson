@@ -471,7 +471,7 @@
 	{"geometry":{"coordinates":[-3.609309,37.177621],"type":"Point"},"properties":{"osm_id":"7156380458","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.688286,37.222697],"type":"Point"},"properties":{"osm_id":"7194963280","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.613395,37.199895],"type":"Point"},"properties":{"osm_id":"7199858501","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-3.613315,37.199763],"type":"Point"},"properties":{"osm_id":"7199858504","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.613315,37.199763],"type":"Point"},"properties":{"osm_id":"7199858504","tag":{"amenity":"recycling","check_date:recycling":"2021-10-07","recycling:batteries":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.613141,37.199703],"type":"Point"},"properties":{"osm_id":"7199858509","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.613083,37.199571],"type":"Point"},"properties":{"osm_id":"7199858511","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.612997,37.199359],"type":"Point"},"properties":{"osm_id":"7199858525","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -585,8 +585,8 @@
 	{"geometry":{"coordinates":[-3.612118,37.178933],"type":"Point"},"properties":{"osm_id":"8720916796","tag":{"amenity":"recycling","collection_times":"Mo-Su,PH 20:00-23:00","operator":"Inagra","recycling:cans":"yes","recycling:cartons":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.61215,37.178988],"type":"Point"},"properties":{"osm_id":"8720916797","tag":{"amenity":"recycling","collection_times":"Mo-Su,PH 20:00-23:00","operator":"Ecovidrio","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.612134,37.17896],"type":"Point"},"properties":{"osm_id":"8720916798","tag":{"amenity":"recycling","collection_times":"Mo-Su,PH 20:00-23:00","operator":"Inagra","recycling:cardboard":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-3.61226,37.179169],"type":"Point"},"properties":{"osm_id":"8720916799","tag":{"amenity":"waste_disposal","collection_times":"Mo-Su,PH 20:00-23:00","operator":"Inagra","waste":"trash;organic"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-3.612273,37.179192],"type":"Point"},"properties":{"osm_id":"8720916800","tag":{"amenity":"recycling","collection_times":"Mo-Su,PH 20:00-23:00","operator":"Inagra","recycling:cans":"yes","recycling:cartons":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.612276,37.179193],"type":"Point"},"properties":{"osm_id":"8720916799","tag":{"amenity":"waste_disposal","collection_times":"Mo-Su,PH 20:00-23:00","operator":"Inagra","waste":"trash;organic"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.612259,37.179169],"type":"Point"},"properties":{"osm_id":"8720916800","tag":{"amenity":"recycling","collection_times":"Mo-Su,PH 20:00-23:00","operator":"Inagra","recycling:cans":"yes","recycling:cartons":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.689114,37.21698],"type":"Point"},"properties":{"osm_id":"8727412483","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.689193,37.216897],"type":"Point"},"properties":{"osm_id":"8727412484","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.689332,37.216754],"type":"Point"},"properties":{"osm_id":"8727412485","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -625,6 +625,17 @@
 	{"geometry":{"coordinates":[-3.609203,37.172515],"type":"Point"},"properties":{"osm_id":"9121261680","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.609399,37.171926],"type":"Point"},"properties":{"osm_id":"9121261691","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-3.655506,37.229218],"type":"Point"},"properties":{"osm_id":"9135228687","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-3.624519,37.196444],"type":"Point"},"properties":{"osm_id":"9152864931","tag":{"amenity":"waste_basket","material":"plastic"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-3.624519,37.196444],"type":"Point"},"properties":{"osm_id":"9152864931","tag":{"amenity":"waste_basket","material":"plastic"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.608885,37.182014],"type":"Point"},"properties":{"osm_id":"9157205814","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.612681,37.178739],"type":"Point"},"properties":{"osm_id":"9160332422","tag":{"amenity":"waste_basket","material":"plastic"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.613485,37.179001],"type":"Point"},"properties":{"osm_id":"9160332424","tag":{"amenity":"waste_basket","material":"plastic"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.612665,37.178873],"type":"Point"},"properties":{"osm_id":"9164658245","tag":{"amenity":"recycling","collection_times":"Mo-Su,PH 20:00-23:00","operator":"Ecovidrio","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.612645,37.17884],"type":"Point"},"properties":{"osm_id":"9164658247","tag":{"amenity":"recycling","collection_times":"Mo-Su,PH 20:00-23:00","operator":"Inagra","recycling:cardboard":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.612631,37.178823],"type":"Point"},"properties":{"osm_id":"9164658248","tag":{"amenity":"waste_disposal","collection_times":"Mo-Su,PH 20:00-23:00","operator":"Inagra","waste":"trash;organic"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.612656,37.178858],"type":"Point"},"properties":{"osm_id":"9164658249","tag":{"amenity":"recycling","collection_times":"Mo-Su,PH 20:00-23:00","operator":"Inagra","recycling:cans":"yes","recycling:cartons":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.615661,37.199874],"type":"Point"},"properties":{"osm_id":"9164764359","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.615485,37.199841],"type":"Point"},"properties":{"osm_id":"9164764360","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.615458,37.199937],"type":"Point"},"properties":{"osm_id":"9164764361","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-3.615339,37.199928],"type":"Point"},"properties":{"osm_id":"9164764362","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

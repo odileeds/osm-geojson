@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[16.677535,49.202649],"type":"Point"},"properties":{"barrier":"gate","osm_id":"368344504"},"type":"Feature"},
-	{"geometry":{"coordinates":[16.643026,49.195858],"type":"Point"},"properties":{"osm_id":"377064826","tag":{"amenity":"recycling","recycling:paper":"yes","recycling:plastic_bottles":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.643026,49.195858],"type":"Point"},"properties":{"osm_id":"377064826","tag":{"amenity":"recycling","location":"overground","recycling:paper":"yes","recycling:plastic_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.640556,49.194651],"type":"Point"},"properties":{"osm_id":"383335481","tag":{"amenity":"recycling","location":"overground","recycling:beverage_cartons":"yes","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.645972,49.195176],"type":"Point"},"properties":{"osm_id":"383991880","tag":{"amenity":"recycling","location":"overground","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.646035,49.192162],"type":"Point"},"properties":{"osm_id":"390362931","tag":{"amenity":"recycling","location":"overground","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -11,7 +11,7 @@
 	{"geometry":{"coordinates":[16.629042,49.189833],"type":"Point"},"properties":{"osm_id":"404738513","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.625255,49.155718],"type":"Point"},"properties":{"osm_id":"1360945688","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:paper":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.693424,49.204461],"type":"Point"},"properties":{"name":"Sb\u00c4\u009brn\u00c3\u00a9 suroviny Proch\u00c3\u00a1zka","osm_id":"1377283171","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:books":"yes","recycling:cans":"yes","recycling:cardboard":"yes","recycling:cartons":"yes","recycling:clothes":"no","recycling:electrical_appliances":"no","recycling:glass":"no","recycling:glass_bottles":"no","recycling:green_waste":"no","recycling:magazines":"yes","recycling:newspaper":"yes","recycling:paper":"yes","recycling:paper_packaging":"yes","recycling:plastic":"no","recycling:plastic_bottles":"no","recycling:plastic_packaging":"no","recycling:scrap_metal":"yes","recycling:small_appliances":"no","recycling:waste":"no","recycling:wood":"no","recycling_type":"centre"}},"type":"Feature"},
-	{"geometry":{"coordinates":[16.688271,49.202458],"type":"Point"},"properties":{"osm_id":"1483497985","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.688271,49.202458],"type":"Point"},"properties":{"osm_id":"1483497985","tag":{"amenity":"recycling","location":"underground","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.653787,49.153877],"type":"Point"},"properties":{"osm_id":"1548638605","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.636434,49.203675],"type":"Point"},"properties":{"osm_id":"2196119385","tag":{"amenity":"recycling","location":"overground","recycling:beverage_cartons":"yes","recycling:cans":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.633145,49.210128],"type":"Point"},"properties":{"osm_id":"2196121558","tag":{"amenity":"recycling","recycling:paper":"yes","recycling:pet":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -330,6 +330,8 @@
 	{"geometry":{"coordinates":[16.649632,49.192163],"type":"Point"},"properties":{"osm_id":"9056407217","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.656999,49.193061],"type":"Point"},"properties":{"osm_id":"9056517217","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[16.658113,49.193878],"type":"Point"},"properties":{"osm_id":"9123940119","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[16.637994,49.196049],"type":"Point"},"properties":{"osm_id":"9148552317","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[16.637994,49.196049],"type":"Point"},"properties":{"osm_id":"9148552317","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.63222,49.208642],"type":"Point"},"properties":{"osm_id":"9157376826","tag":{"amenity":"recycling","location":"underground","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[16.632188,49.208905],"type":"Point"},"properties":{"name":"REVAP-KOVO","osm_id":"9157376827","tag":{"addr:city":"Brno","addr:housenumber":"1597/113","addr:postcode":"61400","addr:street":"Dukelsk\u00c3\u00a1 t\u00c5\u0099\u00c3\u00adda","amenity":"recycling","phone":"+420  545 573 246","recycling_type":"centre","website":"https://www.revap.cz/revap-kovo.htm"}},"type":"Feature"}
 ]
 }

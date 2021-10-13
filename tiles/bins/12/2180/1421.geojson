@@ -146,7 +146,7 @@
 	{"geometry":{"coordinates":[11.658469,48.108954],"type":"Point"},"properties":{"osm_id":"2937228209","tag":{"amenity":"waste_basket","check_date":"2021-02-28"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.656791,48.108911],"type":"Point"},"properties":{"osm_id":"2937228212","tag":{"amenity":"waste_basket","check_date":"2021-06-11"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.656638,48.108929],"type":"Point"},"properties":{"osm_id":"2937228213","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.613027,48.151828],"type":"Point"},"properties":{"osm_id":"3024490957","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.613027,48.151828],"type":"Point"},"properties":{"osm_id":"3024490957","tag":{"amenity":"waste_basket","check_date":"2021-10-09"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.618153,48.126721],"type":"Point"},"properties":{"osm_id":"3175235673","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.665787,48.114575],"type":"Point"},"properties":{"osm_id":"3293904740","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.664702,48.114319],"type":"Point"},"properties":{"osm_id":"3293904741","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -158,7 +158,7 @@
 	{"geometry":{"coordinates":[11.605607,48.127923],"type":"Point"},"properties":{"osm_id":"3586726816","tag":{"amenity":"waste_basket","check_date":"2021-02-27"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.619056,48.133046],"type":"Point"},"properties":{"osm_id":"3616168140","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:paper":"no","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.62282,48.149251],"type":"Point"},"properties":{"osm_id":"3621682239","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.612825,48.148696],"type":"Point"},"properties":{"osm_id":"3621779149","tag":{"amenity":"recycling","recycling:cans":"yes","recycling:glass_bottles":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.612825,48.148696],"type":"Point"},"properties":{"osm_id":"3621779149","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:plastic":"no","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.602558,48.114781],"type":"Point"},"properties":{"osm_id":"3629541296","tag":{"amenity":"recycling","check_date":"2021-05-25","contact:email":"awm@muenchen.de","contact:phone":"+49 89 233 96200","contact:website":"http://awm-muenchen.de","operator":"Abfallwirtschaftsbetrieb M\u00c3\u00bcnchen","operator:short":"AWM","operator:type":"public","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.657333,48.109949],"type":"Point"},"properties":{"osm_id":"3655958399","tag":{"amenity":"recycling","contact:email":"awm@muenchen.de","contact:phone":"+49 89 233 96200","contact:website":"http://awm-muenchen.de","operator":"Abfallwirtschaftsbetrieb M\u00c3\u00bcnchen","operator:short":"AWM","operator:type":"public","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.658024,48.114944],"type":"Point"},"properties":{"osm_id":"3655958400","tag":{"amenity":"recycling","contact:email":"awm@muenchen.de","contact:phone":"+49 89 233 96200","contact:website":"http://awm-muenchen.de","opening_hours":"Mo-Sa 07:00-19:00","operator":"Abfallwirtschaftsbetrieb M\u00c3\u00bcnchen","operator:short":"AWM","operator:type":"public","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
@@ -639,6 +639,7 @@
 	{"geometry":{"coordinates":[11.607611,48.128425],"type":"Point"},"properties":{"osm_id":"9103650021","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.63122,48.117264],"type":"Point"},"properties":{"osm_id":"9104996073","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[11.640945,48.148411],"type":"Point"},"properties":{"osm_id":"9124371841","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[11.642084,48.144885],"type":"Point"},"properties":{"osm_id":"9124438530","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[11.642084,48.144885],"type":"Point"},"properties":{"osm_id":"9124438530","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[11.666613,48.129248],"type":"Point"},"properties":{"osm_id":"9155421977","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }
