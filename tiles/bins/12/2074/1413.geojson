@@ -60,9 +60,9 @@
 	{"geometry":{"coordinates":[2.300728,48.581114],"type":"Point"},"properties":{"osm_id":"6801810843","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.300552,48.580776],"type":"Point"},"properties":{"osm_id":"6801810845","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.31745,48.609144],"type":"Point"},"properties":{"name":"Centre Technique Municipal","osm_id":"7347679117","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
-	{"geometry":{"coordinates":[2.296994,48.606723],"type":"Point"},"properties":{"osm_id":"7383369583","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[2.296974,48.606734],"type":"Point"},"properties":{"osm_id":"7383369584","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[2.296952,48.606746],"type":"Point"},"properties":{"osm_id":"7383374685","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.296994,48.606723],"type":"Point"},"properties":{"osm_id":"7383369583","tag":{"amenity":"recycling","location":"underground","operator":"C\u00c5\u0093ur d'Essonne Agglom\u00c3\u00a9ration","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.296974,48.606734],"type":"Point"},"properties":{"osm_id":"7383369584","tag":{"amenity":"recycling","location":"underground","operator":"C\u00c5\u0093ur d'Essonne Agglom\u00c3\u00a9ration","recycling:aluminium":"yes","recycling:paper":"yes","recycling:paper_bags":"yes","recycling:paper_packaging":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.296952,48.606746],"type":"Point"},"properties":{"osm_id":"7383374685","tag":{"access":"yes","amenity":"waste_disposal","location":"underground","operator":"C\u00c5\u0093ur d'Essonne Agglom\u00c3\u00a9ration","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.29619,48.607135],"type":"Point"},"properties":{"osm_id":"7383374686","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.296171,48.607146],"type":"Point"},"properties":{"osm_id":"7383374687","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.296149,48.607158],"type":"Point"},"properties":{"osm_id":"7383374688","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
@@ -75,6 +75,15 @@
 	{"geometry":{"coordinates":[2.295273,48.607605],"type":"Point"},"properties":{"osm_id":"7383374695","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.294052,48.608229],"type":"Point"},"properties":{"osm_id":"7383374696","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.294033,48.60824],"type":"Point"},"properties":{"osm_id":"7383374697","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[2.29401,48.608252],"type":"Point"},"properties":{"osm_id":"7383374698","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[2.29401,48.608252],"type":"Point"},"properties":{"osm_id":"7383374698","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.296936,48.606754],"type":"Point"},"properties":{"osm_id":"9172009424","tag":{"access":"yes","amenity":"waste_disposal","location":"underground","operator":"C\u00c5\u0093ur d'Essonne Agglom\u00c3\u00a9ration","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.296961,48.606597],"type":"Point"},"properties":{"osm_id":"9172387161","tag":{"amenity":"waste_basket","waste":"trash;dog_excrement"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.298079,48.605991],"type":"Point"},"properties":{"osm_id":"9172387182","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.295008,48.607891],"type":"Point"},"properties":{"osm_id":"9172387190","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.294661,48.607769],"type":"Point"},"properties":{"osm_id":"9172387192","tag":{"amenity":"waste_basket","waste":"trash;dog_excrement"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.29453,48.607564],"type":"Point"},"properties":{"osm_id":"9172387194","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.294446,48.607486],"type":"Point"},"properties":{"osm_id":"9172387196","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.294391,48.607435],"type":"Point"},"properties":{"osm_id":"9172387198","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.295667,48.607406],"type":"Point"},"properties":{"osm_id":"9172387203","tag":{"amenity":"recycling","operator":"C\u00c5\u0093ur d'Essonne Agglom\u00c3\u00a9ration","recycling:cardboard":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }
