@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[21.657083,48.39795],"type":"Point"},"properties":{"osm_id":"3456414408","tag":{"addr:city":"S\u00c3\u00a1toralja\u00c3\u00bajhely","addr:housenumber":"6","addr:postcode":"3980","addr:street":"Sz\u00c3\u00adnh\u00c3\u00a1z k\u00c3\u00b6z","amenity":"recycling","source:date":"2012-08-11","url":"http://turistautak.hu/poi.php?id=42946"}},"type":"Feature"},
-	{"geometry":{"coordinates":[21.657547,48.386404],"type":"Point"},"properties":{"osm_id":"7575170260","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[21.657547,48.386404],"type":"Point"},"properties":{"osm_id":"7575170260","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[21.652633,48.390072],"type":"Point"},"properties":{"osm_id":"7575211751","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[21.656011,48.399272],"type":"Point"},"properties":{"osm_id":"7785403938","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[21.656,48.399294],"type":"Point"},"properties":{"osm_id":"7785403939","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling_type":"container"}},"type":"Feature"}

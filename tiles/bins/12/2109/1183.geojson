@@ -2,10 +2,10 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[5.4297,60.2683],"type":"Point"},"properties":{"osm_id":"5555201451","tag":{"amenity":"recycling","description":"Returpunkt","recycling:glass_bottles":"yes","recycling_type":"container","ref:sortere":"16584"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.4047,60.2786],"type":"Point"},"properties":{"osm_id":"6195514080","tag":{"access":"permissive","amenity":"recycling","description":"Hyttekontainer","recycling_type":"container","ref:sortere":"17011"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.4412,60.2499],"type":"Point"},"properties":{"osm_id":"6195519390","tag":{"access":"permissive","amenity":"recycling","description":"Hyttekontainer","recycling_type":"container","ref:sortere":"16382"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.4358,60.2666],"type":"Point"},"properties":{"osm_id":"6195519428","tag":{"access":"permissive","amenity":"recycling","description":"Hyttekontainer","recycling_type":"container","ref:sortere":"16343"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.3717,60.2702],"type":"Point"},"properties":{"osm_id":"6195519460","tag":{"access":"permissive","amenity":"recycling","description":"Hyttekontainer","recycling_type":"container","ref:sortere":"16310"}},"type":"Feature"},
-	{"geometry":{"coordinates":[5.4366,60.26],"type":"Point"},"properties":{"osm_id":"6195519461","tag":{"access":"permissive","amenity":"recycling","description":"Hyttekontainer","recycling_type":"container","ref:sortere":"16309"}},"type":"Feature"}
+	{"geometry":{"coordinates":[5.4047,60.2786],"type":"Point"},"properties":{"osm_id":"6195514080","tag":{"access":"permissive","amenity":"recycling","description":"Hyttekontainer","recycling:waste":"yes","recycling_type":"container","ref:sortere":"17011"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.4412,60.2499],"type":"Point"},"properties":{"osm_id":"6195519390","tag":{"access":"permissive","amenity":"recycling","description":"Hyttekontainer","recycling:waste":"yes","recycling_type":"container","ref:sortere":"16382"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.4358,60.2666],"type":"Point"},"properties":{"osm_id":"6195519428","tag":{"access":"permissive","amenity":"recycling","description":"Hyttekontainer","recycling:waste":"yes","recycling_type":"container","ref:sortere":"16343"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.3717,60.2702],"type":"Point"},"properties":{"osm_id":"6195519460","tag":{"access":"permissive","amenity":"recycling","description":"Hyttekontainer","recycling:waste":"yes","recycling_type":"container","ref:sortere":"16310"}},"type":"Feature"},
+	{"geometry":{"coordinates":[5.4366,60.26],"type":"Point"},"properties":{"osm_id":"6195519461","tag":{"access":"permissive","amenity":"recycling","description":"Hyttekontainer","recycling:waste":"yes","recycling_type":"container","ref:sortere":"16309"}},"type":"Feature"}
 ]
 }

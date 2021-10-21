@@ -5,7 +5,7 @@
 "features": [
 { "type": "Feature", "properties": { "osm_id": "98919333", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8745167, 51.5974794 ] } },
 { "type": "Feature", "properties": { "osm_id": "286679450", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7642708, 51.1749517 ] } },
-{ "type": "Feature", "properties": { "osm_id": "298896415", "other_tags": "\"amenity\"=>\"recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -2.111275, 51.5145428 ] } },
+{ "type": "Feature", "properties": { "osm_id": "298896415", "other_tags": "\"amenity\"=>\"recycling\",\"recycling_type\"=>\"centre\"" }, "geometry": { "type": "Point", "coordinates": [ -2.111275, 51.5145428 ] } },
 { "type": "Feature", "properties": { "osm_id": "302833017", "name": "Hill's Recycling Centre", "other_tags": "\"amenity\"=>\"recycling\",\"operator\"=>\"Hills Waste Solutions Ltd\",\"phone\"=>\"+44 1249 822141\",\"recycling:clothes\"=>\"yes\",\"recycling:glass\"=>\"yes\",\"recycling_type\"=>\"centre\",\"website\"=>\"http:\/\/www.wiltshire.gov.uk\/household-recycling-centres\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9717789, 51.434594 ] } },
 { "type": "Feature", "properties": { "osm_id": "304969720", "other_tags": "\"amenity\"=>\"recycling\",\"recycling:glass\"=>\"yes\",\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0038766, 51.438902 ] } },
 { "type": "Feature", "properties": { "osm_id": "305577812", "other_tags": "\"amenity\"=>\"recycling\",\"recycling:glass\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -2.1214476, 51.4141704 ] } },
@@ -60,7 +60,7 @@
 { "type": "Feature", "properties": { "osm_id": "4362166796", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6019427, 51.3795316 ] } },
 { "type": "Feature", "properties": { "osm_id": "4606934950", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7293232, 51.417488 ] } },
 { "type": "Feature", "properties": { "osm_id": "4610760196", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7329566, 51.4189809 ] } },
-{ "type": "Feature", "properties": { "osm_id": "4610760209", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7321328, 51.4197505 ] } },
+{ "type": "Feature", "properties": { "osm_id": "4610760209", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7321489, 51.4197375 ] } },
 { "type": "Feature", "properties": { "osm_id": "4610771982", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7334349, 51.4188818 ] } },
 { "type": "Feature", "properties": { "osm_id": "4654551363", "other_tags": "\"amenity\"=>\"waste_basket\",\"check_date\"=>\"2021-02-03\"" }, "geometry": { "type": "Point", "coordinates": [ -2.2257234, 51.4287117 ] } },
 { "type": "Feature", "properties": { "osm_id": "4756171881", "other_tags": "\"amenity\"=>\"waste_basket\",\"check_date\"=>\"2021-06-26\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8270987, 51.1797859 ] } },
@@ -177,6 +177,7 @@
 { "type": "Feature", "properties": { "osm_id": "9104016180", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.1935254, 51.3185795 ] } },
 { "type": "Feature", "properties": { "osm_id": "9105195565", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.1808872, 51.3212843 ] } },
 { "type": "Feature", "properties": { "osm_id": "9155121690", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ -2.2118441, 51.5722266 ] } },
-{ "type": "Feature", "properties": { "osm_id": "9171571882", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ -2.2419323, 51.5547861 ] } }
+{ "type": "Feature", "properties": { "osm_id": "9171571882", "other_tags": "\"amenity\"=>\"waste_basket\",\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ -2.2419323, 51.5547861 ] } },
+{ "type": "Feature", "properties": { "osm_id": "9174275772", "other_tags": "\"amenity\"=>\"waste_basket\"" }, "geometry": { "type": "Point", "coordinates": [ -2.2410563, 51.5537998 ] } }
 ]
 }

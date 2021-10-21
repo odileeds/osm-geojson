@@ -24,7 +24,7 @@
 	{"geometry":{"coordinates":[6.223517,46.225895],"type":"Point"},"properties":{"osm_id":"2198552593","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.23512,46.247314],"type":"Point"},"properties":{"osm_id":"2208176819","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.15506,46.202415],"type":"Point"},"properties":{"osm_id":"2292525057","tag":{"addr:city":"Gen\u00c3\u00a8ve","addr:housenumber":"35","addr:postcode":"1206","addr:street":"Boulevard Helv\u00c3\u00a9tique","amenity":"recycling","operator":"Ville de Geneve","recycling:aerosol_cans":"yes","recycling:aluminium":"yes","recycling:aluminium_cans":"yes","recycling:aluminium_tins":"yes","recycling:batteries":"yes","recycling:cans":"yes","recycling:coffee_capsules":"yes","recycling:glass_bottles":"yes","recycling:plastic_bottles":"yes"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.152436,46.210875],"type":"Point"},"properties":{"osm_id":"2587295809","tag":{"addr:city":"Gen\u00c3\u00a8ve","addr:housenumber":"27","addr:street":"Quai du Mont-Blanc","amenity":"recycling","operator":"Ville de Geneve","recycling:aerosol_cans":"yes","recycling:aluminium":"yes","recycling:aluminium_cans":"yes","recycling:aluminium_tins":"yes","recycling:cans":"yes","recycling:glass_bottles":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.152436,46.210875],"type":"Point"},"properties":{"osm_id":"2587295809","tag":{"addr:city":"Gen\u00c3\u00a8ve","addr:housenumber":"27","addr:street":"Quai du Mont-Blanc","amenity":"recycling","operator":"Ville de Geneve","recycling:glass_bottles":"yes","recycling:plastic":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.194417,46.196008],"type":"Point"},"properties":{"osm_id":"2946346768","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.186389,46.197458],"type":"Point"},"properties":{"osm_id":"2947358695","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.232152,46.195329],"type":"Point"},"properties":{"osm_id":"3171982274","tag":{"amenity":"recycling","opening_hours":"24/7","operator":"Sidefage","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -162,6 +162,10 @@
 	{"geometry":{"coordinates":[6.238314,46.198862],"type":"Point"},"properties":{"osm_id":"8914229488","tag":{"amenity":"waste_basket","colour":"blue","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.236814,46.196015],"type":"Point"},"properties":{"osm_id":"9036352510","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.230509,46.204064],"type":"Point"},"properties":{"osm_id":"9120111055","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.217382,46.235984],"type":"Point"},"properties":{"osm_id":"9148117567","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[6.217382,46.235984],"type":"Point"},"properties":{"osm_id":"9148117567","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.167437,46.211308],"type":"Point"},"properties":{"osm_id":"9175976018","tag":{"amenity":"recycling","recycling_type":"container","survey:date":"2021-10-16"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.235495,46.200627],"type":"Point"},"properties":{"osm_id":"9183522915","tag":{"amenity":"waste_basket","colour":"grey","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.235563,46.200945],"type":"Point"},"properties":{"osm_id":"9183522916","tag":{"amenity":"waste_basket","colour":"grey","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.235301,46.200895],"type":"Point"},"properties":{"osm_id":"9183559217","tag":{"amenity":"waste_basket","colour":"grey","waste":"trash"}},"type":"Feature"}
 ]
 }

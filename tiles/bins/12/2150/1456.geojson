@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[8.971655,46.064209],"type":"Point"},"properties":{"name":"Compostaggio","osm_id":"310182367","tag":{"amenity":"recycling","recycling:green_waste":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.971655,46.064209],"type":"Point"},"properties":{"name":"Compostaggio","osm_id":"310182367","tag":{"amenity":"recycling","recycling:green_waste":"yes","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.973228,46.06272],"type":"Point"},"properties":{"osm_id":"310190019","tag":{"amenity":"recycling","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.973206,46.062682],"type":"Point"},"properties":{"osm_id":"310190020","tag":{"amenity":"waste_disposal"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.972533,46.061624],"type":"Point"},"properties":{"osm_id":"310190057","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
@@ -18,7 +18,7 @@
 	{"geometry":{"coordinates":[8.997993,46.01309],"type":"Point"},"properties":{"osm_id":"843874025","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.967854,46.04133],"type":"Point"},"properties":{"name":"Centro di compostaggio Canobbio","osm_id":"850445601","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[8.97524,46.056034],"type":"Point"},"properties":{"osm_id":"917548150","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[8.970149,46.067158],"type":"Point"},"properties":{"osm_id":"1296630520","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[8.970149,46.067158],"type":"Point"},"properties":{"osm_id":"1296630520","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:beverage_cartons":"no","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:plastic":"no","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"no","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.034002,46.022044],"type":"Point"},"properties":{"osm_id":"1356250633","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.037642,46.023174],"type":"Point"},"properties":{"osm_id":"1908048090","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[9.038734,46.022678],"type":"Point"},"properties":{"osm_id":"1908195057","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},

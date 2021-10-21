@@ -1,6 +1,11 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[36.261104,50.096949],"type":"Point"},"properties":{"osm_id":"6973358220","tag":{"amenity":"waste_disposal"}},"type":"Feature"}
+	{"geometry":{"coordinates":[36.260592,50.095033],"type":"Point"},"properties":{"osm_id":"6973358220","tag":{"amenity":"waste_disposal","waste":"mixed"}},"type":"Feature"},
+	{"geometry":{"coordinates":[36.26062,50.095063],"type":"Point"},"properties":{"osm_id":"9180596928","tag":{"amenity":"waste_disposal","waste":"mixed"}},"type":"Feature"},
+	{"geometry":{"coordinates":[36.260636,50.095026],"type":"Point"},"properties":{"osm_id":"9180596929","tag":{"amenity":"waste_disposal","waste":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[36.260675,50.095013],"type":"Point"},"properties":{"osm_id":"9180596930","tag":{"amenity":"waste_disposal","waste":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[36.259527,50.093878],"type":"Point"},"properties":{"osm_id":"9180596931","tag":{"amenity":"waste_disposal","waste":"mixed"}},"type":"Feature"},
+	{"geometry":{"coordinates":[36.259487,50.09389],"type":"Point"},"properties":{"osm_id":"9180596932","tag":{"amenity":"waste_disposal","waste":"mixed"}},"type":"Feature"}
 ]
 }

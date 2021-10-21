@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[6.244183,46.299531],"type":"Point"},"properties":{"osm_id":"3590701638","tag":{"amenity":"recycling","recycling:batteries":"yes","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:scrap_metal":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.244183,46.299531],"type":"Point"},"properties":{"osm_id":"3590701638","tag":{"amenity":"recycling","location":"overground","recycling:batteries":"yes","recycling:cans":"yes","recycling:clothes":"yes","recycling:glass":"yes","recycling:paper":"yes","recycling:plastic":"yes","recycling:scrap_metal":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.303693,46.304416],"type":"Point"},"properties":{"osm_id":"5481292176","tag":{"amenity":"recycling","location":"underground","recycling:cardboard":"yes","recycling:glass_bottles":"yes","recycling:paper":"yes","recycling:plastic_bottles":"yes","recycling:scrap_metal":"yes","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.303097,46.307288],"type":"Point"},"properties":{"osm_id":"5481363439","tag":{"amenity":"recycling","location":"underground","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.303704,46.306491],"type":"Point"},"properties":{"osm_id":"5502935888","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -32,6 +32,7 @@
 	{"geometry":{"coordinates":[6.302423,46.30533],"type":"Point"},"properties":{"osm_id":"9163274003","tag":{"amenity":"waste_basket","colour":"green","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.303871,46.304594],"type":"Point"},"properties":{"osm_id":"9163274018","tag":{"amenity":"waste_basket","colour":"black","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[6.303467,46.304307],"type":"Point"},"properties":{"osm_id":"9163274024","tag":{"amenity":"waste_basket","colour":"green","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[6.30317,46.303375],"type":"Point"},"properties":{"osm_id":"9163274089","tag":{"amenity":"waste_basket","colour":"black","waste":"trash"}},"type":"Feature"}
+	{"geometry":{"coordinates":[6.30317,46.303375],"type":"Point"},"properties":{"osm_id":"9163274089","tag":{"amenity":"waste_basket","colour":"black","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[6.248093,46.275678],"type":"Point"},"properties":{"osm_id":"9177048404","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
 ]
 }

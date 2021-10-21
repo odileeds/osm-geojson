@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[2.146253,48.711144],"type":"Point"},"properties":{"osm_id":"617875863","tag":{"amenity":"recycling","recycling:glass":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.146297,48.71114],"type":"Point"},"properties":{"osm_id":"617875863","tag":{"amenity":"recycling","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.128696,48.696573],"type":"Point"},"properties":{"osm_id":"732627210","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.181785,48.702787],"type":"Point"},"properties":{"osm_id":"810747893","tag":{"amenity":"recycling","recycling:paper":"yes"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.182973,48.701508],"type":"Point"},"properties":{"osm_id":"814100599","tag":{"amenity":"recycling","location":"overground","recycling:glass":"yes","recycling:paper":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -244,6 +244,7 @@
 	{"geometry":{"coordinates":[2.165908,48.710968],"type":"Point"},"properties":{"osm_id":"9120799914","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.166374,48.710808],"type":"Point"},"properties":{"osm_id":"9120803719","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.165995,48.711668],"type":"Point"},"properties":{"osm_id":"9120803754","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
-	{"geometry":{"coordinates":[2.164888,48.710504],"type":"Point"},"properties":{"osm_id":"9138902966","tag":{"amenity":"recycling","opening_hours":"Mo-Su 07:00-21:00","operator":"SOM Vall\u00c3\u00a9e de Chevreuse","recycling:glass_bottles":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"}
+	{"geometry":{"coordinates":[2.164888,48.710504],"type":"Point"},"properties":{"osm_id":"9138902966","tag":{"amenity":"recycling","opening_hours":"Mo-Su 07:00-21:00","operator":"SOM Vall\u00c3\u00a9e de Chevreuse","recycling:glass_bottles":"yes","recycling_type":"container","wheelchair":"yes"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.193657,48.711324],"type":"Point"},"properties":{"osm_id":"9174341832","tag":{"amenity":"waste_basket"}},"type":"Feature"}
 ]
 }

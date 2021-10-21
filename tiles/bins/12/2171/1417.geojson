@@ -171,7 +171,7 @@
 	{"geometry":{"coordinates":[10.878303,48.392009],"type":"Point"},"properties":{"osm_id":"1823778022","tag":{"amenity":"recycling","check_date":"2014-11-16","operator":"REMONDIS","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.847548,48.395162],"type":"Point"},"properties":{"osm_id":"1823778030","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 07:00-12:00,14:00-20:00; PH off","operator":"Stadt Augsburg (AWS)","recycling:small_appliances":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.881738,48.356731],"type":"Point"},"properties":{"osm_id":"1823829819","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 07:00-12:00,14:00-20:00; PH off","operator":"Stadt Augsburg (AWS)","recycling:small_appliances":"yes","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.893946,48.362746],"type":"Point"},"properties":{"osm_id":"2298057777","tag":{"amenity":"recycling","check_date":"2021-07-23","recycling:glass":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.893946,48.362746],"type":"Point"},"properties":{"osm_id":"2298057777","tag":{"amenity":"recycling","check_date":"2021-07-23","recycling:glass":"no","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.860657,48.396049],"type":"Point"},"properties":{"osm_id":"2364986650","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.86154,48.394531],"type":"Point"},"properties":{"osm_id":"2365415334","tag":{"amenity":"recycling","opening_hours":"Mo-Sa 07:00-12:00,14:00-20:00; PH off","operator":"Stadt Augsburg (AWS)","recycling:small_appliances":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.85997,48.391208],"type":"Point"},"properties":{"osm_id":"2368120019","tag":{"amenity":"recycling","operator":"Aktion Hoffnung","recycling:clothes":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -508,6 +508,10 @@
 	{"geometry":{"coordinates":[10.894408,48.371719],"type":"Point"},"properties":{"osm_id":"8865902731","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.895979,48.369897],"type":"Point"},"properties":{"osm_id":"8865902732","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[10.829521,48.363063],"type":"Point"},"properties":{"osm_id":"8977100707","tag":{"vending":"excrement_bags"}},"type":"Feature"},
-	{"geometry":{"coordinates":[10.889284,48.376717],"type":"Point"},"properties":{"osm_id":"8983696774","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[10.889284,48.376717],"type":"Point"},"properties":{"osm_id":"8983696774","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.888727,48.36303],"type":"Point"},"properties":{"osm_id":"9176232332","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.888605,48.363199],"type":"Point"},"properties":{"osm_id":"9176232336","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.888696,48.363277],"type":"Point"},"properties":{"osm_id":"9176232340","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"},
+	{"geometry":{"coordinates":[10.888521,48.363517],"type":"Point"},"properties":{"osm_id":"9176232344","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
 ]
 }

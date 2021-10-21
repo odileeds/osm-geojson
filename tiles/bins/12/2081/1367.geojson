@@ -11,7 +11,7 @@
 	{"geometry":{"coordinates":[2.90345,51.203504],"type":"Point"},"properties":{"osm_id":"2159305445","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.908817,51.223829],"type":"Point"},"properties":{"osm_id":"2163291158","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.929243,51.209728],"type":"Point"},"properties":{"osm_id":"2234152856","tag":{"amenity":"recycling"}},"type":"Feature"},
-	{"geometry":{"coordinates":[2.972218,51.223923],"type":"Point"},"properties":{"name":"Gemeentelijk Containerpark Bredene","osm_id":"2685659203","tag":{"amenity":"recycling"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.972218,51.223923],"type":"Point"},"properties":{"name":"Gemeentelijk Containerpark Bredene","osm_id":"2685659203","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.92162,51.232337],"type":"Point"},"properties":{"osm_id":"4146854597","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.945696,51.223934],"type":"Point"},"properties":{"osm_id":"5284317392","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.916745,51.228162],"type":"Point"},"properties":{"osm_id":"6031878255","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -40,6 +40,8 @@
 	{"geometry":{"coordinates":[2.943698,51.231842],"type":"Point"},"properties":{"osm_id":"7398150922","tag":{"amenity":"recycling","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.943516,51.231526],"type":"Point"},"properties":{"osm_id":"7398377905","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[2.947009,51.232354],"type":"Point"},"properties":{"osm_id":"7399356958","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[2.913868,51.230258],"type":"Point"},"properties":{"osm_id":"7742906032","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[2.913868,51.230258],"type":"Point"},"properties":{"osm_id":"7742906032","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.964754,51.211811],"type":"Point"},"properties":{"name":"Stedelijk Containerpark Zandvoorde","osm_id":"9182808789","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"},
+	{"geometry":{"coordinates":[2.939162,51.229309],"type":"Point"},"properties":{"name":"Stedelijk containerpark Vuurtorenwijk","osm_id":"9182836601","tag":{"amenity":"recycling","recycling_type":"centre"}},"type":"Feature"}
 ]
 }
