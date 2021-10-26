@@ -66,7 +66,7 @@
 	{"geometry":{"coordinates":[-42.480994,-14.072004],"type":"Point"},"properties":{"osm_id":"3854649474","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-42.481224,-14.071999],"type":"Point"},"properties":{"osm_id":"3854649475","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-42.481185,-14.071928],"type":"Point"},"properties":{"osm_id":"3854649476","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-42.491105,-14.070398],"type":"Point"},"properties":{"osm_id":"3868011343","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-42.491105,-14.070398],"type":"Point"},"properties":{"osm_id":"3868011343","tag":{"leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-42.491737,-14.070401],"type":"Point"},"properties":{"osm_id":"3868011344","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-42.491758,-14.070424],"type":"Point"},"properties":{"osm_id":"3868011345","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-42.491634,-14.070454],"type":"Point"},"properties":{"osm_id":"3868011346","tag":{"natural":"tree"}},"type":"Feature"},
@@ -112,11 +112,11 @@
 	{"geometry":{"coordinates":[-42.485999,-14.069039],"type":"Point"},"properties":{"osm_id":"3875679555","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-42.491123,-14.069772],"type":"Point"},"properties":{"osm_id":"3875679964","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-42.491149,-14.069848],"type":"Point"},"properties":{"osm_id":"3875679965","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-42.491181,-14.069944],"type":"Point"},"properties":{"osm_id":"3875679966","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-42.491205,-14.070008],"type":"Point"},"properties":{"osm_id":"3875679967","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-42.491229,-14.070452],"type":"Point"},"properties":{"osm_id":"3875679979","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-42.491512,-14.070539],"type":"Point"},"properties":{"osm_id":"3875679980","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-42.491336,-14.070543],"type":"Point"},"properties":{"osm_id":"3875679981","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-42.491181,-14.069944],"type":"Point"},"properties":{"osm_id":"3875679966","tag":{"denotation":"urban","genus":"Prosopis","leaf_cycle":"semi_deciduous","leaf_type":"broadleaved","natural":"tree","species":"Prosopis juliflora","taxon":"Fabaceae"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-42.491205,-14.070008],"type":"Point"},"properties":{"osm_id":"3875679967","tag":{"denotation":"urban","genus":"Prosopis","leaf_cycle":"semi_deciduous","leaf_type":"broadleaved","natural":"tree","species":"Prosopis juliflora","taxon":"Fabaceae"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-42.491229,-14.070452],"type":"Point"},"properties":{"osm_id":"3875679979","tag":{"leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-42.491512,-14.070539],"type":"Point"},"properties":{"osm_id":"3875679980","tag":{"leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-42.491336,-14.070543],"type":"Point"},"properties":{"osm_id":"3875679981","tag":{"leaf_type":"broadleaved","natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-42.492916,-14.079558],"type":"Point"},"properties":{"osm_id":"3919454966","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-42.492662,-14.079593],"type":"Point"},"properties":{"osm_id":"3919454967","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-42.492638,-14.07955],"type":"Point"},"properties":{"osm_id":"3919454968","tag":{"natural":"tree"}},"type":"Feature"},
@@ -252,7 +252,7 @@
 	{"geometry":{"coordinates":[-42.490219,-14.06647],"type":"Point"},"properties":{"osm_id":"4543674210","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-42.490165,-14.066228],"type":"Point"},"properties":{"osm_id":"4543674211","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-42.490122,-14.066104],"type":"Point"},"properties":{"osm_id":"4543674212","tag":{"natural":"tree"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-42.491231,-14.070062],"type":"Point"},"properties":{"osm_id":"4543674229","tag":{"natural":"tree"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-42.491231,-14.070062],"type":"Point"},"properties":{"osm_id":"4543674229","tag":{"denotation":"urban","leaf_cycle":"evergreen","leaf_type":"broadleaved","natural":"tree","species":"Citrus \u00c3\u0097 sinensis","taxon":"Rutaceae"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-42.492261,-14.071238],"type":"Point"},"properties":{"osm_id":"4543674233","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-42.492077,-14.071035],"type":"Point"},"properties":{"osm_id":"4543674239","tag":{"natural":"tree"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-42.491929,-14.070983],"type":"Point"},"properties":{"osm_id":"4543674240","tag":{"natural":"tree"}},"type":"Feature"},
@@ -403,6 +403,7 @@
 	{"geometry":{"coordinates":[-42.478804,-14.058683],"type":"Point"},"properties":{"osm_id":"9161611272","tag":{"denotation":"avenue","genus":"Roystonea","leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree","species":"Roystonea oleracea"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-42.478837,-14.058718],"type":"Point"},"properties":{"osm_id":"9161611273","tag":{"denotation":"avenue","genus":"Roystonea","leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree","species":"Roystonea oleracea"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-42.478691,-14.058574],"type":"Point"},"properties":{"osm_id":"9161611274","tag":{"denotation":"avenue","genus":"Roystonea","leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree","species":"Roystonea oleracea"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-42.47899,-14.058885],"type":"Point"},"properties":{"osm_id":"9161611275","tag":{"denotation":"avenue","genus":"Roystonea","leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree","species":"Roystonea oleracea"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-42.47899,-14.058885],"type":"Point"},"properties":{"osm_id":"9161611275","tag":{"denotation":"avenue","genus":"Roystonea","leaf_cycle":"evergreen","leaf_type":"needleleaved","natural":"tree","species":"Roystonea oleracea"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-42.49104,-14.070356],"type":"Point"},"properties":{"osm_id":"9197473353","tag":{"denotation":"urban","genus":"Hymenae sp","leaf_cycle":"semi_deciduous","leaf_type":"broadleaved","natural":"tree","species":"Hymenaea courbaril","taxon":"fab\u00c3\u00a1ceas"}},"type":"Feature"}
 ]
 }

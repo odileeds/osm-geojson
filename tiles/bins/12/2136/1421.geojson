@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-	{"geometry":{"coordinates":[7.791623,48.163684],"type":"Point"},"properties":{"osm_id":"349330299","tag":{"amenity":"recycling","recycling:cans":"no","recycling:clothes":"no","recycling:glass":"yes","recycling:paper":"no","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.791623,48.163684],"type":"Point"},"properties":{"osm_id":"349330299","tag":{"amenity":"recycling","recycling:cans":"no","recycling:clothes":"no","recycling:glass":"no","recycling:glass_bottles":"yes","recycling:paper":"no","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.774535,48.150851],"type":"Point"},"properties":{"osm_id":"351905691","tag":{"amenity":"recycling"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.74135,48.152389],"type":"Point"},"properties":{"osm_id":"352968785","tag":{"amenity":"recycling","recycling:clothes":"yes","recycling:glass_bottles":"yes","recycling:shoes":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.744575,48.150009],"type":"Point"},"properties":{"osm_id":"369081856","tag":{"amenity":"recycling","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
@@ -70,6 +70,7 @@
 	{"geometry":{"coordinates":[7.744529,48.147127],"type":"Point"},"properties":{"osm_id":"6753159565","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.806101,48.140249],"type":"Point"},"properties":{"osm_id":"6838311727","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[7.809698,48.141657],"type":"Point"},"properties":{"osm_id":"6838311728","tag":{"amenity":"waste_basket","waste":"dog_excrement"}},"type":"Feature"},
-	{"geometry":{"coordinates":[7.745744,48.156741],"type":"Point"},"properties":{"osm_id":"8890071630","tag":{"amenity":"recycling","opening_hours":"24/7","operator":"CityGreenPoint","recycling_type":"container"}},"type":"Feature"}
+	{"geometry":{"coordinates":[7.745744,48.156741],"type":"Point"},"properties":{"osm_id":"8890071630","tag":{"amenity":"recycling","opening_hours":"24/7","operator":"CityGreenPoint","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[7.788827,48.162078],"type":"Point"},"properties":{"osm_id":"9192800713","tag":{"amenity":"waste_basket","waste":"trash"}},"type":"Feature"}
 ]
 }

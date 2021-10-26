@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 	{"geometry":{"coordinates":[-0.639646,48.085357],"type":"Point"},"properties":{"osm_id":"2787271439","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.64355,48.08526],"type":"Point"},"properties":{"osm_id":"7503862637","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.64355,48.08526],"type":"Point"},"properties":{"osm_id":"7503862637","tag":{"amenity":"recycling","operator":"Laval Agglom\u00c3\u00a9ration","recycling:cans":"yes","recycling:cardboard":"yes","recycling:paper":"yes","recycling:paper_packaging":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.641128,48.084368],"type":"Point"},"properties":{"osm_id":"7503862644","tag":{"amenity":"recycling","recycling_type":"container"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.694226,48.095155],"type":"Point"},"properties":{"osm_id":"7798533149","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.694241,48.095162],"type":"Point"},"properties":{"osm_id":"7798533150","tag":{"amenity":"waste_basket"}},"type":"Feature"},
@@ -18,6 +18,9 @@
 	{"geometry":{"coordinates":[-0.699342,48.07431],"type":"Point"},"properties":{"osm_id":"8865967479","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.700797,48.073227],"type":"Point"},"properties":{"osm_id":"8936112077","tag":{"amenity":"waste_basket"}},"type":"Feature"},
 	{"geometry":{"coordinates":[-0.700081,48.075027],"type":"Point"},"properties":{"osm_id":"8936113735","tag":{"amenity":"waste_basket"}},"type":"Feature"},
-	{"geometry":{"coordinates":[-0.700253,48.070869],"type":"Point"},"properties":{"osm_id":"8946555377","tag":{"amenity":"waste_basket"}},"type":"Feature"}
+	{"geometry":{"coordinates":[-0.700253,48.070869],"type":"Point"},"properties":{"osm_id":"8946555377","tag":{"amenity":"waste_basket"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.641795,48.086415],"type":"Point"},"properties":{"osm_id":"9193930932","tag":{"amenity":"recycling","operator":"Laval Agglom\u00c3\u00a9ration","recycling:glass":"yes","recycling:glass_bottles":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.641818,48.086412],"type":"Point"},"properties":{"osm_id":"9193930933","tag":{"amenity":"recycling","operator":"Laval Agglom\u00c3\u00a9ration","recycling:beverage_cartons":"yes","recycling:cans":"yes","recycling:cardboard":"yes","recycling:cartons":"yes","recycling:magazines":"yes","recycling:paper":"yes","recycling:paper_packaging":"yes","recycling:plastic":"yes","recycling:plastic_bottles":"yes","recycling:plastic_packaging":"yes","recycling_type":"container"}},"type":"Feature"},
+	{"geometry":{"coordinates":[-0.641848,48.086407],"type":"Point"},"properties":{"osm_id":"9193930934","tag":{"amenity":"recycling","operator":"Laval Agglom\u00c3\u00a9ration","recycling:waste":"yes","recycling_type":"container"}},"type":"Feature"}
 ]
 }
